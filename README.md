@@ -110,7 +110,7 @@ The ability of 2MM to explain how standing waves become self-confined is one of 
 
 > *A particularly influential example for this work is **Tom Van Flandern’s Meta Model**, which argued that the vacuum may consist of multiple interacting substrates and that gravity and light need not propagate through the same physical medium. While the Meta Model differs substantially from 2MM in mechanism and structure, its core idea, that distinct media may underlie different physical phenomena, provided the inspiration for 2MM.*
 
-## 2.1 LCM Compression, Blueshift, and the Conditions for Wave Breaking
+### 2.1 LCM Compression, Blueshift, and the Conditions for Wave Breaking
 
 In 2MM, the behavior of light depends on the properties of the LCM it travels through. When the LCM is more compressed, it restores disturbances more slowly, and a traveling wave moves through the medium less freely. As a result, its crests crowd together, and the wave’s effective frequency increases. This offers a straightforward way to understand blueshift: when light enters a region of higher gravitational compression, the crests simply catch up to one another more quickly.
 
@@ -126,7 +126,7 @@ At this threshold, **wave breaking** becomes possible. The breaking event does n
 
 This sets the stage for the next question: if a breaking wave condenses its energy into new structures, **what determines the nature of those structures?**
 
-## 2.2 Why Wave Breaking Produces Two Chiral Standing Waves
+### 2.2 Why Wave Breaking Produces Two Chiral Standing Waves
 
 Pair production always yields two particles—an electron and a positron—that have the same energy but opposite structure. For a wave-based model, this immediately suggests that matter must come in **two stable versions** that are related but not identical. The most natural relationship of this kind is **chirality**: two mirror-image patterns that cannot be rotated into one another.
 
@@ -138,84 +138,65 @@ This provides a clean explanation for why pair production produces matter–anti
 
 ### 2.3 Dual-Mode Helical Standing Waves
 
-To satisfy the symmetry and stability requirements of wave breaking, matter must consist of **two oscillations** in the LCM:
+Once wave breaking creates two compact standing waves, the next question is what internal structure could make those waves stable and allow for two mirror-image versions. The structure must be flexible enough to exist in either a “lead” or “lag” configuration, yet rigid enough to behave like a particle.
 
-* A **radial compression/expansion mode**
-* A **torsional shear mode**
+A useful way to think about this is to imagine that a standing wave in the LCM is not a single rhythm, but a **blend of two different motions**:
 
-When these two oscillations are offset by a small **phase lead or lag**, the result is a **helical standing wave**.
+1. a **radial oscillation**, where the LCM compresses and relaxes outward and inward, and
+2. a **torsional oscillation**, where the medium twists slightly back and forth.
 
-This configuration naturally produces:
+If these two motions were perfectly synchronized, the result would be a simple pulsation—not a particle that could distinguish between matter and antimatter. But if one oscillation runs slightly **ahead** or slightly **behind** the other, the combined motion becomes **helical**. The medium “winds up” in one direction if the torsional mode leads, and in the opposite direction if it lags. The result is a pair of naturally stable, mirror-image standing waves.
 
-* A **lead-mode helix** → electron
-* A **lag-mode helix** → positron
+These two versions correspond to:
 
-identical in energy but opposite in **compression sign, torsional direction, and chirality**.
+* a **lead-mode helix** (electron-like), and
+* a **lag-mode helix** (positron-like).
 
-From this geometry arise:
+The waves have identical energy content and overall form, but their internal timing differs just enough to flip their chirality. This subtle phase difference gives rise to familiar particle properties:
 
-* **Electric charge**, as the sign of the radial compression mode
-* **Magnetic dipoles**, from the torsional component
-* **Spin and helicity**, from the overall structure
-* The correct symmetry for pair creation
+* **Electric charge** emerges from the sign of the radial compression pattern.
+* **Magnetic dipoles** follow from the direction of the torsional twist.
+* **Spin and helicity** come from the overall handedness of the dual-mode oscillation.
+* **Matter vs. antimatter** is simply the difference between phase-leading and phase-lagging versions of the same underlying structure.
 
-### 2.4 The Origin of LCM Compression Fields
+In this view, the electron and positron are not separate types of object. They are two “phase options” of a single geometric pattern that the LCM can sustain after a wave-breaking event.
 
-When a wave breaks into a standing-wave particle, its energy becomes highly concentrated.
-This concentrated energy presents a larger effective opacity to the GCM flux, causing a **stronger local shadow**.
+### 2.4 How Standing Waves Create LCM Compression Fields
 
-That shadowing has two effects:
+A standing wave created by wave breaking is extremely compact. Its energy is confined to a small region, which means it interacts much more strongly with the fast-moving GCM flux. This interaction is crucial: it creates the familiar influence particles have on their surroundings.
 
-1. It creates an inward push toward the standing wave (gravity-like effect)
-2. It squeezes the surrounding LCM, producing the **LCM compression field** characteristic of charged particles
+Because the standing wave is dense and highly structured, it casts a stronger **shadow** in the GCM flux. Fewer GCM particles pass through it, and more are intercepted or redirected. This shadowing has two linked effects:
 
-Thus, LCM compression fields do not arise spontaneously;
-**they exist because GCM shadowing intensifies around concentrated energy.**
+1. **It creates an inward push**, because the GCM particles hitting the standing wave from the outside are slightly more numerous than those coming through the shadowed region inside. This is the source of gravitational behavior at the particle scale.
 
-This provides the missing conceptual chain:
+2. **It squeezes the LCM around the particle**, because the inward momentum from the GCM compresses the medium surrounding the standing wave. This produces the familiar **LCM compression field** associated with charged particles.
 
-> **Standing-wave energy → stronger GCM shadow → inward momentum flux → LCM compression field.**
+The result is a simple conceptual chain:
 
-These compression fields then participate in electrostatic, magnetic, and nuclear phenomena.
+> **A concentrated standing wave → stronger GCM shadow → inward momentum → LCM compression field.**
 
-### 2.5 The Proton: Why the Lag-Mode Collapses in Dense LCM
+The compression field is not something particles “carry”; it is something they continually *generate* through their interaction with the GCM. Once formed, these compression fields influence other standing waves, allowing electrostatic, magnetic, and nuclear effects to emerge from a single pattern of LCM deformation.
 
-A proton forms when a **lag-mode standing wave** (the positron-type mode) enters a region of sufficiently compressed LCM.
-The key point is that **lag-mode and lead-mode standing waves respond very differently to increasing LCM density**.
+This establishes a physical foundation for particle fields without invoking abstract mathematical entities. The structure of the standing wave and its interaction with the GCM naturally produce the fields that shape particle behavior.
 
-#### Why the lag-mode collapses
+### 2.5 Why the Lag-Mode Collapses: The Origin of the Proton
 
-In the lag-mode:
+With the dual-mode standing wave in mind, the next question is how heavier particles—like the proton—fit into this picture. In 2MM, the key lies in how the two chiral modes respond differently to **increasing LCM compression**.
 
-* The **compression component lags behind the shear component**
-* Which means each oscillation cycle briefly concentrates energy closer to the center of the standing wave
-* This internal focusing becomes more pronounced as LCM density increases
+The **lead-mode** standing wave (electron-like) becomes *less stable* as the surrounding LCM becomes denser. Its torsional and radial oscillations rely on a certain amount of “space” to maintain their shape. As the medium compresses further, the lead-mode does not collapse; instead, it is pushed outward, preferring regions of lower compression.
 
-In dense LCM environments:
+The **lag-mode** standing wave (positron-like), however, reacts very differently. Its internal geometry aligns more naturally with high-compression environments. As the LCM density increases past a certain threshold, the lag-mode begins to contract rather than distort. The oscillation tightens, the structure becomes more compact, and eventually the standing wave reorganizes into a new, much denser configuration: the **proton**.
 
-1. The inward GCM push increases
-2. The LCM returns to equilibrium more slowly
-3. The lagging compression mode cannot “reinflate” fast enough
-4. Energy accumulates at the center
-5. The standing wave collapses into a **smaller, denser, more tightly wound state**
+In this picture, the proton is not simply a heavier cousin of the electron. It is what the lag-mode standing wave becomes when it is squeezed past its normal stability range. The proton’s greater mass, tighter field structure, and much stronger LCM compression field all follow from this collapse mechanism.
 
-This collapse state is what we identify as the **proton**.
+This difference in how the two chiral modes react to LCM density also explains why:
 
-#### Why the lead-mode does *not* collapse
+* matter is dominated by protons and electrons, not positrons,
+* protons are found deep in high-compression environments (like planetary interiors),
+* positrons naturally annihilate or transform under compression,
+* and pair production symmetry does not conflict with the observed matter-antimatter imbalance.
 
-The electron (lead-mode):
-
-* Has the compression component **ahead** of the torsional component
-* Which distributes energy outward rather than inward during each oscillation cycle
-* Producing a more stable “outer-skewed” structure
-
-As LCM density rises:
-
-* The inward GCM push still increases
-* But the outward-biased dynamics of the lead-mode allow it to stabilize at a slightly larger radius instead of collapsing
-* It becomes more confined but does **not** focus energy inward
-
-Thus, **lead-mode remains stable**, while **lag-mode becomes unstable above a threshold**.
+In short, the proton is the stable end-state of the **lag-mode** standing wave under high compression, while the electron is the stable end-state of the **lead-mode** in low compression.
 
 #### Result: Hydrogen Formation
 
