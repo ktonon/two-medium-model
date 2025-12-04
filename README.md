@@ -110,31 +110,31 @@ The ability of 2MM to explain how standing waves become self-confined is one of 
 
 > *A particularly influential example for this work is **Tom Van Flandern’s Meta Model**, which argued that the vacuum may consist of multiple interacting substrates and that gravity and light need not propagate through the same physical medium. While the Meta Model differs substantially from 2MM in mechanism and structure, its core idea, that distinct media may underlie different physical phenomena, provided the inspiration for 2MM.*
 
-### 2.1 Pair Production Symmetry and Wave Breaking
+## 2.1 LCM Compression, Blueshift, and the Conditions for Wave Breaking
 
-The starting point for this part of the model is the observation that pair production always creates **two** particles—an electron and a positron—that are equal in energy but opposite in structure. For a wave-based ontology, this suggests that matter must come in **two stable versions**, related by **chirality**: mirror-image arrangements of the same underlying oscillations. This points toward a standing-wave structure that has two internal modes of motion, with the only difference between the two particles being how those modes line up in phase.
+In 2MM, the behavior of light depends on the properties of the LCM it travels through. When the LCM is more compressed, it restores disturbances more slowly, and a traveling wave moves through the medium less freely. As a result, its crests crowd together, and the wave’s effective frequency increases. This offers a straightforward way to understand blueshift: when light enters a region of higher gravitational compression, the crests simply catch up to one another more quickly.
 
-To understand how such a pair could form, it helps to look at an analogy from everyday physics. When a water wave becomes steep enough, the medium can no longer restore its shape quickly enough, and the wave “breaks.” Something similar can occur in the LCM. If a transverse wave reaches extremely high frequency or enters a region of strong compression, the medium eventually fails to support the oscillation. Wave crests begin to bunch together, and the traveling wave loses the ability to propagate.
+(How this picture relates to relativity is discussed later; here the focus is on the internal mechanics of the medium.)
 
-When this happens in the LCM, the collapsing wave does not dissipate. Its energy gathers into a small region, and because energy and symmetry must be preserved, the collapse resolves into **two** stable standing waves instead of one. The most natural way for these two structures to be opposites is through **phase-chirality**—one internal oscillation mode slightly leading the other, or slightly lagging it. These two phase orderings provide a clean physical distinction between the electron and positron.
+This change in behavior becomes important when a wave moves into a region where the LCM is compressed enough that the medium can no longer support the oscillation. A wave that is perfectly stable at low compression can become unstable at higher compression. As the medium struggles to keep pace with the oscillation:
 
-This picture links together three ideas: wave breaking at high compression, symmetry in pair production, and the need for two distinct but related standing-wave configurations. Together, they form the basis for the electron–positron pair structure used in 2MM.
-
-### 2.2 LCM Compression, Blueshift, and the Conditions for Wave Breaking
-
-In 2MM, the behavior of light is tied to the properties of the LCM it moves through. As the LCM becomes more compressed, its ability to restore a passing wave to equilibrium slows down. A traveling wave then moves through the medium less freely, and its crests begin to bunch together. Relative to the local conditions, the wave’s frequency effectively increases. This provides a simple way to understand **blueshift**: when light enters a region of higher gravitational compression, the crests of the wave catch up to one another more quickly.
-
-(How this picture fits comfortably within relativity is discussed in a later section; for now, it is enough to say that 2MM reproduces the same observable behavior.)
-
-This change in the wave’s behavior has important consequences. A wave that is stable in a region of low compression can become unstable when it moves into a denser part of the LCM. As the medium struggles to keep up with the oscillation, the wave approaches the limit of what the LCM can support. If the compression becomes high enough, the wave crosses a threshold where:
-
-* crests begin to pile up,
+* the crests begin to pile up,
 * energy concentrates into a shrinking region, and
 * the traveling wave loses coherence.
 
-Once this threshold is crossed, **wave breaking** becomes possible, opening the door to pair production.
+At this threshold, **wave breaking** becomes possible. The breaking event does not destroy the energy; instead, it gathers into a compact region where new structures can form. Because the critical factor is the local LCM density and its spatial gradients, wave breaking—and therefore pair production—is most likely in environments with strong compression: near massive bodies, inside dense plasma, or in the deep interiors of planets.
 
-Because of this, pair production is not uniform across the universe. It is strongly favored in places where the LCM is highly compressed or where the compression changes rapidly—near massive bodies, inside dense plasma, or deep within planetary interiors. These environments naturally push traveling waves toward the breaking point, making them prime locations for matter formation.
+This sets the stage for the next question: if a breaking wave condenses its energy into new structures, **what determines the nature of those structures?**
+
+## 2.2 Why Wave Breaking Produces Two Chiral Standing Waves
+
+Pair production always yields two particles—an electron and a positron—that have the same energy but opposite structure. For a wave-based model, this immediately suggests that matter must come in **two stable versions** that are related but not identical. The most natural relationship of this kind is **chirality**: two mirror-image patterns that cannot be rotated into one another.
+
+This leads to a simple requirement: whatever standing-wave structure represents matter in the LCM must be able to appear in two phase-orderings—one corresponding to the electron and one to the positron.
+
+Wave breaking provides a mechanism for producing such a pair. When a high-frequency or highly compressed wave collapses, it must conserve both energy and symmetry. A single standing wave cannot satisfy this symmetry alone. But two standing waves—formed together, equal in magnitude, opposite in internal phase alignment—can. The collapse therefore resolves naturally into **two chiral standing waves**, identical except for how their internal oscillatory modes line up in time.
+
+This provides a clean explanation for why pair production produces matter–antimatter pairs, and why they are mirror opposites in their internal structure. It also prepares the ground for the next step: understanding the internal geometry of these standing waves and how their phase alignment encodes charge.
 
 ### 2.3 Dual-Mode Helical Standing Waves
 
