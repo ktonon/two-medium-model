@@ -11,6 +11,7 @@ The Two-Medium Model proposes that many physical phenomena — from particle beh
 
 - [Preface](#preface)
 - [Introduction](#introduction)
+- [Predictions](#predictions)
 - [Methodology and Acknowledgements](#methodology-and-acknowledgements)
 - [1. Core Ontology: Two Interacting Media](#1-core-ontology-two-interacting-media)
 - [2. Matter as Standing Waves in the LCM](#2-matter-as-standing-waves-in-the-lcm)
@@ -43,6 +44,19 @@ This document summarizes the resulting framework. It is not a formal theory and 
 Each section of this paper should be read in order, the model benefits from seeing how its pieces interlock: forces emerging from medium interactions, particles from wave breaking, cosmology from matter cycling, and planetary behavior from long-term LCM dynamics.
 
 This work is offered as an exploration — an attempt to see what becomes possible when we start with different foundational assumptions and follow them consistently. If it prompts reflection, critique, or further development by readers more skilled or knowledgeable than myself, then it has achieved its purpose.
+
+# Predictions
+
+The Two-Medium Model makes several testable predictions that differ from mainstream expectations. A few of the most direct are:
+
+1. **A 12-hour diurnal variation in high-energy particle events** (a modern aether test based on LCM bow/wake asymmetry)
+2. **Hydrogen creation inside planets**, with rates increasing exponentially with planetary mass
+3. **Neutron destruction occurring inside active galactic nuclei** (as part of the matter-recycling cycle)
+4. **Synthesis of heavier, high-compression variants of matter near the base of AGN jets**
+5. **Quantized intrinsic redshift in quasars**, and their **physical association with parent AGN**
+6. **SETI is unlikely to succeed**, even if advanced civilizations exist
+
+Each of these will be discussed in greater detail in relevant sections below.
 
 # Methodology and Acknowledgements
 
