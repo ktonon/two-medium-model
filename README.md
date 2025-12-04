@@ -520,14 +520,6 @@ This makes the entire two-medium framework self-consistent across all scales.
 > 
 > A more detailed discussion of how 2MM predicts Earth expansion can be found at [Earth and the Solar System](./earth-and-solar-system.md).
 
-**Earth Expansion as a Research Context**
-
-The idea of an expanding Earth has a long and diverse history in geological thought. Although it lies outside mainstream geophysics today, it has been explored seriously by several researchers, most notably **Dr. James Maxlow**, who developed detailed reconstructions of ancient Earth radii, and **Samuel Warren Carey**, an early advocate of continental drift who also considered global expansion as a unifying framework for plate motions. A full discussion of the evidence and counter-arguments is beyond the scope of this paper; readers interested in the broader debate are encouraged to consult those primary works.
-
-What is important here is that **2MM reaches the possibility of Earth expansion through a completely different line of reasoning**, driven not by geological interpretations but by the internal behavior of the LCM under extreme compression. The model predicts that planetary interiors naturally become environments where **wave breaking and proton formation** act as a continuous energy sink, leading to slow mass increase over geological time.
-
-A major reason Earth expansion is not part of mainstream geophysics today is the absence of a widely accepted physical mechanism to drive long-term planetary growth. 2MM offers a potential mechanism that addresses the central objection that has historically limited the acceptance of expansion models.
-
 ## 4. Cosmology in an Infinite Medium
 
 ### 4.1 Foundational Assumption: An Infinite, Timeless Universe
