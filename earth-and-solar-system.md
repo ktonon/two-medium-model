@@ -6,6 +6,7 @@ What follows is an application of the Two-Medium Model (2MM) to Earth and the So
 - [A Solar System Reinterpreted Through 2MM](#a-solar-system-reinterpreted-through-2mm)
 - [Earth and Venus: Divergent Paths in a Growing-Planet Framework](#earth-and-venus-divergent-paths-in-a-growing-planet-framework)
 - [Water as the Signature of Planetary Maturity in 2MM](#water-as-the-signature-of-planetary-maturity-in-2mm)
+- [Related Works](#related-works)
 
 ## A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
 
@@ -129,3 +130,9 @@ And if water is expected, then so is **habitability** in a broad thermodynamic s
 This expanded view does not guarantee life elsewhere—it simply makes the question more open. It nudges the expectation away from rarity and toward a universe where planets and moons, by virtue of their internal physics, cultivate water as a fundamental outcome of their growth. In that sense, the Two-Medium Model reframes one of the oldest questions in astronomy. The significance of water is not that it is rare, but that it is a natural signature of a mature planet—a world that has crossed the threshold where LCM compression, matter creation, and basic chemistry collaborate.
 
 If this picture is even partly correct, then the Solar System is not an anomaly. It is a template. And worlds like ours—wet, layered, internally dynamic—may be far more common than our current models allow.
+
+## Related Works
+
+Many of the ideas related to Earth expansion discussed here are not original to this work. What is significant in the context of 2MM is that the model provides a physical mechanism—developed independently of the expanding-Earth framework—that naturally leads to predictions about which bodies in the Solar System should experience long-term growth through internal hydrogen production. Readers interested in the broader geological and historical arguments for planetary expansion may wish to begin with the works of Dr. James Maxlow and Professor Samuel Warren Carey, both of whom have explored this topic extensively from a geological perspective.
+
+The work of Stephen Hurrell is especially noteworthy because it approaches the expansion question from a completely different direction. Rather than beginning with geological reconstructions, Hurrell examined the biomechanics and scaling limits of ancient organisms, concluding that Earth’s surface gravity must have been significantly weaker in the past. This implies not merely a smaller planetary radius, but a smaller planetary mass—a crucial distinction, because it separates two fundamentally different expansion models. A radius-only expansion (constant mass) would produce stronger gravity in the past, whereas Hurrell’s findings point toward an expansion driven by increasing mass over time. This independent line of evidence aligns more closely with frameworks—such as 2MM—that allow for internal matter generation rather than geometric inflation alone.
