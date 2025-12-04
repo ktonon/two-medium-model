@@ -122,38 +122,19 @@ This picture links together three ideas: wave breaking at high compression, symm
 
 ### 2.2 LCM Compression, Blueshift, and the Conditions for Wave Breaking
 
-Light travels through the LCM at a speed determined by the medium’s local density and elasticity.
-When the LCM becomes more compressed:
+In 2MM, the behavior of light is tied to the properties of the LCM it moves through. As the LCM becomes more compressed, its ability to restore a passing wave to equilibrium slows down. A traveling wave then moves through the medium less freely, and its crests begin to bunch together. Relative to the local conditions, the wave’s frequency effectively increases. This provides a simple way to understand **blueshift**: when light enters a region of higher gravitational compression, the crests of the wave catch up to one another more quickly.
 
-* Its ability to return the wave to equilibrium slows
-* The effective propagation speed of the wave decreases
-* The oscillation’s **frequency increases** relative to the local medium
+(How this picture fits comfortably within relativity is discussed in a later section; for now, it is enough to say that 2MM reproduces the same observable behavior.)
 
-This is the **blueshift** observed when light enters a region of higher gravitational potential.
-In 2MM, blueshift is a simple consequence of the LCM’s compressibility:
-as the medium becomes denser, each crest of the traveling wave catches up to the one ahead of it more quickly.
+This change in the wave’s behavior has important consequences. A wave that is stable in a region of low compression can become unstable when it moves into a denser part of the LCM. As the medium struggles to keep up with the oscillation, the wave approaches the limit of what the LCM can support. If the compression becomes high enough, the wave crosses a threshold where:
 
-This has an important consequence for wave breaking:
+* crests begin to pile up,
+* energy concentrates into a shrinking region, and
+* the traveling wave loses coherence.
 
-* A wave that is perfectly stable at low LCM density
-* Can blueshift when entering a region of higher compression
-* Exceed the local threshold at which the LCM can respond fast enough to support it.
+Once this threshold is crossed, **wave breaking** becomes possible, opening the door to pair production.
 
-When that threshold is crossed:
-
-* The wave’s crests pile up
-* Energy concentrates rapidly
-* The traveling wave destabilizes
-* Pair production becomes possible
-
-Thus, **pair production is not a uniform process**.
-It is strongly favored in regions with:
-
-* Steep LCM density gradients
-* High baseline compression
-* Rapid local changes in gravitational potential
-
-This explains why certain astrophysical environments — near massive bodies, inside dense plasma regions, or within planetary cores — naturally promote wave breaking and matter formation.
+Because of this, pair production is not uniform across the universe. It is strongly favored in places where the LCM is highly compressed or where the compression changes rapidly—near massive bodies, inside dense plasma, or deep within planetary interiors. These environments naturally push traveling waves toward the breaking point, making them prime locations for matter formation.
 
 ### 2.3 Dual-Mode Helical Standing Waves
 
@@ -793,6 +774,7 @@ This sets the stage for the next section:
 Sections below are a work in progress. More to come...
 
 ## 5. Planetary-Scale Consequences
-## 6. Communication and SETI
-## 7. Strengths, Weaknesses, and Open Questions
-## 8. Purpose and Scope
+## 6. Relativity
+## 7. Communication and SETI
+## 8. Strengths, Weaknesses, and Open Questions
+## 9. Purpose and Scope
