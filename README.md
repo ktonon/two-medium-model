@@ -47,7 +47,7 @@ This work is offered as an exploration — an attempt to see what becomes possib
 
 # Predictions
 
-The Two-Medium Model makes several testable predictions that differ from mainstream expectations. A few of the most direct are:
+Although 2MM is not yet defined mathematically, it does make several qualitative predictions that differ from standard interpretations and could, in principle, be tested. These predictions arise directly from the model’s internal mechanisms: wave breaking, LCM/GCM interactions, particle structure, and the matter-creation/destruction cycle.
 
 1. **A 12-hour diurnal variation in high-energy particle events** (a modern aether test based on LCM bow/wake asymmetry)
 2. **Hydrogen creation inside planets**, with rates increasing exponentially with planetary mass
