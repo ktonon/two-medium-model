@@ -13,10 +13,10 @@ The Two-Medium Model proposes that many physical phenomena — from particle beh
 - [Introduction](#introduction)
 - [Methodology and Acknowledgements](#methodology-and-acknowledgements)
 - [1. Core Ontology: Two Interacting Media](#1-core-ontology-two-interacting-media)
-- [2. Matter as Standing Waves in the LCM](2-matter-as-standing-waves-in-the-lcm)
-- [3. Forces as Medium Interactions](3-forces-as-medium-interactions)
-- [4. Cosmology in an Infinite Medium](4-cosmology-in-an-infinite-medium)
-- [More to come...](5-planetary-scale-consequences)
+- [2. Matter as Standing Waves in the LCM](#2-matter-as-standing-waves-in-the-lcm)
+- [3. Forces as Medium Interactions](#3-forces-as-medium-interactions)
+- [4. Cosmology in an Infinite Medium](#4-cosmology-in-an-infinite-medium)
+- [More to come...](#5-planetary-scale-consequences)
 
 # Preface
 
