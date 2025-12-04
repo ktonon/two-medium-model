@@ -50,7 +50,7 @@ This work is offered as an exploration — an attempt to see what becomes possib
 Although 2MM is not yet defined mathematically, it does make several qualitative predictions that differ from standard interpretations and could, in principle, be tested. These predictions arise directly from the model’s internal mechanisms: wave breaking, LCM/GCM interactions, particle structure, and the matter-creation/destruction cycle.
 
 1. **A 12-hour diurnal variation in high-energy particle events** (a modern aether test based on LCM bow/wake asymmetry)
-2. **Hydrogen creation inside planets**, with rates increasing exponentially with planetary mass
+2. **[Hydrogen creation inside planets and moons](./earth-and-solar-system.md)**
 3. **Neutron destruction occurring inside active galactic nuclei** (as part of the matter-recycling cycle)
 4. **Synthesis of heavier, high-compression variants of matter near the base of AGN jets**
 5. **Quantized intrinsic redshift in quasars**, and their **physical association with parent AGN**
@@ -245,18 +245,9 @@ Thus, **lead-mode remains stable**, while **lag-mode becomes unstable above a th
 
 #### Result: Hydrogen Formation
 
-Where LCM density is high—planetary cores, compressed plasma regions, or environments with steep density gradients:
+In environments where the LCM is driven into unusually high compression—such as planetary interiors or other steep-gradient regions—the internal modes of matter respond in predictable ways. Under these conditions, the lag-mode naturally contracts into a proton-like state, while the lead-mode remains electron-like, creating a straightforward pathway for hydrogen to form as a stable product of extreme compression.
 
-* **lag-mode standing waves collapse** into proton structures,
-* **lead-mode standing waves remain electrons**,
-* creating a mechanism for natural matter formation that preserves charge balance.
-
-The proton is therefore the **collapsed-state version** of the lag-mode standing wave under high LCM compression, with:
-
-* smaller radius,
-* higher energy concentration,
-* deeper LCM compression field,
-* and greater GCM opacity.
+This mechanism preserves charge balance and operates independently of any primordial supply of material. A discussion of why this remains feasible even when naïve density estimates might suggest otherwise—and how it shapes the evolution of planets and moons—is presented in the companion page [Earth and the Solar System](./earth-and-solar-system.md).
 
 #### Why the Proton Does Not Decompress in Low-Density LCM
 
@@ -520,13 +511,22 @@ The heat crisis is avoided because:
 This makes the entire two-medium framework self-consistent across all scales.
 
 > **Earth Expansion as a Research Context**
->
-> The idea of an expanding Earth has a long and diverse history in geological thought.
-Although it lies outside mainstream geophysics today, it has been explored seriously by several researchers, most notably **Dr. James Maxlow**, who developed detailed reconstructions of ancient Earth radii, and **Samuel Warren Carey**, an early advocate of continental drift who also considered global expansion as a unifying framework for plate motions. A full discussion of the evidence and counter-arguments is beyond the scope of this paper; readers interested in the broader debate are encouraged to consult those primary works.
->
-> What is important here is that **2MM reaches the possibility of Earth expansion through a completely different line of reasoning**, driven not by geological interpretations but by the internal behavior of the LCM under extreme compression. The model predicts that planetary interiors naturally become environments where **wave breaking and proton formation** act as a continuous energy sink, leading to slow mass increase over geological time.
->
-> A major reason Earth expansion is not part of mainstream geophysics today is the absence of a widely accepted physical mechanism to drive long-term planetary growth. 2MM offers a potential mechanism that addresses the central objection that has historically limited the acceptance of expansion models.
+> 
+> The idea that Earth’s radius may have changed over geological time has appeared in many forms throughout the history of geophysics. Although it sits outside the modern mainstream, it has been examined seriously by researchers such as Samuel Warren Carey, who viewed expansion as a possible unifying framework for continental drift, and Dr. James Maxlow, who produced detailed reconstructions suggesting smaller ancient Earth radii. A full discussion of the evidence and counter-arguments is beyond the scope of this paper; readers interested in the broader debate are encouraged to consult those primary works.
+> 
+> What matters for 2MM is not the historical argument itself, but the striking fact that the model approaches the possibility of planetary growth from a completely different direction. Rather than beginning with geological interpretation, 2MM arrives at the idea through the internal physics of the LCM. Under sustained high compression, the model predicts that LCM-wave breaking and proton formation act as a continuous energy sink in planetary interiors, naturally introducing slow mass increase over geological timescales.
+> 
+> One of the long-standing obstacles for expansion hypotheses has been the absence of a physically grounded mechanism capable of driving sustained planetary growth. 2MM does not claim to resolve the entire geological debate, but it does offer a plausible mechanism where none previously existed—providing a fresh context in which expansion models can be reconsidered.
+> 
+> A more detailed discussion of how 2MM predicts Earth expansion can be found at [Earth and the Solar System](./earth-and-solar-system.md).
+
+**Earth Expansion as a Research Context**
+
+The idea of an expanding Earth has a long and diverse history in geological thought. Although it lies outside mainstream geophysics today, it has been explored seriously by several researchers, most notably **Dr. James Maxlow**, who developed detailed reconstructions of ancient Earth radii, and **Samuel Warren Carey**, an early advocate of continental drift who also considered global expansion as a unifying framework for plate motions. A full discussion of the evidence and counter-arguments is beyond the scope of this paper; readers interested in the broader debate are encouraged to consult those primary works.
+
+What is important here is that **2MM reaches the possibility of Earth expansion through a completely different line of reasoning**, driven not by geological interpretations but by the internal behavior of the LCM under extreme compression. The model predicts that planetary interiors naturally become environments where **wave breaking and proton formation** act as a continuous energy sink, leading to slow mass increase over geological time.
+
+A major reason Earth expansion is not part of mainstream geophysics today is the absence of a widely accepted physical mechanism to drive long-term planetary growth. 2MM offers a potential mechanism that addresses the central objection that has historically limited the acceptance of expansion models.
 
 ## 4. Cosmology in an Infinite Medium
 
@@ -710,14 +710,6 @@ This causes further **blueshift**, which can push the highest frequency waves ab
 Wave breaking at the jet base produces bursts of new matter — electrons, protons, and sometimes neutrons.
 These compact, energetic clouds of freshly created matter appear observationally as **quasars**.
 
-
-
-Great—this *is* the exact question a thoughtful reader will ask next, and answering it clearly is essential before introducing quantized states.
-
-Below is the explanation **as it should appear in your paper**, positioned immediately after Section 4.7 and before any discussion of quantized intrinsic redshift.
-
-It answers the question directly, using only the internal logic of 2MM already established.
-
 #### 4.7.3 Why Quasars Often Occur in Symmetrical Pairs
 
 Because AGN jets are typically bipolar:
@@ -734,7 +726,7 @@ This naturally explains:
 
 This symmetry is a natural prediction of 2MM.
 
-#### 4.7.6 Why Quasars Have Higher Redshift Than Their Parent AGN
+#### 4.7.4 Why Quasars Have Higher Redshift Than Their Parent AGN
 
 If quasars originate from AGN, a natural question arises:
 

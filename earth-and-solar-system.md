@@ -1,6 +1,8 @@
+# Earth and the Solar System
+
 What follows is an application of the Two-Medium Model (2MM) to Earth and the Solar System as a whole. If you are new to the framework, the top-level [README](./README.md) provides a concise introduction to its core ideas.
 
-# A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
+## A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
 
 One of the simplest ways to challenge any new physical framework is to ask what it predicts for something we know well. The Earth—warm, magnetic, geologically active—provides a natural test case. If the Two-Medium Model (2MM) were merely a reinterpretation of known physics, its implications for planetary interiors would collapse back into the familiar. But if it is a genuinely different ontology, the model should produce a meaningfully different and internally coherent picture of what happens beneath our feet.
 
@@ -57,7 +59,7 @@ None of these claims, on their own, prove 2MM. But together they sketch a world 
 
 For an ontological theory, that is exactly the kind of foothold one hopes to achieve.
 
-# A Solar System Reinterpreted Through the Two-Medium Model
+## A Solar System Reinterpreted Through the Two-Medium Model
 
 If the Two-Medium Model offers a genuine ontology of matter and gravity—an account of how the universe operates at its most fundamental level—then it should not merely reproduce familiar planetary structures. It should reveal new patterns in the Solar System that seem incidental under mainstream theories but become natural, even expected, in a universe built of interacting LCM and GCM media. When 2MM is applied beyond Earth, that is precisely what begins to happen.
 
@@ -79,7 +81,7 @@ What 2MM offers here is not a replacement for the observed Solar System, but a *
 
 For specialists, this perspective does not demand immediate belief. What it offers is coherence: a conceptual framework in which many of the Solar System’s most puzzling features fall into place with surprising ease. Such coherence is often the first sign that a theory is worth a closer look.
 
-# Venus and Earth: A Tale of Two Growing Worlds
+## Venus and Earth: A Tale of Two Growing Worlds
 
 Venus and Earth are often introduced as planetary twins—similar in size, density, and bulk composition. But under the Two-Medium Model, their evolutionary paths diverge in a profound way, not because of how they formed, but because of how they *grow*. If matter creation is an ongoing internal process driven by deep LCM compression, then a planet’s long-term fate depends critically on how its crust accommodates the new material.
 
@@ -109,7 +111,7 @@ Seen through this lens, the contrast between Venus and Earth is not mysterious a
 
 Here is a coherent concluding narrative that ties together the planetary implications of 2MM, emphasizes water as a *natural consequence* of planetary evolution, and carefully frames the astrobiological implications without overclaiming. Tone is supportive, intriguing, and appropriately cautious.
 
-# Water as the Signature of Planetary Maturity in 2MM
+## Water as the Signature of Planetary Maturity in 2MM
 
 If there is a single element that bridges geology, chemistry, and biology, it is water. In the standard cosmological model, water is treated as an accident of formation—an inheritance from icy planetesimals delivered during accretion or bombardment. Its presence depends sensitively on where a planet forms, how much ice it captures, and whether volatile materials survive the violence of early impacts. Most of the time, water is treated as a historical contingency rather than a physical necessity.
 
