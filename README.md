@@ -204,35 +204,25 @@ In environments where the LCM is driven into unusually high compression—such a
 
 This mechanism preserves charge balance and operates independently of any primordial supply of material. A discussion of why this remains feasible even when naïve density estimates might suggest otherwise—and how it shapes the evolution of planets and moons—is presented in the companion page [Earth and the Solar System](./earth-and-solar-system.md).
 
-#### Why the Proton Does Not Decompress in Low-Density LCM
+### 2.6 Why the Proton Stays Compressed in Low-Density LCM
 
-Once the lag-mode collapses into a proton, its structure becomes **self-stabilizing**.
-The collapsed configuration has:
+After the lag-mode standing wave collapses into a proton, its structure becomes extremely compact and tightly organized. This compact form is not just the result of external pressure from the surrounding LCM; it is also held together by the proton’s **own interaction** with the GCM flux.
 
-* a deeper GCM shadow,
-* higher internal energy density,
-* and an LCM compression field tightly bound to it.
+A proton casts a much stronger GCM shadow than an electron or positron because its energy is concentrated into a smaller region. This deeper shadow means the proton intercepts or redirects more of the incoming GCM particles. Those impacts create a steady inward push that reinforces the proton’s compressed shape. In other words, once the lag-mode has collapsed, the proton continually **maintains its own compression**.
 
-As long as the GCM flux remains present (which it always does):
+Even if the proton later drifts into a region where the LCM is far less dense than the environment in which it formed, the collapse does not “undo” itself. The surrounding medium may be looser, but the proton’s internal structure continues to:
 
-* the inward momentum transfer maintains the proton’s compressed state,
-* even in regions where the surrounding LCM density is much lower than where it originally formed.
+* generate a strong inward momentum flow from the GCM,
+* hold a very high internal energy density, and
+* sustain a tightly wrapped LCM compression field around it.
 
-In low-density LCM:
+These internal effects outweigh the weaker external environment. The proton no longer depends on outside compression to stay compact; it has become a **self-stabilizing standing wave** that occupies a deep energy minimum created by its own LCM and GCM fields.
 
-* the *external* compression weakens,
-* but the proton’s **own energy concentration** and **GCM opacity** continue to generate a strong local inward push,
-* keeping the structure tightly wound.
+A helpful analogy is a material that has been permanently reshaped. If a rubber object is compressed and then chemically locked into that form, it stays that way even when the original force is removed. Likewise, the proton retains its collapsed configuration because the standing wave has reorganized into a structure that is stable on its own terms.
 
-The proton remains in this state because its configuration corresponds to a **stable energy minimum under the combined influence of its own LCM/GCM fields**, not a temporary response to the external environment.
+This is why protons do not expand or revert to their earlier positron-like form in low-density regions. Once formed, they remain in this metastable, highly compressed state everywhere in the universe — except in extremely intense environments, such as the cores of active galactic nuclei, where even this tightly bound mode can be destabilized. The details of standing wave destruction are covered in section 4.
 
-A useful analogy is:
-
-> **Once a rubber ball is tightly compressed into a new shape and chemically cross-linked, it keeps that shape even when removed from the external force that formed it.**
-
-The proton is effectively a **metastable collapsed standing wave** — once formed, it stays proton-like everywhere unless subjected to extreme environments (e.g., inside AGN cores) that can destabilize even this compact mode.
-
-### 2.6 The Neutron: Paired Standing Waves in a Combined Mode
+### 2.7 The Neutron: Paired Standing Waves in a Combined Mode
 
 A **neutron** forms when a proton-like lag-mode structure and an electron-like lead-mode structure combine into a single, phase-locked standing wave.
 This combined mode:
