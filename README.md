@@ -10,6 +10,13 @@ The Two-Medium Model proposes that many physical phenomena — from particle beh
 # Table of Contents
 
 - [Preface](#preface)
+- [Introduction](#introduction)
+- [Methodology and Acknowledgements](#methodology-and-acknowledgements)
+- [1. Core Ontology: Two Interacting Media](#1-core-ontology-two-interacting-media)
+- [2. Matter as Standing Waves in the LCM](2-matter-as-standing-waves-in-the-lcm)
+- [3. Forces as Medium Interactions](3-forces-as-medium-interactions)
+- [4. Cosmology in an Infinite Medium](4-cosmology-in-an-infinite-medium)
+- [More to come...](5-planetary-scale-consequences)
 
 # Preface
 
@@ -27,7 +34,7 @@ This is not a finished theory. It is a conceptual model — speculative, explora
 
 If any part of this inspires a moment of reconsideration — even a small “What if…?” — then this work would have been worthwhile.
 
-# **Introduction**
+# Introduction
 
 The Two-Medium Model (2MM) is a conceptual framework developed to explore whether many pieces of modern physics — particle behavior, forces, gravity, cosmology, and certain geophysical observations — might be understood more intuitively if reinterpreted through two interacting physical media. The goal of this work is not to dispute the empirical success of established theories such as quantum field theory or general relativity, but to examine whether a medium-based ontology can offer a unified geometric picture that connects phenomena across scales.
 
@@ -41,7 +48,7 @@ Each section of this paper should be read in order, the model benefits from seei
 
 This work is offered as an exploration — an attempt to see what becomes possible when we start with different foundational assumptions and follow them consistently. If it prompts reflection, critique, or further development by readers more skilled or knowledgeable than myself, then it has achieved its purpose.
 
-# Development & Methodology
+# Methodology and Acknowledgements
 
 This model did not emerge from a traditional research environment. It grew out of a long-standing personal interest in physics, cosmology, and the puzzles that sit at the edges of what we understand. I am not a professional physicist, astronomer, or geologist; this project originated from the perspective of an informed amateur who has spent years studying scientific anomalies, conceptual tensions, and alternative interpretations of known phenomena.
 
