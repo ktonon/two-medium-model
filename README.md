@@ -40,12 +40,13 @@ This work is offered as an exploration — an attempt to see what becomes possib
 
 # Predictions
 
-Although 2MM is not yet defined mathematically, it does make several qualitative predictions that differ from standard interpretations and could, in principle, be tested. These predictions arise directly from the model’s internal mechanisms: wave breaking, LCM/GCM interactions, particle structure, and the matter-creation/destruction cycle.
+Although 2MM is not defined mathematically, it does make several qualitative predictions that differ from standard interpretations and could, in principle, be tested. These predictions arise directly from the model’s internal mechanisms: wave breaking, LCM/GCM interactions, particle structure, and the matter-creation/destruction cycle.
 
 1. **A 12-hour diurnal variation in high-energy particle events** (a modern aether test based on LCM bow/wake asymmetry)
-2. **[Hydrogen creation inside planets and moons](./earth-and-solar-system.md)**
+2. **[Hydrogen creation inside planets and moons](./earth-and-solar-system.md)** (and liquid water worlds should be abundant)
 3. **Neutron destruction occurring inside active galactic nuclei** (as part of the matter-recycling cycle)
 4. **Synthesis of heavier, high-compression variants of matter near the base of AGN jets**
+5. **Singularities do not occur**
 5. **Quantized intrinsic redshift in quasars**, and their **physical association with parent AGN**
 6. **SETI is unlikely to succeed**, even if advanced civilizations exist
 
@@ -96,6 +97,18 @@ A pervasive, ultra-fast particulate flux—conceptually similar to a refined LeS
 The GCM is not solely a source of gravitational attraction; it provides the momentum-transfer component that, in combination with LCM structures, produces attractive and repulsive forces across all scales.
 
 ## 2. Matter as Standing Waves in the LCM
+
+Many earlier physical models have attempted to describe matter as some form of localized wave. Classical ether theories imagined particles as knots or disturbances in a single universal medium. More recent “elastic aether” approaches propose that mass, charge, and quantum behavior arise from deformations or resonances in an elastic or fluid vacuum. Soliton-based models likewise treat matter as stable wave packets in nonlinear fields. These ideas share a common intuition: matter may be an organized pattern of motion rather than a separate substance.
+
+What remains unresolved in all single-medium approaches, however, is the **problem of confinement**. In a uniform elastic medium, waves disperse; they do not naturally remain localized. A stable, particle-like standing wave requires some form of boundary condition or trapping mechanism, but a single-medium ether does not provide a clear physical origin for such boundaries. This limitation has historically constrained the explanatory reach of wave-as-matter theories.
+
+The Two-Medium Model addresses this difficulty by introducing a second substrate—the **Gravity-Carrying Medium (GCM)**—whose ultra-fast particulate flux interacts with the **Light-Carrying Medium (LCM)**. When transverse LCM waves concentrate into a small region, they locally reduce the incoming GCM flux, creating a gravitational shadow. This shadow increases the surrounding LCM compression, and the increased compression further confines the wave. The feedback continues until the system reaches a stable equilibrium. The wave becomes trapped in a **gravity-induced compression well of its own making**, forming a localized, self-sustaining standing wave.
+
+This dual-medium interaction supplies a natural mechanism for the existence of stable matter waves—something difficult to obtain in any single-medium framework. To my knowledge, no prior model combines a compressible light-carrying medium with a separate gravitational flux in such a way that **confinement, particle structure, and gravitational response emerge from the same underlying dynamics**.
+
+The ability of 2MM to explain how standing waves become self-confined is one of the model’s strongest conceptual features. It allows matter to arise not as an arbitrary postulate, but as a natural consequence of how two complementary media shape and reinforce one another.
+
+> *A particularly influential example for this work is **Tom Van Flandern’s Meta Model**, which argued that the vacuum may consist of multiple interacting substrates and that gravity and light need not propagate through the same physical medium. While the Meta Model differs substantially from 2MM in mechanism and structure, its core idea, that distinct media may underlie different physical phenomena, provided the inspiration for 2MM.*
 
 ### 2.1 Pair Production Symmetry and Wave Breaking
 
