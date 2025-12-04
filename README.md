@@ -1,11 +1,6 @@
 # Two Medium Model (2MM)
 
-A physical model of reality with one fundamental force and at least two mediums.
-
-The Two-Medium Model proposes that many physical phenomena — from particle behavior to cosmology — can be reinterpreted using two interacting physical media. All forces and matter structures arise from the interplay between:
-
-* **LCM (Light-Carrying Medium)** — a compressible medium supporting transverse waves
-* **GCM (Gravity-Carrying Medium)** — an ultra-fast, high-flux particulate background producing shadowing forces
+The Two-Medium Model begins from the premise that there is only **one** fundamental force, **contact interactions**, and focuses on the portion of an infinite universe that we can observe or meaningfully infer. It proposes that physical phenomena arise from the interaction of two media: the **Light-Carrying Medium** (LCM), a compressible continuum supporting transverse waves and standing-wave matter structures, and the **Gravity-Carrying Medium** (GCM), an ultra-fast, FTL particulate flux composed of components at far smaller scales. The GCM influences both quantum behavior and macroscopic gravity through shadowing and momentum-transfer effects. In this framework, all traditionally defined “fundamental forces” emerge as derived consequences of how these two media interact.
 
 # Table of Contents
 
