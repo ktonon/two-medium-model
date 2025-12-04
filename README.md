@@ -26,10 +26,6 @@ I approached this project not as a professional physicist but as an amateur who 
 
 The ideas presented here began with a few philosophical commitments: that interactions should be local, that waves require a medium, and that forces should have physical carriers rather than operating at a distance. These assumptions are not universally accepted, and they are not proposed as corrections to modern physics. They simply provided a different starting point — one that led me to explore whether a medium-based ontology might unify many disconnected pieces of physical behavior.
 
-The rapid development of the model was made possible by the use of modern AI tools. These tools allowed me to iterate far more quickly than would otherwise be possible for someone working alone with limited time. The AI did not build the model; rather, it acted as an accessible interface to the vast body of scientific knowledge on which it was trained. It generated candidate ideas, highlighted contradictions, and accelerated the feedback loop that shaped the final structure. My role was to supply the constraints, reject the dead ends, and weave the surviving pieces into a coherent whole.
-
-Because of that, this work is both deeply personal and broadly indebted. The conceptual connections are mine, but they rest on insights made by countless researchers whose work indirectly informed the AI-assisted brainstorming process. I cannot name them all, but I want to acknowledge that their contributions form the foundation upon which this exploration stands.
-
 This is not a finished theory. It is a conceptual model — speculative, exploratory, and intentionally incomplete — aimed at stimulating curiosity rather than replacing established physics. My hope is that general readers find it accessible, and that professionals find it interesting enough to question, critique, or refine. Science progresses not only through detailed calculation, but also through new ways of seeing familiar things.
 
 If any part of this inspires a moment of reconsideration — even a small “What if…?” — then this work would have been worthwhile.
