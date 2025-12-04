@@ -72,29 +72,27 @@ I present this work not as a finished theory, but as an invitation: to reconside
 
 ## 1. Core Ontology: Two Interacting Media
 
-### 1.1 LCM: The Wave-Supporting Medium
+The Two-Medium Model begins with a simple idea: the physical world arises from the interaction of two different substrates. One medium carries waves and can form standing-wave particles. The other supplies a fast-moving background flux that shapes how those waves behave and how particles influence one another. Most of the complexity of physics, in this picture, comes not from many different forces, but from the way these two media continually feed back on each other.
 
-A compressible medium that supports both transverse and longitudinal disturbances.
+### 1.1 The LCM: A Medium for Waves and Matter
 
-* **Transverse waves** correspond to what we identify as light
-* **Longitudinal compression waves** correspond to what modern physics interprets as gravitational waves, propagating at the same characteristic speed
-* Stores energy as density gradients, torsion, and shear
-* Breaks into localized standing waves under sufficiently high-frequency conditions
-* Shapes how the GCM flux interacts with matter, influencing all forces
+The Light-Carrying Medium (LCM) is a compressible substance that can support both transverse and longitudinal disturbances. Transverse waves correspond to what we normally call light. Longitudinal disturbances—changes in density that ripple outward—play the role usually assigned to gravitational waves, since both travel at the same characteristic speed in the LCM.
 
-The LCM does not independently produce electric, magnetic, or nuclear effects; instead, its deformations provide one half of the mechanism behind all interactions.
+What makes the LCM especially important is how it stores and manipulates energy. It can hold energy as density gradients, torsional motion, or shear patterns, and under extreme conditions it can reorganize traveling waves into localized standing structures. These standing waves become what we recognize as matter. Because the LCM deforms around these structures, it also shapes how the GCM flux interacts with them, indirectly setting the stage for every familiar force.
 
-### 1.2 GCM: The Gravity-Producing Medium
+The LCM does not independently “produce” electric or magnetic fields. Instead, the deformations it carries—compression patterns, twists, and gradients—provide half of the mechanism that later becomes electrostatic, magnetic, and nuclear behavior. In this model, electric and magnetic fields are simply the ways compressed or twisted regions of the LCM guide the flow of the GCM.
 
-A pervasive, ultra-fast particulate flux—conceptually similar to a refined LeSage-type model.
+### 1.2 The GCM: A Fast Flux That Generates Forces
 
-* Slightly inelastic encounters generate shadowing effects experienced as gravity
-* Shadow strength and momentum transfer depend critically on local LCM density and geometry
-* Contributes to the short-range structure and cohesion of atomic nuclei
-* Couples to LCM compression and shear, participating in both electrostatic and magnetic phenomena
-* Contains mechanisms (discussed later) that resolve the classical LeSage overheating objection
+The Gravity-Carrying Medium (GCM) is a very different kind of substrate. It consists of an ultra-fast, high-flux stream of tiny particles moving through space. When these particles pass through matter, a small fraction of them interact in slightly inelastic ways. These tiny encounters create “shadows” in the flux, which show up as the force we call gravity.
 
-The GCM is not solely a source of gravitational attraction; it provides the momentum-transfer component that, in combination with LCM structures, produces attractive and repulsive forces across all scales.
+The strength of a shadow depends on the structure of the LCM around the particle. A tightly compressed standing wave blocks or redirects more of the GCM than a loose one, so momentum flows inward more strongly. In this way, the GCM does not just produce gravity—it participates in everything from the cohesion of atomic nuclei to the subtle repulsive and attractive forces that arise between charged particles.
+
+Crucially, the GCM and LCM are deeply interdependent. The GCM shapes the LCM by pushing on it, compressing it, or twisting it around standing waves. And the LCM, in return, determines how much of the GCM penetrates or is scattered by a region. Together, they create the entire landscape of forces we observe. Later sections discuss how this interaction also avoids the overheating problem that plagued earlier LeSage-type theories.
+
+In this ontology, the GCM provides the **momentum-transfer component** of all physical interactions, while the LCM provides the **geometric and structural component**. What we call “forces” emerge from the interplay between the two.
+
+Although the individual ingredients of this framework—the idea of a wave-supporting medium, a momentum-carrying flux, and standing waves as particles—each have historical precedents, their combination into a single interacting system is what gives 2MM its explanatory power. By treating the LCM and GCM as mutually shaping components of one physical ontology, the model brings together ideas that were previously separate and shows how they can work together to produce the full range of observed phenomena.
 
 ## 2. Matter as Standing Waves in the LCM
 
