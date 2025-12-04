@@ -112,26 +112,13 @@ The ability of 2MM to explain how standing waves become self-confined is one of 
 
 ### 2.1 Pair Production Symmetry and Wave Breaking
 
-Under conditions of extremely high local frequency or compression, a transverse LCM wave can reach a point where **the medium cannot respond quickly enough to complete each oscillation**.
+The starting point for this part of the model is the observation that pair production always creates **two** particles—an electron and a positron—that are equal in energy but opposite in structure. For a wave-based ontology, this suggests that matter must come in **two stable versions**, related by **chirality**: mirror-image arrangements of the same underlying oscillations. This points toward a standing-wave structure that has two internal modes of motion, with the only difference between the two particles being how those modes line up in phase.
 
-When this happens:
+To understand how such a pair could form, it helps to look at an analogy from everyday physics. When a water wave becomes steep enough, the medium can no longer restore its shape quickly enough, and the wave “breaks.” Something similar can occur in the LCM. If a transverse wave reaches extremely high frequency or enters a region of strong compression, the medium eventually fails to support the oscillation. Wave crests begin to bunch together, and the traveling wave loses the ability to propagate.
 
-* Successive wave crests **begin to overtake each other**
-* Energy becomes **densely concentrated in a shrinking region**
-* The traveling wave **loses its ability to propagate forward**
+When this happens in the LCM, the collapsing wave does not dissipate. Its energy gathers into a small region, and because energy and symmetry must be preserved, the collapse resolves into **two** stable standing waves instead of one. The most natural way for these two structures to be opposites is through **phase-chirality**—one internal oscillation mode slightly leading the other, or slightly lagging it. These two phase orderings provide a clean physical distinction between the electron and positron.
 
-This is the LCM analogue of an ocean wave “__breaking__” when it becomes too steep for the water to support its shape. The term is appropriate because the underlying mechanism is similar:
-**the wave outruns the medium’s ability to restore it.**
-
-In the LCM, when a wave breaks at this threshold:
-
-* Its energy collapses into a **localized, self-sustaining pattern**
-* Forming two *standing waves* rather than a traveling one
-* The breakdown must occur in a **symmetric** way so that energy and geometry are conserved
-
-This requirement yields **two equal but opposite structures** — the electron and positron.
-
-A kind of structure that satisfies that symmetry is a **pair of objects related by chirality**: mirror images that cannot be rotated into each other in ordinary three-dimensional space.
+This picture links together three ideas: wave breaking at high compression, symmetry in pair production, and the need for two distinct but related standing-wave configurations. Together, they form the basis for the electron–positron pair structure used in 2MM.
 
 ### 2.2 LCM Compression, Blueshift, and the Conditions for Wave Breaking
 
