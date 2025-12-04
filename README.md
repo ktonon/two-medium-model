@@ -199,7 +199,13 @@ With the dual-mode standing wave in mind, the next question is how heavier parti
 
 The **lead-mode** standing wave (electron-like) becomes *less stable* as the surrounding LCM becomes denser. Its torsional and radial oscillations rely on a certain amount of “space” to maintain their shape. As the medium compresses further, the lead-mode does not collapse; instead, it is pushed outward, preferring regions of lower compression.
 
-The **lag-mode** standing wave (positron-like), however, reacts very differently. Its internal geometry aligns more naturally with high-compression environments. As the LCM density increases past a certain threshold, the lag-mode begins to contract rather than distort. The oscillation tightens, the structure becomes more compact, and eventually the standing wave reorganizes into a new, much denser configuration: the **proton**.
+The **lag-mode** standing wave (positron-like) responds to its environment in a very distinctive way. Its internal phase geometry naturally tries to **draw the surrounding LCM inward**, as though the standing wave “prefers” to be in a tighter, more compressed state. In regions where the LCM density is low—such as ordinary near-surface conditions on Earth—this inward pull is resisted by the stiffness of the ambient medium. The surrounding LCM pushes back strongly enough that the lag-mode cannot contract; it remains in its positron-scale configuration.
+
+However, when a lag-mode standing wave forms or moves into a region where the **ambient LCM density is already very high**, the situation changes dramatically. The external medium is no longer loose enough to resist the inward motion. Its compression actually makes it *easier* for the lag-mode to pull LCM inward and tighten its own oscillations. Under these conditions, the standing wave can finally reach the compact configuration it “prefers.”
+
+Once the local density crosses a critical threshold, the lag-mode no longer stabilizes as a positron. Instead, the oscillation pattern contracts rapidly, reorganizing into a far denser, tightly bound structure: the **proton**.
+
+In this view, the proton does not form because the positron somehow generates the density it needs. Rather, **the proton forms only when the ambient LCM density allows the lag-mode’s natural inward pull to fully express itself.** The environment supplies the compression; the lag-mode supplies the mechanism.
 
 In this picture, the proton is not simply a heavier cousin of the electron. It is what the lag-mode standing wave becomes when it is squeezed past its normal stability range. The proton’s greater mass, tighter field structure, and much stronger LCM compression field all follow from this collapse mechanism.
 
