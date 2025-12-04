@@ -60,18 +60,7 @@ Each of these will be discussed in greater detail in relevant sections below.
 
 # Methodology and Acknowledgements
 
-This model did not emerge from a traditional research environment. It grew out of a long-standing personal interest in physics, cosmology, and the puzzles that sit at the edges of what we understand. I am not a professional physicist, astronomer, or geologist; this project originated from the perspective of an informed amateur who has spent years studying scientific anomalies, conceptual tensions, and alternative interpretations of known phenomena.
-
-A central motivation was the belief that the universe should be understandable through concepts accessible to the human mind. I began the project with several philosophical commitments:
-
-* that interactions must be local;
-* that waves require a medium;
-* that gravity must have a physical mechanism;
-* and that a medium-based ontology should not be dismissed simply because modern formalisms work without one.
-
-These are not universally held assumptions, but they provided the framework under which I explored the ideas that eventually formed the Two-Medium Model.
-
-The development process itself was highly iterative and heavily assisted by modern AI tools. Without such tools, the model described here would likely have taken months or years to assemble. As someone with a job, a family, and limited hours to devote to speculative research, I would not have been able to sustain the rapid cycle of hypothesis, critique, and refinement that this project required. AI made that pace possible.
+The development of this model was highly iterative and heavily assisted by modern AI tools. Without such tools, the model described here would likely have taken months or years to assemble. As someone with a job, a family, and limited hours to devote to speculative research, I would not have been able to sustain the rapid cycle of hypothesis, critique, and refinement that this project required. AI made that pace possible.
 
 However, the role of AI requires careful qualification. These tools did not “invent” the ideas presented here. Instead, they made the collective knowledge of the scientific community navigable in a way that was never previously accessible to individuals outside formal research settings. During development, I would pose challenges and suggests constraints, and the AI would respond with ideas, critiques, counterexamples, or alternative possibilities drawn from patterns across the literature it had been trained on. Most of these suggestions were rejected. Only a small subset survived repeated rounds of filtering and conceptual testing on my part.
 
