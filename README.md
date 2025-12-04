@@ -94,6 +94,22 @@ In this ontology, the GCM provides the **momentum-transfer component** of all ph
 
 Although the individual ingredients of this framework—the idea of a wave-supporting medium, a momentum-carrying flux, and standing waves as particles—each have historical precedents, their combination into a single interacting system is what gives 2MM its explanatory power. By treating the LCM and GCM as mutually shaping components of one physical ontology, the model brings together ideas that were previously separate and shows how they can work together to produce the full range of observed phenomena.
 
+### 1.3 Very Different Scales: Why Two Media Can Coexist
+
+A key feature of 2MM is that the two media do not operate at the same scale. The LCM behaves like a smooth, continuous medium at the scales relevant to light and matter. The GCM, by contrast, is made of extremely small, extremely fast particles. This large separation in scale is what allows both media to occupy the same space without simply behaving like one blended substance.
+
+In the spirit of Tom Van Flandern’s meta-model, the GCM particles are taken to be **far smaller than any length scale we can currently probe**—effectively much smaller than the Planck length for practical purposes. Their role is not to form visible structure, but to provide a nearly uniform, ultra-fine background flux that transfers momentum. Because these particles are so small and so numerous, they can stream through the LCM with almost no disturbance, except in regions where the LCM is highly compressed or organized into standing waves.
+
+The GCM flux is also assumed to move **much faster than light**. This idea, again inspired by TVF’s arguments for a superluminal gravity medium, allows gravitational effects (in the shadowing sense) to propagate effectively instantaneously at the scales we observe, without conflicting with the observed behavior of light. In 2MM, light is limited by the properties of the LCM, while the GCM operates on a deeper, faster layer.
+
+This separation of scale and speed has three important consequences:
+
+* The **LCM** can carry waves and form standing-wave particles without being torn apart by the GCM.
+* The **GCM** can provide a persistent, high-speed momentum flux that responds sensitively to LCM compression and standing-wave structure.
+* Together, they can generate complex behaviors—gravity, fields, and forces—without requiring either medium alone to “do everything.”
+
+2MM builds on these scale assumptions and extends them: the GCM is not only a gravity carrier, but also the mechanism that confines standing waves, maintains particle compression, and couples to LCM deformations to produce all familiar interactions. The extreme smallness and high speed of the GCM particles are what make it possible for the two media to coexist and yet play very different physical roles.
+
 ## 2. Matter as Standing Waves in the LCM
 
 Many earlier physical models have attempted to describe matter as some form of localized wave. Classical ether theories imagined particles as knots or disturbances in a single universal medium. More recent “elastic aether” approaches propose that mass, charge, and quantum behavior arise from deformations or resonances in an elastic or fluid vacuum. Soliton-based models likewise treat matter as stable wave packets in nonlinear fields. These ideas share a common intuition: matter may be an organized pattern of motion rather than a separate substance.
