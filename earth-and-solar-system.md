@@ -2,6 +2,11 @@
 
 What follows is an application of the Two-Medium Model (2MM) to Earth and the Solar System as a whole. If you are new to the framework, the top-level [README](./README.md) provides a concise introduction to its core ideas.
 
+- [A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out](#a-coherent-interior-how-2mm-reinterprets-the-earth-from-the-inside-out)
+- [A Solar System Reinterpreted Through 2MM](#a-solar-system-reinterpreted-through-2mm)
+- [Venus and Earth: A Tale of Two Growing Worlds](#venus-and-earth-a-tale-of-two-growing-worlds)
+- [Water as the Signature of Planetary Maturity in 2MM](#water-as-the-signature-of-planetary-maturity-in-2mm)
+
 ## A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
 
 One of the simplest ways to challenge any new physical framework is to ask what it predicts for something we know well. The Earth—warm, magnetic, geologically active—provides a natural test case. If the Two-Medium Model (2MM) were merely a reinterpretation of known physics, its implications for planetary interiors would collapse back into the familiar. But if it is a genuinely different ontology, the model should produce a meaningfully different and internally coherent picture of what happens beneath our feet.
@@ -59,7 +64,7 @@ None of these claims, on their own, prove 2MM. But together they sketch a world 
 
 For an ontological theory, that is exactly the kind of foothold one hopes to achieve.
 
-## A Solar System Reinterpreted Through the Two-Medium Model
+## A Solar System Reinterpreted Through 2MM
 
 If the Two-Medium Model offers a genuine ontology of matter and gravity—an account of how the universe operates at its most fundamental level—then it should not merely reproduce familiar planetary structures. It should reveal new patterns in the Solar System that seem incidental under mainstream theories but become natural, even expected, in a universe built of interacting LCM and GCM media. When 2MM is applied beyond Earth, that is precisely what begins to happen.
 
