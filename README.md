@@ -197,23 +197,49 @@ Their opposite chirality accounts for their opposite electric charge, while thei
 
 In this way, the dual-mode helical standing wave becomes the fundamental unit of matter in 2MM. Electrons and positrons are not abstract point particles but structured, self-sustaining oscillations, stabilized by the feedback loop between the LCM and GCM. Their form is the direct outcome of the symmetry and dynamics of collapse at the threshold where a high-frequency wave becomes opaque to the GCM.
 
-### 2.4 How Standing Waves Create LCM Compression Fields
+### 2.4 The Origin of LCM Compression Fields
 
-A standing wave created by wave breaking is extremely compact. Its energy is confined to a small region, which means it interacts much more strongly with the fast-moving GCM flux. This interaction is crucial: it creates the familiar influence particles have on their surroundings.
+When a traveling LCM wave collapses into a helical standing-wave particle, its energy becomes highly concentrated. This concentration dramatically increases the particle’s **opacity to the GCM flux**, producing a strong and persistent GCM shadow. The shadow is not a secondary effect—it is the mechanism that completes and stabilizes the particle’s formation.
 
-Because the standing wave is dense and highly structured, it casts a stronger **shadow** in the GCM flux. Fewer GCM particles pass through it, and more are intercepted or redirected. This shadowing has two linked effects:
+The GCM shadow has two key consequences:
 
-1. **It creates an inward push**, because the GCM particles hitting the standing wave from the outside are slightly more numerous than those coming through the shadowed region inside. This is the source of gravitational behavior at the particle scale.
+1. **It pushes inward on the region surrounding the standing wave.**
+   The reduced flux behind the particle creates a net inward momentum transfer from the GCM, constantly squeezing the LCM toward the center.
 
-2. **It squeezes the LCM around the particle**, because the inward momentum from the GCM compresses the medium surrounding the standing wave. This produces the familiar **LCM compression field** associated with charged particles.
+2. **It forces the LCM into a state of heightened compression.**
+   This compression is not uniform but follows the geometry of the standing wave itself, imprinting the particle’s oscillatory structure onto the surrounding medium.
 
-The result is a simple conceptual chain:
+The result is a stable **LCM compression field** surrounding the particle. This field is not an abstract “charge distribution,” nor is it something imposed externally. It is simply the shape the LCM must take to remain in equilibrium with the inward GCM momentum flux and the internal structure of the standing wave.
 
-> **A concentrated standing wave → stronger GCM shadow → inward momentum → LCM compression field.**
+Different helical modes produce different compression patterns:
 
-The compression field is not something particles “carry”; it is something they continually *generate* through their interaction with the GCM. Once formed, these compression fields influence other standing waves, allowing electrostatic, magnetic, and nuclear effects to emerge from a single pattern of LCM deformation.
+* The **lead-mode helix** (electron) creates an outward-oriented compression gradient with one sign.
+* The **lag-mode helix** (positron) produces the opposite pattern.
 
-This establishes a physical foundation for particle fields without invoking abstract mathematical entities. The structure of the standing wave and its interaction with the GCM naturally produce the fields that shape particle behavior.
+Thus, **electric charge** emerges directly from the geometry of the standing wave and the way it shapes LCM compression under GCM confinement.
+
+Likewise:
+
+* the **torsional component** of the standing wave produces circulating shear in the LCM, giving rise to magnetic dipole moments,
+* while the combined compression-and-torsion field defines the particle’s short-range interactions and its effective size.
+
+Because the GCM continuously flows through everything, the GCM shadow remains active at all times. It constantly reinforces the LCM compression around the particle, preventing the structure from dissipating. A particle is therefore not a static thing but a **self-sustained dynamical object**:
+
+> a confined oscillation that remains stable only because the two media—LCM and GCM—continuously maintain each other’s structure.
+
+This explains why the compression field is always present:
+
+* it does not arise spontaneously,
+* it does not depend on external charge carriers,
+* and it does not require postulating new forces.
+
+It is simply the interplay of LCM elasticity and GCM momentum flux working toward a stable equilibrium around a localized standing-wave core.
+
+This mechanism completes the missing conceptual chain in earlier models:
+
+> **Concentrated wave energy → increased GCM opacity → persistent GCM shadow → inward flux → stable LCM compression field.**
+
+Matter’s “fields” are therefore not separate entities but the natural medium distortions required to confine a standing wave in a dual-medium universe.
 
 ### 2.5 Why the Lag-Mode Collapses: The Origin of the Proton
 
