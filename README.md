@@ -843,6 +843,47 @@ Any elastic-aether model naturally interprets spacetime curvature as variations 
 
 This interdependence between the two media leads to an intriguing implication: for 2MM to function as described, the system cannot easily accommodate a true “beginning.” A beginning would require one medium to exist and operate without the other, or for standing waves to form before the shadowing effects that sustain them — both of which break the causal loops that the model depends on. In fact, any notion of an absolute beginning already strains causality in conventional physics as well. In 2MM, this tension resolves naturally: the universe is not something that starts and then evolves; it is something that *self-maintains*, with structure emerging continually from the ongoing reciprocity between the LCM and GCM.
 
+### 5.4 Absolute Time, the GCM, and Faster-Than-Light Transmission
+
+In 2MM, the presence of the GCM introduces a deeper notion of **absolute time**—a timebase that exists independently of the LCM processes that define our clocks and our experience. All measurement, sensation, and physical activity in living systems occurs through LCM-standing-wave structures, so we have access only to *LCM time*. But the GCM operates on its own timescale. It is not constrained by the wave-propagation speed of the LCM (the speed of light), nor by the relativistic limits that emerge from LCM-based processes.
+
+This idea aligns with Tom Van Flandern’s careful analysis in
+**“[The Speed of Gravity: What the Experiments Say](https://www.metaresearch.org/cosmology/cosmology2/the-speed-of-gravity-what-the-experiments-say)” (1998)**,
+where he reviewed timing delays, planetary motions, and signal propagation. His conclusion was that gravity-like influences must propagate extraordinarily fast:
+
+> **Gravity must exceed 2 × 10¹⁰ c**,
+> at least twenty billion times the speed of light.
+
+In the context of 2MM, this is exactly the behavior expected of the GCM flux. It moves on an inaccessible absolute timebase and is free to propagate vastly faster than light. This immediately suggests that **faster-than-light transmission** is physically possible if a civilization can learn to encode patterns into the GCM.
+
+But this does **not** permit faster-than-light communication in the usual sense.
+The distinction is fundamental:
+
+* **Transmission** is the propagation of patterns through the GCM.
+* **Communication** requires encoding and decoding, both of which happen in the LCM.
+
+Encoding information into the GCM, and reading it out on the other end, requires ordinary physical processes—electronics, detectors, biological cognition—all of which are constrained by LCM time and the speed of light. So even if a signal propagates nearly instantaneously through the GCM, the total round-trip communication time cannot exceed relativistic limits.
+
+Thus:
+
+> **FTL transmission is possible in theory.
+> FTL round-trip communication is not.**
+
+This preserves causality. No paradoxes arise because observers made of LCM-standing-wave matter can never process a complete exchange faster than light allows.
+
+Yet the implications are profound.
+A civilization could, in principle, carry on a **real-time conversation between Earth and Proxima Centauri**, because the GCM would carry the signal almost instantly. The subjective experience would feel simultaneous, even though the underlying encoding and decoding steps remain light-speed bound.
+
+#### Implication for SETI
+
+This also leads to a natural expectation: if technological civilizations develop a way to use the GCM for signaling, then **electromagnetic communication becomes obsolete**. EM transmission is slow, lossy, and limited by LCM constraints, whereas the GCM allows nearly instantaneous signaling over interstellar distances.
+
+Thus, 2MM implies that **SETI’s strategy of searching the electromagnetic spectrum may never detect advanced civilizations**, not because they do not exist, but because their communication technology would likely move beyond EM channels entirely. They would use the GCM—an invisible, ultra-fast substrate that our current instruments cannot yet manipulate or detect.
+
+In this light, SETI’s silence may be a clue rather than a contradiction:
+advanced civilizations might be speaking in a medium we are not yet listening to.
+
+
 ---
 
 Sections below are a work in progress. More to come...
