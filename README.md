@@ -34,13 +34,13 @@ The Two-Medium Model starts from a small set of philosophical assumptions: that 
 
 This document summarizes the resulting framework. It is not a formal theory and does not attempt to replicate the mathematical precision of modern physics. Instead, it offers a structured conceptual model that appears internally coherent and that naturally produces explanations for a range of phenomena, from electric charge and magnetism to nuclear structure, planetary mass growth, redshift, and the function of active galactic nuclei. Some of these explanations parallel mainstream thinking; others are unconventional. All are presented with the intention of sparking curiosity and inviting further analysis.
 
-Each section of this paper should be read in order, the model benefits from seeing how its pieces interlock: forces emerging from medium interactions, particles from wave breaking, cosmology from matter cycling, and planetary behavior from long-term LCM dynamics.
+Each section of this paper should be read in order, the model benefits from seeing how its pieces interlock: forces emerging from medium interactions, particles from wave collapse, cosmology from matter cycling, and planetary behavior from long-term LCM dynamics.
 
 This work is offered as an exploration — an attempt to see what becomes possible when we start with different foundational assumptions and follow them consistently. If it prompts reflection, critique, or further development by readers more skilled or knowledgeable than myself, then it has achieved its purpose.
 
 # Predictions
 
-Although 2MM is not defined mathematically, it does make several qualitative predictions that differ from standard interpretations and could, in principle, be tested. These predictions arise directly from the model’s internal mechanisms: wave breaking, LCM/GCM interactions, particle structure, and the matter-creation/destruction cycle.
+Although 2MM is not defined mathematically, it does make several qualitative predictions that differ from standard interpretations and could, in principle, be tested. These predictions arise directly from the model’s internal mechanisms: wave collapse, LCM/GCM interactions, particle structure, and the matter-creation/destruction cycle.
 
 1. **A 12-hour diurnal variation in high-energy particle events** (a modern aether test based on LCM bow/wake asymmetry)
 2. **[Hydrogen creation inside planets and moons](./earth-and-solar-system.md)** (and liquid water worlds should be abundant)
@@ -438,7 +438,7 @@ In 2MM, gravity arises from **GCM shadowing**. Every standing wave—proton, neu
 
 The classical LeSage picture runs into trouble because it treats matter as a rigid target being bombarded by a high-speed background, which would quickly drive everything to unphysical temperatures. In 2MM, particles are not solid absorbers; they are **standing waves** in the LCM, confined by a balance between outward LCM elasticity and inward GCM momentum. The GCM flux continuously supplies energy and momentum to these structures. A significant fraction of that input is spent simply on maintaining the compressed standing-wave configuration, while the rest can appear as internal excitations or as kinetic energy of the particle as a whole. In this sense, GCM interactions do contribute to kinetic particle energy (i.e., heating) to the extent one would expect from their momentum transfer. The standing-wave structure provides a robust channel for absorbing and redistributing energy rather than allowing it to accumulate uncontrollably in purely translational motion.
 
-At planetary scales, GCM interactions are therefore still expected to contribute *some* but not *all* of their energy to internal heating. In dense interiors, where LCM compression is high, wave breaking and lag-mode collapse can occur, forming new protons and electrons. The creation of new standing waves **consumes energy**, converting part of the gravitational power input into rest mass instead of heat. Over geological timescales, this matter-creation channel acts as an additional energy sink. 2MM does not claim that GCM-induced heating disappears; rather, it proposes that some of that energy is continually diverted into building and maintaining structure, including the gradual addition of new matter in the deepest regions of massive bodies.
+At planetary scales, GCM interactions are therefore still expected to contribute *some* but not *all* of their energy to internal heating. In dense interiors, where LCM compression is high, wave collapse and lag-mode collapse can occur, forming new protons and electrons. The creation of new standing waves **consumes energy**, converting part of the gravitational power input into rest mass instead of heat. Over geological timescales, this matter-creation channel acts as an additional energy sink. 2MM does not claim that GCM-induced heating disappears; rather, it proposes that some of that energy is continually diverted into building and maintaining structure, including the gradual addition of new matter in the deepest regions of massive bodies.
 
 A natural question arises here: **are planetary interiors really dense enough to push LCM compression toward the thresholds required for wave collapse and matter creation?** Section 2 only outlines the conceptual mechanism. The companion page [Earth and the Solar System](./earth-and-solar-system.md) examines the planetary context more closely.
 
@@ -448,7 +448,7 @@ To conclude, gravity in 2MM is not a separate fundamental force but the **macros
 > 
 > The idea that Earth’s radius may have changed over geological time has appeared in many forms throughout the history of geophysics. Although it sits outside the modern mainstream, it has been examined seriously by researchers such as Samuel Warren Carey, who viewed expansion as a possible unifying framework for continental drift, and Dr. James Maxlow, who produced detailed reconstructions suggesting smaller ancient Earth radii. A full discussion of the evidence and counter-arguments is beyond the scope of this paper; readers interested in the broader debate are encouraged to consult those primary works.
 > 
-> What matters for 2MM is not the historical argument itself, but the striking fact that the model approaches the possibility of planetary growth from a completely different direction. Rather than beginning with geological interpretation, 2MM arrives at the idea through the internal physics of the LCM. Under sustained high compression, the model predicts that LCM-wave breaking and proton formation act as a continuous energy sink in planetary interiors, naturally introducing slow mass increase over geological timescales.
+> What matters for 2MM is not the historical argument itself, but the striking fact that the model approaches the possibility of planetary growth from a completely different direction. Rather than beginning with geological interpretation, 2MM arrives at the idea through the internal physics of the LCM. Under sustained high compression, the model predicts that LCM-wave collapse and proton formation act as a continuous energy sink in planetary interiors, naturally introducing slow mass increase over geological timescales.
 > 
 > One of the long-standing obstacles for expansion hypotheses has been the absence of a physically grounded mechanism capable of driving sustained planetary growth. 2MM does not claim to resolve the entire geological debate, but it does offer a plausible mechanism where none previously existed—providing a fresh context in which expansion models can be reconsidered.
 > 
@@ -509,7 +509,7 @@ In 2MM, this role naturally falls to the **innermost cores of active galactic nu
 
 AGN can be viewed as layered systems:
 
-* **Outer regions:** strong LCM gradients → frequent wave breaking → pair production and intermittent matter creation.
+* **Outer regions:** strong LCM gradients → frequent wave collapse → pair production and intermittent matter creation.
 * **Intermediate zones:** neutron-star–like compression → electrons and protons forced into neutron configurations.
 * **Innermost core:** LCM density exceeds the stability limit of the neutron itself.
 
@@ -527,15 +527,15 @@ Thus, matter destruction in 2MM is not the disappearance of isolated protons, bu
 1. **Extreme compression forces protons + electrons into neutrons** (charge conserved).
 2. **Neutrons dissolve into high-frequency LCM waves** in cores where the standing-wave structure cannot survive.
 
-The resulting radiation escapes outward, where—under suitable compression gradients—it can contribute to **new matter creation** via wave breaking.
+The resulting radiation escapes outward, where—under suitable compression gradients—it can contribute to **new matter creation** via wave collapse.
 
 In this picture, **AGN function as matter recyclers**: their outer regions can create new standing waves, while their inner cores dismantle old ones, maintaining balance in an infinite, ongoing universe.
 
 ### 4.3 Quasars as Newly Formed Matter in the Two-Medium Model
 
-In 2MM, regions of extremely high LCM compression can both **destroy** matter (deep in AGN cores) and **create** new matter (where high-frequency LCM waves break). If neutron destruction releases intense bursts of high-frequency radiation, then wherever that radiation encounters a *local increase* in LCM density, wave breaking can occur and new standing waves—electrons, protons, and sometimes neutrons—can form.
+In 2MM, regions of extremely high LCM compression can both **destroy** matter (deep in AGN cores) and **create** new matter (where high-frequency LCM waves break). If neutron destruction releases intense bursts of high-frequency radiation, then wherever that radiation encounters a *local increase* in LCM density, wave collapse can occur and new standing waves—electrons, protons, and sometimes neutrons—can form.
 
-The most natural astrophysical site for this is the **base of AGN jets**. Magnetic pinching, gravitational focusing, and collimation all produce a temporary compression bottleneck. As outgoing radiation from the AGN core passes through this region, it blueshifts into a denser LCM environment where wave-breaking thresholds can be exceeded. This converts part of the outgoing energy into compact packets of newly formed matter.
+The most natural astrophysical site for this is the **base of AGN jets**. Magnetic pinching, gravitational focusing, and collimation all produce a temporary compression bottleneck. As outgoing radiation from the AGN core passes through this region, it blueshifts into a denser LCM environment where wave collapse thresholds can be exceeded. This converts part of the outgoing energy into compact packets of newly formed matter.
 
 In the 2MM framework, these compact, high-energy newborn structures correspond observationally to **quasars**. Their high redshift follows naturally: quasars originate in unusually steep LCM compression gradients, so the light they emit must climb out of a deeper “compression well” than light from their parent galaxy. As they travel outward along the jet into regions of lower compression, their internal standing-wave modes relax, and their observed redshift gradually decreases—an effect long noted in quasar–AGN associations.
 
