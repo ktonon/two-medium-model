@@ -279,23 +279,40 @@ In environments where the LCM is driven into unusually high compression—such a
 
 This mechanism preserves charge balance and operates independently of any primordial supply of material. A discussion of why this remains feasible even when naïve density estimates might suggest otherwise—and how it shapes the evolution of planets and moons—is presented in the companion page [Earth and the Solar System](./earth-and-solar-system.md).
 
-### 2.6 Why the Proton Stays Compressed in Low-Density LCM
+### 2.6 Why the Proton Remains Compressed in Low-Density LCM
 
-After the lag-mode standing wave collapses into a proton, its structure becomes extremely compact and tightly organized. This compact form is not just the result of external pressure from the surrounding LCM; it is also held together by the proton’s **own interaction** with the GCM flux.
+Once the lag-mode standing wave undergoes secondary collapse and reorganizes into the compact helical structure we identify as the proton, the new configuration becomes profoundly self-stabilizing. Unlike the positron-like lag-mode at ordinary densities, the proton is not a surface-level feature of the LCM—it is a deeply concentrated energy structure whose stability arises from continuous interaction between the two media.
 
-A proton casts a much stronger GCM shadow than an electron or positron because its energy is concentrated into a smaller region. This deeper shadow means the proton intercepts or redirects more of the incoming GCM particles. Those impacts create a steady inward push that reinforces the proton’s compressed shape. In other words, once the lag-mode has collapsed, the proton continually **maintains its own compression**.
+During collapse, the proton develops:
 
-Even if the proton later drifts into a region where the LCM is far less dense than the environment in which it formed, the collapse does not “undo” itself. The surrounding medium may be looser, but the proton’s internal structure continues to:
+* **extremely high internal energy density**,
+* a **very strong GCM shadow**, and
+* a **steep LCM compression field** tightly wrapped around the standing wave.
 
-* generate a strong inward momentum flow from the GCM,
-* hold a very high internal energy density, and
-* sustain a tightly wrapped LCM compression field around it.
+These features do not depend on the external LCM environment. They arise from the proton’s **own geometry and GCM opacity**, which together create a self-reinforcing pocket of compressed LCM. Even if the proton moves from a dense LCM environment (where it formed) into a low-density region (such as surface matter or vacuum), it does **not** decompress.
 
-These internal effects outweigh the weaker external environment. The proton no longer depends on outside compression to stay compact; it has become a **self-stabilizing standing wave** that occupies a deep energy minimum created by its own LCM and GCM fields.
+The reason is that the GCM flux is pervasive and uninterrupted everywhere:
 
-A helpful analogy is a material that has been permanently reshaped. If a rubber object is compressed and then chemically locked into that form, it stays that way even when the original force is removed. Likewise, the proton retains its collapsed configuration because the standing wave has reorganized into a structure that is stable on its own terms.
+* The proton’s concentrated energy produces a large GCM shadow.
+* That shadow produces continuous inward momentum flux.
+* The inward flux maintains the LCM compression well around the proton.
+* The compression well locks the standing wave into its compact geometry.
 
-This is why protons do not expand or revert to their earlier positron-like form in low-density regions. Once formed, they remain in this metastable, highly compressed state everywhere in the universe — except in extremely intense environments, such as the cores of active galactic nuclei, where even this tightly bound mode can be destabilized. The details of standing wave destruction are covered in section 4.
+Nothing about this mechanism relies on high ambient LCM density.
+Once established, the proton’s internal feedback loop keeps it stable:
+
+1. **High energy density → high GCM opacity**
+2. **High opacity → strong inward GCM momentum flux**
+3. **Inward flux → tightly compressed LCM**
+4. **Tight compression → stability of the standing-wave geometry**
+
+To appreciate how dramatic this stability is, compare the proton’s internal density to ordinary matter. A typical rock has a density of about **3,000 kg/m³**, whereas the implied energy density inside a proton is roughly **10¹⁷ kg/m³** — fourteen orders of magnitude higher. Even white dwarf material (~10⁹ kg/m³) and neutron star crusts (~10¹⁴ kg/m³) fall far below this level. From the proton’s perspective, every macroscopic environment — rock, air, vacuum — is effectively *dilute*.
+
+This also clarifies why gravity *seems* negligible at atomic scales. On macroscopic scales, a proton’s total mass is tiny, so its gravitational pull appears insignificant. But what matters in 2MM is not total mass—it is **energy density**. The proton concentrates a staggering amount of energy into an extremely small region, creating an **intensely focused GCM shadow** right around itself. This produces a strong local inward momentum flux, even though the long-range gravitational effect is small. The proton’s own geometry makes this inward flux sharply confined and exceptionally strong. This locally intense field is also what ultimately contributes to short-range nuclear binding—the beginnings of the strong force—which will be developed in a later section.
+
+In this light, the proton’s stability becomes intuitive. It is a tightly bound, ultra-dense collapsed mode, sustained by continuous reinforcement between the LCM compression field and the GCM momentum flux. The everyday world simply does not have the capacity to disturb it.
+
+The proton is therefore a **metastable collapsed state**, one that remains compact everywhere in the universe except under the most extreme GCM conditions (such as within the cores of active galactic nuclei).
 
 ### 2.7 The Neutron: A Paired Standing Wave That Only Survives in Nuclei
 
