@@ -389,56 +389,34 @@ This framework removes the need to postulate separate fundamental interactions. 
 
 By tracing all interactions back to a single mechanism—the dynamic cooperation between LCM elasticity and GCM flux—2MM provides a unified physical origin for force behavior across all scales. In this sense, the model does not contain multiple independent forces at all. **Every interaction reduces to a single kind of physical event: an inelastic momentum exchange between the two media.** What appear to us as distinct forces are simply different geometric outcomes of how particles and their compression fields shape, redirect, or obstruct the continual movement of the GCM through the LCM.
 
-### 3.1 Electrostatic Forces (Compression + Shadowing)
+### 3.1 Electrostatic Forces: Compression Geometry and GCM Support
 
-Electrostatic behavior emerges from the interaction of:
+Electrostatic behavior emerges naturally once particles are understood as localized distortions in the LCM. Each charged particle produces a characteristic **LCM compression field**, shaped by the geometry of its standing-wave mode and maintained by its GCM shadow. When two such fields approach one another, they must fit together in a way that preserves equilibrium in both media. The ease or difficulty of this fit determines whether the interaction is repulsive or attractive.
 
-* **LCM compression fields** around charges, and
-* **GCM shadowing patterns** shaped by those fields.
-* **Like charges repel** because their compressed LCM fields resist overlap.
-* **Opposite charges attract** because their opposite-mode compression fields fit together more easily and enhance mutual GCM shadowing.
+**Like charges repel** because their compression fields have similar shapes and orientations. Bringing them together requires forcing two incompatible LCM geometries to overlap, which creates steep gradients and increases local compression. The LCM responds by pushing the particles apart—the same way two stiff springs resist being pressed into one another.
+GCM effects play a secondary role here: because each particle’s shadow is shaped by its own compression field, bringing like charges together does not create a deeper combined shadow. Without the reinforcement that opposite charges enjoy, the GCM contributes little inward pull, leaving the LCM’s geometric incompatibility to dominate and drive the particles apart.
 
-Electrostatic forces are therefore not “produced” by either medium alone.
-They arise from the **balance** between GCM pressure and LCM deformation.
+**Opposite charges attract** for the complementary reason. Their compression fields have opposite orientations, allowing them to interlock smoothly. The combined field has lower overall distortion than either field alone, creating a more stable configuration. The GCM flux enhances this by forming a deeper, more coherent shadow around the pair, increasing the inward momentum transfer and gently pulling them together.
 
-### 3.2 Magnetic Forces: Motion-Induced and Intrinsic
+In 2MM, electrostatic forces are therefore not “generated” by the LCM or the GCM in isolation. They arise from the **balance between LCM deformation and GCM pressure**, with compression-field geometry providing the dominant mechanism and the GCM flux supplying the continual momentum exchange that maintains the equilibrium.
 
-#### Intrinsic Magnetic Dipoles (from Standing-Wave Structure)
+It is also worth noting that, at these scales, the **local gravitational attraction** between two extremely dense standing waves—though small on macroscopic scales—may be more significant than traditionally assumed. The relative contribution of this short-range GCM-driven attraction remains an open question and will require a more detailed mathematical treatment. What matters for now is that electrostatic forces need no separate postulate: they follow directly from how the two media respond when compression fields overlap.
 
-Every electron has a built-in **helical torsional pattern** in the surrounding LCM due to its dual-mode standing-wave structure.
-This helical deformation forms a **tiny magnetic dipole** even when the electron is stationary.
+### 3.2 Magnetic Forces: Torsion, Motion, and Collective Alignment
 
-Because the electron’s helix has a direction (left-handed or right-handed depending on phase mode), it has a **preferred orientation** relative to how the LCM flows past it.
+Magnetic behavior in 2MM follows directly from the **torsional component** of the electron’s helical standing-wave structure. Even when an electron is stationary, its dual-mode oscillations twist the surrounding LCM into a subtle helical pattern. This built-in torsion acts as an **intrinsic magnetic dipole**, a tiny directional feature of the electron’s compression field. Because the helical mode has a handedness, the dipole has a preferred orientation, and nearby LCM reacts differently depending on how the dipole is aligned.
 
-When an electron **moves through the LCM**, the flow around it becomes asymmetric:
+When an electron moves through the LCM, the torsional field surrounding it is carried along and becomes slightly skewed. The LCM does not flow uniformly around the electron’s helix: one side encounters greater torsional resistance, while the other side relaxes. The GCM flux also participates in this asymmetry, exchanging momentum differently across the distorted compression field. Together, these effects produce a **torque** that tends to align the electron’s intrinsic dipole with its motion—much like a spinning object aligning in a flowing fluid, except that the mechanism here is mediated by LCM shear and GCM shadowing rather than hydrodynamic drag. This alignment tendency is the microscopic origin of magnetic behavior in moving charges.
 
-* the helical torsion experiences **greater resistance on one side**,
-* the GCM flux also interacts asymmetrically with the deformed LCM,
-* and the combined effect produces a **torque** that tends to align the electron’s dipole with its direction of motion.
+When many electrons move together—as in an electric current—their individual dipoles become biased toward a common orientation. Each electron contributes a small skewing of the LCM torsional field, and together these skewings add up to a coherent **shear pattern** encircling the flow. The GCM flux reinforces this pattern by responding to the collective distortion of the LCM, producing a stable macroscopic field around the current. The familiar circular magnetic field around a wire is therefore the large-scale imprint of countless aligned microscopic helices, all interacting with the two media in the same direction.
 
-This makes the electron behave a bit like a spinning object aligning in a fluid stream — but governed by LCM/GCM interactions rather than hydrodynamic drag.
+A different form of alignment appears in ferromagnetic materials. Here, electrons do not need to move through the LCM to align their dipoles. Instead, lattice geometry and energetic constraints encourage certain orientations of the intrinsic helical mode. In regions where the lattice allows these orientations to lock together, the torsional fields of many electrons become mutually reinforcing. Their compression and shear patterns combine into a persistent macroscopic field even in the absence of current. Ferromagnetism, then, is simply the **static alignment** of many intrinsic dipoles, whereas current magnetism is the **dynamic alignment** produced by motion.
 
-#### Current-Induced Magnetism (Collective Alignment of Microscopic Helices)
+#### Helicity as a Natural Outcome of Wave Collapse
 
-When many electrons move together in a shared direction (as in an electric current):
+It is worth stepping back to recall why the helical standing-wave structure appeared in the first place. It was not assumed—it emerged by imposing a small set of physical requirements on how a high-frequency transverse wave must collapse when forming a pair of opposite particles. The collapse must: **(1)** produce two structures with equal energy but opposite chirality, **(2)** preserve the symmetry of the original wave, **(3)** generate stable standing waves supported by both the LCM and the GCM, and **(4)** provide a natural geometric distinction between the two modes. A dual-oscillation helical structure is the simplest configuration that satisfies all of these constraints.
 
-1. Their individual helical dipoles are **biased toward alignment** by motion through the LCM.
-2. The skewing of their torsional fields produces **coherent LCM shear patterns**.
-3. These shear patterns interact with the GCM flux to create a **macroscopic circular field** around the current.
-
-Thus, the familiar magnetic field around a wire is the **summed effect** of many electrons’ aligned helical dipoles and their motion-induced asymmetries.
-
-#### Ferromagnetism (Alignment Without Large Currents)
-
-Ferromagnetism arises from a different but related mechanism:
-
-* In certain lattice structures, electron standing waves prefer specific orientations due to geometric and energetic constraints.
-* These orientations can become **locked** through the interplay of LCM torsion, GCM shadowing, and lattice symmetry.
-* When many electrons in nearby atoms hold aligned helical dipoles, the material acquires a **persistent macroscopic magnetic field** even without current.
-
-Ferromagnetism is therefore the **static alignment** of intrinsic dipoles, whereas current magnetism is the **dynamic alignment** produced by motion through the LCM.
-
-Both arise from the **same underlying helical geometry** of the electron, but they differ in mechanism and scale.
+What makes this especially compelling is that the structure is **not ad hoc**—the universe already reveals the same geometry on macroscopic scales. When electrical currents flow freely through a plasma, unconstrained by solid conductors, they spontaneously organize into **helical, filamentary structures**. This large-scale behavior mirrors the microscopic torsional patterns predicted for individual charge carriers. The fact that plasmas naturally adopt helical geometries strengthens the case that helicity is not an arbitrary choice in 2MM but a recurring, scale-independent feature of how the two media prefer to arrange flowing energy.
 
 ### 3.3 Nuclear Structure: Why Only Proton–Neutron Pairs Bind
 
