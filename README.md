@@ -241,30 +241,37 @@ This mechanism completes the missing conceptual chain in earlier models:
 
 Matter’s “fields” are therefore not separate entities but the natural medium distortions required to confine a standing wave in a dual-medium universe.
 
-### 2.5 Why the Lag-Mode Collapses: The Origin of the Proton
+### 2.5 The Proton: Why the Lag-Mode Collapses in Dense LCM
 
-With the dual-mode standing wave in mind, the next question is how heavier particles—like the proton—fit into this picture. In 2MM, the key lies in how the two chiral modes respond differently to **increasing LCM compression**.
+The electron and positron arise when a high-frequency LCM wave becomes opaque to the GCM and collapses into two helical standing-wave modes. But under certain extreme conditions—particularly in regions where the **ambient LCM density is already high**—the lag-mode structure behaves in a qualitatively different way. It does not merely stabilize as a positron. Instead, it undergoes a **secondary collapse** into a much more compact standing wave: the proton.
 
-The **lead-mode** standing wave (electron-like) becomes *less stable* as the surrounding LCM becomes denser. Its torsional and radial oscillations rely on a certain amount of “space” to maintain their shape. As the medium compresses further, the lead-mode does not collapse; instead, it is pushed outward, preferring regions of lower compression.
+The key lies in how the two chiral modes respond to rising LCM compression.
 
-The **lag-mode** standing wave (positron-like) responds to its environment in a very distinctive way. Its internal phase geometry naturally tries to **draw the surrounding LCM inward**, as though the standing wave “prefers” to be in a tighter, more compressed state. In regions where the LCM density is low—such as ordinary near-surface conditions on Earth—this inward pull is resisted by the stiffness of the ambient medium. The surrounding LCM pushes back strongly enough that the lag-mode cannot contract; it remains in its positron-scale configuration.
+The **lead-mode** (electron-like) standing wave resists compression. Its phase alignment tends to push outward, thickening the surrounding LCM compression field in a way that counteracts further inward collapse. Even in dense environments, the lead-mode maintains its characteristic size and structure.
 
-However, when a lag-mode standing wave forms or moves into a region where the **ambient LCM density is already very high**, the situation changes dramatically. The external medium is no longer loose enough to resist the inward motion. Its compression actually makes it *easier* for the lag-mode to pull LCM inward and tighten its own oscillations. Under these conditions, the standing wave can finally reach the compact configuration it “prefers.”
+The **lag-mode**, however, responds in the opposite way. Its phase alignment draws LCM inward, amplifying the local compression rather than resisting it. Under ordinary surface-of-Earth conditions, this inward pull is far too weak to overcome the ambient LCM pressure; the surrounding medium simply “pushes back,” stabilizing the lag-mode as the familiar positron.
 
-Once the local density crosses a critical threshold, the lag-mode no longer stabilizes as a positron. Instead, the oscillation pattern contracts rapidly, reorganizing into a far denser, tightly bound structure: the **proton**.
+But in environments where the LCM is **already highly compressed**—deep inside planets, in dense plasma regions, or wherever steep LCM gradients exist—the lag-mode’s inward pull becomes effective. The ambient medium no longer resists; it *assists* the contraction. The standing wave therefore begins to tighten, its helical radius shrinks, and its GCM opacity rises dramatically.
 
-In this view, the proton does not form because the positron somehow generates the density it needs. Rather, **the proton forms only when the ambient LCM density allows the lag-mode’s natural inward pull to fully express itself.** The environment supplies the compression; the lag-mode supplies the mechanism.
+A runaway process begins:
 
-In this picture, the proton is not simply a heavier cousin of the electron. It is what the lag-mode standing wave becomes when it is squeezed past its normal stability range. The proton’s greater mass, tighter field structure, and much stronger LCM compression field all follow from this collapse mechanism.
+1. **Contraction increases the GCM shadow.**
+2. **A stronger shadow increases inward GCM pressure.**
+3. **Inward pressure tightens the standing wave even further.**
 
-This difference in how the two chiral modes react to LCM density also explains why:
+The structure collapses into a new equilibrium—one that is far more compact, with vastly greater energy density, and a much deeper GCM shadow. This new configuration is the **proton**.
 
-* matter is dominated by protons and electrons, not positrons,
-* protons are found deep in high-compression environments (like planetary interiors),
-* positrons naturally annihilate or transform under compression,
-* and pair production symmetry does not conflict with the observed matter-antimatter imbalance.
+The proton therefore is not just a “heavier version” of the positron. It is the **collapsed-state form** of the lag-mode standing wave under conditions where external LCM compression allows the inward phase dynamics to succeed. Its key properties follow naturally:
 
-In short, the proton is the stable end-state of the **lag-mode** standing wave under high compression, while the electron is the stable end-state of the **lead-mode** in low compression.
+* a much smaller radius
+* a deeper and more intense LCM compression field
+* vastly higher GCM opacity
+* far greater stability
+* the same positive charge as the positron (same chirality, different scale)
+
+This explains why protons are ubiquitous in environments where pair production is possible but LCM density is high, such as inside planetary interiors. The environment selects the mode: the lead-mode stabilizes as the electron, while the lag-mode collapses into the proton.
+
+The proton’s stability is not a coincidence; it is the endpoint of a feedback loop between the internal standing-wave geometry and the surrounding media. Once formed, the proton’s extreme GCM opacity locks it into a self-sustaining compression well, creating the remarkably robust particle at the heart of ordinary matter.
 
 #### Result: Hydrogen Formation
 
