@@ -432,99 +432,17 @@ At the same time, the neutron’s gentle compression gradient helps buffer the p
 
 In this view, the familiar “strong force” does not require a separate mechanism. It is simply the extreme end of the same balance between LCM compression and GCM shadowing that governs all interactions, made visible only when particles are pushed to distances where their compression fields and shadows interact at their steepest gradients. A proton–neutron pair is the only configuration that satisfies this balance. All nuclear structure—from deuterium to the heavy elements—emerges from combinations of these paired interactions and their geometric constraints.
 
-## 3.4 Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis
+### **3.4 Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis**
 
-### Gravity as GCM Shadowing
+In 2MM, gravity arises from **GCM shadowing**. Every standing wave—proton, neutron, or electron—interacts inelastically with the background GCM flux, reducing its intensity in the region directly behind it. When two masses face one another, each sits inside the other’s reduced-flux region and therefore receives slightly more inward momentum from the opposite side. The imbalance produces a **net inward push** that we interpret as gravitational attraction. On macroscopic scales, what we call “gravity” is simply the accumulated effect of countless such shadow interactions, structured by the LCM fields of the matter involved.
 
-In 2MM, long-range gravity is the simplest part of the entire force framework.
-Every standing wave (electron, proton, neutron) creates a **region of reduced transparency** to the GCM flux because its concentrated energy interacts inelastically with passing GCM particles.
+The classical LeSage picture runs into trouble because it treats matter as a rigid target being bombarded by a high-speed background, which would quickly drive everything to unphysical temperatures. In 2MM, particles are not solid absorbers; they are **standing waves** in the LCM, confined by a balance between outward LCM elasticity and inward GCM momentum. The GCM flux continuously supplies energy and momentum to these structures. A significant fraction of that input is spent simply on maintaining the compressed standing-wave configuration, while the rest can appear as internal excitations or as kinetic energy of the particle as a whole. In this sense, GCM interactions do contribute to kinetic particle energy (i.e., heating) to the extent one would expect from their momentum transfer. The standing-wave structure provides a robust channel for absorbing and redistributing energy rather than allowing it to accumulate uncontrollably in purely translational motion.
 
-This produces:
+At planetary scales, GCM interactions are therefore still expected to contribute *some* but not *all* of their energy to internal heating. In dense interiors, where LCM compression is high, wave breaking and lag-mode collapse can occur, forming new protons and electrons. The creation of new standing waves **consumes energy**, converting part of the gravitational power input into rest mass instead of heat. Over geological timescales, this matter-creation channel acts as an additional energy sink. 2MM does not claim that GCM-induced heating disappears; rather, it proposes that some of that energy is continually diverted into building and maintaining structure, including the gradual addition of new matter in the deepest regions of massive bodies.
 
-* a **lower GCM flux** on the side facing another mass,
-* a **higher flux** on the opposite side,
-* and therefore a **net inward momentum push**.
+A natural question arises here: **are planetary interiors really dense enough to push LCM compression toward the thresholds required for wave collapse and matter creation?** Section 2 only outlines the conceptual mechanism. The companion page [Earth and the Solar System](./earth-and-solar-system.md) examines the planetary context more closely.
 
-At large separations, LCM compression fields fall off rapidly, so only the GCM shadowing remains.
-Thus gravity becomes the **long-range limit** of the same interaction that produces:
-
-* nuclear cohesion,
-* electric attraction,
-* magnetic forces.
-
-### Resolving the LeSage Heat Crisis
-
-A classical LeSage flux produces far too much heating unless two problems are solved:
-
-1. **How particles avoid overheating at quantum scales**
-2. **How planets avoid overheating at macroscopic scales**
-
-2MM resolves *both*, but through different mechanisms.
-
-#### Quantum-Scale Resolution: The Standing Wave as an Energy Absorber
-
-A proton or electron is not a solid billiard ball absorbing GCM impacts.
-It is a **standing wave in the LCM**, sustained by:
-
-* inward GCM momentum transfer,
-* outward LCM compression pressure,
-* and the internal oscillation pattern of the wave itself.
-
-This creates a **continuous dynamic balance**, not a “heating” process.
-
-Energy from GCM interactions is not simply dumped into the particle:
-
-* It is absorbed by maintaining the particle’s LCM compression field,
-* which constantly tries to decompress,
-* and therefore requires a constant inward GCM push.
-
-Thus the GCM does not “heat” the proton;
-it simply provides the energy needed to **hold the standing-wave shape in a compressed state**.
-
-Any excess energy above this maintenance level is naturally shed as:
-
-* tiny adjustments in LCM compression,
-* minute outward LCM fluctuations,
-* and (rarely) neutrino-like releases during particle transitions.
-
-The proton’s “collapsed” state is stable precisely because **it can absorb GCM energy without runaway heating**.
-
-#### Planetary-Scale Resolution: Matter Creation as a Heat Sink
-
-At macroscopic scales, GCM shadowing would produce enormous thermal input *if* the energy accumulated in matter.
-But in 2MM, dense regions of LCM (e.g., planetary interiors) provide an additional mechanism:
-
-#### Wave Breaking → Proton Creation → Energy Extraction
-
-Inside massive bodies:
-
-* LCM density rises,
-* wave breaking becomes common,
-* lag-mode collapses form new protons,
-* and energy is consumed to create additional standing waves.
-
-Matter creation is an **energy sink**:
-
-* It pulls energy out of the LCM,
-* which ultimately originates from the GCM momentum flux.
-
-This stabilizes planetary temperatures over geological time.
-Matter production increases until energy inflow and outflow reach equilibrium.
-
-Thus the classical overheating crisis is resolved by **energy conversion into rest-mass**.
-
-### Summary of Gravity
-
-Gravity is simply:
-* GCM shadowing at long range
-* LCM-shaped force gradients at short range
-
-The heat crisis is avoided because:
-
-* **Particles** absorb GCM energy by maintaining their standing-wave compression fields.
-* **Planets** absorb GCM energy through continuous matter creation via wave breaking.
-
-This makes the entire two-medium framework self-consistent across all scales.
+To conclude, gravity in 2MM is not a separate fundamental force but the **macroscopic expression of GCM shadowing**, always shaped by the LCM structures of matter. The heat crisis is avoided because both particles and planets have built-in channels for GCM momentum to become **organized structure**—stable standing waves and new matter—rather than accumulating as unbounded thermal energy.
 
 > **Earth Expansion as a Research Context**
 > 
