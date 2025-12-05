@@ -10,7 +10,7 @@ The Two-Medium Model begins from the premise that there is only **one** fundamen
 - [Methodology and Acknowledgements](#methodology-and-acknowledgements)
 - [1. Core Ontology: Two Interacting Media](#1-core-ontology-two-interacting-media)
 - [2. Matter as Standing Waves in the LCM](#2-matter-as-standing-waves-in-the-lcm)
-- [3. Forces as Medium Interactions](#3-forces-as-medium-interactions)
+- [3. Interactions: How Forces Arise from the Two Media](#3-interactions-how-forces-arise-from-the-two-media)
 - [4. Cosmology in an Infinite Medium](#4-cosmology-in-an-infinite-medium)
 - [5. Relativity](#5-relativity)
 
@@ -374,7 +374,20 @@ No “decay particle” is required to exist independently; the neutrino-like si
 
 The neutron contains energy from **both** helical modes—the lead-mode (electron-like) and the lag-mode (proton-precursor). Because both oscillatory structures must coexist within a shared compression well, the total confined energy is slightly greater than that of a proton alone. Yet the interference between their compression patterns partially offsets each mode’s ability to tighten the surrounding LCM. As a result, the neutron ends up **heavier than a proton**, but counterintuitively **less compact and less tightly confined**. Its internal density is high, but not nearly as extreme as the proton’s, and the combined mode depends more strongly on ambient LCM compression for stability. This reduced confinement has important implications for nuclear structure: it helps determine why neutrons stabilize nuclei, why they cluster in predictable ratios, and why certain isotopes exist while others do not—a topic explored in detail later when discussing nuclear binding and the strong force.
 
-## 3. Forces as Medium Interactions
+## 3. Interactions: How Forces Arise from the Two Media
+
+With the structure of matter established, the next step is to understand how matter **interacts**. In 2MM, there are no separate “fundamental forces” in the conventional sense. All interactions—electrostatic, magnetic, nuclear, and gravitational—arise from the same underlying mechanism: the way **LCM compression fields** and **GCM momentum flux** respond to the presence, motion, and geometry of standing-wave particles.
+
+Every particle creates a characteristic distortion in the LCM, shaped by its internal oscillation pattern and maintained by its GCM shadow. When particles approach one another, these distortions overlap, reinforce, or interfere in predictable ways. The GCM flux responds to these distortions as well, altering the inward or outward momentum transfer between the two media. What we interpret as “forces” are simply **the adjustments required for the two media to maintain equilibrium while accommodating multiple standing waves in close proximity**.
+
+This framework removes the need to postulate separate fundamental interactions. Instead:
+
+* **Electrostatic forces** arise from how LCM compression fields overlap or oppose each other.
+* **Magnetic forces** arise from interactions between torsional components of standing waves and the relative motion of their compression fields.
+* **Nuclear forces** emerge from extreme GCM shadowing and the resulting high-pressure compression wells at very short range.
+* **Gravity** is the macroscopic result of accumulated GCM shadowing from many particles acting in concert.
+
+By tracing all interactions back to a single mechanism—the dynamic cooperation between LCM elasticity and GCM flux—2MM provides a unified physical origin for force behavior across all scales. In this sense, the model does not contain multiple independent forces at all. **Every interaction reduces to a single kind of physical event: an inelastic momentum exchange between the two media.** What appear to us as distinct forces are simply different geometric outcomes of how particles and their compression fields shape, redirect, or obstruct the continual movement of the GCM through the LCM.
 
 ### 3.1 Electrostatic Forces (Compression + Shadowing)
 
