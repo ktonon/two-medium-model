@@ -456,79 +456,20 @@ To conclude, gravity in 2MM is not a separate fundamental force but the **macros
 
 ## 4. Cosmology in an Infinite Medium
 
-### 4.1 Foundational Assumption: An Infinite, Timeless Universe
+Up to this point, the Two-Medium Model has focused on waves, particles, and forces. But these ideas rest on a broader cosmological backdrop that now needs to be stated explicitly.
 
-Up to this point, the Two-Medium Model has focused on waves, particles, and forces.
-But these ideas rest on a deeper cosmological premise that must now be stated explicitly:
+**2MM adopts, as an axiom, that the universe is infinite in extent, unbounded in scale, and without a beginning or an end.**
 
-**2MM assumes a universe that is infinite in all three spatial dimensions, infinite in scale, and infinite in time.**
+This is not presented as something proved by the model, nor as something required by observation.
+It is simply the cosmological starting point from which the rest of the theory is explored.
 
-This means:
+Given this assumption, one implication follows naturally:
 
-* there is **no beginning** and **no end**,
-* there is **no smallest scale** and **no largest scale**,
-* structure can exist at every level, from far below the Planck scale to far beyond the observable cosmos,
-* and the universe is never globally created or destroyed — only locally transformed.
+If matter can be created in regions of high LCM compression, then **other regions must exist where matter can be broken down**. Otherwise, mass would accumulate indefinitely within an infinite, timeless universe.
 
-This assumption is not philosophical.
-It is required because many of the mechanisms in 2MM — continuous wave breaking, matter recycling, stable media, and long-term energetic balance — only make sense in a universe that is not temporally or spatially bounded.
+From this perspective, matter destruction is not a claim about what *must* happen in nature, but rather a logical requirement **within the chosen cosmological framework** of 2MM. It becomes a counterpart to matter creation, ensuring that the two-media system can maintain long-term balance.
 
-### 4.2 Clarifying the Model’s Assumptions: LCM and GCM
-
-Although much of the model is deductive, 2MM does rest on two physical assumptions about the nature of space:
-
-1. **The LCM (Light-Carrying Medium)**
-
-   * This medium is *induced* from observation:
-     the finite speed of light, interference, coherence, redshift, wavelength stretching, and gravitational frequency shifts all point toward a wave-supporting medium with elasticity and inertia.
-   * In this sense, the LCM is not a speculative addition but a **generalization of an observed pattern**: waves in nature always travel in something.
-
-2. **The GCM (Gravity-Carrying Medium)**
-
-   * Unlike the LCM, the GCM has no direct observational signature; it is introduced to supply a **local, contact-interaction mechanism for gravity**, consistent with momentum transfer and the avoidance of action at a distance.
-   * Its existence is the model’s one genuinely new assumption.
-
-A third assumption underlies both media:
-
-3. **An infinite, steady-state universe**
-
-   * Necessary to provide the stable environment in which both LCM and GCM operate, recycle energy, and support wave-breaking and matter creation without global beginning or end.
-
-With these assumptions defined, the rest of the Two-Medium Model — particle structure, forces, nuclear behavior, planetary evolution, and cosmology — follows as a logical chain of consequences.
-
-### 4.3 A Note to the Reader: Suspending Two Major Objections
-
-Before going further, it is worth acknowledging that two observations are commonly viewed as decisive evidence for a Big Bang cosmology: **cosmological redshift** and the **cosmic microwave background (CMB).**
-Readers familiar with modern cosmology may understandably see these as immediate contradictions to the idea of an infinite, steady-state universe.
-
-At this stage, I would simply ask the reader to **withhold that objection temporarily**.
-Both of these observations are discussed in detail later in the document, and the Two-Medium Model provides its own explanations for them based on the behavior of the LCM and GCM.
-
-The intention here is not to dismiss established interpretations, but to present an alternative viewpoint and allow the internal logic of the model to unfold before revisiting those key observations.
-
-### 4.4 Matter Creation and the Necessity of Matter Destruction
-
-Earlier in this document, we described how **wave breaking in regions of high LCM compression** can create new matter.
-In particular:
-
-* high-frequency LCM waves become unstable,
-* lag-mode standing waves collapse into protons,
-* lead-mode waves become electrons,
-* and additional particle combinations occasionally form neutrons.
-
-These processes were explored in detail in Sections 2 and 3.
-Here, we revisit them briefly only to highlight their cosmological significance.
-
-If the universe is **infinite in time**, and if wave breaking naturally creates matter in the dense LCM environments surrounding stars, planets, and other structures, then a simple consequence follows:
-
-> **Matter creation must be balanced by matter destruction.**
-> Otherwise, an infinite universe would accumulate matter without limit.
-
-This requirement applies across all scales, from electrons to the most stable known particle: the **proton**.
-In modern physics the proton is treated as effectively indestructible outside extreme environments.
-But in an infinite, steady-state cosmos, **some process must eventually unmake even the proton**, returning its standing-wave energy back into the underlying media.
-
-### 4.5 Neutron Stars: Extreme Compression Without Matter Destruction
+### 4.1 Neutron Stars: Extreme Compression Without Matter Destruction
 
 Before talking about true matter destruction, it helps to look at a case that is already part of mainstream physics: the **neutron star**.
 
@@ -556,178 +497,45 @@ They show that protons and electrons can be reorganized into a different, denser
 This sets the stage for the next step:
 what happens when the environment is even more extreme than a neutron star.
 
-### 4.6 AGN Cores: Neutron Destruction and Charge-Conserving Recycling
+### 4.2 AGN Cores: Neutron Destruction and Charge-Conserving Recycling
 
-In an infinite, steady-state universe, rearrangement is not enough.
-At some point, **standing waves must be fully dismantled**, returning their energy to the LCM and GCM to complete the cycle of matter creation and destruction.
+In an infinite, steady-state universe, matter cannot simply accumulate.
+If new standing waves can form in regions of high LCM compression, then other regions must exist where standing waves can be dismantled and their energy returned to the media.
+In 2MM, this role naturally falls to the **innermost cores of active galactic nuclei (AGN)**—the only environments dense enough to destabilize even neutron-like structures.
 
-Two-Medium Model assigns this role to the **deepest regions of active galactic nuclei (AGN)** — environments where LCM density and GCM flux are pushed beyond even neutron-star conditions.
+AGN can be viewed as layered systems:
 
-AGN are layered:
+* **Outer regions:** strong LCM gradients → frequent wave breaking → pair production and intermittent matter creation.
+* **Intermediate zones:** neutron-star–like compression → electrons and protons forced into neutron configurations.
+* **Innermost core:** LCM density exceeds the stability limit of the neutron itself.
 
-* **Outer regions / disks:** high-energy radiation, strong LCM gradients, frequent wave breaking → pair production and some matter creation.
-* **Intermediate regions:** neutron-star-like conditions, where protons and electrons can be driven into neutron configurations.
-* **Innermost core:** LCM density so extreme that even the neutron standing wave becomes unstable.
+At this deepest layer, 2MM proposes that the **neutron standing wave unravels**:
 
-In the **innermost AGN core**, 2MM proposes:
+* the lead-mode and lag-mode components lose their phase-locked relationship,
+* the combined structure collapses into high-frequency LCM disturbances,
+* releasing energy back into the media in a neutral, charge-balanced way.
 
-* the combined neutron standing wave can no longer maintain its locked structure;
-* the lead and lag components lose their phase-locked relationship;
-* the neutron mode **unravels** back into high-frequency LCM disturbances (very energetic transverse and possibly longitudinal waves).
+Because the neutron is globally neutral, its breakdown conserves charge automatically.
+Any residual charged fragments are produced in matched pairs or quickly reabsorbed by the surrounding plasma, ensuring that **no net charge imbalance** is introduced.
 
-Because the neutron is **neutral overall**, its destruction can proceed without violating charge conservation:
+Thus, matter destruction in 2MM is not the disappearance of isolated protons, but a two-step sequence:
 
-* the positive and negative components that were geometrically encoded in the neutron’s internal structure are annihilated in a **balanced way**;
-* any residual charge asymmetries must be carried away by equal and opposite charged particles (e.g., electron–positron pairs) or by further rearrangements in the surrounding plasma;
-* globally, **net charge remains zero**.
+1. **Extreme compression forces protons + electrons into neutrons** (charge conserved).
+2. **Neutrons dissolve into high-frequency LCM waves** in cores where the standing-wave structure cannot survive.
 
-So when we speak of “matter destruction” in AGN, we are not saying:
+The resulting radiation escapes outward, where—under suitable compression gradients—it can contribute to **new matter creation** via wave breaking.
 
-> *“A lone proton magically vanishes and charge disappears.”*
+In this picture, **AGN function as matter recyclers**: their outer regions can create new standing waves, while their inner cores dismantle old ones, maintaining balance in an infinite, ongoing universe.
 
-Rather, the sequence is:
+### 4.3 Quasars as Newly Formed Matter in the Two-Medium Model
 
-1. **Protons + electrons → neutrons** (extreme compression, neutron-star-like conditions; charge conserved).
-2. **Neutrons → high-frequency LCM waves** in cores where LCM density exceeds neutron stability (matter destroyed, but *neutral* structures dissolving).
-3. Any remaining charged particles are balanced in pairs or redistributed so that **overall charge conservation holds**.
+In 2MM, regions of extremely high LCM compression can both **destroy** matter (deep in AGN cores) and **create** new matter (where high-frequency LCM waves break). If neutron destruction releases intense bursts of high-frequency radiation, then wherever that radiation encounters a *local increase* in LCM density, wave breaking can occur and new standing waves—electrons, protons, and sometimes neutrons—can form.
 
-The net effect:
+The most natural astrophysical site for this is the **base of AGN jets**. Magnetic pinching, gravitational focusing, and collimation all produce a temporary compression bottleneck. As outgoing radiation from the AGN core passes through this region, it blueshifts into a denser LCM environment where wave-breaking thresholds can be exceeded. This converts part of the outgoing energy into compact packets of newly formed matter.
 
-* AGN outer regions can still **create matter** via wave breaking and pair production;
-* AGN inner cores **destroy matter** by dismantling neutron standing waves into pure LCM disturbances;
-* the resulting high-energy waves propagate outward, seeding new cycles of wave breaking and matter creation elsewhere.
+In the 2MM framework, these compact, high-energy newborn structures correspond observationally to **quasars**. Their high redshift follows naturally: quasars originate in unusually steep LCM compression gradients, so the light they emit must climb out of a deeper “compression well” than light from their parent galaxy. As they travel outward along the jet into regions of lower compression, their internal standing-wave modes relax, and their observed redshift gradually decreases—an effect long noted in quasar–AGN associations.
 
-In this way, **AGN act as charge-conserving matter recyclers** in an infinite universe —
-not by arbitrarily erasing particles, but by **first neutralizing them (into neutrons) and then dismantling those neutral structures** under extreme LCM compression.
-
-### 4.7 Quasars as Newborn Matter in the Two-Medium Model
-
-In the previous sections we described how active galactic nuclei (AGN) contain regions where matter can both **form** and **dissolve**, depending on the local LCM density.
-If neutron destruction in AGN cores releases enormous amounts of high-frequency LCM waves, and if wave breaking naturally creates new standing waves in dense environments, then a natural question arises:
-
-**Where in the universe do we see objects that might represent newly created matter?**
-
-Within the logic of 2MM, the primary observational counterpart is the **quasar**.
-
-#### 4.7.1 Observational Clues Linking Quasars to AGN Activity
-
-Astronomer **Halton Arp** and others documented numerous cases where quasars appear:
-
-* in close angular alignment with active galaxies,
-* lying precisely along the axes of radio or plasma jets,
-* often in **symmetrically placed pairs** on opposite sides of an AGN,
-* sometimes connected to the parent galaxy by luminous or radio structures,
-* and frequently showing a gradual **decrease in redshift with increasing distance** from the parent object.
-
-These associations themselves are observational; interpretations differ.
-But within 2MM, the correlations make conceptual sense.
-
-#### 4.7.2 Where Quasars Come From: The Jet-Base Compression Bottleneck
-
-In the Two-Medium Model, wave breaking requires **blueshift**, which occurs only when a wave enters a region of *higher* LCM density.
-Because the outer regions of an AGN have lower LCM density, radiation moving outward cannot break there — it redshifts instead.
-
-Thus, newly created matter must form in regions where the LCM becomes **temporarily more compressed**, not less.
-
-The correct location is the **base of the jets**, where collimation, magnetic pinching, and gravitational focusing create a natural **compression bottleneck**.
-As the high-frequency waves released from the AGN core pass through this bottleneck, they encounter **locally increased LCM density**.
-This causes further **blueshift**, which can push the highest frequency waves above the threshold for **wave breaking**.
-
-Wave breaking at the jet base produces bursts of new matter — electrons, protons, and sometimes neutrons.
-These compact, energetic clouds of freshly created matter appear observationally as **quasars**.
-
-#### 4.7.3 Why Quasars Often Occur in Symmetrical Pairs
-
-Because AGN jets are typically bipolar:
-
-* both jet bases create similar compression bottlenecks,
-* both eject newly formed matter along opposite axes,
-* and both produce compact, high-redshift objects under nearly symmetric conditions.
-
-This naturally explains:
-
-* quasar pairs flanking active galaxies,
-* nearly equal brightness and redshift in some pairs,
-* and alignment along the AGN’s jet direction.
-
-This symmetry is a natural prediction of 2MM.
-
-#### 4.7.4 Why Quasars Have Higher Redshift Than Their Parent AGN
-
-If quasars originate from AGN, a natural question arises:
-
-**Why do quasars almost always exhibit *higher* redshift than the galaxies that appear to eject them?**
-
-In the Two-Medium Model, the answer follows directly from how **wave breaking**, **standing-wave formation**, and **LCM compression** operate.
-
-##### 1. Quasars are born in regions of *extreme* LCM compression
-
-At the jet-base compression bottleneck:
-
-* LCM density is at its steepest gradient outside the AGN core,
-* high-frequency LCM waves blueshift as they enter this region,
-* and the resulting wave breaking produces **new standing waves in an unusually compressed environment**.
-
-This means that the *initial* standing-wave structures (electrons, protons, neutrons) within the newly formed quasar:
-
-* are created at **higher internal energy**,
-* have **tighter compression-bound modes**,
-* and sit inside **steeper LCM density gradients** than the same particles inside the parent galaxy.
-
-Because emitted light must climb out of this steeper compression well:
-
-* it experiences a **larger gravitational redshift–like effect**,
-* compounded by the intrinsic energy-state of newly created matter.
-
-Thus, newborn quasars naturally emit **more redshifted light** than the parent AGN.
-
-##### 2. Newly formed matter starts in a higher internal energy state
-
-A core principle of 2MM is that the **rest structure** of a standing-wave particle can vary slightly depending on the LCM environment in which it forms.
-
-In regions of strong compression:
-
-* standing waves are created in a **more compact, higher-energy configuration**,
-* transitions between internal modes emit photons with **shorter intrinsic wavelengths**,
-* but as those photons leave the compressed region, they **redshift more** than photons emitted from less compressed environments.
-
-This combination produces a net **higher observed redshift**.
-
-The AGN’s matter, by contrast:
-
-* is older,
-* less compressed,
-* and closer to its long-term equilibrium standing-wave structure.
-
-Therefore, AGN light shows lower intrinsic redshift.
-
-##### 3. As quasars move outward, their redshift decreases
-
-Once ejected along the jet:
-
-* the newly formed quasar begins traveling into regions of progressively lower LCM density,
-* its internal standing waves relax toward lower-energy geometric configurations,
-* and its emitted light redshifts *less* compared to its initial value.
-
-This matches Arp’s long-standing observation:
-
-* **quasars farther from the parent AGN often show *lower* redshift**,
-* suggesting evolution rather than large cosmological distance.
-
-#### 4.7.5 Controversy and Caution
-
-The idea that quasars originate from AGN and carry intrinsic redshift is **not** part of mainstream cosmology.
-Most astronomers interpret quasar redshift as purely cosmological.
-The quasar–galaxy associations noted by Arp are generally attributed to chance line-of-sight alignments.
-
-The purpose here is not to adjudicate that debate, but to show that within the internal logic of the Two-Medium Model:
-
-* AGN cores **destroy** neutron matter,
-* jet-base bottlenecks **create** new matter,
-* and the resulting compact objects **match observed quasar behavior**.
-
-This sets the stage for the next section:
-**4.8 Quantized Intrinsic Redshift**, which follows naturally from the standing-wave structure of matter in 2MM.
+Thus, quasars appear in 2MM not as distant primordial objects, but as **localized bursts of newly created matter** formed where AGN outflows pass through temporary spikes in LCM density. This interpretation provides a simple physical link between AGN activity, matter recycling, and the unusually high redshifts associated with quasars.
 
 ## 5. Relativity
 
