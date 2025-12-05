@@ -837,6 +837,12 @@ This perspective makes length contraction feel intuitive:
 
 There is no paradox, no mystical geometric effect, and no need to imagine “shrinking” as an illusion. It is the straightforward mechanical response of waves interacting with a real medium.
 
+### 5.3 Mutual Causation in the Two Media
+
+Any elastic-aether model naturally interprets spacetime curvature as variations in the density or tension of the medium itself. What 2MM adds is a dynamic role for gravity in *maintaining* that curvature. In the geometric view of relativity, the sequence seems straightforward: matter and energy bend spacetime, and gravity is the motion of objects through that curvature. In 2MM the picture becomes more intertwined. A standing wave *is* a region of denser LCM, yet that denser region can only remain stable because the GCM flux continually reinforces it through shadowing. At the same time, the GCM would have nothing to shadow if not for the density created by the standing wave. The result is a self-sustaining feedback loop between the two media—neither the LCM nor GCM “comes first,” and no initial moment is required. The system simply persists, with curvature, matter, and gravity all emerging from their mutual interaction.
+
+This interdependence between the two media leads to an intriguing implication: for 2MM to function as described, the system cannot easily accommodate a true “beginning.” A beginning would require one medium to exist and operate without the other, or for standing waves to form before the shadowing effects that sustain them — both of which break the causal loops that the model depends on. In fact, any notion of an absolute beginning already strains causality in conventional physics as well. In 2MM, this tension resolves naturally: the universe is not something that starts and then evolves; it is something that *self-maintains*, with structure emerging continually from the ongoing reciprocity between the LCM and GCM.
+
 ---
 
 Sections below are a work in progress. More to come...
