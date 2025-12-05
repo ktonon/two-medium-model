@@ -491,6 +491,10 @@ Crucially:
 * the proton’s positive and electron’s negative contributions are now encoded in a **single neutral standing-wave configuration**;
 * the overall charge balance of the star is preserved.
 
+Recall that although the neutron’s softer compression field allows closer approach than two protons could manage, **two neutrons still cannot form a stable bound pair in free space**. Their GCM shadowing is too weak—spread over a larger core radius—and their LCM repulsion, while gentler than a proton’s, still rises before gravitational attraction can dominate. The result is always the same: **the repulsive component overtakes the shadow-induced attraction before a bound state can form**.
+
+Inside a neutron star, however, the situation is completely different. The ambient LCM density is so extreme, and the inward GCM flux so intense, that neutrons are forced far closer together than they ever could be in vacuum. At these separations, the normally insufficient GCM attraction becomes overwhelming, and the softer neutron compression fields deform under an external pressure orders of magnitude stronger than anything found in ordinary nuclei. In this environment, **neutrons do not “bond” in the usual nuclear sense—they are crushed into a degenerate, tightly packed configuration that is only stable because the surrounding LCM/GCM conditions are unimaginably strong**. This contrast explains why neutrons fall apart when isolated, yet form the bulk of a neutron star when immersed in an extreme medium.
+
 Neutron stars are therefore an example of **matter rearrangement under extreme compression**, not matter destruction.
 They show that protons and electrons can be reorganized into a different, denser configuration without violating charge conservation.
 
