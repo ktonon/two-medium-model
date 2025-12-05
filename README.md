@@ -128,6 +128,10 @@ The ability of 2MM to explain how standing waves become self-confined is one of 
 
 Pair production has a striking feature: a single high-energy photon transforms into two particles—an electron and a positron—that are equal in energy but opposite in structure. This symmetry suggests that matter must arise from a wave configuration that can collapse into **two complementary standing-wave modes**, differing only in their internal phase alignment.
 
+> ⚠️ **Note on Terminology**
+> 
+> In this document, the word *collapse* refers strictly to a **physical contraction of an LCM wave**, a dynamical process in which a high-frequency traveling wave becomes unstable and reorganizes into a confined standing-wave structure. This is a mechanical transformation of real oscillations in a medium. **It has nothing to do with quantum-mechanical wave-function collapse**, which is a separate and unrelated concept. To avoid confusion, *we will never use the term “collapse” to mean wave-function collapse* anywhere in this work.
+
 In earlier drafts, the collapse mechanism was described as the LCM “failing to support” extremely high-frequency oscillations. Upon closer examination, a more coherent explanation emerges once the GCM is included. In 2MM, the trigger for pair production is not an elastic limit of the LCM at all—it is the **GCM reacting to the growing opacity of the wave**.
 
 From the GCM’s perspective, a high-frequency LCM wave becomes increasingly compact in *absolute* space (the GCM reference frame). As the energy is squeezed into a smaller region, the wave begins to interact more strongly with the GCM flux. Once the wave’s energy density crosses a threshold, it becomes **partially opaque** to the GCM. This opacity creates a small but rapidly intensifying **GCM shadow**.
@@ -314,21 +318,61 @@ In this light, the proton’s stability becomes intuitive. It is a tightly bound
 
 The proton is therefore a **metastable collapsed state**, one that remains compact everywhere in the universe except under the most extreme GCM conditions (such as within the cores of active galactic nuclei).
 
-### 2.7 The Neutron: A Paired Standing Wave That Only Survives in Nuclei
+### 2.7 The Neutron: A Paired Standing-Wave Structure
 
-A neutron can be understood as a **paired standing-wave structure** formed when a compact lag-mode configuration (proton-like) binds together with a lead-mode configuration (electron-like) in a tightly coordinated, phase-locked arrangement. Instead of existing as two separate standing waves, the oscillations synchronize into a single combined mode.
+With the proton and electron understood as two distinct helical standing-wave modes stabilized by GCM confinement, the neutron can be viewed not as a fundamentally separate particle but as a **paired configuration** of these two modes. In 2MM, a neutron forms when a **lead-mode (electron-like)** standing wave and a **lag-mode (proton-precursor)** standing wave become **phase-locked into a single, shared compression well**.
 
-This combined mode has several important properties:
+This combined structure has several defining features:
 
-* **Balanced chirality:** The opposite handedness of the two components cancels out, giving the neutron no net geometric twist.
-* **A softer compression field:** Because the proton’s strong inward compression is partially offset by the electron-like outward tendency of the lead-mode, the neutron produces a **less sharply peaked LCM compression gradient** than a proton.
-* **Electrical neutrality:** The opposing compression patterns cancel most of their long-range effects, producing a particle with no net electric charge.
+#### Balanced Chirality
 
-However, this balance is delicate. The neutron exists in a kind of internal tension: the proton-like part wants to stay tightly compressed, while the lead-mode part prefers a looser environment. Only inside atomic nuclei—where the surrounding LCM is already under significant compression and where GCM shadowing is strong enough to stabilize the paired structure—does this combined oscillation remain fully bound.
+The electron-like lead-mode and the proton-like lag-mode have opposite chiral signatures.
+When locked together, their opposing geometric tendencies partially cancel, creating a configuration that is **neither fully lead-mode nor fully lag-mode**.
 
-Outside the nucleus, the environment is too low-density and the stabilizing forces too weak. The two modes cannot remain locked together, and the neutron gradually unravels. The proton-like component stays intact, the lead-mode escapes as an electron, and the remaining structural imbalance is released as a small pulse into the LCM—a neutrino-like disturbance.
+#### A Gentler LCM Compression Profile
 
-In this picture, the neutron is not a fundamental object but a **temporary cooperative state** made possible by the special conditions inside nuclei. Its instability in free space follows directly from the way the two modes compete rather than reinforce each other when removed from the nuclear environment.
+A solitary proton produces an extremely steep LCM compression gradient because of its compactness and high GCM opacity.
+The neutron’s paired configuration distributes energy over a slightly wider region, resulting in a **softer, less sharply peaked compression field**.
+This is why a neutron:
+
+* interacts gravitationally like a proton,
+* but lacks the strong **electrostatic signature** of either charge.
+
+#### Electrical Neutrality
+
+The opposing compression geometries of the paired modes cause their electrostatic contributions to **cancel**.
+The neutron’s neutrality is therefore not an independent property—it is simply a consequence of **paired standing-wave symmetry**.
+
+#### Dependence on the Nuclear Environment
+
+Unlike the proton, whose extreme density allows it to remain compact in any LCM environment, the neutron is **not inherently stable on its own**.
+Its stability requires a **supporting background of LCM compression and GCM flux**, such as the environment inside an atomic nucleus.
+
+Inside nuclei:
+
+* surrounding protons and neutrons create overlapping GCM shadows,
+* LCM densities are elevated,
+* and compression gradients reinforce one another.
+
+In this environment, the neutron’s paired structure can maintain coherence.
+
+Outside a nucleus, conditions change:
+
+* ambient LCM density drops,
+* the compression well becomes too shallow to hold the paired modes together,
+* and the structure eventually destabilizes.
+
+When it does, the paired standing wave **separates back into its component modes**:
+
+* a proton-like collapsed lag-mode structure,
+* an electron-like lead-mode structure,
+* and a brief outward release into the LCM—what is conventionally detected as a neutrino-like disturbance.
+
+No “decay particle” is required to exist independently; the neutrino-like signature is simply the **redistribution of torsional and compression energy** when the paired mode disassembles.
+
+#### Why the Neutron Is Heavy but Less Compact Than a Proton
+
+The neutron contains energy from **both** helical modes—the lead-mode (electron-like) and the lag-mode (proton-precursor). Because both oscillatory structures must coexist within a shared compression well, the total confined energy is slightly greater than that of a proton alone. Yet the interference between their compression patterns partially offsets each mode’s ability to tighten the surrounding LCM. As a result, the neutron ends up **heavier than a proton**, but counterintuitively **less compact and less tightly confined**. Its internal density is high, but not nearly as extreme as the proton’s, and the combined mode depends more strongly on ambient LCM compression for stability. This reduced confinement has important implications for nuclear structure: it helps determine why neutrons stabilize nuclei, why they cluster in predictable ratios, and why certain isotopes exist while others do not—a topic explored in detail later when discussing nuclear binding and the strong force.
 
 ## 3. Forces as Medium Interactions
 
