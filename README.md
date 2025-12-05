@@ -44,11 +44,9 @@ Although 2MM is not defined mathematically, it does make several qualitative pre
 
 1. **A 12-hour diurnal variation in high-energy particle events** (a modern aether test based on LCM bow/wake asymmetry)
 2. **[Hydrogen creation inside planets and moons](./earth-and-solar-system.md)** (and liquid water worlds should be abundant)
-3. **Neutron destruction occurring inside active galactic nuclei** (as part of the matter-recycling cycle)
-4. **Synthesis of heavier, high-compression variants of matter near the base of AGN jets**
-5. **Singularities do not occur**
-5. **Quantized intrinsic redshift in quasars**, and their **physical association with parent AGN**
-6. **[SETI is unlikely to succeed](#54-absolute-time-the-gcm-and-faster-than-light-transmission)**, even if advanced civilizations exist
+3. **[Neutron destruction occurring inside active galactic nuclei](#42-agn-cores-neutron-destruction-and-charge-conserving-recycling)** (as part of the matter-recycling cycle)
+4. **[Quantized intrinsic redshift in quasars](#43-quasars-as-newly-formed-matter-in-the-two-medium-model)**, and their **physical association with parent AGN**
+5. **[SETI is unlikely to succeed](#54-absolute-time-the-gcm-and-faster-than-light-transmission)**, even if advanced civilizations exist
 
 Each of these will be discussed in greater detail in relevant sections below.
 
