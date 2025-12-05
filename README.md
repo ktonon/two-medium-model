@@ -48,7 +48,7 @@ Although 2MM is not defined mathematically, it does make several qualitative pre
 4. **Synthesis of heavier, high-compression variants of matter near the base of AGN jets**
 5. **Singularities do not occur**
 5. **Quantized intrinsic redshift in quasars**, and their **physical association with parent AGN**
-6. **SETI is unlikely to succeed**, even if advanced civilizations exist
+6. **[SETI is unlikely to succeed](#54-absolute-time-the-gcm-and-faster-than-light-transmission)**, even if advanced civilizations exist
 
 Each of these will be discussed in greater detail in relevant sections below.
 
@@ -883,11 +883,23 @@ Thus, 2MM implies that **SETI’s strategy of searching the electromagnetic spec
 In this light, SETI’s silence may be a clue rather than a contradiction:
 advanced civilizations might be speaking in a medium we are not yet listening to.
 
+### 5.5 ‘Oumuamua: A Speculative Case Study Through the Lens of 2MM
+
+When ‘Oumuamua passed through the solar system in 2017, it immediately stood out as unlike any known asteroid or comet. Its extreme aspect ratio, lack of a visible coma, non-gravitational acceleration without detectable outgassing, and rapid tumbling motion all raised questions that remain unresolved. The object has not been proven artificial—but it has not been conclusively explained by natural models either. In the context of 2MM, ‘Oumuamua becomes an interesting case study for how an advanced civilization might design interstellar artifacts, especially if they had mastered the use of the GCM.
+
+The first intriguing feature is its **implied shape**. Observations suggest a body with an aspect ratio somewhere between 5:1 and 10:1, possibly even higher—something long and narrow like a spindle or flattened like a shard. Such shapes are mechanically uncommon among natural bodies, but they have a clear advantage if one is interacting with a medium like the GCM or trying to minimize drag in a fast-moving flux. A long, narrow profile reduces scattering cross-section and would create a stable interaction with directional momentum flows.
+
+The second feature is its **non-gravitational acceleration**. In standard models, this is usually attributed to outgassing, yet no trace of gas or dust was detected. In 2MM terms, a structure engineered to interact with the GCM could receive a small but steady momentum transfer without expelling material. If ‘Oumuamua were designed to harvest the directional GCM flux—or modulate it in some patterned way—it could adjust its trajectory without chemical propulsion.
+
+The third feature is the **rapid, irregular tumbling**. While this might simply reflect an ancient collisional past, it could also indicate deliberate engineering. A rotating or precessing geometry might be used to encode or modulate patterns in the GCM, much as radio antennas encode information in oscillating EM fields. If a civilization used the GCM for communication, control surfaces or rotating structures aligned with local flux gradients would make sense.
+
+Under 2MM, an advanced civilization would likely abandon electromagnetic signaling for the far superior bandwidth and propagation speed of the GCM. Any long-lived interstellar probe or beacon would therefore be optimized for interacting with that medium—not the electromagnetic one we currently monitor. From this perspective, ‘Oumuamua’s silence in radio frequencies is not surprising. If it were artificial, we would be listening in the wrong channel entirely.
+
+None of this establishes artificiality as fact. Natural explanations still exist, and the observational record is thin. But the object’s unusual traits make it a useful thought experiment. Through the lens of 2MM, ‘Oumuamua illustrates how a craft or instrument designed around GCM physics might appear to observers limited to LCM-based detection. Its shape, motion, and behavior could be prototypes of what interstellar engineering looks like when built within a medium we do not yet know how to sense.
 
 ---
 
 Sections below are a work in progress. More to come...
 
-## 6. Communication and SETI
 ## 7. Strengths, Weaknesses, and Open Questions
 ## 8. Purpose and Scope
