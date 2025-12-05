@@ -420,79 +420,19 @@ What makes this especially compelling is that the structure is **not ad hoc**—
 
 ### 3.3 Nuclear Structure: Why Only Proton–Neutron Pairs Bind
 
-#### Proton–Proton Interaction: Repulsion Dominates
+In 2MM, nuclear binding arises from the same interplay of LCM compression fields and GCM shadowing that governs all other interactions. What makes nuclei special is simply the **scale**: particles must approach closely enough that their GCM shadows overlap strongly while their LCM compression fields remain geometrically compatible. Only one pairing—proton with neutron—achieves this balance.
 
-At long and moderate distances, two protons **repel strongly** because their LCM compression fields overlap.
-The proton’s compression field is:
+Protons resist close approach because their LCM compression fields are extraordinarily steep and tightly wound. Pushing two protons together forces their sharply peaked gradients to overlap, creating enormous repulsive pressure long before their centers can approach the distance required for strong GCM shadowing. Even though GCM provides an inward momentum flux, the repulsion between two proton compression fields grows much faster than the gravitational-like attraction. The result is unavoidable: **proton–proton pairs cannot bind**, even if forced together. Repulsion wins at every relevant scale.
 
-* steep,
-* dense,
-* sharply peaked near the core,
-* and highly resistant to deformation.
+Neutrons behave differently, but no more favorably for forming pairs. Their compression fields are broader and softer, owing to their larger and less compact standing-wave structure. This reduces both the repulsion between two neutrons and the strength of their GCM shadowing. Neither effect wins decisively. The repulsion is weaker than between protons, but the attraction is weaker still, so the two neutrons can never be brought close enough for the GCM flux to dominate. The outcome is the same as for protons: **neutron–neutron pairs do not form stable bonds**.
 
-This makes proton–proton repulsion extremely strong at short separations.
+The proton–neutron pair is the exception because their complementary structures allow them to approach one another more closely and more comfortably than like–like pairs. The proton’s compact core can slip deeper into the neutron’s softer compression field without encountering the catastrophic repulsion that would occur between two protons. This closer separation creates dramatically stronger GCM shadowing between their centers—far stronger than in either like–like case—because shadow strength increases steeply with decreasing distance.
 
-Even though protons attract each other through **GCM shadowing** (gravity-like inward push), the repulsive pressure from overlapping LCM compression fields grows far faster than the inward GCM pull.
+At the same time, the neutron’s gentle compression gradient helps buffer the proton’s sharpest LCM features. The two fields can merge into a configuration with **lower total deformation** than either particle could achieve with a like partner. The neutron essentially absorbs some of the proton’s steep curvature while presenting little of its own. This synergy allows the inward GCM momentum flux to outpace the rising LCM repulsion, producing a genuine energy minimum—a bound nuclear state.
 
-**Result:**
-Even if forced close together, **protons cannot be made to stick**.
-Repulsion always wins before gravity has a chance to dominate.
+In this view, the familiar “strong force” does not require a separate mechanism. It is simply the extreme end of the same balance between LCM compression and GCM shadowing that governs all interactions, made visible only when particles are pushed to distances where their compression fields and shadows interact at their steepest gradients. A proton–neutron pair is the only configuration that satisfies this balance. All nuclear structure—from deuterium to the heavy elements—emerges from combinations of these paired interactions and their geometric constraints.
 
-#### Neutron–Neutron Interaction: Insufficient Attraction
-
-A neutron’s LCM compression field is **much softer** because its internal standing-wave structure is larger and less tightly wound than a proton’s.
-
-* The neutron core radius is larger.
-* Its compression gradient is shallower.
-* Its GCM opacity is lower than a proton’s.
-
-Because of this:
-
-1. **Gravity** between two neutrons is weaker than between two protons (larger radius → lower shadowing opacity).
-2. **LCM repulsion** is also weaker, but not weak enough to be overcome.
-3. Neutrons cannot be brought close enough for GCM attraction to dominate.
-
-**Result:**
-Neutron–neutron pairs are **not stable**.
-Gravity never becomes strong enough to overcome even their softer repulsion.
-
-#### Why Proton–Neutron Pairs *Are* Stable
-
-The proton–neutron interaction is special because their complementary structures fit together more effectively than like–like pairs.
-
-##### A. Smaller combined separation → stronger GCM attraction
-
-A proton’s collapsed core is **smaller** than a neutron’s.
-When a proton and neutron are pushed together:
-
-* their centers can approach **closer** than two protons or two neutrons can,
-* because the neutron’s softer LCM cloud allows deeper overlap,
-* enabling **stronger GCM shadowing** (i.e., stronger gravitational-like inward push).
-
-Closer centers = much stronger short-range attraction.
-
-##### B. Reduced LCM repulsion
-
-Because the neutron’s LCM compression field is gentle:
-
-- A proton can approach a neutron to a separation that would already generate overwhelming repulsion between two protons
-- At those separations, the repulsive pressure from the neutron’s softer profile remains manageable.
-
-This allows gravity (via GCM shadowing) to rise faster than repulsion, creating the possibility of a bound state.
-
-##### C. Energetically favorable packing
-
-The proton’s steep compression gradient combined with the neutron’s softer compression gradient yields a geometry where:
-
-* the proton can “nestle” closer to the neutron’s center,
-* the neutron absorbs and buffers the steepest LCM gradients,
-* the composite structure has **lower total energy**.
-
-**Result:**
-
-A proton–neutron pair forms a **stable nuclear bond** through the same LCM/GCM interplay that governs all other forces — no special “strong force” is required. Proton–neutron pairing is the only combination that yields a stable nuclear bond.
-
-## 3.5 Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis
+## 3.4 Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis
 
 ### Gravity as GCM Shadowing
 
