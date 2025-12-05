@@ -12,7 +12,7 @@ The Two-Medium Model begins from the premise that there is only **one** fundamen
 - [2. Matter as Standing Waves in the LCM](#2-matter-as-standing-waves-in-the-lcm)
 - [3. Forces as Medium Interactions](#3-forces-as-medium-interactions)
 - [4. Cosmology in an Infinite Medium](#4-cosmology-in-an-infinite-medium)
-- [More to come...](#5-planetary-scale-consequences)
+- [5. Relativity](#5-relativity)
 
 # Preface
 
@@ -242,17 +242,21 @@ A helpful analogy is a material that has been permanently reshaped. If a rubber 
 
 This is why protons do not expand or revert to their earlier positron-like form in low-density regions. Once formed, they remain in this metastable, highly compressed state everywhere in the universe — except in extremely intense environments, such as the cores of active galactic nuclei, where even this tightly bound mode can be destabilized. The details of standing wave destruction are covered in section 4.
 
-### 2.7 The Neutron: Paired Standing Waves in a Combined Mode
+### 2.7 The Neutron: A Paired Standing Wave That Only Survives in Nuclei
 
-A **neutron** forms when a proton-like lag-mode structure and an electron-like lead-mode structure combine into a single, phase-locked standing wave.
-This combined mode:
+A neutron can be understood as a **paired standing-wave structure** formed when a compact lag-mode configuration (proton-like) binds together with a lead-mode configuration (electron-like) in a tightly coordinated, phase-locked arrangement. Instead of existing as two separate standing waves, the oscillations synchronize into a single combined mode.
 
-* Has **balanced chirality**
-* Produces a **less sharply peaked LCM compression gradient** than a proton
-* Is **neutral** with respect to electric effects (compression fields partially cancel)
-* Is stable **only inside nuclei**, where LCM and GCM conditions support the paired structure
+This combined mode has several important properties:
 
-Outside a nucleus, the neutron’s combined mode is unstable and decays into a proton, electron, and a release into the LCM (a neutrino-like disturbance).
+* **Balanced chirality:** The opposite handedness of the two components cancels out, giving the neutron no net geometric twist.
+* **A softer compression field:** Because the proton’s strong inward compression is partially offset by the electron-like outward tendency of the lead-mode, the neutron produces a **less sharply peaked LCM compression gradient** than a proton.
+* **Electrical neutrality:** The opposing compression patterns cancel most of their long-range effects, producing a particle with no net electric charge.
+
+However, this balance is delicate. The neutron exists in a kind of internal tension: the proton-like part wants to stay tightly compressed, while the lead-mode part prefers a looser environment. Only inside atomic nuclei—where the surrounding LCM is already under significant compression and where GCM shadowing is strong enough to stabilize the paired structure—does this combined oscillation remain fully bound.
+
+Outside the nucleus, the environment is too low-density and the stabilizing forces too weak. The two modes cannot remain locked together, and the neutron gradually unravels. The proton-like component stays intact, the lead-mode escapes as an electron, and the remaining structural imbalance is released as a small pulse into the LCM—a neutrino-like disturbance.
+
+In this picture, the neutron is not a fundamental object but a **temporary cooperative state** made possible by the special conditions inside nuclei. Its instability in free space follows directly from the way the two modes compete rather than reinforce each other when removed from the nuclear environment.
 
 ## 3. Forces as Medium Interactions
 
@@ -760,12 +764,83 @@ The purpose here is not to adjudicate that debate, but to show that within the i
 This sets the stage for the next section:
 **4.8 Quantized Intrinsic Redshift**, which follows naturally from the standing-wave structure of matter in 2MM.
 
+## 5. Relativity
+
+Relativity is often introduced through the language of *spacetime curvature*—a mathematical surface that bends and twists in response to mass and energy. For many people, this picture feels abstract and untethered from anything physical. “Curved spacetime” is something you can calculate, but not something you can visualize or touch.
+
+### 5.1 Space-Time is Real
+
+In the 2MM framework a key insight is that everything normally attributed to “spacetime” can be understood in much simpler, more concrete terms if **the LCM itself *is* what we experience as space and time.**
+Not metaphorically. Literally.
+
+The LCM is a physical, elastic medium.
+It fills all of space.
+It can be compressed, stretched, and shaped by energy and matter.
+And we — made of standing waves in that medium — are part of it.
+
+Under this interpretation, relativity becomes natural rather than abstract:
+
+* **Mass doesn’t “curve spacetime.”**
+  Mass simply compresses the LCM. Those compression gradients *are* the curvature.
+
+* **Gravity isn’t a mysterious bending of geometry.**
+  It is the result of the GCM flux pushing on regions where the LCM has been compressed by standing-wave particles. The momentum flow follows the gradient of LCM density — which is exactly what Einstein’s field equations describe, just in a different language.
+
+* **Time dilation isn’t some strange slowing of clocks.**
+  Time slows down because **light waves take longer to propagate through compressed LCM**, and every process in our bodies depends on those waves. If the medium compresses, the speed of light *in that medium* decreases — and because we are made of the medium’s standing waves, *we slow down with it.*
+  From the inside, everything still seems normal, because our measuring devices and biological processes slow in perfect sync with the light.
+
+* **The speed of light appears constant because we can’t step outside the medium to compare.**
+  We only ever measure light using tools made of the same LCM. If the medium thickens or thins, our clocks thicken or thin with it. We never notice the change.
+
+This resolves one of relativity’s most confusing aspects:
+Why does the speed of light seem constant from all perspectives, even when intuition says it shouldn’t be?
+
+In 2MM, the answer is simple:
+
+> **We are creatures of the LCM.
+> Everything we can measure, know, or experience is bound to the properties of this medium.
+> We cannot perceive the LCM directly, because doing so would be like trying to look at our own eyes without a mirror.**
+
+From this viewpoint, relativity does not describe an abstract four-dimensional manifold. It describes the behavior of a real physical substrate under compression. Einstein’s equations remain correct in their predictions, but 2MM provides a different ontological picture: instead of bending “spacetime,” nature is reshaping the LCM, and we move, age, and measure within that reshaped medium.
+
+This makes relativity not an exotic distortion of geometry, but a simple consequence of the physics of waves in a compressible medium — the same medium that forms light, matter, and ourselves.
+
+### 5.2 Why Motion Through the LCM Causes Length Contraction
+
+When relativity is taught using spacetime diagrams, length contraction is often presented as a geometric effect: moving objects “shrink” along their direction of travel because of how coordinates transform. While mathematically precise, that explanation can feel abstract and disconnected from physical intuition.
+
+In the 2MM picture, length contraction emerges far more naturally. It is simply what happens when an object moves rapidly through a **real, compressible medium**: the LCM.
+
+As an object accelerates, it must push its way through the LCM. At low speeds this has almost no noticeable effect, but as the speed approaches the propagation speed of transverse waves in the LCM (what we call the speed of light), something important happens:
+the LCM begins to **pile up** in front of the object.
+
+This buildup creates a **directional compression gradient**:
+
+* **Higher LCM density ahead of the object**
+* **Normal LCM density behind it**
+
+This gradient grows steeper the faster the object moves. And because all matter in 2MM consists of standing waves stabilized by the surrounding LCM, a denser medium in front exerts a real, physical inward pressure on the wave structure.
+
+Crucially, there is **no pulling from behind**.
+The LCM behind the object is simply less compressed; it does not contribute actively to the contraction. Instead, it fails to counterbalance the inward pressure from the front. The net effect is a **one-sided squeezing force** along the direction of motion.
+
+From an outside observer’s perspective, the object is genuinely shortened — its entire structure is compressed along the direction of travel by the piling up of LCM ahead of it.
+
+But from the inside, nothing appears distorted.
+
+All internal rulers, atoms, and even the biochemical processes that constitute perception are made of the same standing waves immersed in the same LCM. When the medium compresses in one direction, **every component of the object compresses together**. No internal measurement reveals the contraction because the measuring instruments themselves contract by the same proportion.
+
+This perspective makes length contraction feel intuitive:
+
+> **Length contraction happens because fast motion through the LCM creates a directional compression gradient, and all matter — being made of LCM standing waves — must adapt to the compressed medium.**
+
+There is no paradox, no mystical geometric effect, and no need to imagine “shrinking” as an illusion. It is the straightforward mechanical response of waves interacting with a real medium.
+
 ---
 
 Sections below are a work in progress. More to come...
 
-## 5. Planetary-Scale Consequences
-## 6. Relativity
-## 7. Communication and SETI
-## 8. Strengths, Weaknesses, and Open Questions
-## 9. Purpose and Scope
+## 6. Communication and SETI
+## 7. Strengths, Weaknesses, and Open Questions
+## 8. Purpose and Scope
