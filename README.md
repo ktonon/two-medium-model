@@ -14,6 +14,10 @@ The Two-Medium Model begins with the assumption that the **observable physical u
 - [4. Cosmology in an Infinite Medium](#4-cosmology-in-an-infinite-medium)
 - [5. Relativity](#5-relativity)
 
+Separate pages:
+
+- [Hydrogen creation inside planets and moons](./earth-and-solar-system.md)
+
 # Preface
 
 This document is an attempt to answer a question that has interested me for many years: *Is it possible to build a coherent, medium-based picture of physics that connects phenomena across scales, from particles to cosmology, using simple and intuitive principles?*
