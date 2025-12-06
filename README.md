@@ -19,6 +19,7 @@ Separate pages:
 
 - [Hydrogen creation inside planets and moons](./earth-and-solar-system.md)
 - [Cosmological Redshift](./cosmological-redshift.md)
+- [Cosmic Background Radiation (CMB)](./cmb.md)
 
 # Preface
 
@@ -549,7 +550,7 @@ Thus, quasars appear in 2MM not as distant primordial objects, but as **localize
 
 For a detailed discussion of each, read these companion pages in order:
 - [Cosmological Redshift](./cosmological-redshift.md)
-- CMB: comming soon...
+- [Cosmic Background Radiation (CMB)](./cmb.md)
 
 ## 5. Relativity
 
