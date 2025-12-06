@@ -1,5 +1,9 @@
 # Momentum Flow in 2MM: Why Voids Flip the Sign
 
+What follows is an application of the Two-Medium Model (2MM) to the cosmological redshift problem. If you are new to the framework, the top-level [README](./README.md) provides an introduction to its core ideas.
+
+---
+
 The Two-Medium Model describes the universe as a dynamic balance between two interacting substrates:
 
 * the **GCM**, a sea of ultra-fast, ultra-small corpuscles,

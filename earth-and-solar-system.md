@@ -1,6 +1,6 @@
 # Earth and the Solar System
 
-What follows is an application of the Two-Medium Model (2MM) to Earth and the Solar System as a whole. If you are new to the framework, the top-level [README](./README.md) provides a concise introduction to its core ideas.
+What follows is an application of the Two-Medium Model (2MM) to Earth and the Solar System as a whole. If you are new to the framework, the top-level [README](./README.md) provides a introduction to its core ideas.
 
 - [A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out](#a-coherent-interior-how-2mm-reinterprets-the-earth-from-the-inside-out)
 - [A Solar System Reinterpreted Through 2MM](#a-solar-system-reinterpreted-through-2mm)
