@@ -435,7 +435,7 @@ At the same time, the neutron’s gentle compression gradient helps buffer the p
 
 In this view, the familiar “strong force” does not require a separate mechanism. It is simply the extreme end of the same balance between LCM compression and GCM shadowing that governs all interactions, made visible only when particles are pushed to distances where their compression fields and shadows interact at their steepest gradients. A proton–neutron pair is the only configuration that satisfies this balance. All nuclear structure—from deuterium to the heavy elements—emerges from combinations of these paired interactions and their geometric constraints.
 
-### **3.4 Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis**
+### 3.4 Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis
 
 In 2MM, gravity arises from **GCM shadowing**. Every standing wave—proton, neutron, or electron—interacts inelastically with the background GCM flux, reducing its intensity in the region directly behind it. When two masses face one another, each sits inside the other’s reduced-flux region and therefore receives slightly more inward momentum from the opposite side. The imbalance produces a **net inward push** that we interpret as gravitational attraction. On macroscopic scales, what we call “gravity” is simply the accumulated effect of countless such shadow interactions, structured by the LCM fields of the matter involved.
 
@@ -721,6 +721,47 @@ A particle in “superposition,” for example, isn’t an object in two places 
 Even the unsettling sense of non-locality changes character. The LCM adjusts quickly, but it floats on a background of GCM flux that operates on much smaller scales and much higher speeds. What looks instantaneous or acausal from our perspective may be nothing more than the LCM settling into a stable state under the influence of a far deeper medium we cannot directly sense.
 
 Seen this way, quantum weirdness becomes less a fundamental property of nature and more the signature of a **two-layer universe** in which observers are confined to the slower, coarser layer. We are instruments made of LCM waves trying to measure LCM waves. The universe is playing out richer dynamics below us—but we only ever see the shadows they cast on our medium.
+
+### 6.4 The Locality Problem and Photon Collapse
+
+One of the strangest questions in modern physics is this: *When a photon spreads out as a wave and then hits a detector, how does all of its energy end up in one tiny spot?*
+If its light spreads in all directions, why doesn’t the energy smear out everywhere? And when the photon shows up at a single point, why does every other place it could have landed instantly become irrelevant? People often call this a problem of “non-locality,” but the heart of the puzzle is simpler:
+**How does the photon know where to go, when nothing in the wave spreading outward seems to tell it?**
+
+The Two-Medium Model offers a way to understand this that feels physical rather than magical. And it begins long before the photon arrives.
+
+#### Setting the Stage: The GCM Shapes the Terrain
+
+Every piece of matter—every atom in a detector, every grain of the screen—casts tiny shadows in the deeper GCM medium. These shadows spread with unimaginable speed and sculpt a kind of invisible terrain throughout the surrounding space. Hills, valleys, channels, pockets—all defined by how matter distorts the GCM flux.
+
+From the viewpoint of the slower LCM, this terrain is simply *there*—settled long before the photon enters the experiment.
+
+#### The Photon Enters the Landscape
+
+What we call a photon is a small, structured packet traveling inside a much larger ripple in the LCM. The ripple expands widely, but the packet itself remains compact. It doesn’t fly outward in all directions—it follows a path defined by the LCM’s shape, which in turn is shaped by the GCM terrain.
+
+So as the photon moves toward the detector, it isn’t guessing where it will end up. It is moving through a landscape that has already been carved by the matter ahead of it.
+
+#### Capture Zones and Collapse
+
+In certain places near the detector, the GCM shadows create steep gradients and compress the LCM so strongly that the photon’s packet becomes unstable. These regions behave like “capture zones,” places where the photon cannot continue as a free wave. When the packet enters such a pocket, it breaks apart and transfers its energy to a local electron or atomic structure.
+
+Importantly, **only one of these capture zones matches the photon’s structure at any given moment.**
+The rest of the illuminated space—though reached by the ripple—was never a true candidate for collapse. Those places had no GCM-created pocket waiting to absorb the packet.
+
+#### Why Collapse Looks Instantaneous
+
+To us, bound to the slow-moving LCM, it seems as though a photon spread everywhere suddenly chooses one point in an instant. But in 2MM, nothing spreads everywhere except the ripple. The packet remains localized and simply follows the terrain. The moment it enters a capture zone, collapse happens. No faster-than-light signal is needed because nothing elsewhere ever had the packet to begin with.
+
+The appearance of “instantaneous collapse” is really just the moment when a photon falls into a trap that the universe prepared in advance.
+
+### 6.5 How 2MM Demystifies Quantum Behavior
+
+The photon’s collapse need not be framed as a mysterious choice or a global coordination problem. In the Two-Medium Model, it becomes the natural consequence of a deeper structure shaping the visible world. The GCM, operating at scales and speeds far beyond the LCM, quietly carves the landscape in which quantum events unfold. Matter shapes this hidden terrain in advance, and the photon’s packet simply follows its contours. The ripple may spread broadly, but the packet travels within a pre-sculpted channel, and the point of collapse is determined long before the photon arrives. The universe, in this view, behaves not like a gambler rolling dice, but like a valley guiding a traveler toward a single, inevitable destination.
+
+This behavior—one localized event emerging from an apparently delocalized wave—is not merely compatible with 2MM; it is one of the strongest indicators that a deeper medium must exist. The LCM cannot update itself instantaneously, yet collapse appears instantaneous. Rather than invoking nonlocal magic, 2MM offers a simpler explanation: the ultrafast GCM establishes the collapse geometry ahead of time. What looks like a paradox is actually a visible trace of this underlying substrate doing its work.
+
+What 2MM provides, then, is not a substitute for quantum mechanics, but a framework for understanding why quantum mechanics looks the way it does. Once we accept that the LCM is only one layer of a multi-medium universe, the familiar puzzles of locality, collapse, and “weirdness” no longer demand special interpretation. They fall naturally out of the interplay between a slow, wave-based medium and a deeper, faster one that shapes it. With that perspective in hand, the reader is free to reinterpret quantum experiments independently, using 2MM as a guide rather than a doctrine. The demystification comes not from new mathematics, but from a clearer sense of what the underlying architecture of reality might be.
 
 ---
 
