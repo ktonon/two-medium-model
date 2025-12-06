@@ -712,17 +712,7 @@ Thus Heisenberg uncertainty emerges as a **structural property of our medium**, 
 
 Thus, the “quantum limit” is a **boundary of LCM-based observers**, not of the universe as a whole.
 
-### 6.3 How this reframes quantum weirdness
-
-In the 2MM picture, quantum phenomena stop looking like deep mysteries and start looking like the natural limitations of living inside the LCM. Every particle, every detector, every photon we use to probe the world is a pattern carved out of the same medium. When we push toward smaller scales, we aren’t uncovering the fundamental workings of the universe—we’re pushing against the resolution limit of our own substrate.
-
-A particle in “superposition,” for example, isn’t an object in two places at once. It’s an LCM wave pattern that hasn’t yet been pinned down by local conditions—its shape still flexible, still compatible with multiple outcomes. What we call “collapse” is simply the moment when that pattern becomes anchored by a denser LCM region causing GCM-induced compression that forces it into a definite configuration.
-
-Even the unsettling sense of non-locality changes character. The LCM adjusts quickly, but it floats on a background of GCM flux that operates on much smaller scales and much higher speeds. What looks instantaneous or acausal from our perspective may be nothing more than the LCM settling into a stable state under the influence of a far deeper medium we cannot directly sense.
-
-Seen this way, quantum weirdness becomes less a fundamental property of nature and more the signature of a **two-layer universe** in which observers are confined to the slower, coarser layer. We are instruments made of LCM waves trying to measure LCM waves. The universe is playing out richer dynamics below us—but we only ever see the shadows they cast on our medium.
-
-### 6.4 The Locality Problem and Photon Collapse
+### 6.3 The Locality Problem and Photon Collapse
 
 One of the strangest questions in modern physics is this: *When a photon spreads out as a wave and then hits a detector, how does all of its energy end up in one tiny spot?*
 If its light spreads in all directions, why doesn’t the energy smear out everywhere? And when the photon shows up at a single point, why does every other place it could have landed instantly become irrelevant? People often call this a problem of “non-locality,” but the heart of the puzzle is simpler:
@@ -755,7 +745,7 @@ To us, bound to the slow-moving LCM, it seems as though a photon spread everywhe
 
 The appearance of “instantaneous collapse” is really just the moment when a photon falls into a trap that the universe prepared in advance.
 
-### 6.5 How 2MM Demystifies Quantum Behavior
+### 6.4 How 2MM Demystifies Quantum Behavior
 
 The photon’s collapse need not be framed as a mysterious choice or a global coordination problem. In the Two-Medium Model, it becomes the natural consequence of a deeper structure shaping the visible world. The GCM, operating at scales and speeds far beyond the LCM, quietly carves the landscape in which quantum events unfold. Matter shapes this hidden terrain in advance, and the photon’s packet simply follows its contours. The ripple may spread broadly, but the packet travels within a pre-sculpted channel, and the point of collapse is determined long before the photon arrives. The universe, in this view, behaves not like a gambler rolling dice, but like a valley guiding a traveler toward a single, inevitable destination.
 
