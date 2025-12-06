@@ -55,6 +55,7 @@ Although 2MM is not defined mathematically, it does make several qualitative pre
 3. **[Neutron destruction occurring inside active galactic nuclei](#42-agn-cores-neutron-destruction-and-charge-conserving-recycling)** (as part of the matter-recycling cycle)
 4. **[Quantized intrinsic redshift in quasars](#43-quasars-as-newly-formed-matter-in-the-two-medium-model)**, and their **physical association with parent AGN**
 5. **[SETI is unlikely to succeed](#54-absolute-time-the-gcm-and-faster-than-light-transmission)**, even if advanced civilizations exist
+6. **[Matter cannot hold its shape in the intergalactic voids](./cosmological-redshift.md)**
 
 Each of these will be discussed in greater detail in relevant sections below.
 
