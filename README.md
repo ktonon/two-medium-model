@@ -18,6 +18,7 @@ The Two-Medium Model begins with the assumption that the **observable physical u
 Separate pages:
 
 - [Hydrogen creation inside planets and moons](./earth-and-solar-system.md)
+- [Cosmological Redshift](./cosmological-redshift.md)
 
 # Preface
 
@@ -536,13 +537,19 @@ In this picture, **AGN function as matter recyclers**: their outer regions can c
 
 ### 4.3 Quasars as Newly Formed Matter in the Two-Medium Model
 
-In 2MM, regions of extremely high LCM compression can both **destroy** matter (deep in AGN cores) and **create** new matter (where high-frequency LCM waves break). If neutron destruction releases intense bursts of high-frequency radiation, then wherever that radiation encounters a *local increase* in LCM density, wave collapse can occur and new standing waves—electrons, protons, and sometimes neutrons—can form.
+In 2MM, regions of extremely high LCM compression can both **destroy** matter (deep in AGN cores) and **create** new matter (where high-frequency LCM waves collapse). If neutron destruction releases intense bursts of high-frequency radiation, then wherever that radiation encounters a *local increase* in LCM density, wave collapse can occur and new standing waves—electrons, protons, and sometimes neutrons—can form.
 
 The most natural astrophysical site for this is the **base of AGN jets**. Magnetic pinching, gravitational focusing, and collimation all produce a temporary compression bottleneck. As outgoing radiation from the AGN core passes through this region, it blueshifts into a denser LCM environment where wave collapse thresholds can be exceeded. This converts part of the outgoing energy into compact packets of newly formed matter.
 
 In the 2MM framework, these compact, high-energy newborn structures correspond observationally to **quasars**. Their high redshift follows naturally: quasars originate in unusually steep LCM compression gradients, so the light they emit must climb out of a deeper “compression well” than light from their parent galaxy. As they travel outward along the jet into regions of lower compression, their internal standing-wave modes relax, and their observed redshift gradually decreases—an effect long noted in quasar–AGN associations.
 
 Thus, quasars appear in 2MM not as distant primordial objects, but as **localized bursts of newly created matter** formed where AGN outflows pass through temporary spikes in LCM density. This interpretation provides a simple physical link between AGN activity, matter recycling, and the unusually high redshifts associated with quasars.
+
+### 4.4 What about Cosmological Redshift and the CMB?
+
+For a detailed discussion of each, read these companion pages in order:
+- [Cosmological Redshift](./cosmological-redshift.md)
+- CMB: comming soon...
 
 ## 5. Relativity
 
