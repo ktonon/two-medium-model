@@ -1,5 +1,7 @@
 # Two Medium Model (2MM)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17843932.svg)](https://doi.org/10.5281/zenodo.17843932)
+
 The Two-Medium Model begins with the assumption that the **observable physical universe** is shaped by the interaction of two substrates: a wave-supporting **Light-Carrying Medium** (LCM) and a momentum-carrying **Gravity-Carrying Medium** (GCM). From the interplay of these media arise the behaviors we interpret as forces, as well as the stable standing-wave structures we call matter. In this framework, the familiar “fundamental forces” and the basic architecture of particles are not independent ingredients but **derived consequences** of how the two media influence one another.
 
 # Table of Contents
