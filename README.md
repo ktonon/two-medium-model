@@ -755,6 +755,12 @@ To us, bound to the slow-moving LCM, it seems as though a photon spread everywhe
 
 The appearance of “instantaneous collapse” is really just the moment when a photon falls into a trap that the universe prepared in advance.
 
+> **Acknowledgment: Paul Marmet**
+>
+> I owe a particular debt to Paul Marmet, whose book *Absurdities in Modern Physics: A Solution* sharpened my understanding of the locality problem. Marmet emphasized a fundamental puzzle: how can the energy of a radially expanding wavefront collapse into a single point upon detection? His proposed resolution—considering the reference frame of the light wave itself, for which vast spatial separations contract and exchanges across light-years become instantaneous—was the first conceptual approach I encountered that truly confronted the paradox head-on. It suggested that distant regions of the universe are connected in ways our normal intuition obscures.
+>
+> In the context of the Two-Medium Model, this insight takes on a new interpretation. The connection is not instantaneous, nor does it require shifting to the “frame of the photon,” but arises from the influence of the ultra-fast GCM shaping the collapse conditions far in advance. Marmet’s work was an early signal that locality, as usually understood, is insufficient—and that a deeper, layered medium might be necessary to make sense of how the universe actually behaves.
+
 ### 6.4 How 2MM Demystifies Quantum Behavior
 
 The photon’s collapse need not be framed as a mysterious choice or a global coordination problem. In the Two-Medium Model, it becomes the natural consequence of a deeper structure shaping the visible world. The GCM, operating at scales and speeds far beyond the LCM, quietly carves the landscape in which quantum events unfold. Matter shapes this hidden terrain in advance, and the photon’s packet simply follows its contours. The ripple may spread broadly, but the packet travels within a pre-sculpted channel, and the point of collapse is determined long before the photon arrives. The universe, in this view, behaves not like a gambler rolling dice, but like a valley guiding a traveler toward a single, inevitable destination.
