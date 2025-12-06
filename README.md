@@ -20,6 +20,7 @@ Separate pages:
 - [Hydrogen creation inside planets and moons](./earth-and-solar-system.md)
 - [Cosmological Redshift](./cosmological-redshift.md)
 - [Cosmic Background Radiation (CMB)](./cmb.md)
+- Dark Matter and Galaxy Rotations (coming soon...)
 
 # Preface
 
