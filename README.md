@@ -29,30 +29,31 @@ formalization and testing.
 - [Introduction](#introduction)
 - [Predictions](#predictions)
 - [Core Ontology: Two Interacting
-  Media](#core-ontology)
+  Media](#core-ontology-two-interacting-media)
   - [The LCM: A Medium for Waves and
     Matter](#the-lcm-a-medium-for-waves-and-matter)
   - [The GCM: A Fast Flux That Generates
     Forces](#the-gcm-a-fast-flux-that-generates-forces)
   - [Very Different Scales: Why Two Media Can
     Coexist](#very-different-scales-why-two-media-can-coexist)
-- [Matter as Standing Waves in the LCM](#matter)
+- [Matter as Standing Waves in the
+  LCM](#matter-as-standing-waves-in-the-lcm)
   - [Pair Production as a GCM-Induced
     Collapse](#pair-production-as-a-gcm-induced-collapse)
   - [Frequency, Compression, and the Threshold for
-    Collapse](#22-frequency-compression-and-the-threshold-for-collapse)
+    Collapse](#frequency-compression-and-the-threshold-for-collapse)
   - [Dual-Mode Helical Standing Waves: The Structure of
-    Matter](#23-dual-mode-helical-standing-waves-the-structure-of-matter)
+    Matter](#dual-mode-helical-standing-waves-the-structure-of-matter)
   - [The Origin of LCM Compression
-    Fields](#24-the-origin-of-lcm-compression-fields)
+    Fields](#the-origin-of-lcm-compression-fields)
   - [The Proton: Why the Lag-Mode Collapses in Dense
-    LCM](#25-the-proton-why-the-lag-mode-collapses-in-dense-lcm)
+    LCM](#the-proton-why-the-lag-mode-collapses-in-dense-lcm)
   - [Why the Proton Remains Compressed in Low-Density
-    LCM](#26-why-the-proton-remains-compressed-in-low-density-lcm)
+    LCM](#why-the-proton-remains-compressed-in-low-density-lcm)
   - [The Neutron: A Paired Standing-Wave
-    Structure](#27-the-neutron-a-paired-standing-wave-structure)
+    Structure](#the-neutron-a-paired-standing-wave-structure)
 - [Interactions: How Forces Arise from the Two
-  Media](#3-interactions-how-forces-arise-from-the-two-media)
+  Media](#interactions-how-forces-arise-from-the-two-media)
   - [Electrostatic Forces: Compression Geometry and GCM
     Support](#electrostatic-forces-compression-geometry-and-gcm-support)
   - [Magnetic Forces: Torsion, Motion, and Collective
@@ -62,35 +63,35 @@ formalization and testing.
   - [Gravity: Long-Range GCM Shadowing and the Resolution of the Heat
     Crisis](#gravity-long-range-gcm-shadowing-and-the-resolution-of-the-heat-crisis)
 - [Cosmology in an Infinite
-  Medium](#4-cosmology-in-an-infinite-medium)
+  Medium](#cosmology-in-an-infinite-medium)
   - [4.1 Neutron Stars: Extreme Compression Without Matter
-    Destruction](#41-neutron-stars-extreme-compression-without-matter-destruction)
+    Destruction](#neutron-stars-extreme-compression-without-matter-destruction)
   - [4.2 AGN Cores: Neutron Destruction and Charge-Conserving
-    Recycling](#42-agn-cores-neutron-destruction-and-charge-conserving-recycling)
+    Recycling](#agn-cores-neutron-destruction-and-charge-conserving-recycling)
   - [4.3 Quasars as Newly Formed Matter in the Two-Medium
-    Model](#43-quasars-as-newly-formed-matter-in-the-two-medium-model)
+    Model](#quasars-as-newly-formed-matter-in-the-two-medium-model)
   - [4.4 What about Cosmological Redshift and the
-    CMB?](#44-what-about-cosmological-redshift-and-the-cmb)
-- [Relativity](#5-relativity)
+    CMB?](#what-about-cosmological-redshift-and-the-cmb)
+- [Relativity](#relativity)
   - [5.1 Space-Time is
-    Real](#51-space-time-is-real)
+    Real](#space-time-is-real)
   - [5.2 Why Motion Through the LCM Causes Length
-    Contraction](#52-why-motion-through-the-lcm-causes-length-contraction)
+    Contraction](#why-motion-through-the-lcm-causes-length-contraction)
   - [5.3 Mutual Causation in the Two
-    Media](#53-mutual-causation-in-the-two-media)
+    Media](#mutual-causation-in-the-two-media)
   - [5.4 Absolute Time, the GCM, and Faster-Than-Light
-    Transmission](#54-absolute-time-the-gcm-and-faster-than-light-transmission)
+    Transmission](#absolute-time-the-gcm-and-faster-than-light-transmission)
   - [5.5 Oumuamua as an Illustration of GCM Shielding
-    (Speculative)](#55-oumuamua-as-an-illustration-of-gcm-shielding-speculative)
-- [The Quantum Realm](#6-the-quantum-realm)
+    (Speculative)](#oumuamua-as-an-illustration-of-gcm-shielding-speculative)
+- [The Quantum Realm](#the-quantum-realm)
   - [6.1 Why "quantum weirdness" shows
-    up](#61-why-quantum-weirdness-shows-up)
+    up](#why-quantum-weirdness-shows-up)
   - [6.2 Why this is not the whole
-    story](#62-why-this-is-not-the-whole-story)
+    story](#why-this-is-not-the-whole-story)
   - [6.3 The Locality Problem and Photon
-    Collapse](#63-the-locality-problem-and-photon-collapse)
+    Collapse](#the-locality-problem-and-photon-collapse)
   - [6.4 How 2MM Demystifies Quantum
-    Behavior](#64-how-2mm-demystifies-quantum-behavior)
+    Behavior](#how-2mm-demystifies-quantum-behavior)
   - [The Cosmic Microwave Background in an Infinite 2MM
     Universe](#the-cosmic-microwave-background-in-an-infinite-2mm-universe)
   - [Momentum Flow in 2MM: Why Voids Flip the
@@ -225,7 +226,7 @@ particle structure, and the matter-creation/destruction cycle.
 Each of these will be discussed in greater detail in relevant sections
 below.
 
- Core Ontology: Two Interacting Media 
+# Core Ontology: Two Interacting Media
 
 The Two-Medium Model begins with a simple idea: the physical world
 arises from the interaction of two different substrates. One medium
@@ -341,7 +342,7 @@ to produce all familiar interactions. The extreme smallness and high
 speed of the GCM particles are what make it possible for the two media
 to coexist and yet play very different physical roles.
 
- Matter as Standing Waves in the LCM 
+# Matter as Standing Waves in the LCM
 
 Many earlier physical models have attempted to describe matter as some
 form of localized wave. Classical ether theories imagined particles as
@@ -453,7 +454,7 @@ by the **GCM enforcing a new equilibrium** when a traveling wave becomes
 too compact to remain transparent. Matter arises from the interaction
 between the two media at a sharp threshold of opacity.
 
-# Frequency, Compression, and the Threshold for Collapse 
+## Frequency, Compression, and the Threshold for Collapse
 
 A key consequence of this picture is that the stability of light depends
 on its transparency to the GCM. At low frequencies, LCM waves are
@@ -508,7 +509,7 @@ narrative consistent with your revised GCM-driven collapse model.
 
 You can paste this version directly into your document.
 
-# Dual-Mode Helical Standing Waves: The Structure of Matter 
+## Dual-Mode Helical Standing Waves: The Structure of Matter
 
 Once a high-frequency LCM wave becomes sufficiently opaque to the GCM,
 the resulting shadow forces the wave to collapse into a tightly
@@ -578,7 +579,7 @@ the feedback loop between the LCM and GCM. Their form is the direct
 outcome of the symmetry and dynamics of collapse at the threshold where
 a high-frequency wave becomes opaque to the GCM.
 
-# The Origin of LCM Compression Fields 
+## The Origin of LCM Compression Fields
 
 When a traveling LCM wave collapses into a helical standing-wave
 particle, its energy becomes highly concentrated. This concentration
@@ -654,7 +655,7 @@ Matter's "fields" are therefore not separate entities but the natural
 medium distortions required to confine a standing wave in a dual-medium
 universe.
 
-# The Proton: Why the Lag-Mode Collapses in Dense LCM 
+## The Proton: Why the Lag-Mode Collapses in Dense LCM
 
 The electron and positron arise when a high-frequency LCM wave becomes
 opaque to the GCM and collapses into two helical standing-wave modes.
@@ -743,7 +744,7 @@ how it shapes the evolution of planets and moons---is presented in the
 companion page [Earth and the Solar
 System](https://github.com/ktonon/two-medium-model/blob/main/earth-and-solar-system.md).
 
-# Why the Proton Remains Compressed in Low-Density LCM 
+## Why the Proton Remains Compressed in Low-Density LCM
 
 Once the lag-mode standing wave undergoes secondary collapse and
 reorganizes into the compact helical structure we identify as the
@@ -821,7 +822,7 @@ The proton is therefore a **metastable collapsed state**, one that
 remains compact everywhere in the universe except under the most extreme
 GCM conditions (such as within the cores of active galactic nuclei).
 
-# The Neutron: A Paired Standing-Wave Structure 
+## The Neutron: A Paired Standing-Wave Structure
 
 With the proton and electron understood as two distinct helical
 standing-wave modes stabilized by GCM confinement, the neutron can be
@@ -919,7 +920,7 @@ predictable ratios, and why certain isotopes exist while others do
 not---a topic explored in detail later when discussing nuclear binding
 and the strong force.
 
- Interactions: How Forces Arise from the Two Media 
+# Interactions: How Forces Arise from the Two Media
 
 With the structure of matter established, the next step is to understand
 how matter **interacts**. In 2MM, there are no separate "fundamental
@@ -1222,7 +1223,7 @@ than accumulating as unbounded thermal energy.
 > found at [Earth and the Solar
 > System](https://github.com/ktonon/two-medium-model/blob/main/earth-and-solar-system.md).
 
- Cosmology in an Infinite Medium 
+# Cosmology in an Infinite Medium
 
 Up to this point, the Two-Medium Model has focused on waves, particles,
 and forces. But these ideas rest on a broader cosmological backdrop that
@@ -1248,7 +1249,7 @@ chosen cosmological framework** of 2MM. It becomes a counterpart to
 matter creation, ensuring that the two-media system can maintain
 long-term balance.
 
-# 4.1 Neutron Stars: Extreme Compression Without Matter Destruction 
+## 4.1 Neutron Stars: Extreme Compression Without Matter Destruction
 
 Before talking about true matter destruction, it helps to look at a case
 that is already part of mainstream physics: the **neutron star**.
@@ -1315,7 +1316,7 @@ without violating charge conservation.
 This sets the stage for the next step: what happens when the environment
 is even more extreme than a neutron star.
 
-# 4.2 AGN Cores: Neutron Destruction and Charge-Conserving Recycling 
+## 4.2 AGN Cores: Neutron Destruction and Charge-Conserving Recycling
 
 In an infinite, steady-state universe, matter cannot simply accumulate.
 If new standing waves can form in regions of high LCM compression, then
@@ -1368,7 +1369,7 @@ In this picture, **AGN function as matter recyclers**: their outer
 regions can create new standing waves, while their inner cores dismantle
 old ones, maintaining balance in an infinite, ongoing universe.
 
-# 4.3 Quasars as Newly Formed Matter in the Two-Medium Model 
+## 4.3 Quasars as Newly Formed Matter in the Two-Medium Model
 
 In 2MM, regions of extremely high LCM compression can both **destroy**
 matter (deep in AGN cores) and **create** new matter (where
@@ -1401,7 +1402,7 @@ pass through temporary spikes in LCM density. This interpretation
 provides a simple physical link between AGN activity, matter recycling,
 and the unusually high redshifts associated with quasars.
 
-# 4.4 What about Cosmological Redshift and the CMB? 
+## 4.4 What about Cosmological Redshift and the CMB?
 
 For a detailed discussion of each, read these companion pages in order:
 
@@ -1411,7 +1412,7 @@ For a detailed discussion of each, read these companion pages in order:
 - [Cosmic Background Radiation
   (CMB)](https://github.com/ktonon/two-medium-model/blob/main/cmb.md)
 
- Relativity 
+# Relativity
 
 Relativity is often introduced through the language of *spacetime
 curvature*---a mathematical surface that bends and twists in response to
@@ -1419,7 +1420,7 @@ mass and energy. For many people, this picture feels abstract and
 untethered from anything physical. "Curved spacetime" is something you
 can calculate, but not something you can visualize or touch.
 
-# 5.1 Space-Time is Real 
+## 5.1 Space-Time is Real
 
 In the 2MM framework a key insight is that everything normally
 attributed to "spacetime" can be understood in much simpler, more
@@ -1478,7 +1479,7 @@ This makes relativity not an exotic distortion of geometry, but a simple
 consequence of the physics of waves in a compressible medium --- the
 same medium that forms light, matter, and ourselves.
 
-# 5.2 Why Motion Through the LCM Causes Length Contraction 
+## 5.2 Why Motion Through the LCM Causes Length Contraction
 
 When relativity is taught using spacetime diagrams, length contraction
 is often presented as a geometric effect: moving objects "shrink" along
@@ -1536,7 +1537,7 @@ There is no paradox, no mystical geometric effect, and no need to
 imagine "shrinking" as an illusion. It is the straightforward mechanical
 response of waves interacting with a real medium.
 
-# 5.3 Mutual Causation in the Two Media 
+## 5.3 Mutual Causation in the Two Media
 
 Any elastic-aether model naturally interprets spacetime curvature as
 variations in the density or tension of the medium itself. What 2MM adds
@@ -1565,7 +1566,7 @@ something that starts and then evolves; it is something that
 *self-maintains*, with structure emerging continually from the ongoing
 reciprocity between the LCM and GCM.
 
-# 5.4 Absolute Time, the GCM, and Faster-Than-Light Transmission 
+## 5.4 Absolute Time, the GCM, and Faster-Than-Light Transmission
 
 In 2MM, the presence of the GCM introduces a deeper notion of **absolute
 time**---a timebase that exists independently of the LCM processes that
@@ -1641,7 +1642,7 @@ In this light, SETI's silence may be a clue rather than a contradiction:
 advanced civilizations might be speaking in a medium we are not yet
 listening to.
 
-# 5.5 Oumuamua as an Illustration of GCM Shielding (Speculative) 
+## 5.5 Oumuamua as an Illustration of GCM Shielding (Speculative)
 
 'Oumuamua's unusual properties---its extreme elongation, lack of
 outgassing, and complex tumbling---have made it a persistent point of
@@ -1680,7 +1681,7 @@ varying GCM signatures** --- signatures that would be invisible
 electromagnetically but potentially detectable in a theory where GCM
 shielding plays a meaningful role.
 
- The Quantum Realm 
+# The Quantum Realm
 
 Recall that 2MM starts with the assumption that the universe has at
 least 2 distinct mediums.
@@ -1701,7 +1702,7 @@ The *interaction* between those two is what gives us mass, inertia,
 charge asymmetry, nuclear structure, planetary growth, AGN destruction,
 and so on.
 
-# 6.1 Why "quantum weirdness" shows up 
+## 6.1 Why "quantum weirdness" shows up
 
 In 2MM, every form of detectable matter---including the apparatus doing
 the detecting---is a **composite standing-wave pattern** in the LCM.
@@ -1721,7 +1722,7 @@ that medium:
 Thus Heisenberg uncertainty emerges as a **structural property of our
 medium**, not a universal principle of existence.
 
-# 6.2 Why this is not the whole story 
+## 6.2 Why this is not the whole story
 
 2MM already assumes the LCM cannot be the entire universe. The
 Copenhagen interpretation is not describing the deepest layer of
@@ -1740,7 +1741,7 @@ It leaves out:
 Thus, the "quantum limit" is a **boundary of LCM-based observers**, not
 of the universe as a whole.
 
-# 6.3 The Locality Problem and Photon Collapse 
+## 6.3 The Locality Problem and Photon Collapse
 
 One of the strangest questions in modern physics is this: *When a photon
 spreads out as a wave and then hits a detector, how does all of its
@@ -1826,7 +1827,7 @@ when a photon falls into a trap that the universe prepared in advance.
 > understood, is insufficient---and that a deeper, layered medium might
 > be necessary to make sense of how the universe actually behaves.
 
-# 6.4 How 2MM Demystifies Quantum Behavior 
+## 6.4 How 2MM Demystifies Quantum Behavior
 
 The photon's collapse need not be framed as a mysterious choice or a
 global coordination problem. In the Two-Medium Model, it becomes the
@@ -1881,7 +1882,7 @@ naturally, without invoking a Big Bang or cosmic expansion. The answers
 follow directly from the way light behaves as it travels through the
 low-density LCM of intergalactic voids.
 
-## The Starting Point: Olbers' Paradox in an Infinite Universe 
+### The Starting Point: Olbers' Paradox in an Infinite Universe
 
 Olbers' paradox is simple: If the universe is infinite and filled with
 stars, then every line of sight should eventually encounter a star.
@@ -1912,7 +1913,7 @@ consistent with:
 The solution actually follows directly from the [redshift
 mechanism](https://github.com/ktonon/two-medium-model/blob/main/cosmological-redshift.md).
 
-## Light Traveling Through Voids: A Slow Energy Drift 
+### Light Traveling Through Voids: A Slow Energy Drift
 
 In the 2MM, photons traveling through intergalactic voids pass through
 extremely low-density LCM. In these regions, the GCM flux has been
@@ -1936,7 +1937,7 @@ Crucially:
 This is the 2MM explanation for cosmological redshift: **A photon
 gradually cools as it traverses low-density, weak-flux environments.**
 
-## Applying This Mechanism to an Infinite Universe 
+### Applying This Mechanism to an Infinite Universe
 
 Now imagine all the starlight in an infinite cosmos subject to this
 effect.
@@ -1965,7 +1966,7 @@ This alone eliminates Olbers' paradox:
 No finite-age universe is required. No expanding metric is required.
 Redshift alone does the job.
 
-## Where Does the Lost Energy Go? 
+### Where Does the Lost Energy Go?
 
 Energy cannot simply disappear. Every redshifted photon has given up its
 energy to the GCM flux in voids.
@@ -1997,7 +1998,7 @@ reflects the balance between:
 
 This glow is what we observe as the cosmic microwave background.
 
-## The CMB as the Equilibrium Temperature of Voids 
+### The CMB as the Equilibrium Temperature of Voids
 
 In the 2MM picture, the CMB is not a relic of a hot beginning. It is:
 
@@ -2017,7 +2018,7 @@ A medium that continually exchanges energy between two coupled fields
 (GCM and LCM) inevitably reaches a thermal distribution. The resulting
 equilibrium spectrum is a blackbody.
 
-### Temperature (\~2.7 K) 
+#### Temperature (\~2.7 K)
 
 This is simply the equilibrium point where:
 
@@ -2030,7 +2031,7 @@ This is simply the equilibrium point where:
 The temperature does not encode the age of the universe; it encodes
 **the balance point of an infinitely old system.**
 
-## A Universe Maintained by Voids 
+### A Universe Maintained by Voids
 
 In this view, voids serve a critical cosmological role:
 
@@ -2046,7 +2047,7 @@ In this view, voids serve a critical cosmological role:
 Thus the CMB is not a leftover from a fireball. It is the ongoing
 whisper of an infinite universe maintaining its internal balance.
 
-## The Clean Aesthetic of the 2MM Solution 
+### The Clean Aesthetic of the 2MM Solution
 
 What makes this explanation compelling is its simplicity:
 
@@ -2087,7 +2088,7 @@ This section explores how that change in momentum flow both solves the
 cosmological redshift problem and closes the energy loop needed to keep
 an infinite universe in equilibrium.
 
-## Two Coupled Energy Reservoirs 
+### Two Coupled Energy Reservoirs
 
 At its core, the GCM--LCM system behaves like two connected energy
 reservoirs. Each one can be "hotter" or "colder" than the other, not in
@@ -2105,7 +2106,7 @@ The direction is not arbitrary---it is set by the environment. Dense
 regions always favor the first case. Deep voids naturally fall into the
 second.
 
-## Dense LCM Regions: Where the GCM Loses Energy 
+### Dense LCM Regions: Where the GCM Loses Energy
 
 Inside galaxies, the LCM is highly compressed and structured. Atoms,
 stars, and gas clouds are all standing-wave configurations that require
@@ -2121,7 +2122,7 @@ These environments act as **GCM sinks**---draining flux energy to
 support matter, maintain gravitational wells, and heat galactic
 interiors.
 
-## The Problem With an Infinite Universe 
+### The Problem With an Infinite Universe
 
 If the GCM only ever loses energy in dense regions, then an infinite
 universe cannot remain in equilibrium. Over long timescales, the flux
@@ -2138,7 +2139,7 @@ For that to be possible, the direction of momentum flow must reverse
 
 And there is only one natural place: the vast **intergalactic voids**.
 
-## Voids: Where the Flux Runs Thin 
+### Voids: Where the Flux Runs Thin
 
 By the time GCM corpuscles leave a galaxy and drift into a void, they
 have been weakened by countless inelastic collisions. Their flux is
@@ -2158,7 +2159,7 @@ This is the missing recharge mechanism. Even in an infinite universe,
 the GCM no longer decays away---it is continuously replenished wherever
 the flux has fallen below equilibrium strength.
 
-## The Role of Photons: A Gentle, Forward-Coherent Transfer 
+### The Role of Photons: A Gentle, Forward-Coherent Transfer
 
 Light plays an especially important role in this environment.
 
@@ -2196,7 +2197,7 @@ magical "tired light" guess. It is the natural consequence of an
 ultra-weak energy flow from LCM → GCM in zones where the flux has fallen
 below equilibrium strength.
 
-## Voids as the Universe's Reset Mechanisms 
+### Voids as the Universe's Reset Mechanisms
 
 Taken together, these insights reveal a satisfying, self-contained
 cosmological loop:
@@ -2219,7 +2220,7 @@ Voids are not empty---they are **maintenance zones**, the regions where
 the universe restores the strength of the GCM that galaxies have
 drained.
 
-## A Future Predictive Handle 
+### A Future Predictive Handle
 
 Because voids are where the flux recharges, and galaxies are where it
 drains, the geometry of the universe---the spacing of galaxies, the size
