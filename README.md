@@ -53,15 +53,14 @@ formalization and testing.
     Structure](#27-the-neutron-a-paired-standing-wave-structure)
 - [Interactions: How Forces Arise from the Two
   Media](#3-interactions-how-forces-arise-from-the-two-media)
-  - [3.1 Electrostatic Forces: Compression Geometry and GCM
-    Support](#31-electrostatic-forces-compression-geometry-and-gcm-support)
-  - [3.2 Magnetic Forces: Torsion, Motion, and Collective
-    Alignment](#32-magnetic-forces-torsion-motion-and-collective-alignment)
-  - [3.3 Nuclear Structure: Why Only Proton--Neutron Pairs
-    Bind](#33-nuclear-structure-why-only-protonneutron-pairs-bind)
-  - [3.4 Gravity: Long-Range GCM Shadowing and the Resolution of the
-    Heat
-    Crisis](#34-gravity-long-range-gcm-shadowing-and-the-resolution-of-the-heat-crisis)
+  - [Electrostatic Forces: Compression Geometry and GCM
+    Support](#electrostatic-forces-compression-geometry-and-gcm-support)
+  - [Magnetic Forces: Torsion, Motion, and Collective
+    Alignment](#magnetic-forces-torsion-motion-and-collective-alignment)
+  - [Nuclear Structure: Why Only Proton--Neutron Pairs
+    Bind](#nuclear-structure-why-only-protonneutron-pairs-bind)
+  - [Gravity: Long-Range GCM Shadowing and the Resolution of the Heat
+    Crisis](#gravity-long-range-gcm-shadowing-and-the-resolution-of-the-heat-crisis)
 - [Cosmology in an Infinite
   Medium](#4-cosmology-in-an-infinite-medium)
   - [4.1 Neutron Stars: Extreme Compression Without Matter
@@ -965,7 +964,7 @@ forces are simply different geometric outcomes of how particles and
 their compression fields shape, redirect, or obstruct the continual
 movement of the GCM through the LCM.
 
-# 3.1 Electrostatic Forces: Compression Geometry and GCM Support 
+## Electrostatic Forces: Compression Geometry and GCM Support
 
 Electrostatic behavior emerges naturally once particles are understood
 as localized distortions in the LCM. Each charged particle produces a
@@ -1010,7 +1009,7 @@ mathematical treatment. What matters for now is that electrostatic
 forces need no separate postulate: they follow directly from how the two
 media respond when compression fields overlap.
 
-# 3.2 Magnetic Forces: Torsion, Motion, and Collective Alignment 
+## Magnetic Forces: Torsion, Motion, and Collective Alignment
 
 Magnetic behavior in 2MM follows directly from the **torsional
 component** of the electron's helical standing-wave structure. Even when
@@ -1079,7 +1078,7 @@ strengthens the case that helicity is not an arbitrary choice in 2MM but
 a recurring, scale-independent feature of how the two media prefer to
 arrange flowing energy.
 
-# 3.3 Nuclear Structure: Why Only Proton--Neutron Pairs Bind 
+## Nuclear Structure: Why Only Proton--Neutron Pairs Bind
 
 In 2MM, nuclear binding arises from the same interplay of LCM
 compression fields and GCM shadowing that governs all other
@@ -1136,7 +1135,7 @@ balance. All nuclear structure---from deuterium to the heavy
 elements---emerges from combinations of these paired interactions and
 their geometric constraints.
 
-# 3.4 Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis 
+## Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis
 
 In 2MM, gravity arises from **GCM shadowing**. Every standing
 wave---proton, neutron, or electron---interacts inelastically with the
