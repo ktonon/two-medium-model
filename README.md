@@ -64,14 +64,16 @@ formalization and testing.
     Crisis](#gravity-long-range-gcm-shadowing-and-the-resolution-of-the-heat-crisis)
 - [Cosmology in an Infinite
   Medium](#cosmology-in-an-infinite-medium)
-  - [4.1 Neutron Stars: Extreme Compression Without Matter
+  - [Neutron Stars: Extreme Compression Without Matter
     Destruction](#neutron-stars-extreme-compression-without-matter-destruction)
-  - [4.2 AGN Cores: Neutron Destruction and Charge-Conserving
+  - [AGN Cores: Neutron Destruction and Charge-Conserving
     Recycling](#agn-cores-neutron-destruction-and-charge-conserving-recycling)
-  - [4.3 Quasars as Newly Formed Matter in the Two-Medium
+  - [Quasars as Newly Formed Matter in the Two-Medium
     Model](#quasars-as-newly-formed-matter-in-the-two-medium-model)
-  - [4.4 What about Cosmological Redshift and the
-    CMB?](#what-about-cosmological-redshift-and-the-cmb)
+  - [Momentum Flow in 2MM: Why Voids Flip the
+    Sign](#momentum-flow-in-2mm-why-voids-flip-the-sign)
+  - [The Cosmic Microwave Background in an Infinite 2MM
+    Universe](#the-cosmic-microwave-background-in-an-infinite-2mm-universe)
 - [Relativity](#relativity)
   - [5.1 Space-Time is
     Real](#space-time-is-real)
@@ -92,10 +94,6 @@ formalization and testing.
     Collapse](#the-locality-problem-and-photon-collapse)
   - [6.4 How 2MM Demystifies Quantum
     Behavior](#how-2mm-demystifies-quantum-behavior)
-  - [The Cosmic Microwave Background in an Infinite 2MM
-    Universe](#the-cosmic-microwave-background-in-an-infinite-2mm-universe)
-  - [Momentum Flow in 2MM: Why Voids Flip the
-    Sign](#momentum-flow-in-2mm-why-voids-flip-the-sign)
 - [Earth and the Solar
   System](#earth-and-the-solar-system)
   - [A Coherent Interior: How 2MM Reinterprets the Earth From the Inside
@@ -1249,7 +1247,7 @@ chosen cosmological framework** of 2MM. It becomes a counterpart to
 matter creation, ensuring that the two-media system can maintain
 long-term balance.
 
-## 4.1 Neutron Stars: Extreme Compression Without Matter Destruction
+## Neutron Stars: Extreme Compression Without Matter Destruction
 
 Before talking about true matter destruction, it helps to look at a case
 that is already part of mainstream physics: the **neutron star**.
@@ -1316,7 +1314,7 @@ without violating charge conservation.
 This sets the stage for the next step: what happens when the environment
 is even more extreme than a neutron star.
 
-## 4.2 AGN Cores: Neutron Destruction and Charge-Conserving Recycling
+## AGN Cores: Neutron Destruction and Charge-Conserving Recycling
 
 In an infinite, steady-state universe, matter cannot simply accumulate.
 If new standing waves can form in regions of high LCM compression, then
@@ -1369,7 +1367,7 @@ In this picture, **AGN function as matter recyclers**: their outer
 regions can create new standing waves, while their inner cores dismantle
 old ones, maintaining balance in an infinite, ongoing universe.
 
-## 4.3 Quasars as Newly Formed Matter in the Two-Medium Model
+## Quasars as Newly Formed Matter in the Two-Medium Model
 
 In 2MM, regions of extremely high LCM compression can both **destroy**
 matter (deep in AGN cores) and **create** new matter (where
@@ -1402,15 +1400,380 @@ pass through temporary spikes in LCM density. This interpretation
 provides a simple physical link between AGN activity, matter recycling,
 and the unusually high redshifts associated with quasars.
 
-## 4.4 What about Cosmological Redshift and the CMB?
+## Momentum Flow in 2MM: Why Voids Flip the Sign
 
-For a detailed discussion of each, read these companion pages in order:
+The Two-Medium Model describes the universe as a dynamic balance between
+two interacting substrates:
 
-- [Cosmological
-  Redshift](https://github.com/ktonon/two-medium-model/blob/main/cosmological-redshift.md)
+- the **GCM**, a sea of ultra-fast, ultra-small corpuscles,
 
-- [Cosmic Background Radiation
-  (CMB)](https://github.com/ktonon/two-medium-model/blob/main/cmb.md)
+- and the **LCM**, an elastic medium that hosts matter, light, and all
+  the structures we can observe.
+
+Wherever these two media touch, they exchange momentum. Dense
+regions---galaxies, stars, planets---absorb momentum from the GCM and
+use it to maintain their internal compression. Light propagates through
+the LCM, bending and shifting as the GCM flux shapes its path. And in
+the vast intergalactic voids, where both media become extremely tenuous,
+the nature of this exchange changes entirely.
+
+This section explores how that change in momentum flow both solves the
+cosmological redshift problem and closes the energy loop needed to keep
+an infinite universe in equilibrium.
+
+### Two Coupled Energy Reservoirs
+
+At its core, the GCM--LCM system behaves like two connected energy
+reservoirs. Each one can be "hotter" or "colder" than the other, not in
+the thermodynamic sense, but in terms of **how much momentum each medium
+carries relative to the equilibrium state of the environment.**
+
+Whenever the balance tilts, momentum flows:
+
+- from the **GCM into the LCM** when the flux is too strong for the
+  local LCM structure,
+
+- and from the **LCM back into the GCM** when the flux is too weak.
+
+The direction is not arbitrary---it is set by the environment. Dense
+regions always favor the first case. Deep voids naturally fall into the
+second.
+
+### Dense LCM Regions: Where the GCM Loses Energy
+
+Inside galaxies, the LCM is highly compressed and structured. Atoms,
+stars, and gas clouds are all standing-wave configurations that require
+significant outward pressure from the GCM to maintain their shape. The
+GCM corpuscles crash into these dense LCM structures, lose kinetic
+energy, and carve shadows that show up macroscopically as gravity.
+
+Here, the direction of momentum flow is unambiguous:
+
+> **GCM → LCM** is the dominant transfer in dense regions.
+
+These environments act as **GCM sinks**---draining flux energy to
+support matter, maintain gravitational wells, and heat galactic
+interiors.
+
+### The Problem With an Infinite Universe
+
+If the GCM only ever loses energy in dense regions, then an infinite
+universe cannot remain in equilibrium. Over long timescales, the flux
+would cool, weaken, and eventually lose the ability to support matter
+altogether. The universe would collapse or disperse, depending on how
+the LCM responded.
+
+But in 2MM we are assuming an **infinite, steady-state universe**, one
+where average properties---GCM intensity, LCM density, matter formation
+rate---remain statistically constant over time.
+
+For that to be possible, the direction of momentum flow must reverse
+**somewhere**.
+
+And there is only one natural place: the vast **intergalactic voids**.
+
+### Voids: Where the Flux Runs Thin
+
+By the time GCM corpuscles leave a galaxy and drift into a void, they
+have been weakened by countless inelastic collisions. Their flux is
+real, but diminished---below the level needed to catalyze matter
+formation or sustain tight LCM compression.
+
+Meanwhile, the LCM in voids, though sparse, contains long-wavelength
+structures such as **light** and residual background modes. Compared to
+the starved GCM flux, these LCM excitations hold *more organized energy*
+than the weakened flux can support.
+
+This imbalance flips the sign of the momentum flow:
+
+> **In voids, the LCM gives momentum back to the GCM.**
+
+This is the missing recharge mechanism. Even in an infinite universe,
+the GCM no longer decays away---it is continuously replenished wherever
+the flux has fallen below equilibrium strength.
+
+### The Role of Photons: A Gentle, Forward-Coherent Transfer
+
+Light plays an especially important role in this environment.
+
+In voids, the LCM is extremely smooth and dilute. GCM corpuscles, being
+minuscule compared to the LCM's effective units, do not collide with
+discrete lumps the way they do inside galaxies. Instead, they nudge the
+**bulk LCM field** in tiny, nearly elastic, highly forward-coherent
+interactions.
+
+From the photon's perspective:
+
+- each interaction is incredibly weak,
+
+- happens over scales much smaller than its wavelength,
+
+- and changes its direction negligibly.
+
+But over cosmological distances, even a tiny, uniform energy leak
+becomes detectable:
+
+> **Photons lose a microscopic fraction of their energy into the GCM as
+> they cross voids.** The result is a cumulative redshift.
+
+This accomplishes two things at once:
+
+1.  **It recharges the GCM flux**, restoring it toward the equilibrium
+    intensity needed to support matter elsewhere.
+
+2.  **It produces a cosmological redshift** without scattering or
+    blurring distant galaxies---because the interactions are far too
+    gentle to push photons off course.
+
+The redshift is not a Doppler effect, nor an expansion of space, nor a
+magical "tired light" guess. It is the natural consequence of an
+ultra-weak energy flow from LCM → GCM in zones where the flux has fallen
+below equilibrium strength.
+
+### Voids as the Universe's Reset Mechanisms
+
+Taken together, these insights reveal a satisfying, self-contained
+cosmological loop:
+
+- **Galaxies drain the GCM flux** (GCM → LCM).
+
+- **Voids restore the GCM flux** (LCM → GCM), primarily through the
+  energy of long-traveling photons.
+
+- **Recharged flux reenters new regions**, regains its ability to bind
+  matter, and supports the formation of future structures.
+
+- All of this occurs within a **time-independent, infinite universe** in
+  statistical equilibrium.
+
+This explains why matter forms where it does, why voids remain empty,
+and how redshift arises naturally without cosmic expansion.
+
+Voids are not empty---they are **maintenance zones**, the regions where
+the universe restores the strength of the GCM that galaxies have
+drained.
+
+### A Future Predictive Handle
+
+Because voids are where the flux recharges, and galaxies are where it
+drains, the geometry of the universe---the spacing of galaxies, the size
+of voids, the typical cluster density---may ultimately place
+**constraints on the actual size, density, and cross-section of the GCM
+agents**.
+
+If these agents were too large or too interactive, recharging would
+overshoot equilibrium. If they were too small or too rare, the flux
+would never fully recover. Matter stability, redshift gradients, and
+void statistics all reflect these hidden parameters.
+
+This opens the door for a richer, more quantitative model in the
+future---one where cosmological structure becomes a direct probe of the
+microscopic properties of the GCM.
+
+## The Cosmic Microwave Background in an Infinite 2MM Universe
+
+The Two-Medium Model begins from a bold but simple premise: the universe
+is infinite, both in space and in time. No edge, no beginning, no
+expanding fabric. Instead, everything we observe emerges from the
+continual exchange of energy between two intertwined media---the
+ultra-fast GCM corpuscles and the elastic LCM in which matter and light
+reside.
+
+The challenge, of course, is that the night sky is dark. An infinite
+universe filled with luminous objects ought to blaze like a star, yet it
+doesn't. And on top of that paradox sits the Cosmological Microwave
+Background, a faint but perfectly uniform glow at 2.7 K that modern
+cosmology treats as the afterglow of a primordial explosion.
+
+The goal here is to show how the 2MM picture resolves these puzzles
+naturally, without invoking a Big Bang or cosmic expansion. The answers
+follow directly from the way light behaves as it travels through the
+low-density LCM of intergalactic voids.
+
+### The Starting Point: Olbers' Paradox in an Infinite Universe
+
+Olbers' paradox is simple: If the universe is infinite and filled with
+stars, then every line of sight should eventually encounter a star.
+Adding up all those contributions should make the night sky as bright as
+a stellar surface.
+
+But it isn't. Why?
+
+Traditional explanations invoke:
+
+- a finite-age universe,
+
+- an expanding metric that redshifts distant light,
+
+- or a finite horizon set by cosmic history.
+
+The 2MM rejects all three. So the paradox must be resolved in a way
+consistent with:
+
+- **an infinite universe**,
+
+- **constant statistical equilibrium**,
+
+- **cosmological redshift arising from LCM → GCM energy drift**,
+
+- **no global evolution of average properties over time**.
+
+The solution actually follows directly from the [redshift
+mechanism](https://github.com/ktonon/two-medium-model/blob/main/cosmological-redshift.md).
+
+### Light Traveling Through Voids: A Slow Energy Drift
+
+In the 2MM, photons traveling through intergalactic voids pass through
+extremely low-density LCM. In these regions, the GCM flux has been
+partially depleted by its earlier interactions inside galaxies. The
+local balance between the two media is shifted: the LCM (carrying
+long-range waves like starlight) is effectively "hotter" than the
+weakened GCM flux around it.
+
+That imbalance drives a **tiny, forward-coherent transfer of momentum
+from LCM to GCM**. To the photon, this appears as a slight loss of
+energy---a redshift that accumulates over vast distances.
+
+Crucially:
+
+- the interaction is extremely gentle,
+
+- it does not scatter the photon appreciably,
+
+- and it depends only on conditions in voids, not on cosmic age.
+
+This is the 2MM explanation for cosmological redshift: **A photon
+gradually cools as it traverses low-density, weak-flux environments.**
+
+### Applying This Mechanism to an Infinite Universe
+
+Now imagine all the starlight in an infinite cosmos subject to this
+effect.
+
+Every photon emitted from a distant star:
+
+- travels through voids for millions or billions of light-years,
+
+- gives up a tiny fraction of energy over and over,
+
+- gradually shifts from visible to infrared,
+
+- then from infrared to microwave,
+
+- and finally into extremely low-energy radio waves.
+
+Given enough distance---and in an infinite universe, there is always
+enough distance---light from remote stars becomes so redshifted that it
+no longer contributes to the visible sky at all.
+
+This alone eliminates Olbers' paradox:
+
+> **The night sky is dark because almost all faraway light has been
+> cooled into microwaves and longer wavelengths before reaching us.**
+
+No finite-age universe is required. No expanding metric is required.
+Redshift alone does the job.
+
+### Where Does the Lost Energy Go?
+
+Energy cannot simply disappear. Every redshifted photon has given up its
+energy to the GCM flux in voids.
+
+Those voids are enormous, filled with GCM corpuscles continuously
+absorbing:
+
+- the faint, cooled remnants of starlight,
+
+- the low-frequency tail of galactic radiation,
+
+- and any long-wavelength modes that propagate without interacting
+  strongly with matter.
+
+Because light flows in from all directions, and because voids occupy
+most of the universe's volume, the GCM in these regions absorbs a
+tremendous amount of energy over time.
+
+But equilibrium demands that this absorbed energy not accumulate
+indefinitely. And indeed, the GCM continually redistributes it back into
+the LCM through extremely gentle interactions.
+
+The result is an ambient "glow"---a stable background temperature that
+reflects the balance between:
+
+- energy drained from photons (LCM → GCM), and
+
+- energy redistributed back into the LCM (GCM → LCM).
+
+This glow is what we observe as the cosmic microwave background.
+
+### The CMB as the Equilibrium Temperature of Voids
+
+In the 2MM picture, the CMB is not a relic of a hot beginning. It is:
+
+> **the steady-state equilibrium between the slow cooling of light in
+> voids and the continual recycling of that energy by the GCM.**
+
+The key features of the observed CMB fall naturally into place:
+
+#### Uniformity
+
+Void conditions are extremely uniform across cosmic scales. The
+background temperature reflects that uniformity.
+
+#### Blackbody Spectrum
+
+A medium that continually exchanges energy between two coupled fields
+(GCM and LCM) inevitably reaches a thermal distribution. The resulting
+equilibrium spectrum is a blackbody.
+
+#### Temperature (\~2.7 K)
+
+This is simply the equilibrium point where:
+
+- the energy lost by photons during cosmological redshift
+
+- is balanced by
+
+- the GCM's redistribution of energy back into the LCM.
+
+The temperature does not encode the age of the universe; it encodes
+**the balance point of an infinitely old system.**
+
+### A Universe Maintained by Voids
+
+In this view, voids serve a critical cosmological role:
+
+- **Galaxies drain the GCM flux**, taking in energy to maintain their
+  structure.
+
+- **Voids recharge the GCM flux**, receiving energy from passing
+  photons.
+
+- **The balance of these two processes keeps the universe in
+  equilibrium.**
+
+Thus the CMB is not a leftover from a fireball. It is the ongoing
+whisper of an infinite universe maintaining its internal balance.
+
+### The Clean Aesthetic of the 2MM Solution
+
+What makes this explanation compelling is its simplicity:
+
+- No beginning or end.
+
+- No global evolution of physics.
+
+- No cosmological expansion.
+
+- No mysterious inflationary era.
+
+- Just the natural outcome of two media interacting across vastly
+  different density regimes.
+
+Redshift is not a clue to a stretching metric. The CMB is not the
+remnant of a cosmic explosion. Both are signatures of a universe that
+has always been here, always in motion, sustained by the interplay
+between GCM and LCM across galaxies and voids.
 
 # Relativity
 
@@ -1861,381 +2224,6 @@ reinterpret quantum experiments independently, using 2MM as a guide
 rather than a doctrine. The demystification comes not from new
 mathematics, but from a clearer sense of what the underlying
 architecture of reality might be.
-
-## The Cosmic Microwave Background in an Infinite 2MM Universe
-
-The Two-Medium Model begins from a bold but simple premise: the universe
-is infinite, both in space and in time. No edge, no beginning, no
-expanding fabric. Instead, everything we observe emerges from the
-continual exchange of energy between two intertwined media---the
-ultra-fast GCM corpuscles and the elastic LCM in which matter and light
-reside.
-
-The challenge, of course, is that the night sky is dark. An infinite
-universe filled with luminous objects ought to blaze like a star, yet it
-doesn't. And on top of that paradox sits the Cosmological Microwave
-Background, a faint but perfectly uniform glow at 2.7 K that modern
-cosmology treats as the afterglow of a primordial explosion.
-
-The goal here is to show how the 2MM picture resolves these puzzles
-naturally, without invoking a Big Bang or cosmic expansion. The answers
-follow directly from the way light behaves as it travels through the
-low-density LCM of intergalactic voids.
-
-### The Starting Point: Olbers' Paradox in an Infinite Universe
-
-Olbers' paradox is simple: If the universe is infinite and filled with
-stars, then every line of sight should eventually encounter a star.
-Adding up all those contributions should make the night sky as bright as
-a stellar surface.
-
-But it isn't. Why?
-
-Traditional explanations invoke:
-
-- a finite-age universe,
-
-- an expanding metric that redshifts distant light,
-
-- or a finite horizon set by cosmic history.
-
-The 2MM rejects all three. So the paradox must be resolved in a way
-consistent with:
-
-- **an infinite universe**,
-
-- **constant statistical equilibrium**,
-
-- **cosmological redshift arising from LCM → GCM energy drift**,
-
-- **no global evolution of average properties over time**.
-
-The solution actually follows directly from the [redshift
-mechanism](https://github.com/ktonon/two-medium-model/blob/main/cosmological-redshift.md).
-
-### Light Traveling Through Voids: A Slow Energy Drift
-
-In the 2MM, photons traveling through intergalactic voids pass through
-extremely low-density LCM. In these regions, the GCM flux has been
-partially depleted by its earlier interactions inside galaxies. The
-local balance between the two media is shifted: the LCM (carrying
-long-range waves like starlight) is effectively "hotter" than the
-weakened GCM flux around it.
-
-That imbalance drives a **tiny, forward-coherent transfer of momentum
-from LCM to GCM**. To the photon, this appears as a slight loss of
-energy---a redshift that accumulates over vast distances.
-
-Crucially:
-
-- the interaction is extremely gentle,
-
-- it does not scatter the photon appreciably,
-
-- and it depends only on conditions in voids, not on cosmic age.
-
-This is the 2MM explanation for cosmological redshift: **A photon
-gradually cools as it traverses low-density, weak-flux environments.**
-
-### Applying This Mechanism to an Infinite Universe
-
-Now imagine all the starlight in an infinite cosmos subject to this
-effect.
-
-Every photon emitted from a distant star:
-
-- travels through voids for millions or billions of light-years,
-
-- gives up a tiny fraction of energy over and over,
-
-- gradually shifts from visible to infrared,
-
-- then from infrared to microwave,
-
-- and finally into extremely low-energy radio waves.
-
-Given enough distance---and in an infinite universe, there is always
-enough distance---light from remote stars becomes so redshifted that it
-no longer contributes to the visible sky at all.
-
-This alone eliminates Olbers' paradox:
-
-> **The night sky is dark because almost all faraway light has been
-> cooled into microwaves and longer wavelengths before reaching us.**
-
-No finite-age universe is required. No expanding metric is required.
-Redshift alone does the job.
-
-### Where Does the Lost Energy Go?
-
-Energy cannot simply disappear. Every redshifted photon has given up its
-energy to the GCM flux in voids.
-
-Those voids are enormous, filled with GCM corpuscles continuously
-absorbing:
-
-- the faint, cooled remnants of starlight,
-
-- the low-frequency tail of galactic radiation,
-
-- and any long-wavelength modes that propagate without interacting
-  strongly with matter.
-
-Because light flows in from all directions, and because voids occupy
-most of the universe's volume, the GCM in these regions absorbs a
-tremendous amount of energy over time.
-
-But equilibrium demands that this absorbed energy not accumulate
-indefinitely. And indeed, the GCM continually redistributes it back into
-the LCM through extremely gentle interactions.
-
-The result is an ambient "glow"---a stable background temperature that
-reflects the balance between:
-
-- energy drained from photons (LCM → GCM), and
-
-- energy redistributed back into the LCM (GCM → LCM).
-
-This glow is what we observe as the cosmic microwave background.
-
-### The CMB as the Equilibrium Temperature of Voids
-
-In the 2MM picture, the CMB is not a relic of a hot beginning. It is:
-
-> **the steady-state equilibrium between the slow cooling of light in
-> voids and the continual recycling of that energy by the GCM.**
-
-The key features of the observed CMB fall naturally into place:
-
-#### Uniformity
-
-Void conditions are extremely uniform across cosmic scales. The
-background temperature reflects that uniformity.
-
-#### Blackbody Spectrum
-
-A medium that continually exchanges energy between two coupled fields
-(GCM and LCM) inevitably reaches a thermal distribution. The resulting
-equilibrium spectrum is a blackbody.
-
-#### Temperature (\~2.7 K)
-
-This is simply the equilibrium point where:
-
-- the energy lost by photons during cosmological redshift
-
-- is balanced by
-
-- the GCM's redistribution of energy back into the LCM.
-
-The temperature does not encode the age of the universe; it encodes
-**the balance point of an infinitely old system.**
-
-### A Universe Maintained by Voids
-
-In this view, voids serve a critical cosmological role:
-
-- **Galaxies drain the GCM flux**, taking in energy to maintain their
-  structure.
-
-- **Voids recharge the GCM flux**, receiving energy from passing
-  photons.
-
-- **The balance of these two processes keeps the universe in
-  equilibrium.**
-
-Thus the CMB is not a leftover from a fireball. It is the ongoing
-whisper of an infinite universe maintaining its internal balance.
-
-### The Clean Aesthetic of the 2MM Solution
-
-What makes this explanation compelling is its simplicity:
-
-- No beginning or end.
-
-- No global evolution of physics.
-
-- No cosmological expansion.
-
-- No mysterious inflationary era.
-
-- Just the natural outcome of two media interacting across vastly
-  different density regimes.
-
-Redshift is not a clue to a stretching metric. The CMB is not the
-remnant of a cosmic explosion. Both are signatures of a universe that
-has always been here, always in motion, sustained by the interplay
-between GCM and LCM across galaxies and voids.
-
-## Momentum Flow in 2MM: Why Voids Flip the Sign
-
-The Two-Medium Model describes the universe as a dynamic balance between
-two interacting substrates:
-
-- the **GCM**, a sea of ultra-fast, ultra-small corpuscles,
-
-- and the **LCM**, an elastic medium that hosts matter, light, and all
-  the structures we can observe.
-
-Wherever these two media touch, they exchange momentum. Dense
-regions---galaxies, stars, planets---absorb momentum from the GCM and
-use it to maintain their internal compression. Light propagates through
-the LCM, bending and shifting as the GCM flux shapes its path. And in
-the vast intergalactic voids, where both media become extremely tenuous,
-the nature of this exchange changes entirely.
-
-This section explores how that change in momentum flow both solves the
-cosmological redshift problem and closes the energy loop needed to keep
-an infinite universe in equilibrium.
-
-### Two Coupled Energy Reservoirs
-
-At its core, the GCM--LCM system behaves like two connected energy
-reservoirs. Each one can be "hotter" or "colder" than the other, not in
-the thermodynamic sense, but in terms of **how much momentum each medium
-carries relative to the equilibrium state of the environment.**
-
-Whenever the balance tilts, momentum flows:
-
-- from the **GCM into the LCM** when the flux is too strong for the
-  local LCM structure,
-
-- and from the **LCM back into the GCM** when the flux is too weak.
-
-The direction is not arbitrary---it is set by the environment. Dense
-regions always favor the first case. Deep voids naturally fall into the
-second.
-
-### Dense LCM Regions: Where the GCM Loses Energy
-
-Inside galaxies, the LCM is highly compressed and structured. Atoms,
-stars, and gas clouds are all standing-wave configurations that require
-significant outward pressure from the GCM to maintain their shape. The
-GCM corpuscles crash into these dense LCM structures, lose kinetic
-energy, and carve shadows that show up macroscopically as gravity.
-
-Here, the direction of momentum flow is unambiguous:
-
-> **GCM → LCM** is the dominant transfer in dense regions.
-
-These environments act as **GCM sinks**---draining flux energy to
-support matter, maintain gravitational wells, and heat galactic
-interiors.
-
-### The Problem With an Infinite Universe
-
-If the GCM only ever loses energy in dense regions, then an infinite
-universe cannot remain in equilibrium. Over long timescales, the flux
-would cool, weaken, and eventually lose the ability to support matter
-altogether. The universe would collapse or disperse, depending on how
-the LCM responded.
-
-But in 2MM we are assuming an **infinite, steady-state universe**, one
-where average properties---GCM intensity, LCM density, matter formation
-rate---remain statistically constant over time.
-
-For that to be possible, the direction of momentum flow must reverse
-**somewhere**.
-
-And there is only one natural place: the vast **intergalactic voids**.
-
-### Voids: Where the Flux Runs Thin
-
-By the time GCM corpuscles leave a galaxy and drift into a void, they
-have been weakened by countless inelastic collisions. Their flux is
-real, but diminished---below the level needed to catalyze matter
-formation or sustain tight LCM compression.
-
-Meanwhile, the LCM in voids, though sparse, contains long-wavelength
-structures such as **light** and residual background modes. Compared to
-the starved GCM flux, these LCM excitations hold *more organized energy*
-than the weakened flux can support.
-
-This imbalance flips the sign of the momentum flow:
-
-> **In voids, the LCM gives momentum back to the GCM.**
-
-This is the missing recharge mechanism. Even in an infinite universe,
-the GCM no longer decays away---it is continuously replenished wherever
-the flux has fallen below equilibrium strength.
-
-### The Role of Photons: A Gentle, Forward-Coherent Transfer
-
-Light plays an especially important role in this environment.
-
-In voids, the LCM is extremely smooth and dilute. GCM corpuscles, being
-minuscule compared to the LCM's effective units, do not collide with
-discrete lumps the way they do inside galaxies. Instead, they nudge the
-**bulk LCM field** in tiny, nearly elastic, highly forward-coherent
-interactions.
-
-From the photon's perspective:
-
-- each interaction is incredibly weak,
-
-- happens over scales much smaller than its wavelength,
-
-- and changes its direction negligibly.
-
-But over cosmological distances, even a tiny, uniform energy leak
-becomes detectable:
-
-> **Photons lose a microscopic fraction of their energy into the GCM as
-> they cross voids.** The result is a cumulative redshift.
-
-This accomplishes two things at once:
-
-1.  **It recharges the GCM flux**, restoring it toward the equilibrium
-    intensity needed to support matter elsewhere.
-
-2.  **It produces a cosmological redshift** without scattering or
-    blurring distant galaxies---because the interactions are far too
-    gentle to push photons off course.
-
-The redshift is not a Doppler effect, nor an expansion of space, nor a
-magical "tired light" guess. It is the natural consequence of an
-ultra-weak energy flow from LCM → GCM in zones where the flux has fallen
-below equilibrium strength.
-
-### Voids as the Universe's Reset Mechanisms
-
-Taken together, these insights reveal a satisfying, self-contained
-cosmological loop:
-
-- **Galaxies drain the GCM flux** (GCM → LCM).
-
-- **Voids restore the GCM flux** (LCM → GCM), primarily through the
-  energy of long-traveling photons.
-
-- **Recharged flux reenters new regions**, regains its ability to bind
-  matter, and supports the formation of future structures.
-
-- All of this occurs within a **time-independent, infinite universe** in
-  statistical equilibrium.
-
-This explains why matter forms where it does, why voids remain empty,
-and how redshift arises naturally without cosmic expansion.
-
-Voids are not empty---they are **maintenance zones**, the regions where
-the universe restores the strength of the GCM that galaxies have
-drained.
-
-### A Future Predictive Handle
-
-Because voids are where the flux recharges, and galaxies are where it
-drains, the geometry of the universe---the spacing of galaxies, the size
-of voids, the typical cluster density---may ultimately place
-**constraints on the actual size, density, and cross-section of the GCM
-agents**.
-
-If these agents were too large or too interactive, recharging would
-overshoot equilibrium. If they were too small or too rare, the flux
-would never fully recover. Matter stability, redshift gradients, and
-void statistics all reflect these hidden parameters.
-
-This opens the door for a richer, more quantitative model in the
-future---one where cosmological structure becomes a direct probe of the
-microscopic properties of the GCM.
 
 # Earth and the Solar System
 
