@@ -36,21 +36,20 @@ formalization and testing.
     Forces](#the-gcm-a-fast-flux-that-generates-forces)
   - [Very Different Scales: Why Two Media Can
     Coexist](#very-different-scales-why-two-media-can-coexist)
-- [Matter as Standing Waves in the
-  LCM](#2-matter-as-standing-waves-in-the-lcm)
-  - [2.1 Pair Production as a GCM-Induced
-    Collapse](#21-pair-production-as-a-gcm-induced-collapse)
-  - [2.2 Frequency, Compression, and the Threshold for
+- [Matter as Standing Waves in the LCM](#matter)
+  - [Pair Production as a GCM-Induced
+    Collapse](#pair-production-as-a-gcm-induced-collapse)
+  - [Frequency, Compression, and the Threshold for
     Collapse](#22-frequency-compression-and-the-threshold-for-collapse)
-  - [2.3 Dual-Mode Helical Standing Waves: The Structure of
+  - [Dual-Mode Helical Standing Waves: The Structure of
     Matter](#23-dual-mode-helical-standing-waves-the-structure-of-matter)
-  - [2.4 The Origin of LCM Compression
+  - [The Origin of LCM Compression
     Fields](#24-the-origin-of-lcm-compression-fields)
-  - [2.5 The Proton: Why the Lag-Mode Collapses in Dense
+  - [The Proton: Why the Lag-Mode Collapses in Dense
     LCM](#25-the-proton-why-the-lag-mode-collapses-in-dense-lcm)
-  - [2.6 Why the Proton Remains Compressed in Low-Density
+  - [Why the Proton Remains Compressed in Low-Density
     LCM](#26-why-the-proton-remains-compressed-in-low-density-lcm)
-  - [2.7 The Neutron: A Paired Standing-Wave
+  - [The Neutron: A Paired Standing-Wave
     Structure](#27-the-neutron-a-paired-standing-wave-structure)
 - [Interactions: How Forces Arise from the Two
   Media](#3-interactions-how-forces-arise-from-the-two-media)
@@ -404,7 +403,7 @@ two complementary media shape and reinforce one another.
 > idea, that distinct media may underlie different physical phenomena,
 > provided the inspiration for 2MM.*
 
-# 2.1 Pair Production as a GCM-Induced Collapse 
+## Pair Production as a GCM-Induced Collapse
 
 Pair production has a striking feature: a single high-energy photon
 transforms into two particles---an electron and a positron---that are
@@ -455,7 +454,7 @@ by the **GCM enforcing a new equilibrium** when a traveling wave becomes
 too compact to remain transparent. Matter arises from the interaction
 between the two media at a sharp threshold of opacity.
 
-# 2.2 Frequency, Compression, and the Threshold for Collapse 
+# Frequency, Compression, and the Threshold for Collapse 
 
 A key consequence of this picture is that the stability of light depends
 on its transparency to the GCM. At low frequencies, LCM waves are
@@ -510,7 +509,7 @@ narrative consistent with your revised GCM-driven collapse model.
 
 You can paste this version directly into your document.
 
-# 2.3 Dual-Mode Helical Standing Waves: The Structure of Matter 
+# Dual-Mode Helical Standing Waves: The Structure of Matter 
 
 Once a high-frequency LCM wave becomes sufficiently opaque to the GCM,
 the resulting shadow forces the wave to collapse into a tightly
@@ -580,7 +579,7 @@ the feedback loop between the LCM and GCM. Their form is the direct
 outcome of the symmetry and dynamics of collapse at the threshold where
 a high-frequency wave becomes opaque to the GCM.
 
-# 2.4 The Origin of LCM Compression Fields 
+# The Origin of LCM Compression Fields 
 
 When a traveling LCM wave collapses into a helical standing-wave
 particle, its energy becomes highly concentrated. This concentration
@@ -656,7 +655,7 @@ Matter's "fields" are therefore not separate entities but the natural
 medium distortions required to confine a standing wave in a dual-medium
 universe.
 
-# 2.5 The Proton: Why the Lag-Mode Collapses in Dense LCM 
+# The Proton: Why the Lag-Mode Collapses in Dense LCM 
 
 The electron and positron arise when a high-frequency LCM wave becomes
 opaque to the GCM and collapses into two helical standing-wave modes.
@@ -745,7 +744,7 @@ how it shapes the evolution of planets and moons---is presented in the
 companion page [Earth and the Solar
 System](https://github.com/ktonon/two-medium-model/blob/main/earth-and-solar-system.md).
 
-# 2.6 Why the Proton Remains Compressed in Low-Density LCM 
+# Why the Proton Remains Compressed in Low-Density LCM 
 
 Once the lag-mode standing wave undergoes secondary collapse and
 reorganizes into the compact helical structure we identify as the
@@ -823,7 +822,7 @@ The proton is therefore a **metastable collapsed state**, one that
 remains compact everywhere in the universe except under the most extreme
 GCM conditions (such as within the cores of active galactic nuclei).
 
-# 2.7 The Neutron: A Paired Standing-Wave Structure 
+# The Neutron: A Paired Standing-Wave Structure 
 
 With the proton and electron understood as two distinct helical
 standing-wave modes stabilized by GCM confinement, the neutron can be
