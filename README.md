@@ -1,6 +1,6 @@
 # Two Medium Model (2MM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17843932.svg)](https://doi.org/10.5281/zenodo.17843932)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17850840.svg)](https://doi.org/10.5281/zenodo.17850840)
 
 The Two-Medium Model (2MM) proposes that the universe is built from the
 interaction of two fundamental substrates: *(i)* the **Light-Carrying
