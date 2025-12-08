@@ -75,24 +75,23 @@ formalization and testing.
   - [The Cosmic Microwave Background in an Infinite 2MM
     Universe](#the-cosmic-microwave-background-in-an-infinite-2mm-universe)
 - [Relativity](#relativity)
-  - [5.1 Space-Time is
-    Real](#space-time-is-real)
-  - [5.2 Why Motion Through the LCM Causes Length
+  - [Space-Time is Real](#space-time-is-real)
+  - [Why Motion Through the LCM Causes Length
     Contraction](#why-motion-through-the-lcm-causes-length-contraction)
-  - [5.3 Mutual Causation in the Two
+  - [Mutual Causation in the Two
     Media](#mutual-causation-in-the-two-media)
-  - [5.4 Absolute Time, the GCM, and Faster-Than-Light
+  - [Absolute Time, the GCM, and Faster-Than-Light
     Transmission](#absolute-time-the-gcm-and-faster-than-light-transmission)
-  - [5.5 Oumuamua as an Illustration of GCM Shielding
+  - [Oumuamua as an Illustration of GCM Shielding
     (Speculative)](#oumuamua-as-an-illustration-of-gcm-shielding-speculative)
 - [The Quantum Realm](#the-quantum-realm)
-  - [6.1 Why "quantum weirdness" shows
+  - [Why "quantum weirdness" shows
     up](#why-quantum-weirdness-shows-up)
-  - [6.2 Why this is not the whole
+  - [Why this is not the whole
     story](#why-this-is-not-the-whole-story)
-  - [6.3 The Locality Problem and Photon
+  - [The Locality Problem and Photon
     Collapse](#the-locality-problem-and-photon-collapse)
-  - [6.4 How 2MM Demystifies Quantum
+  - [How 2MM Demystifies Quantum
     Behavior](#how-2mm-demystifies-quantum-behavior)
 - [Earth and the Solar
   System](#earth-and-the-solar-system)
@@ -1783,7 +1782,7 @@ mass and energy. For many people, this picture feels abstract and
 untethered from anything physical. "Curved spacetime" is something you
 can calculate, but not something you can visualize or touch.
 
-## 5.1 Space-Time is Real
+## Space-Time is Real
 
 In the 2MM framework a key insight is that everything normally
 attributed to "spacetime" can be understood in much simpler, more
@@ -1842,7 +1841,7 @@ This makes relativity not an exotic distortion of geometry, but a simple
 consequence of the physics of waves in a compressible medium --- the
 same medium that forms light, matter, and ourselves.
 
-## 5.2 Why Motion Through the LCM Causes Length Contraction
+## Why Motion Through the LCM Causes Length Contraction
 
 When relativity is taught using spacetime diagrams, length contraction
 is often presented as a geometric effect: moving objects "shrink" along
@@ -1900,7 +1899,7 @@ There is no paradox, no mystical geometric effect, and no need to
 imagine "shrinking" as an illusion. It is the straightforward mechanical
 response of waves interacting with a real medium.
 
-## 5.3 Mutual Causation in the Two Media
+## Mutual Causation in the Two Media
 
 Any elastic-aether model naturally interprets spacetime curvature as
 variations in the density or tension of the medium itself. What 2MM adds
@@ -1929,7 +1928,7 @@ something that starts and then evolves; it is something that
 *self-maintains*, with structure emerging continually from the ongoing
 reciprocity between the LCM and GCM.
 
-## 5.4 Absolute Time, the GCM, and Faster-Than-Light Transmission
+## Absolute Time, the GCM, and Faster-Than-Light Transmission
 
 In 2MM, the presence of the GCM introduces a deeper notion of **absolute
 time**---a timebase that exists independently of the LCM processes that
@@ -2005,7 +2004,7 @@ In this light, SETI's silence may be a clue rather than a contradiction:
 advanced civilizations might be speaking in a medium we are not yet
 listening to.
 
-## 5.5 Oumuamua as an Illustration of GCM Shielding (Speculative)
+## Oumuamua as an Illustration of GCM Shielding (Speculative)
 
 'Oumuamua's unusual properties---its extreme elongation, lack of
 outgassing, and complex tumbling---have made it a persistent point of
@@ -2065,7 +2064,7 @@ The *interaction* between those two is what gives us mass, inertia,
 charge asymmetry, nuclear structure, planetary growth, AGN destruction,
 and so on.
 
-## 6.1 Why "quantum weirdness" shows up
+## Why "quantum weirdness" shows up
 
 In 2MM, every form of detectable matter---including the apparatus doing
 the detecting---is a **composite standing-wave pattern** in the LCM.
@@ -2085,7 +2084,7 @@ that medium:
 Thus Heisenberg uncertainty emerges as a **structural property of our
 medium**, not a universal principle of existence.
 
-## 6.2 Why this is not the whole story
+## Why this is not the whole story
 
 2MM already assumes the LCM cannot be the entire universe. The
 Copenhagen interpretation is not describing the deepest layer of
@@ -2104,7 +2103,7 @@ It leaves out:
 Thus, the "quantum limit" is a **boundary of LCM-based observers**, not
 of the universe as a whole.
 
-## 6.3 The Locality Problem and Photon Collapse
+## The Locality Problem and Photon Collapse
 
 One of the strangest questions in modern physics is this: *When a photon
 spreads out as a wave and then hits a detector, how does all of its
@@ -2171,16 +2170,14 @@ when a photon falls into a trap that the universe prepared in advance.
 
 > **Acknowledgment: Paul Marmet**
 >
-> I owe a particular debt to Paul Marmet, whose book *Absurdities in
-> Modern Physics: A Solution* sharpened my understanding of the locality
-> problem. Marmet emphasized a fundamental puzzle: how can the energy of
-> a radially expanding wavefront collapse into a single point upon
-> detection? His proposed resolution---considering the reference frame
-> of the light wave itself, for which vast spatial separations contract
-> and exchanges across light-years become instantaneous---was the first
-> conceptual approach I encountered that truly confronted the paradox
-> head-on. It suggested that distant regions of the universe are
-> connected in ways our normal intuition obscures.
+> It was Paul Marmet's book *Absurdities in Modern Physics: A Solution*
+> that helped me understand the problem of locality. Marmet emphasized a
+> fundamental puzzle: how can the energy of a radially expanding
+> wavefront collapse into a single point upon detection? His proposed
+> resolution---considering the reference frame of the light wave itself,
+> for which vast spatial separations contract and exchanges across
+> light-years become instantaneous---was the first conceptual approach I
+> encountered that truly confronted the paradox head-on.
 >
 > In the context of the Two-Medium Model, this insight takes on a new
 > interpretation. The connection is not instantaneous, nor does it
@@ -2190,7 +2187,7 @@ when a photon falls into a trap that the universe prepared in advance.
 > understood, is insufficient---and that a deeper, layered medium might
 > be necessary to make sense of how the universe actually behaves.
 
-## 6.4 How 2MM Demystifies Quantum Behavior
+## How 2MM Demystifies Quantum Behavior
 
 The photon's collapse need not be framed as a mysterious choice or a
 global coordination problem. In the Two-Medium Model, it becomes the
