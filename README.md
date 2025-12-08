@@ -67,11 +67,10 @@ formalization and testing.
   - [Neutron Stars: Extreme Compression Without Matter
     Destruction](#neutron-stars-extreme-compression-without-matter-destruction)
   - [AGN Cores: Neutron Destruction and Charge-Conserving
-    Recycling](#agn-cores-neutron-destruction-and-charge-conserving-recycling)
+    Recycling](#agn)
   - [Quasars as Newly Formed Matter in the Two-Medium
-    Model](#quasars-as-newly-formed-matter-in-the-two-medium-model)
-  - [Momentum Flow in 2MM: Why Voids Flip the
-    Sign](#momentum-flow-in-2mm-why-voids-flip-the-sign)
+    Model](#quasars)
+  - [Momentum Flow](#momentum-flow)
   - [The Cosmic Microwave Background in an Infinite 2MM
     Universe](#the-cosmic-microwave-background-in-an-infinite-2mm-universe)
 - [Relativity](#relativity)
@@ -81,7 +80,7 @@ formalization and testing.
   - [Mutual Causation in the Two
     Media](#mutual-causation-in-the-two-media)
   - [Absolute Time, the GCM, and Faster-Than-Light
-    Transmission](#absolute-time-the-gcm-and-faster-than-light-transmission)
+    Transmission](#absolute-time)
   - [Oumuamua as an Illustration of GCM Shielding
     (Speculative)](#oumuamua-as-an-illustration-of-gcm-shielding-speculative)
 - [The Quantum Realm](#the-quantum-realm)
@@ -93,8 +92,7 @@ formalization and testing.
     Collapse](#the-locality-problem-and-photon-collapse)
   - [How 2MM Demystifies Quantum
     Behavior](#how-2mm-demystifies-quantum-behavior)
-- [Earth and the Solar
-  System](#earth-and-the-solar-system)
+- [Earth and the Solar System](#solar-system)
   - [A Coherent Interior: How 2MM Reinterprets the Earth From the Inside
     Out](#a-coherent-interior-how-2mm-reinterprets-the-earth-from-the-inside-out)
   - [A Solar System Reinterpreted Through
@@ -201,24 +199,20 @@ particle structure, and the matter-creation/destruction cycle.
 1.  **A 12-hour diurnal variation in high-energy particle events** (a
     modern aether test based on LCM bow/wake asymmetry)
 
-2.  **[Hydrogen creation inside planets and
-    moons](#earth-and-the-solar-system)** (and liquid water worlds
-    should be abundant)
+2.  **[Hydrogen creation inside planets and moons](#solar-system)** (and
+    liquid water worlds should be abundant)
 
 3.  **[Neutron destruction occurring inside active galactic
-    nuclei](#42-agn-cores-neutron-destruction-and-charge-conserving-recycling)**
-    (as part of the matter-recycling cycle)
+    nuclei](#agn)** (as part of the matter-recycling cycle)
 
-4.  **[Quantized intrinsic redshift in
-    quasars](#43-quasars-as-newly-formed-matter-in-the-two-medium-model)**,
-    and their **physical association with parent AGN**
+4.  **[Quantized intrinsic redshift in quasars](#quasars)**, and their
+    **physical association with parent AGN**
 
-5.  **[SETI is unlikely to
-    succeed](#54-absolute-time-the-gcm-and-faster-than-light-transmission)**,
-    even if advanced civilizations exist
+5.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
+    civilizations exist
 
 6.  **[Matter cannot hold its shape in the intergalactic
-    voids](https://github.com/ktonon/two-medium-model/blob/main/cosmological-redshift.md)**
+    voids](#momentum-flow)**
 
 Each of these will be discussed in greater detail in relevant sections
 below.
@@ -1313,7 +1307,7 @@ without violating charge conservation.
 This sets the stage for the next step: what happens when the environment
 is even more extreme than a neutron star.
 
-## AGN Cores: Neutron Destruction and Charge-Conserving Recycling
+# AGN Cores: Neutron Destruction and Charge-Conserving Recycling 
 
 In an infinite, steady-state universe, matter cannot simply accumulate.
 If new standing waves can form in regions of high LCM compression, then
@@ -1366,7 +1360,7 @@ In this picture, **AGN function as matter recyclers**: their outer
 regions can create new standing waves, while their inner cores dismantle
 old ones, maintaining balance in an infinite, ongoing universe.
 
-## Quasars as Newly Formed Matter in the Two-Medium Model
+# Quasars as Newly Formed Matter in the Two-Medium Model 
 
 In 2MM, regions of extremely high LCM compression can both **destroy**
 matter (deep in AGN cores) and **create** new matter (where
@@ -1399,7 +1393,7 @@ pass through temporary spikes in LCM density. This interpretation
 provides a simple physical link between AGN activity, matter recycling,
 and the unusually high redshifts associated with quasars.
 
-## Momentum Flow in 2MM: Why Voids Flip the Sign
+## Momentum Flow
 
 The Two-Medium Model describes the universe as a dynamic balance between
 two interacting substrates:
@@ -1928,7 +1922,7 @@ something that starts and then evolves; it is something that
 *self-maintains*, with structure emerging continually from the ongoing
 reciprocity between the LCM and GCM.
 
-## Absolute Time, the GCM, and Faster-Than-Light Transmission
+# Absolute Time, the GCM, and Faster-Than-Light Transmission 
 
 In 2MM, the presence of the GCM introduces a deeper notion of **absolute
 time**---a timebase that exists independently of the LCM processes that
@@ -2222,7 +2216,7 @@ rather than a doctrine. The demystification comes not from new
 mathematics, but from a clearer sense of what the underlying
 architecture of reality might be.
 
-# Earth and the Solar System
+ Earth and the Solar System 
 
 ## A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
 
