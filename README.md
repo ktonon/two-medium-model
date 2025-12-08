@@ -38,8 +38,6 @@ formalization and testing.
     Coexist](#very-different-scales-why-two-media-can-coexist)
 - [Matter as Standing Waves in the
   LCM](#matter-as-standing-waves-in-the-lcm)
-  - [Pair Production as a GCM-Induced
-    Collapse](#pair-production-as-a-gcm-induced-collapse)
   - [Frequency, Compression, and the Threshold for
     Collapse](#frequency-compression-and-the-threshold-for-collapse)
   - [Dual-Mode Helical Standing Waves: The Structure of
@@ -62,14 +60,19 @@ formalization and testing.
     Bind](#nuclear-structure-why-only-protonneutron-pairs-bind)
   - [Gravity: Long-Range GCM Shadowing and the Resolution of the Heat
     Crisis](#gravity-long-range-gcm-shadowing-and-the-resolution-of-the-heat-crisis)
+- [Earth and the Solar
+  System](#earth-and-the-solar-system)
+  - [A Coherent Interior: How 2MM Reinterprets the Earth From the Inside
+    Out](#a-coherent-interior-how-2mm-reinterprets-the-earth-from-the-inside-out)
+  - [A Solar System Reinterpreted Through
+    2MM](#a-solar-system-reinterpreted-through-2mm)
+  - [Earth and Venus: Divergent Paths in a Growing-Planet
+    Framework](#earth-and-venus-divergent-paths-in-a-growing-planet-framework)
+  - [Water as the Signature of Planetary Maturity in
+    2MM](#water-as-the-signature-of-planetary-maturity-in-2mm)
+  - [Related Works](#related-works)
 - [Cosmology in an Infinite
   Medium](#cosmology-in-an-infinite-medium)
-  - [Neutron Stars: Extreme Compression Without Matter
-    Destruction](#neutron-stars-extreme-compression-without-matter-destruction)
-  - [AGN Cores: Neutron Destruction and Charge-Conserving
-    Recycling](#agn)
-  - [Quasars as Newly Formed Matter in the Two-Medium
-    Model](#quasars)
   - [Momentum Flow](#momentum-flow)
   - [The Cosmic Microwave Background in an Infinite 2MM
     Universe](#the-cosmic-microwave-background-in-an-infinite-2mm-universe)
@@ -92,16 +95,6 @@ formalization and testing.
     Collapse](#the-locality-problem-and-photon-collapse)
   - [How 2MM Demystifies Quantum
     Behavior](#how-2mm-demystifies-quantum-behavior)
-- [Earth and the Solar System](#solar-system)
-  - [A Coherent Interior: How 2MM Reinterprets the Earth From the Inside
-    Out](#a-coherent-interior-how-2mm-reinterprets-the-earth-from-the-inside-out)
-  - [A Solar System Reinterpreted Through
-    2MM](#a-solar-system-reinterpreted-through-2mm)
-  - [Earth and Venus: Divergent Paths in a Growing-Planet
-    Framework](#earth-and-venus-divergent-paths-in-a-growing-planet-framework)
-  - [Water as the Signature of Planetary Maturity in
-    2MM](#water-as-the-signature-of-planetary-maturity-in-2mm)
-  - [Related Works](#related-works)
 - [Methodology and
   Acknowledgements](#methodology-and-acknowledgements)
 
@@ -128,12 +121,11 @@ different starting point, one that led me to explore whether a
 medium-based ontology might unify many disconnected pieces of physical
 behavior.
 
-This is not a finished theory. It is a conceptual model: speculative,
-exploratory, and intentionally not defined mathematically. My hope is
-that general readers find it accessible, and that professionals find it
-interesting enough to question, critique, or even refine. Science
-progresses not only through detailed calculation, but also through new
-ways of seeing familiar things.
+This is a conceptual model: exploratory and intentionally not defined
+mathematically. My hope is that general readers find it accessible, and
+that professionals find it interesting enough to question, critique, or
+even refine. Science progresses not only through detailed calculation,
+but also through new ways of seeing familiar things.
 
 # Introduction
 
@@ -199,19 +191,14 @@ particle structure, and the matter-creation/destruction cycle.
 1.  **A 12-hour diurnal variation in high-energy particle events** (a
     modern aether test based on LCM bow/wake asymmetry)
 
-2.  **[Hydrogen creation inside planets and moons](#solar-system)** (and
-    liquid water worlds should be abundant)
+2.  **[Hydrogen creation inside planets and
+    moons](#earth-and-the-solar-system)** (and liquid water worlds
+    should be abundant)
 
-3.  **[Neutron destruction occurring inside active galactic
-    nuclei](#agn)** (as part of the matter-recycling cycle)
-
-4.  **[Quantized intrinsic redshift in quasars](#quasars)**, and their
-    **physical association with parent AGN**
-
-5.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
+3.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
     civilizations exist
 
-6.  **[Matter cannot hold its shape in the intergalactic
+4.  **[Matter cannot hold its shape in the intergalactic
     voids](#momentum-flow)**
 
 Each of these will be discussed in greater detail in relevant sections
@@ -362,17 +349,7 @@ until the system reaches a stable equilibrium. The wave becomes
 **trapped in a gravity-induced compression well of its own making**,
 forming a localized, self-sustaining standing wave. This cannot be
 overstated: **a separate substrate is required to stabilize standing
-waves in the LCM**. 2MM addresses the problem of standing-wave
-confinement by introducing a second substrate, the GCM, whose ultra-fast
-particulate flux interacts with the LCM. When transverse LCM waves
-concentrate into a small region, they locally reduce the incoming GCM
-flux, creating a gravitational shadow. This shadow increases the
-surrounding LCM compression, and the increased compression further
-confines the wave. The feedback continues until the system reaches a
-stable equilibrium. The wave becomes trapped in a gravity-induced
-compression well of its own making, forming a localized, self-sustaining
-standing wave. This cannot be overstated: a separate substrate is
-required to stabilize standing waves in the LCM.
+waves in the LCM**.
 
 This dual-medium interaction supplies a natural mechanism for the
 existence of stable matter waves---something difficult to obtain in any
@@ -394,57 +371,6 @@ two complementary media shape and reinforce one another.
 > idea, that distinct media may underlie different physical phenomena,
 > provided the inspiration for 2MM.*
 
-## Pair Production as a GCM-Induced Collapse
-
-Pair production has a striking feature: a single high-energy photon
-transforms into two particles---an electron and a positron---that are
-equal in energy but opposite in structure. This symmetry suggests that
-matter must arise from a wave configuration that can collapse into **two
-complementary standing-wave modes**, differing only in their internal
-phase alignment.
-
-> **Note on Terminology**
->
-> In this document, the word *collapse* refers strictly to a **physical
-> contraction of an LCM wave**, a dynamical process in which a
-> high-frequency traveling wave becomes unstable and reorganizes into a
-> confined standing-wave structure. This is a mechanical transformation
-> of real oscillations in a medium. **It has nothing to do with
-> quantum-mechanical wave-function collapse**, which is a separate and
-> unrelated concept. To avoid confusion, *we will never use the term
-> "collapse" to mean wave-function collapse* anywhere in this work.
-
-In earlier drafts, the collapse mechanism was described as the LCM
-"failing to support" extremely high-frequency oscillations. Upon closer
-examination, a more coherent explanation emerges once the GCM is
-included. In 2MM, the trigger for pair production is not an elastic
-limit of the LCM at all---it is the **GCM reacting to the growing
-opacity of the wave**.
-
-From the GCM's perspective, a high-frequency LCM wave becomes
-increasingly compact in *absolute* space (the GCM reference frame). As
-the energy is squeezed into a smaller region, the wave begins to
-interact more strongly with the GCM flux. Once the wave's energy density
-crosses a threshold, it becomes **partially opaque** to the GCM. This
-opacity creates a small but rapidly intensifying **GCM shadow**.
-
-The shadow compresses the surrounding LCM. The wave is no longer free to
-propagate: the GCM, responding to the opacity, forces the oscillation
-inward. What follows is a rapid collapse of the traveling wave into a
-tightly localized configuration.
-
-The collapse cannot simply extinguish the energy. The system must
-preserve overall symmetry, geometry, and conservation laws. The natural
-outcome is for the collapsing wave to reorganize into **two standing
-waves**, identical in energy but opposite in internal phase ordering.
-These are the **lead-mode** and **lag-mode** helices that form the
-electron and the positron.
-
-Under this view, pair production is driven not by the LCM failing, but
-by the **GCM enforcing a new equilibrium** when a traveling wave becomes
-too compact to remain transparent. Matter arises from the interaction
-between the two media at a sharp threshold of opacity.
-
 ## Frequency, Compression, and the Threshold for Collapse
 
 A key consequence of this picture is that the stability of light depends
@@ -453,32 +379,29 @@ diffuse in absolute space and interact negligibly with the GCM flux.
 They travel freely, their structure restored by the elastic properties
 of the LCM.
 
-As frequency increases, however, the wave's spatial extent shrinks
-(again, in the absolute frame defined by the GCM). The crests bunch
-closer together, the oscillation occupies a smaller physical region, and
-energy density rises. From the GCM perspective, the wave becomes a
-denser and more coherent target.
+When a light wave moves into a region of higher LCM compression, for
+example entering the gravitational field of a planet or star, it
+blueshifts. That is, it's frequency increases and the wave's spatial
+extent shrinks. The crests bunch closer together, the oscillation
+occupies a smaller physical region, and energy density rises. From the
+GCM perspective, the wave becomes a denser and more coherent target.
 
 This leads to a simple but profound rule:
 
-> **High-frequency waves progressively increase their effective
+> **Blueshifting waves progressively increase their effective
 > cross-section to the GCM flux.**
 
 At some point, the wave ceases to be transparent. The GCM begins
 scattering off it strongly enough to cast a real shadow. The shadow
-compresses the nearby LCM, which in turn constricts the wave. If the
-compression crosses a critical threshold, the traveling wave loses the
-ability to maintain its extended form.
+compresses the nearby LCM, which in turn constricts the wave. A positive
+feedback loop takes over. Eventually the compression crosses a critical
+threshold and the traveling wave loses the ability to maintain its
+extended form. This is the onset of collapse.
 
-This is the onset of collapse.
-
-The earlier intuition---that a blueshifted or high-frequency wave
-becomes unstable---is still partly correct, but the true driver is the
-**interaction with the GCM**, not the elasticity of the LCM itself.
 Regions with high LCM density (such as near massive bodies or inside
 planets) naturally compress incoming waves, increasing both their local
-frequency and their opacity to the GCM. This explains why pair
-production is favored in such environments:
+frequency and their opacity to the GCM. This explains why
+electron/positron pair production is favored in such environments:
 
 - **High local LCM density → higher local optical frequency**
 
@@ -493,12 +416,6 @@ interaction. It occurs when a traveling wave becomes sufficiently
 compact---and therefore sufficiently opaque to the GCM---that the only
 stable configuration remaining is a pair of standing-wave particles with
 complementary phase structures.
-
-Here is the **fully updated Section 2.3**, rewritten from start to
-finish to incorporate the improved wording and ensure a smooth, coherent
-narrative consistent with your revised GCM-driven collapse model.
-
-You can paste this version directly into your document.
 
 ## Dual-Mode Helical Standing Waves: The Structure of Matter
 
@@ -637,7 +554,7 @@ It is simply the interplay of LCM elasticity and GCM momentum flux
 working toward a stable equilibrium around a localized standing-wave
 core.
 
-This mechanism completes the missing conceptual chain in earlier models:
+This mechanism completes a conceptual chain:
 
 > **Concentrated wave energy → increased GCM opacity → persistent GCM
 > shadow → inward flux → stable LCM compression field.**
@@ -730,10 +647,9 @@ extreme compression.
 
 This mechanism preserves charge balance and operates independently of
 any primordial supply of material. A discussion of why this remains
-feasible even when naïve density estimates might suggest otherwise---and
-how it shapes the evolution of planets and moons---is presented in the
-companion page [Earth and the Solar
-System](https://github.com/ktonon/two-medium-model/blob/main/earth-and-solar-system.md).
+feasible even when naïve density estimates might suggest otherwise, and
+how it shapes the evolution of planets and moons, is presented in [Earth
+and the Solar System](#earth-and-the-solar-system).
 
 ## Why the Proton Remains Compressed in Low-Density LCM
 
@@ -786,9 +702,9 @@ established, the proton's internal feedback loop keeps it stable:
 To appreciate how dramatic this stability is, compare the proton's
 internal density to ordinary matter. A typical rock has a density of
 about 3,000 kg/m$^3$, whereas the implied energy density inside a proton
-is roughly 10$^17$ kg/m$^3$ --- fourteen orders of magnitude higher.
+is roughly 10$^1$$^7$ kg/m$^3$ --- fourteen orders of magnitude higher.
 Even white dwarf material (\~10$^9$ kg/m$^3$) and neutron star crusts
-(\~10$^14$ kg/m$^3$) fall far below this level. From the proton's
+(\~10$^1$$^4$ kg/m$^3$) fall far below this level. From the proton's
 perspective, every macroscopic environment --- rock, air, vacuum --- is
 effectively *dilute*.
 
@@ -808,10 +724,6 @@ In this light, the proton's stability becomes intuitive. It is a tightly
 bound, ultra-dense collapsed mode, sustained by continuous reinforcement
 between the LCM compression field and the GCM momentum flux. The
 everyday world simply does not have the capacity to disturb it.
-
-The proton is therefore a **metastable collapsed state**, one that
-remains compact everywhere in the universe except under the most extreme
-GCM conditions (such as within the cores of active galactic nuclei).
 
 ## The Neutron: A Paired Standing-Wave Structure
 
@@ -843,13 +755,6 @@ neutron:
 - interacts gravitationally like a proton,
 
 - but lacks the strong **electrostatic signature** of either charge.
-
-#### Electrical Neutrality
-
-The opposing compression geometries of the paired modes cause their
-electrostatic contributions to **cancel**. The neutron's neutrality is
-therefore not an independent property---it is simply a consequence of
-**paired standing-wave symmetry**.
 
 #### Dependence on the Nuclear Environment
 
@@ -973,10 +878,9 @@ and increases local compression. The LCM responds by pushing the
 particles apart---the same way two stiff springs resist being pressed
 into one another. GCM effects play a secondary role here: because each
 particle's shadow is shaped by its own compression field, bringing like
-charges together does not create a deeper combined shadow. Without the
-reinforcement that opposite charges enjoy, the GCM contributes little
-inward pull, leaving the LCM's geometric incompatibility to dominate and
-drive the particles apart.
+charges together does not create a deeper combined shadow. The GCM
+contributes insufficient inward pull, leaving the LCM's geometric
+incompatibility to dominate and drive the particles apart.
 
 **Opposite charges attract** for the complementary reason. Their
 compression fields have opposite orientations, allowing them to
@@ -1170,9 +1074,9 @@ addition of new matter in the deepest regions of massive bodies.
 A natural question arises here: **are planetary interiors really dense
 enough to push LCM compression toward the thresholds required for wave
 collapse and matter creation?** Section 2 only outlines the conceptual
-mechanism. The companion page [Earth and the Solar
-System](https://github.com/ktonon/two-medium-model/blob/main/earth-and-solar-system.md)
-examines the planetary context more closely.
+mechanism. The section [Earth and the Solar
+System](#earth-and-the-solar-system) examines the planetary context more
+closely.
 
 To conclude, gravity in 2MM is not a separate fundamental force but the
 **macroscopic expression of GCM shadowing**, always shaped by the LCM
@@ -1214,196 +1118,446 @@ than accumulating as unbounded thermal energy.
 > found at [Earth and the Solar
 > System](https://github.com/ktonon/two-medium-model/blob/main/earth-and-solar-system.md).
 
+# Earth and the Solar System
+
+## A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
+
+One of the simplest ways to challenge any new physical framework is to
+ask what it predicts for something we know well. The Earth---warm,
+magnetic, geologically active---provides a natural test case. If the
+Two-Medium Model (2MM) were merely a reinterpretation of known physics,
+its implications for planetary interiors would collapse back into the
+familiar. But if it is a genuinely different ontology, the model should
+produce a meaningfully different and internally coherent picture of what
+happens beneath our feet.
+
+The interesting thing is that it does.
+
+It begins innocently enough: a naïve calculation of LCM density inside
+the Earth. Using conventional estimates---nuclear spacings, bulk
+density, gravitational potential---nothing unusual emerges. The interior
+looks too dilute, in LCM terms, to support anything exotic. Nuclear
+compression envelopes barely overlap, and the gravitational potential
+difference from surface to core barely nudges photon energies. Under
+that view, the LCM is a placid background medium with no special role in
+planetary interiors.
+
+But in 2MM, this quiet interior is a mirage. Gravity is not geometric
+curvature but a consequence of a perpetual LeSage-style flux (the GCM),
+pumping kinetic energy into matter and into the LCM itself. Matter is
+not pointlike but a superposition of compressive and torsional standing
+waves with two distinct modes---lag and lead---that respond differently
+to background LCM density. And the interior is not a static solid but a
+conducting, liquid-like plasma, threaded by currents and stabilized by
+the very structure of the LCM.
+
+When these ingredients are considered together, a strikingly
+different---and surprisingly plausible---picture of the Earth emerges.
+
+### A dynamical interior shaped by a universal energy flux
+
+In 2MM, the Earth's heat is not the remnant of primordial formation or
+radioactive decay alone. It is continually refreshed by GCM impacts:
+non-elastic, microscopic collisions that nudge nuclei, heat the
+interior, and feed the slow churning of the liquid outer core. This is
+not heat in the usual thermodynamic sense, but the steady background hum
+of the universe's gravitational engine.
+
+These impacts increase the frequency of high-energy close encounters
+between nuclei. Though brief, these moments produce intense local LCM
+compression far beyond the ambient level. What looks like a soft
+interior when averaged hides countless microregions where the LCM is
+stressed to its limits. It is in these transient events that the model's
+distinctive physics---LCM-wave collapse, pair creation, proton
+formation---can occur at meaningful rates.
+
+### A confined, liquid plasma capable of self-organizing structures
+
+At depth, the Earth's material is not a gaseous plasma but a dense,
+viscous, electrically conducting liquid. In such a medium, currents do
+not wander diffusely---they self-organize. Magnetic fields draw current
+channels inward, forming pinched filaments embedded within the
+surrounding liquid. These z-pinch--like structures behave as LCM
+compression hotspots: narrow, persistent sites where matter is denser,
+currents are stronger, and the LCM is driven into non-linear regimes.
+
+This picture resonates quietly with the geomagnetic field. A network of
+conductive filaments in a churning plasma shell naturally produces
+strong, long-lived magnetic fields. It accommodates the irregular and
+chaotic reversals seen in the paleomagnetic record. And it does so
+without requiring fine-tuning; the GCM ensures a continuous power
+source, and the liquid plasma ensures the necessary fluidity.
+
+### Lag and lead modes: structure shaped by density
+
+The lag-mode (positron-like) and lead-mode (electron-like) behave
+differently in strong LCM gradients due to their internal phase
+relationships. Lag-mode structures, whose compressive oscillation lags
+behind the torsion, are stabilized in dense LCM environments---they
+"lock in" to the high-compression background. Lead-mode structures are
+the opposite: their compressive phase leads the torsional motion, and
+this configuration naturally tends to move away from strongly compressed
+regions.
+
+The outcome is a subtle but powerful radial sorting:
+
+- **Lag-mode matter sinks toward the deep core**, enriching it in
+  protons and related composites.
+
+- **Lead-mode matter preferentially resides in outer regions**, where it
+  increases electrical conductivity and supports the dynamo.
+
+This sorting sharpens LCM density gradients and reinforces the
+interior's layered behavior. The Earth becomes a self-organized system
+where composition, conductivity, and compression structure naturally
+arise from basic mode dynamics.
+
+### Hydrogen: a bridge between deep physics and surface evolution
+
+If 2MM is correct, high-compression regions should generate hydrogen
+from LCM-wave breakdown. Hydrogen introduced into a silicate melt does
+not float to the surface; it dissolves into minerals, forms hydroxyl,
+shifts redox balances, and increases conductivity. Over geologic time,
+as hydrogen binds to oxygen, the deep interior becomes a slow factory of
+water.
+
+This creates an intriguing link with geological evidence. Much of
+Earth's early continental crust was covered by shallow seas; later eras
+saw repeated widespread flooding of continental interiors. Standard
+models explain these largely through tectonics and sea-level cycles, but
+2MM adds an additional long-term trend: the gradual accumulation of
+interior-generated water and the slow outward expression of that water
+through volcanism, mantle degassing, and mineral dehydration.
+
+As the Earth grows in mass and radius---consistent with the
+interpretations of Maxlow, Carey, and others---new ocean basins form,
+continents separate, and water cycles between interior and surface
+reshape the geography of the planet.
+
+### What emerges
+
+Put together, these ideas give the Earth a new conceptual coherence
+under 2MM:
+
+- A **deep interior continually energized** by the gravitational flux.
+
+- A **liquid plasma shell threaded with current filaments**, producing
+  magnetic fields and reversals as emergent behavior.
+
+- A **mode-stratified structure** in which lag and lead components find
+  their natural energetic niches.
+
+- A **chemical pathway** from deep LCM processes to surface hydrology.
+
+- And a **slow increase in planetary mass and volume**, offering an
+  ontological foundation for Earth-expansion interpretations previously
+  considered speculative.
+
+None of these claims, on their own, prove 2MM. But together they sketch
+a world that is internally consistent, physically motivated, and rich
+with testable implications. The model does not ask specialists to
+discard their data---only to look again, from a new angle, at patterns
+that were already there.
+
+For an ontological theory, that is exactly the kind of foothold one
+hopes to achieve.
+
+## A Solar System Reinterpreted Through 2MM
+
+If the Two-Medium Model offers a genuine ontology of matter and
+gravity---an account of how the universe operates at its most
+fundamental level---then it should not merely reproduce familiar
+planetary structures. It should reveal new patterns in the Solar System
+that seem incidental under mainstream theories but become natural, even
+expected, in a universe built of interacting LCM and GCM media. When 2MM
+is applied beyond Earth, that is precisely what begins to happen.
+
+In conventional astrophysics, the Solar System's planets are divided
+into primordial categories: rocky inner planets formed from refractory
+dust near the Sun, while gas giants accumulated cold hydrogen and helium
+farther out during the nebular collapse. Water-ice worlds are assigned
+to the outer system simply because the frost line stood there at the
+time of formation. This picture is tidy, but also fragile: it relies on
+a single snapshot of early solar conditions and presumes that bulk
+compositions are frozen relics from four and a half billion years ago.
+
+The 2MM picture is more dynamic and in many ways more organic. Matter is
+not fixed at the moment of planetary birth; it is continuously produced
+in the interiors of heavy bodies through LCM-wave collapse and proton
+formation. And critically, the matter most easily synthesized---because
+it is the simplest condensed lag-mode structure---is **hydrogen**. In
+2MM, hydrogen is not merely a leftover from the solar nebula; it is the
+natural basal product of matter creation in any world where the LCM is
+sufficiently compressed. A rocky planet, given enough time and
+sufficient mass, would gradually enrich itself in hydrogen and evolve
+toward the composition of a gas giant. Instead of gas giants being
+primordial anomalies, they become the expected endpoints of planetary
+growth under a universal, continuing physical process.
+
+Jupiter, then, is less a frozen accident of formation than a world that
+has simply had more time and mass to accumulate the dominant product of
+the 2MM engine. Its vast LCM-well stabilizes hydrogen in increasingly
+exotic configurations, thinning into molecular layers above and
+compressing into metallic hydrogen in its depths. The metallic hydrogen
+is not an exotic material conjured only by high pressure; it is the
+expression of lag-mode structures settling into their natural
+configuration under extreme background compression. With it comes
+immense conductivity, wrapped into a self-organizing fluid shell,
+generating a magnetic field so powerful that it leaves an imprint
+throughout the Jovian system.
+
+But the story grows more interesting when we consider the moons. In the
+traditional view, the ice-rich moons of Jupiter and Saturn are remnants
+of volatile-rich planetesimals that happened to form beyond the frost
+line. In 2MM, their watery compositions take on a different
+significance. Hydrogen created in the interiors of large planets and
+emitted through volcanic, tidal, or plasma pathways finds oxygen
+wherever it can. In silicate systems, oxygen is ubiquitous. Hydrogen
+does what it always does: it binds, dissolves, hydrates, reduces, and
+ultimately forms water. Water is not a leftover; it is a **natural
+chemical consequence** of hydrogen synthesis in oxygen-bearing
+environments.
+
+A moon embedded in a giant planet's LCM envelope does not orbit inertly.
+It experiences a raised baseline LCM compression, because it is immersed
+in the extended compression field of the host. For a world like Europa
+or Enceladus, this changes everything. The threshold for LCM-wave
+breakdown drops; interior heating becomes more efficient; and hydrogen
+produced in core or mantle regions chemically transforms the body over
+time. The icy shells and global oceans that dominate these moons are
+precisely what one would expect in a system where hydrogen emerges
+continually and encounters oxygen-rich rocks and minerals awaiting
+hydration.
+
+Even Io---the most volcanically active object known---finds a natural
+place in this narrative. Its extreme activity is usually ascribed purely
+to tidal flexing. But under 2MM, Io occupies the deepest region of
+Jupiter's compressed LCM environment. Its interior is perpetually
+stirred by both tidal motions and a highly modulated GCM flux. Every
+compression cycle strengthens the probability of LCM-wave collapse
+events; every temperature rise increases the frequency of nuclear
+close-approaches. The result is a world in which volcanism is not merely
+an effect of tides but a structural outcome of living within Jupiter's
+gravitational energy field.
+
+In this broader view, the Solar System becomes a hierarchy of LCM
+environments nested within one another. Each planet and moon does not
+simply hold material inherited from the past but actively grows,
+differentiates, and reconfigures itself according to its position in the
+LCM landscape. The giant planets are hydrogen-rich not because they
+captured nebular gas more effectively, but because hydrogen is the
+universe's simplest and most abundant emergent product. The icy moons
+possess vast reservoirs of water not because they formed in a cold
+region, but because hydrogen naturally synthesizes and water is the
+simplest outcome when hydrogen meets oxygen under pressure. And
+volcanically active worlds like Io are not oddities but inevitable
+consequences of immersion in high-compression LCM fields.
+
+What 2MM offers here is not a replacement for the observed Solar System,
+but a **reinterpretation that unifies its diversity**. It suggests that
+the features we see---metallic hydrogen, buried oceans, volcanic
+extremes---are not historical accidents but emergent phenomena of a
+deeper ontology. The planets become active participants in a universal
+process of matter creation and LCM structuring, and the Solar System
+becomes a laboratory where this process can be read directly in the
+worlds themselves.
+
+For specialists, this perspective does not demand immediate belief. What
+it offers is coherence: a conceptual framework in which many of the
+Solar System's most puzzling features fall into place with surprising
+ease. Such coherence is often the first sign that a theory is worth a
+closer look.
+
+## Earth and Venus: Divergent Paths in a Growing-Planet Framework
+
+Earth and Venus are often described as planetary twins---similar in
+size, density, and overall composition. Yet their geological histories
+could not be more different. From a 2MM perspective, this divergence
+centers not on initial conditions, but on how each planet's crust
+responds to the slow accumulation of internally generated matter.
+
+Venus, for all its volcanic vigor, remains a planet with a **closed
+lithosphere**. It does display impressive rift-like structures---long
+extensional troughs such as Devana Chasma and the chasmata of Aphrodite
+Terra. But these features, striking as they are, do *not* organize into
+a global network. They do not segment the crust into distinct plates,
+establish coherent spreading centers, or create a conveyor system for
+renewing the planetary surface. They are fractures, not gateways.
+Extension happens, but it never matures into a mechanism that opens the
+lithosphere and relocates older crust laterally.
+
+With no global rift system and no subduction, Venus cannot expand its
+surface area in a steady fashion. Any material created internally,
+whether by conventional processes or---under 2MM---by compression-driven
+hydrogen synthesis, has only one meaningful escape route: **episodic
+volcanism**. But volcanism deposits new material *on top of* the old
+crust, thickening and stressing it rather than relieving internal
+pressure. Over time, heat and strain build until the lithosphere yields
+catastrophically. This offers a coherent explanation for Venus's
+globally young surface and its evidence for planet-scale resurfacing
+events: a world periodically forced to reset because it has no
+continuous outlet for its internal growth.
+
+Earth, by contrast, eventually broke through its Venus-like stage. Its
+most ancient crust---thick, buoyant, and granitic---forms the
+continents. But surrounding that is a very different crust: thin, mafic,
+and universally young. This two-layered architecture tells a story.
+Before \~200 million years ago, Earth may have resembled Venus
+structurally, with a unified supercontinent draped across a smaller
+globe and no global rift network. Matter created within the planet,
+whether from thermal sources or the deeper processes described in 2MM,
+could escape only through massive volcanic events.
+
+And the fossil record agrees. The pre-200-million-year interval is
+marked by major mass extinctions tied to enormous flood basalts---the
+Siberian Traps, the Central Atlantic Magmatic Province, the Viluy Traps,
+and others. These events look like the signatures of a planet straining
+against a closed shell.
+
+But around the Triassic--Jurassic boundary, Earth cracked. Long, linear
+rifts connected into a global system. The first true spreading zones
+opened. Oceanic crust began forming continuously at ridges and migrating
+outward. For the first time, Earth acquired a **permanent
+pressure-release mechanism**. New material was added at the base of
+fresh crust, not dumped on top of ancient layers. Old crust drifted away
+rather than thickening in place.
+
+This transition---from eruptions as the only outlet to a steady, global
+rifting mechanism---marks a fundamental difference between the two
+sister planets. Venus today remains in the earlier, closed-lithosphere
+regime. Earth moved into an open-lithosphere regime that can adapt to
+internal growth rather than rupture under it.
+
+In 2MM terms, Earth and Venus become two snapshots of how planets
+respond to internal LCM-driven evolution. Venus shows what happens when
+matter creation pressures build beneath a lithosphere that never fully
+opens. Earth shows what becomes possible when rifting matures into a
+global architecture of renewal.
+
+And that divergence---rooted not in their origins but in their
+structural responses---goes a long way toward explaining why one world
+is catastrophically resurfaced and shrouded in volcanic heat, while the
+other carries a stable hydrosphere, a biosphere, and a geological record
+stretching back billions of years.
+
+## Water as the Signature of Planetary Maturity in 2MM
+
+If there is a single element that bridges geology, chemistry, and
+biology, it is water. In the standard cosmological model, water is
+treated as an accident of formation---an inheritance from icy
+planetesimals delivered during accretion or bombardment. Its presence
+depends sensitively on where a planet forms, how much ice it captures,
+and whether volatile materials survive the violence of early impacts.
+Most of the time, water is treated as a historical contingency rather
+than a physical necessity.
+
+In the Two-Medium Model, this premise shifts dramatically. Water is no
+longer an accident of origin; it is a **natural byproduct of planetary
+evolution**.
+
+Because matter creation in 2MM proceeds through LCM-wave breakdown, the
+simplest and most frequently produced matter is hydrogen. And since
+oxygen is one of the most abundant elements in rocky material, any
+significant production of hydrogen inside a silicate planet will
+inevitably find oxygen to bond with. The encounter is almost chemically
+predetermined: hydrogen dissolves into silicate minerals, reduces iron,
+forms hydroxyl groups, and eventually stabilizes as water.
+
+Under this view, a planet of sufficient mass and internal LCM
+compression does not *inherit* its water---it **manufactures** it.
+
+This is a profound difference. It means that water is not something rare
+or fragile; it is the natural chemical expression of lag-mode matter
+creation interacting with an oxygen-bearing crust. On Earth, this
+process has quietly operated for billions of years, supplementing
+primordial water with deep-sourced hydrogen that emerges through
+volcanism, mantle degassing, and metamorphic cycles. Seen through this
+lens, Earth's oceans are not simply remnants of cosmic delivery---they
+are, at least in part, the long-term outcome of its internal LCM
+dynamics.
+
+Once this principle is in place, the Solar System begins to look very
+different.
+
+Icy moons---Europa, Enceladus, Ganymede, Titan---are no longer puzzles
+or exceptions. They are precisely what one expects for worlds embedded
+in the deep LCM wells of giant planets. Their internal heat, driven by a
+combination of tidal forcing and GCM flux, maintains vast liquid oceans
+beneath their icy crusts. And their water inventory, rather than being
+relics of formation beyond the frost line, may reflect the slow
+accumulation of H$_2$O generated inside them through the same
+hydrogen--oxygen chemistry that shapes Earth.
+
+Even the location of these moons, far outside the classical "goldilocks
+zone," ceases to be a constraint. Surface sunlight is irrelevant. What
+matters is internal compression, LCM gradients, and the ongoing energy
+input from the gravitational medium. If a moon can maintain a dense,
+conductive interior---either by size, composition, or proximity to a
+giant planet---then liquid water becomes not exceptional but expected.
+
+And if water is expected, then so is **habitability** in a broad
+thermodynamic sense. 2MM does not claim that life must arise wherever
+water appears; that would overreach. But it does shift the landscape of
+probabilities. Instead of a universe with only a few rare islands inside
+narrow temperature bands around stars, 2MM suggests a universe in which
+water may form within a wide range of planetary contexts, and liquid
+oceans may persist even where starlight cannot reach.
+
+This expanded view does not guarantee life elsewhere---it simply makes
+the question more open. It nudges the expectation away from rarity and
+toward a universe where planets and moons, by virtue of their internal
+physics, cultivate water as a fundamental outcome of their growth. In
+that sense, the Two-Medium Model reframes one of the oldest questions in
+astronomy. The significance of water is not that it is rare, but that it
+is a natural signature of a mature planet---a world that has crossed the
+threshold where LCM compression, matter creation, and basic chemistry
+collaborate.
+
+If this picture is even partly correct, then the Solar System is not an
+anomaly. It is a template. And worlds like ours---wet, layered,
+internally dynamic---may be far more common than our current models
+allow.
+
+## Related Works
+
+Many of the ideas related to Earth expansion discussed here are not
+original to this work. What is significant in the context of 2MM is that
+the model provides a physical mechanism---developed independently of the
+expanding-Earth framework---that naturally leads to predictions about
+which bodies in the Solar System should experience long-term growth
+through internal hydrogen production. Readers interested in the broader
+geological and historical arguments for planetary expansion may wish to
+begin with the works of Dr. James Maxlow and Professor Samuel Warren
+Carey, both of whom have explored this topic extensively from a
+geological perspective.
+
+The work of Stephen Hurrell is especially noteworthy because it
+approaches the expansion question from a completely different direction.
+Rather than beginning with geological reconstructions, Hurrell examined
+the biomechanics and scaling limits of ancient organisms, concluding
+that Earth's surface gravity must have been significantly weaker in the
+past. This implies not merely a smaller planetary radius, but a smaller
+planetary mass---a crucial distinction, because it separates two
+fundamentally different expansion models. A radius-only expansion
+(constant mass) would produce stronger gravity in the past, whereas
+Hurrell's findings point toward an expansion driven by increasing mass
+over time. This independent line of evidence aligns more closely with
+frameworks---such as 2MM---that allow for internal matter generation
+rather than geometric inflation alone.
+
 # Cosmology in an Infinite Medium
-
-Up to this point, the Two-Medium Model has focused on waves, particles,
-and forces. But these ideas rest on a broader cosmological backdrop that
-now needs to be stated explicitly.
-
-**2MM adopts, as an axiom, that the universe is infinite in extent,
-unbounded in scale, and without a beginning or an end.**
-
-This is not presented as something proved by the model, nor as something
-required by observation. It is simply the cosmological starting point
-from which the rest of the theory is explored.
-
-Given this assumption, one implication follows naturally:
-
-If matter can be created in regions of high LCM compression, then
-**other regions must exist where matter can be broken down**. Otherwise,
-mass would accumulate indefinitely within an infinite, timeless
-universe.
-
-From this perspective, matter destruction is not a claim about what
-*must* happen in nature, but rather a logical requirement **within the
-chosen cosmological framework** of 2MM. It becomes a counterpart to
-matter creation, ensuring that the two-media system can maintain
-long-term balance.
-
-## Neutron Stars: Extreme Compression Without Matter Destruction
-
-Before talking about true matter destruction, it helps to look at a case
-that is already part of mainstream physics: the **neutron star**.
-
-In standard astrophysics, when a massive star collapses, its core can
-reach densities so high that:
-
-- electrons are forced into protons,
-
-- protons and electrons combine to form neutrons (plus a neutrino),
-
-- and the result is an object made predominantly of **neutron matter**.
-
-In Two-Medium terms, this can be reinterpreted as:
-
-- extreme LCM compression and GCM shadowing push proton and electron
-  standing waves so close that their helical patterns can no longer
-  remain distinct;
-
-- the lead-mode (electron-like) and lag-mode (proton-like) structures
-  **lock together** into a combined standing wave --- the **neutron
-  mode**;
-
-- this combined mode has a **larger core radius** but a **softer LCM
-  compression profile**, allowing tighter packing of matter than a pure
-  proton--electron mixture.
-
-Crucially:
-
-- **no charge is destroyed** in this process;
-
-- the proton's positive and electron's negative contributions are now
-  encoded in a **single neutral standing-wave configuration**;
-
-- the overall charge balance of the star is preserved.
-
-Recall that although the neutron's softer compression field allows
-closer approach than two protons could manage, **two neutrons still
-cannot form a stable bound pair in free space**. Their GCM shadowing is
-too weak---spread over a larger core radius---and their LCM repulsion,
-while gentler than a proton's, still rises before gravitational
-attraction can dominate. The result is always the same: **the repulsive
-component overtakes the shadow-induced attraction before a bound state
-can form**.
-
-Inside a neutron star, however, the situation is completely different.
-The ambient LCM density is so extreme, and the inward GCM flux so
-intense, that neutrons are forced far closer together than they ever
-could be in vacuum. At these separations, the normally insufficient GCM
-attraction becomes overwhelming, and the softer neutron compression
-fields deform under an external pressure orders of magnitude stronger
-than anything found in ordinary nuclei. In this environment, **neutrons
-do not "bond" in the usual nuclear sense---they are crushed into a
-degenerate, tightly packed configuration that is only stable because the
-surrounding LCM/GCM conditions are unimaginably strong**. This contrast
-explains why neutrons fall apart when isolated, yet form the bulk of a
-neutron star when immersed in an extreme medium.
-
-Neutron stars are therefore an example of **matter rearrangement under
-extreme compression**, not matter destruction. They show that protons
-and electrons can be reorganized into a different, denser configuration
-without violating charge conservation.
-
-This sets the stage for the next step: what happens when the environment
-is even more extreme than a neutron star.
-
-# AGN Cores: Neutron Destruction and Charge-Conserving Recycling 
-
-In an infinite, steady-state universe, matter cannot simply accumulate.
-If new standing waves can form in regions of high LCM compression, then
-other regions must exist where standing waves can be dismantled and
-their energy returned to the media. In 2MM, this role naturally falls to
-the **innermost cores of active galactic nuclei (AGN)**---the only
-environments dense enough to destabilize even neutron-like structures.
-
-AGN can be viewed as layered systems:
-
-- **Outer regions:** strong LCM gradients → frequent wave collapse →
-  pair production and intermittent matter creation.
-
-- **Intermediate zones:** neutron-star--like compression → electrons and
-  protons forced into neutron configurations.
-
-- **Innermost core:** LCM density exceeds the stability limit of the
-  neutron itself.
-
-At this deepest layer, 2MM proposes that the **neutron standing wave
-unravels**:
-
-- the lead-mode and lag-mode components lose their phase-locked
-  relationship,
-
-- the combined structure collapses into high-frequency LCM disturbances,
-
-- releasing energy back into the media in a neutral, charge-balanced
-  way.
-
-Because the neutron is globally neutral, its breakdown conserves charge
-automatically. Any residual charged fragments are produced in matched
-pairs or quickly reabsorbed by the surrounding plasma, ensuring that
-**no net charge imbalance** is introduced.
-
-Thus, matter destruction in 2MM is not the disappearance of isolated
-protons, but a two-step sequence:
-
-1.  **Extreme compression forces protons + electrons into neutrons**
-    (charge conserved).
-
-2.  **Neutrons dissolve into high-frequency LCM waves** in cores where
-    the standing-wave structure cannot survive.
-
-The resulting radiation escapes outward, where---under suitable
-compression gradients---it can contribute to **new matter creation** via
-wave collapse.
-
-In this picture, **AGN function as matter recyclers**: their outer
-regions can create new standing waves, while their inner cores dismantle
-old ones, maintaining balance in an infinite, ongoing universe.
-
-# Quasars as Newly Formed Matter in the Two-Medium Model 
-
-In 2MM, regions of extremely high LCM compression can both **destroy**
-matter (deep in AGN cores) and **create** new matter (where
-high-frequency LCM waves collapse). If neutron destruction releases
-intense bursts of high-frequency radiation, then wherever that radiation
-encounters a *local increase* in LCM density, wave collapse can occur
-and new standing waves---electrons, protons, and sometimes
-neutrons---can form.
-
-The most natural astrophysical site for this is the **base of AGN
-jets**. Magnetic pinching, gravitational focusing, and collimation all
-produce a temporary compression bottleneck. As outgoing radiation from
-the AGN core passes through this region, it blueshifts into a denser LCM
-environment where wave collapse thresholds can be exceeded. This
-converts part of the outgoing energy into compact packets of newly
-formed matter.
-
-In the 2MM framework, these compact, high-energy newborn structures
-correspond observationally to **quasars**. Their high redshift follows
-naturally: quasars originate in unusually steep LCM compression
-gradients, so the light they emit must climb out of a deeper
-"compression well" than light from their parent galaxy. As they travel
-outward along the jet into regions of lower compression, their internal
-standing-wave modes relax, and their observed redshift gradually
-decreases---an effect long noted in quasar--AGN associations.
-
-Thus, quasars appear in 2MM not as distant primordial objects, but as
-**localized bursts of newly created matter** formed where AGN outflows
-pass through temporary spikes in LCM density. This interpretation
-provides a simple physical link between AGN activity, matter recycling,
-and the unusually high redshifts associated with quasars.
 
 ## Momentum Flow
 
+Before we discuss a mechanism for the release of LCM standing-waves
+(matter \"destruction\"), we first have to address an observation that
+is usually taken as strongly supporting a Big Bang cosmology. That
+being, cosmological redshift.
+
 The Two-Medium Model describes the universe as a dynamic balance between
-two interacting substrates:
+two interacting substrates: the LCM and the GCM.
 
-- the **GCM**, a sea of ultra-fast, ultra-small corpuscles,
-
-- and the **LCM**, an elastic medium that hosts matter, light, and all
-  the structures we can observe.
-
-Wherever these two media touch, they exchange momentum. Dense
+Wherever these two media interact, they exchange momentum. Dense
 regions---galaxies, stars, planets---absorb momentum from the GCM and
 use it to maintain their internal compression. Light propagates through
 the LCM, bending and shifting as the GCM flux shapes its path. And in
@@ -2215,433 +2369,6 @@ reinterpret quantum experiments independently, using 2MM as a guide
 rather than a doctrine. The demystification comes not from new
 mathematics, but from a clearer sense of what the underlying
 architecture of reality might be.
-
- Earth and the Solar System 
-
-## A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
-
-One of the simplest ways to challenge any new physical framework is to
-ask what it predicts for something we know well. The Earth---warm,
-magnetic, geologically active---provides a natural test case. If the
-Two-Medium Model (2MM) were merely a reinterpretation of known physics,
-its implications for planetary interiors would collapse back into the
-familiar. But if it is a genuinely different ontology, the model should
-produce a meaningfully different and internally coherent picture of what
-happens beneath our feet.
-
-The interesting thing is that it does.
-
-It begins innocently enough: a naïve calculation of LCM density inside
-the Earth. Using conventional estimates---nuclear spacings, bulk
-density, gravitational potential---nothing unusual emerges. The interior
-looks too dilute, in LCM terms, to support anything exotic. Nuclear
-compression envelopes barely overlap, and the gravitational potential
-difference from surface to core barely nudges photon energies. Under
-that view, the LCM is a placid background medium with no special role in
-planetary interiors.
-
-But in 2MM, this quiet interior is a mirage. Gravity is not geometric
-curvature but a consequence of a perpetual LeSage-style flux (the GCM),
-pumping kinetic energy into matter and into the LCM itself. Matter is
-not pointlike but a superposition of compressive and torsional standing
-waves with two distinct modes---lag and lead---that respond differently
-to background LCM density. And the interior is not a static solid but a
-conducting, liquid-like plasma, threaded by currents and stabilized by
-the very structure of the LCM.
-
-When these ingredients are considered together, a strikingly
-different---and surprisingly plausible---picture of the Earth emerges.
-
-### A dynamical interior shaped by a universal energy flux
-
-In 2MM, the Earth's heat is not the remnant of primordial formation or
-radioactive decay alone. It is continually refreshed by GCM impacts:
-non-elastic, microscopic collisions that nudge nuclei, heat the
-interior, and feed the slow churning of the liquid outer core. This is
-not heat in the usual thermodynamic sense, but the steady background hum
-of the universe's gravitational engine.
-
-These impacts increase the frequency of high-energy close encounters
-between nuclei. Though brief, these moments produce intense local LCM
-compression far beyond the ambient level. What looks like a soft
-interior when averaged hides countless microregions where the LCM is
-stressed to its limits. It is in these transient events that the model's
-distinctive physics---LCM-wave collapse, pair creation, proton
-formation---can occur at meaningful rates.
-
-### A confined, liquid plasma capable of self-organizing structures
-
-At depth, the Earth's material is not a gaseous plasma but a dense,
-viscous, electrically conducting liquid. In such a medium, currents do
-not wander diffusely---they self-organize. Magnetic fields draw current
-channels inward, forming pinched filaments embedded within the
-surrounding liquid. These z-pinch--like structures behave as LCM
-compression hotspots: narrow, persistent sites where matter is denser,
-currents are stronger, and the LCM is driven into non-linear regimes.
-
-This picture resonates quietly with the geomagnetic field. A network of
-conductive filaments in a churning plasma shell naturally produces
-strong, long-lived magnetic fields. It accommodates the irregular and
-chaotic reversals seen in the paleomagnetic record. And it does so
-without requiring fine-tuning; the GCM ensures a continuous power
-source, and the liquid plasma ensures the necessary fluidity.
-
-### Lag and lead modes: structure shaped by density
-
-The lag-mode (positron-like) and lead-mode (electron-like) behave
-differently in strong LCM gradients due to their internal phase
-relationships. Lag-mode structures, whose compressive oscillation lags
-behind the torsion, are stabilized in dense LCM environments---they
-"lock in" to the high-compression background. Lead-mode structures are
-the opposite: their compressive phase leads the torsional motion, and
-this configuration naturally tends to move away from strongly compressed
-regions.
-
-The outcome is a subtle but powerful radial sorting:
-
-- **Lag-mode matter sinks toward the deep core**, enriching it in
-  protons and related composites.
-
-- **Lead-mode matter preferentially resides in outer regions**, where it
-  increases electrical conductivity and supports the dynamo.
-
-This sorting sharpens LCM density gradients and reinforces the
-interior's layered behavior. The Earth becomes a self-organized system
-where composition, conductivity, and compression structure naturally
-arise from basic mode dynamics.
-
-### Hydrogen: a bridge between deep physics and surface evolution
-
-If 2MM is correct, high-compression regions should generate hydrogen
-from LCM-wave breakdown. Hydrogen introduced into a silicate melt does
-not float to the surface; it dissolves into minerals, forms hydroxyl,
-shifts redox balances, and increases conductivity. Over geologic time,
-as hydrogen binds to oxygen, the deep interior becomes a slow factory of
-water.
-
-This creates an intriguing link with geological evidence. Much of
-Earth's early continental crust was covered by shallow seas; later eras
-saw repeated widespread flooding of continental interiors. Standard
-models explain these largely through tectonics and sea-level cycles, but
-2MM adds an additional long-term trend: the gradual accumulation of
-interior-generated water and the slow outward expression of that water
-through volcanism, mantle degassing, and mineral dehydration.
-
-As the Earth grows in mass and radius---consistent with the
-interpretations of Maxlow, Carey, and others---new ocean basins form,
-continents separate, and water cycles between interior and surface
-reshape the geography of the planet.
-
-### What emerges
-
-Put together, these ideas give the Earth a new conceptual coherence
-under 2MM:
-
-- A **deep interior continually energized** by the gravitational flux.
-
-- A **liquid plasma shell threaded with current filaments**, producing
-  magnetic fields and reversals as emergent behavior.
-
-- A **mode-stratified structure** in which lag and lead components find
-  their natural energetic niches.
-
-- A **chemical pathway** from deep LCM processes to surface hydrology.
-
-- And a **slow increase in planetary mass and volume**, offering an
-  ontological foundation for Earth-expansion interpretations previously
-  considered speculative.
-
-None of these claims, on their own, prove 2MM. But together they sketch
-a world that is internally consistent, physically motivated, and rich
-with testable implications. The model does not ask specialists to
-discard their data---only to look again, from a new angle, at patterns
-that were already there.
-
-For an ontological theory, that is exactly the kind of foothold one
-hopes to achieve.
-
-## A Solar System Reinterpreted Through 2MM
-
-If the Two-Medium Model offers a genuine ontology of matter and
-gravity---an account of how the universe operates at its most
-fundamental level---then it should not merely reproduce familiar
-planetary structures. It should reveal new patterns in the Solar System
-that seem incidental under mainstream theories but become natural, even
-expected, in a universe built of interacting LCM and GCM media. When 2MM
-is applied beyond Earth, that is precisely what begins to happen.
-
-In conventional astrophysics, the Solar System's planets are divided
-into primordial categories: rocky inner planets formed from refractory
-dust near the Sun, while gas giants accumulated cold hydrogen and helium
-farther out during the nebular collapse. Water-ice worlds are assigned
-to the outer system simply because the frost line stood there at the
-time of formation. This picture is tidy, but also fragile: it relies on
-a single snapshot of early solar conditions and presumes that bulk
-compositions are frozen relics from four and a half billion years ago.
-
-The 2MM picture is more dynamic and in many ways more organic. Matter is
-not fixed at the moment of planetary birth; it is continuously produced
-in the interiors of heavy bodies through LCM-wave collapse and proton
-formation. And critically, the matter most easily synthesized---because
-it is the simplest condensed lag-mode structure---is **hydrogen**. In
-2MM, hydrogen is not merely a leftover from the solar nebula; it is the
-natural basal product of matter creation in any world where the LCM is
-sufficiently compressed. A rocky planet, given enough time and
-sufficient mass, would gradually enrich itself in hydrogen and evolve
-toward the composition of a gas giant. Instead of gas giants being
-primordial anomalies, they become the expected endpoints of planetary
-growth under a universal, continuing physical process.
-
-Jupiter, then, is less a frozen accident of formation than a world that
-has simply had more time and mass to accumulate the dominant product of
-the 2MM engine. Its vast LCM-well stabilizes hydrogen in increasingly
-exotic configurations, thinning into molecular layers above and
-compressing into metallic hydrogen in its depths. The metallic hydrogen
-is not an exotic material conjured only by high pressure; it is the
-expression of lag-mode structures settling into their natural
-configuration under extreme background compression. With it comes
-immense conductivity, wrapped into a self-organizing fluid shell,
-generating a magnetic field so powerful that it leaves an imprint
-throughout the Jovian system.
-
-But the story grows more interesting when we consider the moons. In the
-traditional view, the ice-rich moons of Jupiter and Saturn are remnants
-of volatile-rich planetesimals that happened to form beyond the frost
-line. In 2MM, their watery compositions take on a different
-significance. Hydrogen created in the interiors of large planets and
-emitted through volcanic, tidal, or plasma pathways finds oxygen
-wherever it can. In silicate systems, oxygen is ubiquitous. Hydrogen
-does what it always does: it binds, dissolves, hydrates, reduces, and
-ultimately forms water. Water is not a leftover; it is a **natural
-chemical consequence** of hydrogen synthesis in oxygen-bearing
-environments.
-
-A moon embedded in a giant planet's LCM envelope does not orbit inertly.
-It experiences a raised baseline LCM compression, because it is immersed
-in the extended compression field of the host. For a world like Europa
-or Enceladus, this changes everything. The threshold for LCM-wave
-breakdown drops; interior heating becomes more efficient; and hydrogen
-produced in core or mantle regions chemically transforms the body over
-time. The icy shells and global oceans that dominate these moons are
-precisely what one would expect in a system where hydrogen emerges
-continually and encounters oxygen-rich rocks and minerals awaiting
-hydration.
-
-Even Io---the most volcanically active object known---finds a natural
-place in this narrative. Its extreme activity is usually ascribed purely
-to tidal flexing. But under 2MM, Io occupies the deepest region of
-Jupiter's compressed LCM environment. Its interior is perpetually
-stirred by both tidal motions and a highly modulated GCM flux. Every
-compression cycle strengthens the probability of LCM-wave collapse
-events; every temperature rise increases the frequency of nuclear
-close-approaches. The result is a world in which volcanism is not merely
-an effect of tides but a structural outcome of living within Jupiter's
-gravitational energy field.
-
-In this broader view, the Solar System becomes a hierarchy of LCM
-environments nested within one another. Each planet and moon does not
-simply hold material inherited from the past but actively grows,
-differentiates, and reconfigures itself according to its position in the
-LCM landscape. The giant planets are hydrogen-rich not because they
-captured nebular gas more effectively, but because hydrogen is the
-universe's simplest and most abundant emergent product. The icy moons
-possess vast reservoirs of water not because they formed in a cold
-region, but because hydrogen naturally synthesizes and water is the
-simplest outcome when hydrogen meets oxygen under pressure. And
-volcanically active worlds like Io are not oddities but inevitable
-consequences of immersion in high-compression LCM fields.
-
-What 2MM offers here is not a replacement for the observed Solar System,
-but a **reinterpretation that unifies its diversity**. It suggests that
-the features we see---metallic hydrogen, buried oceans, volcanic
-extremes---are not historical accidents but emergent phenomena of a
-deeper ontology. The planets become active participants in a universal
-process of matter creation and LCM structuring, and the Solar System
-becomes a laboratory where this process can be read directly in the
-worlds themselves.
-
-For specialists, this perspective does not demand immediate belief. What
-it offers is coherence: a conceptual framework in which many of the
-Solar System's most puzzling features fall into place with surprising
-ease. Such coherence is often the first sign that a theory is worth a
-closer look.
-
-## Earth and Venus: Divergent Paths in a Growing-Planet Framework
-
-Earth and Venus are often described as planetary twins---similar in
-size, density, and overall composition. Yet their geological histories
-could not be more different. From a 2MM perspective, this divergence
-centers not on initial conditions, but on how each planet's crust
-responds to the slow accumulation of internally generated matter.
-
-Venus, for all its volcanic vigor, remains a planet with a **closed
-lithosphere**. It does display impressive rift-like structures---long
-extensional troughs such as Devana Chasma and the chasmata of Aphrodite
-Terra. But these features, striking as they are, do *not* organize into
-a global network. They do not segment the crust into distinct plates,
-establish coherent spreading centers, or create a conveyor system for
-renewing the planetary surface. They are fractures, not gateways.
-Extension happens, but it never matures into a mechanism that opens the
-lithosphere and relocates older crust laterally.
-
-With no global rift system and no subduction, Venus cannot expand its
-surface area in a steady fashion. Any material created internally,
-whether by conventional processes or---under 2MM---by compression-driven
-hydrogen synthesis, has only one meaningful escape route: **episodic
-volcanism**. But volcanism deposits new material *on top of* the old
-crust, thickening and stressing it rather than relieving internal
-pressure. Over time, heat and strain build until the lithosphere yields
-catastrophically. This offers a coherent explanation for Venus's
-globally young surface and its evidence for planet-scale resurfacing
-events: a world periodically forced to reset because it has no
-continuous outlet for its internal growth.
-
-Earth, by contrast, eventually broke through its Venus-like stage. Its
-most ancient crust---thick, buoyant, and granitic---forms the
-continents. But surrounding that is a very different crust: thin, mafic,
-and universally young. This two-layered architecture tells a story.
-Before \~200 million years ago, Earth may have resembled Venus
-structurally, with a unified supercontinent draped across a smaller
-globe and no global rift network. Matter created within the planet,
-whether from thermal sources or the deeper processes described in 2MM,
-could escape only through massive volcanic events.
-
-And the fossil record agrees. The pre-200-million-year interval is
-marked by major mass extinctions tied to enormous flood basalts---the
-Siberian Traps, the Central Atlantic Magmatic Province, the Viluy Traps,
-and others. These events look like the signatures of a planet straining
-against a closed shell.
-
-But around the Triassic--Jurassic boundary, Earth cracked. Long, linear
-rifts connected into a global system. The first true spreading zones
-opened. Oceanic crust began forming continuously at ridges and migrating
-outward. For the first time, Earth acquired a **permanent
-pressure-release mechanism**. New material was added at the base of
-fresh crust, not dumped on top of ancient layers. Old crust drifted away
-rather than thickening in place.
-
-This transition---from eruptions as the only outlet to a steady, global
-rifting mechanism---marks a fundamental difference between the two
-sister planets. Venus today remains in the earlier, closed-lithosphere
-regime. Earth moved into an open-lithosphere regime that can adapt to
-internal growth rather than rupture under it.
-
-In 2MM terms, Earth and Venus become two snapshots of how planets
-respond to internal LCM-driven evolution. Venus shows what happens when
-matter creation pressures build beneath a lithosphere that never fully
-opens. Earth shows what becomes possible when rifting matures into a
-global architecture of renewal.
-
-And that divergence---rooted not in their origins but in their
-structural responses---goes a long way toward explaining why one world
-is catastrophically resurfaced and shrouded in volcanic heat, while the
-other carries a stable hydrosphere, a biosphere, and a geological record
-stretching back billions of years.
-
-## Water as the Signature of Planetary Maturity in 2MM
-
-If there is a single element that bridges geology, chemistry, and
-biology, it is water. In the standard cosmological model, water is
-treated as an accident of formation---an inheritance from icy
-planetesimals delivered during accretion or bombardment. Its presence
-depends sensitively on where a planet forms, how much ice it captures,
-and whether volatile materials survive the violence of early impacts.
-Most of the time, water is treated as a historical contingency rather
-than a physical necessity.
-
-In the Two-Medium Model, this premise shifts dramatically. Water is no
-longer an accident of origin; it is a **natural byproduct of planetary
-evolution**.
-
-Because matter creation in 2MM proceeds through LCM-wave breakdown, the
-simplest and most frequently produced matter is hydrogen. And since
-oxygen is one of the most abundant elements in rocky material, any
-significant production of hydrogen inside a silicate planet will
-inevitably find oxygen to bond with. The encounter is almost chemically
-predetermined: hydrogen dissolves into silicate minerals, reduces iron,
-forms hydroxyl groups, and eventually stabilizes as water.
-
-Under this view, a planet of sufficient mass and internal LCM
-compression does not *inherit* its water---it **manufactures** it.
-
-This is a profound difference. It means that water is not something rare
-or fragile; it is the natural chemical expression of lag-mode matter
-creation interacting with an oxygen-bearing crust. On Earth, this
-process has quietly operated for billions of years, supplementing
-primordial water with deep-sourced hydrogen that emerges through
-volcanism, mantle degassing, and metamorphic cycles. Seen through this
-lens, Earth's oceans are not simply remnants of cosmic delivery---they
-are, at least in part, the long-term outcome of its internal LCM
-dynamics.
-
-Once this principle is in place, the Solar System begins to look very
-different.
-
-Icy moons---Europa, Enceladus, Ganymede, Titan---are no longer puzzles
-or exceptions. They are precisely what one expects for worlds embedded
-in the deep LCM wells of giant planets. Their internal heat, driven by a
-combination of tidal forcing and GCM flux, maintains vast liquid oceans
-beneath their icy crusts. And their water inventory, rather than being
-relics of formation beyond the frost line, may reflect the slow
-accumulation of H$_2$O generated inside them through the same
-hydrogen--oxygen chemistry that shapes Earth.
-
-Even the location of these moons, far outside the classical "goldilocks
-zone," ceases to be a constraint. Surface sunlight is irrelevant. What
-matters is internal compression, LCM gradients, and the ongoing energy
-input from the gravitational medium. If a moon can maintain a dense,
-conductive interior---either by size, composition, or proximity to a
-giant planet---then liquid water becomes not exceptional but expected.
-
-And if water is expected, then so is **habitability** in a broad
-thermodynamic sense. 2MM does not claim that life must arise wherever
-water appears; that would overreach. But it does shift the landscape of
-probabilities. Instead of a universe with only a few rare islands inside
-narrow temperature bands around stars, 2MM suggests a universe in which
-water may form within a wide range of planetary contexts, and liquid
-oceans may persist even where starlight cannot reach.
-
-This expanded view does not guarantee life elsewhere---it simply makes
-the question more open. It nudges the expectation away from rarity and
-toward a universe where planets and moons, by virtue of their internal
-physics, cultivate water as a fundamental outcome of their growth. In
-that sense, the Two-Medium Model reframes one of the oldest questions in
-astronomy. The significance of water is not that it is rare, but that it
-is a natural signature of a mature planet---a world that has crossed the
-threshold where LCM compression, matter creation, and basic chemistry
-collaborate.
-
-If this picture is even partly correct, then the Solar System is not an
-anomaly. It is a template. And worlds like ours---wet, layered,
-internally dynamic---may be far more common than our current models
-allow.
-
-## Related Works
-
-Many of the ideas related to Earth expansion discussed here are not
-original to this work. What is significant in the context of 2MM is that
-the model provides a physical mechanism---developed independently of the
-expanding-Earth framework---that naturally leads to predictions about
-which bodies in the Solar System should experience long-term growth
-through internal hydrogen production. Readers interested in the broader
-geological and historical arguments for planetary expansion may wish to
-begin with the works of Dr. James Maxlow and Professor Samuel Warren
-Carey, both of whom have explored this topic extensively from a
-geological perspective.
-
-The work of Stephen Hurrell is especially noteworthy because it
-approaches the expansion question from a completely different direction.
-Rather than beginning with geological reconstructions, Hurrell examined
-the biomechanics and scaling limits of ancient organisms, concluding
-that Earth's surface gravity must have been significantly weaker in the
-past. This implies not merely a smaller planetary radius, but a smaller
-planetary mass---a crucial distinction, because it separates two
-fundamentally different expansion models. A radius-only expansion
-(constant mass) would produce stronger gravity in the past, whereas
-Hurrell's findings point toward an expansion driven by increasing mass
-over time. This independent line of evidence aligns more closely with
-frameworks---such as 2MM---that allow for internal matter generation
-rather than geometric inflation alone.
 
 # Methodology and Acknowledgements
 
