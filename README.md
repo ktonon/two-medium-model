@@ -1,6 +1,6 @@
 # Two Medium Model (2MM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17860415.svg)](https://doi.org/10.5281/zenodo.17860415)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17861252.svg)](https://doi.org/10.5281/zenodo.17861252)
 
 The Two-Medium Model (2MM) proposes that the universe is built from the
 interaction of two fundamental substrates: *(i)* the **Light-Carrying
@@ -199,9 +199,6 @@ particle structure, and the matter-creation/destruction cycle.
 
 3.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
     civilizations exist
-
-4.  **[Matter cannot hold its shape in the intergalactic
-    voids](#momentum-flow)**
 
 Each of these will be discussed in greater detail in relevant sections
 below.
