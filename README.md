@@ -12,11 +12,12 @@ partially blocked by dense LCM regions, producing gravitational
 attraction through flux-shadowing.
 
 Matter arises as standing waves in the LCM stabilized by GCM flux.
-Gravity results from momentum imbalance in the GCM. Quantum behavior
-emerges from LCM wave dynamics constrained by ultra-fast GCM
-boundary-setting. Cosmological redshift and the cosmic microwave
-background (CMB) arise from energy exchanges between LCM waves and
-depleted GCM flux in intergalactic voids. The conceptual origin of 2MM
+Gravity results from momentum imbalance in the GCM. Electrostatic,
+electromagnetic, and nuclear binding forces all arise from the dynamic
+balance maintained between the two media. Cosmological
+redshift arises from the gradual, non-scattering loss of energy
+from LCM transverse waves into the GCM. The CMB is the accumulated
+remnant of this process in an infinite universe. The conceptual origin of 2MM
 lies in the Meta Model, which proposed that two interacting substrates
 are necessary to capture the richness of physical phenomena. This
 framework, while qualitative, offers a physically intuitive ontology
@@ -431,19 +432,21 @@ waves composed of two coupled oscillation modes**:
 
 2.  a **torsional shear mode**.
 
-These modes are natural to a compressible, elastic medium like the LCM.
-However, in a freely propagating wave, they do **not** remain locked in
-phase. Each mode travels according to its own restoring forces and
-dispersive properties. The result is that, under normal conditions, the
-radial and torsional components drift relative to one another---no
-stable structure emerges.
+These two oscillation modes---one compression-like and one
+torsional---correspond to the familiar electric and magnetic components
+of light. In freely propagating waves, these components travel together
+in a coordinated way, consistent with electromagnetic behavior. However,
+a traveling wave does not need, and does not naturally adopt, the
+special self-reinforcing phase pattern required to remain confined in
+one place. It simply moves forward without forming a bound structure.
 
 During GCM-induced collapse, the situation changes completely. As the
-traveling wave becomes opaque to the GCM, the shadow compresses the
-surrounding LCM and confines the energy into a shrinking region. Under
-this forced confinement, the two oscillations reorganize into a
-configuration where they **become phase-linked**. Their relative timing
-locks into a stable pattern, producing a **helical standing wave**.
+wave becomes opaque to the GCM, the shadow it casts compresses the
+surrounding LCM and forces the energy into a shrinking region. Under
+this confinement, the two oscillation modes become strongly coupled.
+Their timing settles into a fixed, self-sustaining phase relationship,
+creating a stable helical standing wave. This locked configuration is
+what gives rise to a particle-like structure in the model.
 
 This helical form is not arbitrary. It arises directly from combining a
 radial pulse with a torsional twist in fixed phase relationship. And its

@@ -25,11 +25,12 @@ partially blocked by dense LCM regions, producing gravitational
 attraction through flux-shadowing.
 
 Matter arises as standing waves in the LCM stabilized by GCM flux.
-Gravity results from momentum imbalance in the GCM. Quantum behavior
-emerges from LCM wave dynamics constrained by ultra-fast GCM
-boundary-setting. Cosmological redshift and the cosmic microwave
-background (CMB) arise from energy exchanges between LCM waves and
-depleted GCM flux in intergalactic voids. The conceptual origin of 2MM
+Gravity results from momentum imbalance in the GCM. Electrostatic,
+electromagnetic, and nuclear binding forces all arise from the dynamic
+balance maintained between the two media. Cosmological
+redshift arises from the gradual, non-scattering loss of energy
+from LCM transverse waves into the GCM. The CMB is the accumulated
+remnant of this process in an infinite universe. The conceptual origin of 2MM
 lies in the Meta Model, which proposed that two interacting substrates
 are necessary to capture the richness of physical phenomena. This
 framework, while qualitative, offers a physically intuitive ontology
