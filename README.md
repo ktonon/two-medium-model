@@ -1,6 +1,6 @@
 # Two Medium Model (2MM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17861252.svg)](https://doi.org/10.5281/zenodo.17861252)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17873467.svg)](https://doi.org/10.5281/zenodo.17873467)
 
 The Two-Medium Model (2MM) proposes that the universe is built from the
 interaction of two fundamental substrates: *(i)* the **Light-Carrying
@@ -57,7 +57,7 @@ formalization and testing.
     Support](#electrostatic-forces-compression-geometry-and-gcm-support)
   - [Magnetic Forces: Torsion, Motion, and Collective
     Alignment](#magnetic-forces-torsion-motion-and-collective-alignment)
-  - [Nuclear Structure: Why Only Proton--Neutron Pairs
+  - [Nuclear Structure: Why Only Proton–Neutron Pairs
     Bind](#nuclear-structure-why-only-protonneutron-pairs-bind)
   - [Gravity: Long-Range GCM Shadowing and the Resolution of the Heat
     Crisis](#gravity-long-range-gcm-shadowing-and-the-resolution-of-the-heat-crisis)
@@ -83,6 +83,14 @@ formalization and testing.
     Regions](#voids-as-repulsive-regions)
   - [Galaxy Rotation
     Curves](#galaxy-rotation-curves)
+  - [Maintaining Matter Balance in an Infinite
+    Universe](#maintaining-matter-balance-in-an-infinite-universe)
+  - [Matter Destruction in Ultra-Dense
+    Environments](#matter-destruction-in-ultra-dense-environments)
+  - [High-Energy Outflows and the Origin of AGN
+    Jets](#high-energy-outflows-and-the-origin-of-agn-jets)
+  - [Jet Pinching and the Possibility of New Matter
+    Formation](#jet-pinching-and-the-possibility-of-new-matter-formation)
 - [Relativity](#relativity)
   - [Space-Time is Real](#space-time-is-real)
   - [Why Motion Through the LCM Causes Length
@@ -177,7 +185,7 @@ from seeing how its pieces interlock: forces emerging from medium
 interactions, particles from wave collapse, cosmology from matter
 cycling, and planetary behavior from long-term LCM dynamics.
 
-This work is offered as an exploration --- an attempt to see what
+This work is offered as an exploration — an attempt to see what
 becomes possible when we start with different foundational assumptions
 and follow them consistently. If it prompts reflection, critique, or
 further development by readers more skilled or knowledgeable than
@@ -198,7 +206,13 @@ particle structure, and the matter-creation/destruction cycle.
     moons](#earth-and-the-solar-system)** (and liquid water worlds
     should be abundant)
 
-3.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
+3.  **[Cosmic voids as repulsive regions](#voids-as-repulsive-regions)**
+
+4.  **[Neutron destruction occurring inside active galactic
+    nuclei](#matter-destruction-in-ultra-dense-environments)** (as part
+    of the matter-recycling cycle)
+
+5.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
     civilizations exist
 
 Each of these will be discussed in greater detail in relevant sections
@@ -219,7 +233,7 @@ these two media continually feed back on each other.
 The Light-Carrying Medium (LCM) is a compressible substance that can
 support both transverse and longitudinal disturbances. Transverse waves
 correspond to what we normally call light. Longitudinal
-disturbances---changes in density that ripple outward---play the role
+disturbances—changes in density that ripple outward—play the role
 usually assigned to gravitational waves, since both travel at the same
 characteristic speed in the LCM.
 
@@ -232,8 +246,8 @@ structures, it also shapes how the GCM flux interacts with them,
 indirectly setting the stage for every familiar force.
 
 The LCM does not independently "produce" electric or magnetic fields.
-Instead, the deformations it carries---compression patterns, twists, and
-gradients---provide half of the mechanism that later becomes
+Instead, the deformations it carries—compression patterns, twists, and
+gradients—provide half of the mechanism that later becomes
 electrostatic, magnetic, and nuclear behavior. In this model, electric
 and magnetic fields are simply the ways compressed or twisted regions of
 the LCM guide the flow of the GCM.
@@ -250,7 +264,7 @@ call gravity.
 The strength of a shadow depends on the structure of the LCM around the
 particle. A tightly compressed standing wave blocks or redirects more of
 the GCM than a loose one, so momentum flows inward more strongly. In
-this way, the GCM does not just produce gravity---it participates in
+this way, the GCM does not just produce gravity—it participates in
 everything from the cohesion of atomic nuclei to the subtle repulsive
 and attractive forces that arise between charged particles.
 
@@ -267,9 +281,9 @@ of all physical interactions, while the LCM provides the **geometric and
 structural component**. What we call "forces" emerge from the interplay
 between the two.
 
-Although the individual ingredients of this framework---the idea of a
+Although the individual ingredients of this framework—the idea of a
 wave-supporting medium, a momentum-carrying flux, and standing waves as
-particles---each have historical precedents, their combination into a
+particles—each have historical precedents, their combination into a
 single interacting system is what gives 2MM its explanatory power. By
 treating the LCM and GCM as mutually shaping components of one physical
 ontology, the model brings together ideas that were previously separate
@@ -352,7 +366,7 @@ overstated: **a separate substrate is required to stabilize standing
 waves in the LCM**.
 
 This dual-medium interaction supplies a natural mechanism for the
-existence of stable matter waves---something difficult to obtain in any
+existence of stable matter waves—something difficult to obtain in any
 single-medium framework. To my knowledge, no prior model combines a
 compressible light-carrying medium with a separate gravitational flux in
 such a way that **confinement, particle structure, and gravitational
@@ -413,7 +427,7 @@ electron/positron pair production is favored in such environments:
 
 Thus pair production is a natural consequence of the dual-medium
 interaction. It occurs when a traveling wave becomes sufficiently
-compact---and therefore sufficiently opaque to the GCM---that the only
+compact—and therefore sufficiently opaque to the GCM—that the only
 stable configuration remaining is a pair of standing-wave particles with
 complementary phase structures.
 
@@ -423,17 +437,17 @@ Once a high-frequency LCM wave becomes sufficiently opaque to the GCM,
 the resulting shadow forces the wave to collapse into a tightly
 localized configuration. But the collapse cannot produce an arbitrary
 structure. It must preserve symmetry, conserve energy, and yield a
-stable pattern that both media---the LCM and GCM---can support.
+stable pattern that both media—the LCM and GCM—can support.
 
 The only configurations that satisfy these conditions are **standing
 waves composed of two coupled oscillation modes**:
 
-1.  a **radial compression--expansion mode**, and
+1.  a **radial compression–expansion mode**, and
 
 2.  a **torsional shear mode**.
 
-These two oscillation modes---one compression-like and one
-torsional---correspond to the familiar electric and magnetic components
+These two oscillation modes—one compression-like and one
+torsional—correspond to the familiar electric and magnetic components
 of light. In freely propagating waves, these components travel together
 in a coordinated way, consistent with electromagnetic behavior. However,
 a traveling wave does not need, and does not naturally adopt, the
@@ -495,7 +509,7 @@ When a traveling LCM wave collapses into a helical standing-wave
 particle, its energy becomes highly concentrated. This concentration
 dramatically increases the particle's **opacity to the GCM flux**,
 producing a strong and persistent GCM shadow. The shadow is not a
-secondary effect---it is the mechanism that completes and stabilizes the
+secondary effect—it is the mechanism that completes and stabilizes the
 particle's formation.
 
 The GCM shadow has two key consequences:
@@ -542,7 +556,7 @@ dissipating. A particle is therefore not a static thing but a
 **self-sustained dynamical object**:
 
 > a confined oscillation that remains stable only because the two
-> media---LCM and GCM---continuously maintain each other's structure.
+> media—LCM and GCM—continuously maintain each other's structure.
 
 This explains why the compression field is always present:
 
@@ -569,8 +583,8 @@ universe.
 
 The electron and positron arise when a high-frequency LCM wave becomes
 opaque to the GCM and collapses into two helical standing-wave modes.
-But under certain extreme conditions---particularly in regions where the
-**ambient LCM density is already high**---the lag-mode structure behaves
+But under certain extreme conditions—particularly in regions where the
+**ambient LCM density is already high**—the lag-mode structure behaves
 in a qualitatively different way. It does not merely stabilize as a
 positron. Instead, it undergoes a **secondary collapse** into a much
 more compact standing wave: the proton.
@@ -592,8 +606,8 @@ surrounding medium simply "pushes back," stabilizing the lag-mode as the
 familiar positron.
 
 But in environments where the LCM is **already highly
-compressed**---deep inside planets, in dense plasma regions, or wherever
-steep LCM gradients exist---the lag-mode's inward pull becomes
+compressed**—deep inside planets, in dense plasma regions, or wherever
+steep LCM gradients exist—the lag-mode's inward pull becomes
 effective. The ambient medium no longer resists; it *assists* the
 contraction. The standing wave therefore begins to tighten, its helical
 radius shrinks, and its GCM opacity rises dramatically.
@@ -606,7 +620,7 @@ A runaway process begins:
 
 3.  **Inward pressure tightens the standing wave even further.**
 
-The structure collapses into a new equilibrium---one that is far more
+The structure collapses into a new equilibrium—one that is far more
 compact, with vastly greater energy density, and a much deeper GCM
 shadow. This new configuration is the **proton**.
 
@@ -637,11 +651,9 @@ surrounding media. Once formed, the proton's extreme GCM opacity locks
 it into a self-sustaining compression well, creating the remarkably
 robust particle at the heart of ordinary matter.
 
-#### Result: Hydrogen Formation
-
 In environments where the LCM is driven into unusually high
-compression---such as planetary interiors or other steep-gradient
-regions---the internal modes of matter respond in predictable ways.
+compression—such as planetary interiors or other steep-gradient
+regions—the internal modes of matter respond in predictable ways.
 Under these conditions, the lag-mode naturally contracts into a
 proton-like state, while the lead-mode remains electron-like, creating a
 straightforward pathway for hydrogen to form as a stable product of
@@ -659,7 +671,7 @@ Once the lag-mode standing wave undergoes secondary collapse and
 reorganizes into the compact helical structure we identify as the
 proton, the new configuration becomes profoundly self-stabilizing.
 Unlike the positron-like lag-mode at ordinary densities, the proton is
-not a surface-level feature of the LCM---it is a deeply concentrated
+not a surface-level feature of the LCM—it is a deeply concentrated
 energy structure whose stability arises from continuous interaction
 between the two media.
 
@@ -703,24 +715,24 @@ established, the proton's internal feedback loop keeps it stable:
 
 To appreciate how dramatic this stability is, compare the proton's
 internal density to ordinary matter. A typical rock has a density of
-about 3,000 kg/m$^3$, whereas the implied energy density inside a proton
-is roughly 10$^1$$^7$ kg/m$^3$ --- fourteen orders of magnitude higher.
-Even white dwarf material (\~10$^9$ kg/m$^3$) and neutron star crusts
-(\~10$^1$$^4$ kg/m$^3$) fall far below this level. From the proton's
-perspective, every macroscopic environment --- rock, air, vacuum --- is
+about 3,000 kg/m<sup>3</sup>, whereas the implied energy density inside a proton
+is roughly 10<sup>1</sup><sup>7</sup> kg/m<sup>3</sup> — fourteen orders of magnitude higher.
+Even white dwarf material (\~10<sup>9</sup> kg/m<sup>3</sup>) and neutron star crusts
+(\~10<sup>1</sup><sup>4</sup> kg/m<sup>3</sup>) fall far below this level. From the proton's
+perspective, every macroscopic environment — rock, air, vacuum — is
 effectively *dilute*.
 
 This also clarifies why gravity *seems* negligible at atomic scales. On
 macroscopic scales, a proton's total mass is tiny, so its gravitational
 pull appears insignificant. But what matters in 2MM is not total
-mass---it is **energy density**. The proton concentrates a staggering
+mass—it is **energy density**. The proton concentrates a staggering
 amount of energy into an extremely small region, creating an **intensely
 focused GCM shadow** right around itself. This produces a strong local
 inward momentum flux, even though the long-range gravitational effect is
 small. The proton's own geometry makes this inward flux sharply confined
 and exceptionally strong. This locally intense field is also what
-ultimately contributes to short-range nuclear binding---the beginnings
-of the strong force---which will be developed in a later section.
+ultimately contributes to short-range nuclear binding—the beginnings
+of the strong force—which will be developed in a later section.
 
 In this light, the proton's stability becomes intuitive. It is a tightly
 bound, ultra-dense collapsed mode, sustained by continuous reinforcement
@@ -793,7 +805,7 @@ component modes**:
 
 - an electron-like lead-mode structure,
 
-- and a brief outward release into the LCM---what is conventionally
+- and a brief outward release into the LCM—what is conventionally
   detected as a neutrino-like disturbance.
 
 No "decay particle" is required to exist independently; the
@@ -802,7 +814,7 @@ compression energy** when the paired mode disassembles.
 
 #### Why the Neutron Is Heavy but Less Compact Than a Proton
 
-The neutron contains energy from **both** helical modes---the lead-mode
+The neutron contains energy from **both** helical modes—the lead-mode
 (electron-like) and the lag-mode (proton-precursor). Because both
 oscillatory structures must coexist within a shared compression well,
 the total confined energy is slightly greater than that of a proton
@@ -815,15 +827,15 @@ depends more strongly on ambient LCM compression for stability. This
 reduced confinement has important implications for nuclear structure: it
 helps determine why neutrons stabilize nuclei, why they cluster in
 predictable ratios, and why certain isotopes exist while others do
-not---a topic explored in detail later when discussing nuclear binding
+not—a topic explored in detail later when discussing nuclear binding
 and the strong force.
 
 # Interactions: How Forces Arise from the Two Media
 
 With the structure of matter established, the next step is to understand
 how matter **interacts**. In 2MM, there are no separate "fundamental
-forces" in the conventional sense. All interactions---electrostatic,
-magnetic, nuclear, and gravitational---arise from the same underlying
+forces" in the conventional sense. All interactions—electrostatic,
+magnetic, nuclear, and gravitational—arise from the same underlying
 mechanism: the way **LCM compression fields** and **GCM momentum flux**
 respond to the presence, motion, and geometry of standing-wave
 particles.
@@ -853,8 +865,8 @@ interactions. Instead:
 - **Gravity** is the macroscopic result of accumulated GCM shadowing
   from many particles acting in concert.
 
-By tracing all interactions back to a single mechanism---the dynamic
-cooperation between LCM elasticity and GCM flux---2MM provides a unified
+By tracing all interactions back to a single mechanism—the dynamic
+cooperation between LCM elasticity and GCM flux—2MM provides a unified
 physical origin for force behavior across all scales. In this sense, the
 model does not contain multiple independent forces at all. **Every
 interaction reduces to a single kind of physical event: an inelastic
@@ -877,7 +889,7 @@ determines whether the interaction is repulsive or attractive.
 shapes and orientations. Bringing them together requires forcing two
 incompatible LCM geometries to overlap, which creates steep gradients
 and increases local compression. The LCM responds by pushing the
-particles apart---the same way two stiff springs resist being pressed
+particles apart—the same way two stiff springs resist being pressed
 into one another. GCM effects play a secondary role here: because each
 particle's shadow is shaped by its own compression field, bringing like
 charges together does not create a deeper combined shadow. The GCM
@@ -899,8 +911,8 @@ providing the dominant mechanism and the GCM flux supplying the
 continual momentum exchange that maintains the equilibrium.
 
 It is also worth noting that, at these scales, the **local gravitational
-attraction** between two extremely dense standing waves---though small
-on macroscopic scales---may be more significant than traditionally
+attraction** between two extremely dense standing waves—though small
+on macroscopic scales—may be more significant than traditionally
 assumed. The relative contribution of this short-range GCM-driven
 attraction remains an open question and will require a more detailed
 mathematical treatment. What matters for now is that electrostatic
@@ -925,12 +937,12 @@ torsional resistance, while the other side relaxes. The GCM flux also
 participates in this asymmetry, exchanging momentum differently across
 the distorted compression field. Together, these effects produce a
 **torque** that tends to align the electron's intrinsic dipole with its
-motion---much like a spinning object aligning in a flowing fluid, except
+motion—much like a spinning object aligning in a flowing fluid, except
 that the mechanism here is mediated by LCM shear and GCM shadowing
 rather than hydrodynamic drag. This alignment tendency is the
 microscopic origin of magnetic behavior in moving charges.
 
-When many electrons move together---as in an electric current---their
+When many electrons move together—as in an electric current—their
 individual dipoles become biased toward a common orientation. Each
 electron contributes a small skewing of the LCM torsional field, and
 together these skewings add up to a coherent **shear pattern**
@@ -955,7 +967,7 @@ alignment** produced by motion.
 #### Helicity as a Natural Outcome of Wave Collapse
 
 It is worth stepping back to recall why the helical standing-wave
-structure appeared in the first place. It was not assumed---it emerged
+structure appeared in the first place. It was not assumed—it emerged
 by imposing a small set of physical requirements on how a high-frequency
 transverse wave must collapse when forming a pair of opposite particles.
 The collapse must: **(1)** produce two structures with equal energy but
@@ -966,7 +978,7 @@ modes. A dual-oscillation helical structure is the simplest
 configuration that satisfies all of these constraints.
 
 What makes this especially compelling is that the structure is **not ad
-hoc**---the universe already reveals the same geometry on macroscopic
+hoc**—the universe already reveals the same geometry on macroscopic
 scales. When electrical currents flow freely through a plasma,
 unconstrained by solid conductors, they spontaneously organize into
 **helical, filamentary structures**. This large-scale behavior mirrors
@@ -976,14 +988,14 @@ strengthens the case that helicity is not an arbitrary choice in 2MM but
 a recurring, scale-independent feature of how the two media prefer to
 arrange flowing energy.
 
-## Nuclear Structure: Why Only Proton--Neutron Pairs Bind
+## Nuclear Structure: Why Only Proton–Neutron Pairs Bind
 
 In 2MM, nuclear binding arises from the same interplay of LCM
 compression fields and GCM shadowing that governs all other
 interactions. What makes nuclei special is simply the **scale**:
 particles must approach closely enough that their GCM shadows overlap
 strongly while their LCM compression fields remain geometrically
-compatible. Only one pairing---proton with neutron---achieves this
+compatible. Only one pairing—proton with neutron—achieves this
 balance.
 
 Protons resist close approach because their LCM compression fields are
@@ -993,7 +1005,7 @@ repulsive pressure long before their centers can approach the distance
 required for strong GCM shadowing. Even though GCM provides an inward
 momentum flux, the repulsion between two proton compression fields grows
 much faster than the gravitational-like attraction. The result is
-unavoidable: **proton--proton pairs cannot bind**, even if forced
+unavoidable: **proton–proton pairs cannot bind**, even if forced
 together. Repulsion wins at every relevant scale.
 
 Neutrons behave differently, but no more favorably for forming pairs.
@@ -1003,16 +1015,16 @@ repulsion between two neutrons and the strength of their GCM shadowing.
 Neither effect wins decisively. The repulsion is weaker than between
 protons, but the attraction is weaker still, so the two neutrons can
 never be brought close enough for the GCM flux to dominate. The outcome
-is the same as for protons: **neutron--neutron pairs do not form stable
+is the same as for protons: **neutron–neutron pairs do not form stable
 bonds**.
 
-The proton--neutron pair is the exception because their complementary
+The proton–neutron pair is the exception because their complementary
 structures allow them to approach one another more closely and more
-comfortably than like--like pairs. The proton's compact core can slip
+comfortably than like–like pairs. The proton's compact core can slip
 deeper into the neutron's softer compression field without encountering
 the catastrophic repulsion that would occur between two protons. This
 closer separation creates dramatically stronger GCM shadowing between
-their centers---far stronger than in either like--like case---because
+their centers—far stronger than in either like–like case—because
 shadow strength increases steeply with decreasing distance.
 
 At the same time, the neutron's gentle compression gradient helps buffer
@@ -1021,22 +1033,22 @@ configuration with **lower total deformation** than either particle
 could achieve with a like partner. The neutron essentially absorbs some
 of the proton's steep curvature while presenting little of its own. This
 synergy allows the inward GCM momentum flux to outpace the rising LCM
-repulsion, producing a genuine energy minimum---a bound nuclear state.
+repulsion, producing a genuine energy minimum—a bound nuclear state.
 
 In this view, the familiar "strong force" does not require a separate
 mechanism. It is simply the extreme end of the same balance between LCM
 compression and GCM shadowing that governs all interactions, made
 visible only when particles are pushed to distances where their
 compression fields and shadows interact at their steepest gradients. A
-proton--neutron pair is the only configuration that satisfies this
-balance. All nuclear structure---from deuterium to the heavy
-elements---emerges from combinations of these paired interactions and
+proton–neutron pair is the only configuration that satisfies this
+balance. All nuclear structure—from deuterium to the heavy
+elements—emerges from combinations of these paired interactions and
 their geometric constraints.
 
 ## Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis
 
 In 2MM, gravity arises from **GCM shadowing**. Every standing
-wave---proton, neutron, or electron---interacts inelastically with the
+wave—proton, neutron, or electron—interacts inelastically with the
 background GCM flux, reducing its intensity in the region directly
 behind it. When two masses face one another, each sits inside the
 other's reduced-flux region and therefore receives slightly more inward
@@ -1084,7 +1096,7 @@ To conclude, gravity in 2MM is not a separate fundamental force but the
 **macroscopic expression of GCM shadowing**, always shaped by the LCM
 structures of matter. The heat crisis is avoided because both particles
 and planets have built-in channels for GCM momentum to become
-**organized structure**---stable standing waves and new matter---rather
+**organized structure**—stable standing waves and new matter—rather
 than accumulating as unbounded thermal energy.
 
 > **Earth Expansion as a Research Context**
@@ -1113,7 +1125,7 @@ than accumulating as unbounded thermal energy.
 > the absence of a physically grounded mechanism capable of driving
 > sustained planetary growth. 2MM does not claim to resolve the entire
 > geological debate, but it does offer a plausible mechanism where none
-> previously existed---providing a fresh context in which expansion
+> previously existed—providing a fresh context in which expansion
 > models can be reconsidered.
 >
 > A more detailed discussion of how 2MM predicts Earth expansion can be
@@ -1125,8 +1137,8 @@ than accumulating as unbounded thermal energy.
 ## A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
 
 One of the simplest ways to challenge any new physical framework is to
-ask what it predicts for something we know well. The Earth---warm,
-magnetic, geologically active---provides a natural test case. If the
+ask what it predicts for something we know well. The Earth—warm,
+magnetic, geologically active—provides a natural test case. If the
 Two-Medium Model (2MM) were merely a reinterpretation of known physics,
 its implications for planetary interiors would collapse back into the
 familiar. But if it is a genuinely different ontology, the model should
@@ -1136,8 +1148,8 @@ happens beneath our feet.
 The interesting thing is that it does.
 
 It begins innocently enough: a naïve calculation of LCM density inside
-the Earth. Using conventional estimates---nuclear spacings, bulk
-density, gravitational potential---nothing unusual emerges. The interior
+the Earth. Using conventional estimates—nuclear spacings, bulk
+density, gravitational potential—nothing unusual emerges. The interior
 looks too dilute, in LCM terms, to support anything exotic. Nuclear
 compression envelopes barely overlap, and the gravitational potential
 difference from surface to core barely nudges photon energies. Under
@@ -1148,13 +1160,13 @@ But in 2MM, this quiet interior is a mirage. Gravity is not geometric
 curvature but a consequence of a perpetual LeSage-style flux (the GCM),
 pumping kinetic energy into matter and into the LCM itself. Matter is
 not pointlike but a superposition of compressive and torsional standing
-waves with two distinct modes---lag and lead---that respond differently
+waves with two distinct modes—lag and lead—that respond differently
 to background LCM density. And the interior is not a static solid but a
 conducting, liquid-like plasma, threaded by currents and stabilized by
 the very structure of the LCM.
 
 When these ingredients are considered together, a strikingly
-different---and surprisingly plausible---picture of the Earth emerges.
+different—and surprisingly plausible—picture of the Earth emerges.
 
 ### A dynamical interior shaped by a universal energy flux
 
@@ -1170,16 +1182,16 @@ between nuclei. Though brief, these moments produce intense local LCM
 compression far beyond the ambient level. What looks like a soft
 interior when averaged hides countless microregions where the LCM is
 stressed to its limits. It is in these transient events that the model's
-distinctive physics---LCM-wave collapse, pair creation, proton
-formation---can occur at meaningful rates.
+distinctive physics—LCM-wave collapse, pair creation, proton
+formation—can occur at meaningful rates.
 
 ### A confined, liquid plasma capable of self-organizing structures
 
 At depth, the Earth's material is not a gaseous plasma but a dense,
 viscous, electrically conducting liquid. In such a medium, currents do
-not wander diffusely---they self-organize. Magnetic fields draw current
+not wander diffusely—they self-organize. Magnetic fields draw current
 channels inward, forming pinched filaments embedded within the
-surrounding liquid. These z-pinch--like structures behave as LCM
+surrounding liquid. These z-pinch–like structures behave as LCM
 compression hotspots: narrow, persistent sites where matter is denser,
 currents are stronger, and the LCM is driven into non-linear regimes.
 
@@ -1195,7 +1207,7 @@ source, and the liquid plasma ensures the necessary fluidity.
 The lag-mode (positron-like) and lead-mode (electron-like) behave
 differently in strong LCM gradients due to their internal phase
 relationships. Lag-mode structures, whose compressive oscillation lags
-behind the torsion, are stabilized in dense LCM environments---they
+behind the torsion, are stabilized in dense LCM environments—they
 "lock in" to the high-compression background. Lead-mode structures are
 the opposite: their compressive phase leads the torsional motion, and
 this configuration naturally tends to move away from strongly compressed
@@ -1231,8 +1243,8 @@ models explain these largely through tectonics and sea-level cycles, but
 interior-generated water and the slow outward expression of that water
 through volcanism, mantle degassing, and mineral dehydration.
 
-As the Earth grows in mass and radius---consistent with the
-interpretations of Maxlow, Carey, and others---new ocean basins form,
+As the Earth grows in mass and radius—consistent with the
+interpretations of Maxlow, Carey, and others—new ocean basins form,
 continents separate, and water cycles between interior and surface
 reshape the geography of the planet.
 
@@ -1258,7 +1270,7 @@ under 2MM:
 None of these claims, on their own, prove 2MM. But together they sketch
 a world that is internally consistent, physically motivated, and rich
 with testable implications. The model does not ask specialists to
-discard their data---only to look again, from a new angle, at patterns
+discard their data—only to look again, from a new angle, at patterns
 that were already there.
 
 For an ontological theory, that is exactly the kind of foothold one
@@ -1267,8 +1279,8 @@ hopes to achieve.
 ## A Solar System Reinterpreted Through 2MM
 
 If the Two-Medium Model offers a genuine ontology of matter and
-gravity---an account of how the universe operates at its most
-fundamental level---then it should not merely reproduce familiar
+gravity—an account of how the universe operates at its most
+fundamental level—then it should not merely reproduce familiar
 planetary structures. It should reveal new patterns in the Solar System
 that seem incidental under mainstream theories but become natural, even
 expected, in a universe built of interacting LCM and GCM media. When 2MM
@@ -1286,8 +1298,8 @@ compositions are frozen relics from four and a half billion years ago.
 The 2MM picture is more dynamic and in many ways more organic. Matter is
 not fixed at the moment of planetary birth; it is continuously produced
 in the interiors of heavy bodies through LCM-wave collapse and proton
-formation. And critically, the matter most easily synthesized---because
-it is the simplest condensed lag-mode structure---is **hydrogen**. In
+formation. And critically, the matter most easily synthesized—because
+it is the simplest condensed lag-mode structure—is **hydrogen**. In
 2MM, hydrogen is not merely a leftover from the solar nebula; it is the
 natural basal product of matter creation in any world where the LCM is
 sufficiently compressed. A rocky planet, given enough time and
@@ -1331,7 +1343,7 @@ precisely what one would expect in a system where hydrogen emerges
 continually and encounters oxygen-rich rocks and minerals awaiting
 hydration.
 
-Even Io---the most volcanically active object known---finds a natural
+Even Io—the most volcanically active object known—finds a natural
 place in this narrative. Its extreme activity is usually ascribed purely
 to tidal flexing. But under 2MM, Io occupies the deepest region of
 Jupiter's compressed LCM environment. Its interior is perpetually
@@ -1357,8 +1369,8 @@ consequences of immersion in high-compression LCM fields.
 
 What 2MM offers here is not a replacement for the observed Solar System,
 but a **reinterpretation that unifies its diversity**. It suggests that
-the features we see---metallic hydrogen, buried oceans, volcanic
-extremes---are not historical accidents but emergent phenomena of a
+the features we see—metallic hydrogen, buried oceans, volcanic
+extremes—are not historical accidents but emergent phenomena of a
 deeper ontology. The planets become active participants in a universal
 process of matter creation and LCM structuring, and the Solar System
 becomes a laboratory where this process can be read directly in the
@@ -1372,14 +1384,14 @@ closer look.
 
 ## Earth and Venus: Divergent Paths in a Growing-Planet Framework
 
-Earth and Venus are often described as planetary twins---similar in
+Earth and Venus are often described as planetary twins—similar in
 size, density, and overall composition. Yet their geological histories
 could not be more different. From a 2MM perspective, this divergence
 centers not on initial conditions, but on how each planet's crust
 responds to the slow accumulation of internally generated matter.
 
 Venus, for all its volcanic vigor, remains a planet with a **closed
-lithosphere**. It does display impressive rift-like structures---long
+lithosphere**. It does display impressive rift-like structures—long
 extensional troughs such as Devana Chasma and the chasmata of Aphrodite
 Terra. But these features, striking as they are, do *not* organize into
 a global network. They do not segment the crust into distinct plates,
@@ -1390,7 +1402,7 @@ lithosphere and relocates older crust laterally.
 
 With no global rift system and no subduction, Venus cannot expand its
 surface area in a steady fashion. Any material created internally,
-whether by conventional processes or---under 2MM---by compression-driven
+whether by conventional processes or—under 2MM—by compression-driven
 hydrogen synthesis, has only one meaningful escape route: **episodic
 volcanism**. But volcanism deposits new material *on top of* the old
 crust, thickening and stressing it rather than relieving internal
@@ -1401,7 +1413,7 @@ events: a world periodically forced to reset because it has no
 continuous outlet for its internal growth.
 
 Earth, by contrast, eventually broke through its Venus-like stage. Its
-most ancient crust---thick, buoyant, and granitic---forms the
+most ancient crust—thick, buoyant, and granitic—forms the
 continents. But surrounding that is a very different crust: thin, mafic,
 and universally young. This two-layered architecture tells a story.
 Before \~200 million years ago, Earth may have resembled Venus
@@ -1411,12 +1423,12 @@ whether from thermal sources or the deeper processes described in 2MM,
 could escape only through massive volcanic events.
 
 And the fossil record agrees. The pre-200-million-year interval is
-marked by major mass extinctions tied to enormous flood basalts---the
+marked by major mass extinctions tied to enormous flood basalts—the
 Siberian Traps, the Central Atlantic Magmatic Province, the Viluy Traps,
 and others. These events look like the signatures of a planet straining
 against a closed shell.
 
-But around the Triassic--Jurassic boundary, Earth cracked. Long, linear
+But around the Triassic–Jurassic boundary, Earth cracked. Long, linear
 rifts connected into a global system. The first true spreading zones
 opened. Oceanic crust began forming continuously at ridges and migrating
 outward. For the first time, Earth acquired a **permanent
@@ -1424,8 +1436,8 @@ pressure-release mechanism**. New material was added at the base of
 fresh crust, not dumped on top of ancient layers. Old crust drifted away
 rather than thickening in place.
 
-This transition---from eruptions as the only outlet to a steady, global
-rifting mechanism---marks a fundamental difference between the two
+This transition—from eruptions as the only outlet to a steady, global
+rifting mechanism—marks a fundamental difference between the two
 sister planets. Venus today remains in the earlier, closed-lithosphere
 regime. Earth moved into an open-lithosphere regime that can adapt to
 internal growth rather than rupture under it.
@@ -1436,8 +1448,8 @@ matter creation pressures build beneath a lithosphere that never fully
 opens. Earth shows what becomes possible when rifting matures into a
 global architecture of renewal.
 
-And that divergence---rooted not in their origins but in their
-structural responses---goes a long way toward explaining why one world
+And that divergence—rooted not in their origins but in their
+structural responses—goes a long way toward explaining why one world
 is catastrophically resurfaced and shrouded in volcanic heat, while the
 other carries a stable hydrosphere, a biosphere, and a geological record
 stretching back billions of years.
@@ -1446,7 +1458,7 @@ stretching back billions of years.
 
 If there is a single element that bridges geology, chemistry, and
 biology, it is water. In the standard cosmological model, water is
-treated as an accident of formation---an inheritance from icy
+treated as an accident of formation—an inheritance from icy
 planetesimals delivered during accretion or bombardment. Its presence
 depends sensitively on where a planet forms, how much ice it captures,
 and whether volatile materials survive the violence of early impacts.
@@ -1466,7 +1478,7 @@ predetermined: hydrogen dissolves into silicate minerals, reduces iron,
 forms hydroxyl groups, and eventually stabilizes as water.
 
 Under this view, a planet of sufficient mass and internal LCM
-compression does not *inherit* its water---it **manufactures** it.
+compression does not *inherit* its water—it **manufactures** it.
 
 This is a profound difference. It means that water is not something rare
 or fragile; it is the natural chemical expression of lag-mode matter
@@ -1474,28 +1486,28 @@ creation interacting with an oxygen-bearing crust. On Earth, this
 process has quietly operated for billions of years, supplementing
 primordial water with deep-sourced hydrogen that emerges through
 volcanism, mantle degassing, and metamorphic cycles. Seen through this
-lens, Earth's oceans are not simply remnants of cosmic delivery---they
+lens, Earth's oceans are not simply remnants of cosmic delivery—they
 are, at least in part, the long-term outcome of its internal LCM
 dynamics.
 
 Once this principle is in place, the Solar System begins to look very
 different.
 
-Icy moons---Europa, Enceladus, Ganymede, Titan---are no longer puzzles
+Icy moons—Europa, Enceladus, Ganymede, Titan—are no longer puzzles
 or exceptions. They are precisely what one expects for worlds embedded
 in the deep LCM wells of giant planets. Their internal heat, driven by a
 combination of tidal forcing and GCM flux, maintains vast liquid oceans
 beneath their icy crusts. And their water inventory, rather than being
 relics of formation beyond the frost line, may reflect the slow
 accumulation of H$_2$O generated inside them through the same
-hydrogen--oxygen chemistry that shapes Earth.
+hydrogen–oxygen chemistry that shapes Earth.
 
 Even the location of these moons, far outside the classical "goldilocks
 zone," ceases to be a constraint. Surface sunlight is irrelevant. What
 matters is internal compression, LCM gradients, and the ongoing energy
 input from the gravitational medium. If a moon can maintain a dense,
-conductive interior---either by size, composition, or proximity to a
-giant planet---then liquid water becomes not exceptional but expected.
+conductive interior—either by size, composition, or proximity to a
+giant planet—then liquid water becomes not exceptional but expected.
 
 And if water is expected, then so is **habitability** in a broad
 thermodynamic sense. 2MM does not claim that life must arise wherever
@@ -1505,27 +1517,27 @@ narrow temperature bands around stars, 2MM suggests a universe in which
 water may form within a wide range of planetary contexts, and liquid
 oceans may persist even where starlight cannot reach.
 
-This expanded view does not guarantee life elsewhere---it simply makes
+This expanded view does not guarantee life elsewhere—it simply makes
 the question more open. It nudges the expectation away from rarity and
 toward a universe where planets and moons, by virtue of their internal
 physics, cultivate water as a fundamental outcome of their growth. In
 that sense, the Two-Medium Model reframes one of the oldest questions in
 astronomy. The significance of water is not that it is rare, but that it
-is a natural signature of a mature planet---a world that has crossed the
+is a natural signature of a mature planet—a world that has crossed the
 threshold where LCM compression, matter creation, and basic chemistry
 collaborate.
 
 If this picture is even partly correct, then the Solar System is not an
-anomaly. It is a template. And worlds like ours---wet, layered,
-internally dynamic---may be far more common than our current models
+anomaly. It is a template. And worlds like ours—wet, layered,
+internally dynamic—may be far more common than our current models
 allow.
 
 ## Related Works
 
 Many of the ideas related to Earth expansion discussed here are not
 original to this work. What is significant in the context of 2MM is that
-the model provides a physical mechanism---developed independently of the
-expanding-Earth framework---that naturally leads to predictions about
+the model provides a physical mechanism—developed independently of the
+expanding-Earth framework—that naturally leads to predictions about
 which bodies in the Solar System should experience long-term growth
 through internal hydrogen production. Readers interested in the broader
 geological and historical arguments for planetary expansion may wish to
@@ -1539,12 +1551,12 @@ Rather than beginning with geological reconstructions, Hurrell examined
 the biomechanics and scaling limits of ancient organisms, concluding
 that Earth's surface gravity must have been significantly weaker in the
 past. This implies not merely a smaller planetary radius, but a smaller
-planetary mass---a crucial distinction, because it separates two
+planetary mass—a crucial distinction, because it separates two
 fundamentally different expansion models. A radius-only expansion
 (constant mass) would produce stronger gravity in the past, whereas
 Hurrell's findings point toward an expansion driven by increasing mass
 over time. This independent line of evidence aligns more closely with
-frameworks---such as 2MM---that allow for internal matter generation
+frameworks—such as 2MM—that allow for internal matter generation
 rather than geometric inflation alone.
 
 # Cosmology in an Infinite Medium
@@ -1572,7 +1584,7 @@ scattered. They naturally evolve into a form dominated by **torsion**,
 which interacts only weakly with the GCM. When a GCM particle passes
 through this diffuse, torsion-heavy background, it receives tiny, random
 momentum kicks. Individually these kicks are small, but over long
-distances---such as the interior of a cosmic void---they add up to a
+distances—such as the interior of a cosmic void—they add up to a
 slight **net gain of momentum for the GCM**. This is the recharge
 process that makes voids high-flux regions.
 
@@ -1610,7 +1622,7 @@ behavior that shapes the large-scale structure of the universe in 2MM.
 In this picture, saying that the GCM "gains momentum" in diffuse regions
 is the same as saying that the LCM waves there slowly **lose** a tiny
 amount of their own energy. For traveling waves like light, this gradual
-loss appears as a slight reduction in frequency---a redshift. Over the
+loss appears as a slight reduction in frequency—a redshift. Over the
 enormous distances between galaxies, these tiny losses accumulate. This
 becomes the 2MM explanation for the cosmological redshift: light does
 not stretch because space expands, but because it gives up a very small
@@ -1640,7 +1652,7 @@ light has already "run down" into extremely low frequencies.
 When you add together the contribution from every direction: light from
 near sources, partially redshifted; light from further sources, heavily
 redshifted; and light from extremely distant sources, redshifted almost
-to nothing---you end up with a smooth background made of the
+to nothing—you end up with a smooth background made of the
 **accumulated leftovers** of all waves that have lost most of their
 energy. Because this energy-loss process acts the same on all
 wavelengths and happens uniformly throughout space, the combined
@@ -1671,7 +1683,7 @@ naturally by looking at how the two media exchange momentum.
 
 The basic idea is simple. The GCM carries an extremely fast "flux" that
 pushes on matter. Whenever this flux passes through a dense
-region---like a galaxy, filament, or wall---it loses momentum because it
+region—like a galaxy, filament, or wall—it loses momentum because it
 interacts with tightly packed LCM structures there. Over time, dense
 regions drain and weaken the flux. But in a very empty region, like a
 cosmic void, the opposite happens. The GCM rarely interacts with
@@ -1732,10 +1744,110 @@ MOND-like rotation speeds. All of this follows directly from the
 interaction rules of the two media, without introducing new fields or
 modifying gravity itself.
 
+## Maintaining Matter Balance in an Infinite Universe
+
+In the Two-Medium Model, the universe is taken to be infinite and in
+long-term equilibrium. For such a universe to remain stable, the two
+media must not only exchange energy smoothly but must also maintain a
+balance in the amount of matter present. The model provides a clear
+pathway for matter creation. A traveling LCM transverse wave can
+gradually gain energy through blueshifting as it enters increasingly
+dense LCM regions. As its frequency rises, its cross-sectional exposure
+to the GCM flux increases, allowing it to cast a growing shadow. This
+initiates a feedback loop in which the wave becomes increasingly
+confined. Once the confinement becomes strong enough, the wave collapses
+into a localized standing-wave pair, interpreted as an
+electron–positron creation event. In regions of very dense LCM—such
+as planetary or stellar interiors—the positron can undergo further
+confinement, eventually forming a proton.
+
+This mechanism ensures a steady trickle of new matter throughout the
+universe. But in an infinite, statistically steady cosmos, continuous
+matter creation requires an accompanying process of matter destruction.
+Without such a process, matter would accumulate indefinitely,
+contradicting the assumption of long-term equilibrium. Identifying where
+and how matter is ultimately broken down is therefore essential to
+completing the model.
+
+## Matter Destruction in Ultra-Dense Environments
+
+If the universe continually creates matter, a full equilibrium also
+requires a mechanism for matter destruction. In the Two-Medium Model,
+the most natural environments for this are the extreme-density regions
+associated with active galactic nuclei (AGN). In known astrophysics,
+neutron stars already demonstrate that protons and electrons can be
+forced into more compact states, forming neutrons to achieve tighter
+nuclear packing. If matter were to be broken down entirely, beginning
+with neutrons is the most plausible path, since their internal structure
+allows charge to be conserved when they are dismantled. This suggests
+that matter destruction would occur only in environments even denser
+than neutron stars—regions where all incoming matter is first
+compressed into neutron-rich form before any more fundamental breakdown
+can occur. For this reason, 2MM proposes AGN cores as the primary sites
+of matter destruction. While the process has not yet been modeled at the
+scale of the neutron, the working hypothesis is that neutrons entering
+these extreme environments are ultimately converted back into traveling
+LCM wave energy, completing the matter cycle required for equilibrium in
+an infinite universe.
+
+## High-Energy Outflows and the Origin of AGN Jets
+
+If AGN cores act as matter-destruction engines, then the energy released
+from dismantling neutrons must reappear somewhere in the surrounding
+LCM. In 2MM, this energy re-emerges not as random radiation, but as
+highly organized, high-frequency LCM traveling waves. These waves carry
+away the liberated energy and momentum, and because the central region
+is extremely compact, the LCM flow naturally channels into narrow escape
+paths where the GCM–LCM environment offers the least resistance. This
+produces the familiar bipolar outflows known as AGN jets.
+
+The collimation of these jets does not require magnetic fields or
+mechanical nozzles—though such effects may contribute in real
+astrophysical systems. In 2MM the jets arise simply because the LCM in
+the immediate polar directions is less dense and less turbulent than in
+the surrounding accretion structure. Once high-frequency LCM waves begin
+escaping along these paths, the geometry reinforces itself: outflow
+clears the channel further, allowing additional energy to escape the
+same way. The jets therefore form naturally as self-sustaining conduits
+for the release of matter-destruction energy.
+
+From this perspective, AGN jets are the visible signature of the matter
+cycle closing: matter falls inward, is compressed to neutron form, is
+ultimately broken down into LCM traveling waves, and the released energy
+exits the system through highly collimated, relativistic outflows. This
+completes the balance required for a steady-state universe in 2MM.
+
+## Jet Pinching and the Possibility of New Matter Formation
+
+Close to the AGN, the emerging jets must pass through regions of high
+LCM density and strong GCM depletion, producing natural bottlenecks
+where the outflow can temporarily narrow or "pinch." In 2MM, this
+behavior follows from the interaction of the two media: the liberated
+LCM wave energy seeks the lowest-resistance channels, but the
+surrounding environment near the AGN is crowded with dense material and
+steep gradients in flux strength. The result is a constrained region
+where the jet briefly tightens before breaking through into
+lower-density surroundings. This is broadly consistent with observations
+of jet collimation zones in astrophysics, though the underlying
+mechanism differs.
+
+These pinch regions may also represent zones where the conditions for
+new matter formation could be met. In the 2MM picture, matter creation
+occurs when high-frequency LCM waves become sufficiently confined to
+cast a growing shadow in the GCM and collapse into standing-wave
+structures. A jet pinch combines three relevant ingredients: unusually
+intense LCM wave energy, temporary confinement by local pressure
+gradients, and strong anisotropy in GCM exposure. Although highly
+speculative, this raises the possibility that new matter might
+occasionally form within or near these constricted regions. At present,
+this remains only a suggestion; exploring whether jet dynamics can
+trigger matter creation will require more detailed modeling and is left
+as future work.
+
 # Relativity
 
 Relativity is often introduced through the language of *spacetime
-curvature*---a mathematical surface that bends and twists in response to
+curvature*—a mathematical surface that bends and twists in response to
 mass and energy. For many people, this picture feels abstract and
 untethered from anything physical. "Curved spacetime" is something you
 can calculate, but not something you can visualize or touch.
@@ -1748,8 +1860,8 @@ concrete terms if **the LCM itself *is* what we experience as space and
 time.** Not metaphorically. Literally.
 
 The LCM is a physical, elastic medium. It fills all of space. It can be
-compressed, stretched, and shaped by energy and matter. And we --- made
-of standing waves in that medium --- are part of it.
+compressed, stretched, and shaped by energy and matter. And we — made
+of standing waves in that medium — are part of it.
 
 Under this interpretation, relativity becomes natural rather than
 abstract:
@@ -1760,13 +1872,13 @@ abstract:
 - **Gravity isn't a mysterious bending of geometry.** It is the result
   of the GCM flux pushing on regions where the LCM has been compressed
   by standing-wave particles. The momentum flow follows the gradient of
-  LCM density --- which is exactly what Einstein's field equations
+  LCM density — which is exactly what Einstein's field equations
   describe, just in a different language.
 
 - **Time dilation isn't some strange slowing of clocks.** Time slows
   down because **light waves take longer to propagate through compressed
   LCM**, and every process in our bodies depends on those waves. If the
-  medium compresses, the speed of light *in that medium* decreases ---
+  medium compresses, the speed of light *in that medium* decreases —
   and because we are made of the medium's standing waves, *we slow down
   with it.* From the inside, everything still seems normal, because our
   measuring devices and biological processes slow in perfect sync with
@@ -1796,7 +1908,7 @@ instead of bending "spacetime," nature is reshaping the LCM, and we
 move, age, and measure within that reshaped medium.
 
 This makes relativity not an exotic distortion of geometry, but a simple
-consequence of the physics of waves in a compressible medium --- the
+consequence of the physics of waves in a compressible medium — the
 same medium that forms light, matter, and ourselves.
 
 ## Why Motion Through the LCM Causes Length Contraction
@@ -1835,7 +1947,7 @@ from the front. The net effect is a **one-sided squeezing force** along
 the direction of motion.
 
 From an outside observer's perspective, the object is genuinely
-shortened --- its entire structure is compressed along the direction of
+shortened — its entire structure is compressed along the direction of
 travel by the piling up of LCM ahead of it.
 
 But from the inside, nothing appears distorted.
@@ -1850,8 +1962,8 @@ contract by the same proportion.
 This perspective makes length contraction feel intuitive:
 
 > **Length contraction happens because fast motion through the LCM
-> creates a directional compression gradient, and all matter --- being
-> made of LCM standing waves --- must adapt to the compressed medium.**
+> creates a directional compression gradient, and all matter — being
+> made of LCM standing waves — must adapt to the compressed medium.**
 
 There is no paradox, no mystical geometric effect, and no need to
 imagine "shrinking" as an illusion. It is the straightforward mechanical
@@ -1869,7 +1981,7 @@ wave *is* a region of denser LCM, yet that denser region can only remain
 stable because the GCM flux continually reinforces it through shadowing.
 At the same time, the GCM would have nothing to shadow if not for the
 density created by the standing wave. The result is a self-sustaining
-feedback loop between the two media---neither the LCM nor GCM "comes
+feedback loop between the two media—neither the LCM nor GCM "comes
 first," and no initial moment is required. The system simply persists,
 with curvature, matter, and gravity all emerging from their mutual
 interaction.
@@ -1878,7 +1990,7 @@ This interdependence between the two media leads to an intriguing
 implication: for 2MM to function as described, the system cannot easily
 accommodate a true "beginning." A beginning would require one medium to
 exist and operate without the other, or for standing waves to form
-before the shadowing effects that sustain them --- both of which break
+before the shadowing effects that sustain them — both of which break
 the causal loops that the model depends on. In fact, any notion of an
 absolute beginning already strains causality in conventional physics as
 well. In 2MM, this tension resolves naturally: the universe is not
@@ -1889,7 +2001,7 @@ reciprocity between the LCM and GCM.
 # Absolute Time, the GCM, and Faster-Than-Light Transmission 
 
 In 2MM, the presence of the GCM introduces a deeper notion of **absolute
-time**---a timebase that exists independently of the LCM processes that
+time**—a timebase that exists independently of the LCM processes that
 define our clocks and our experience. All measurement, sensation, and
 physical activity in living systems occurs through LCM-standing-wave
 structures, so we have access only to *LCM time*. But the GCM operates
@@ -1922,8 +2034,8 @@ usual sense. The distinction is fundamental:
   in the LCM.
 
 Encoding information into the GCM, and reading it out on the other end,
-requires ordinary physical processes---electronics, detectors,
-biological cognition---all of which are constrained by LCM time and the
+requires ordinary physical processes—electronics, detectors,
+biological cognition—all of which are constrained by LCM time and the
 speed of light. So even if a signal propagates nearly instantaneously
 through the GCM, the total round-trip communication time cannot exceed
 relativistic limits.
@@ -1955,7 +2067,7 @@ Thus, 2MM implies that **SETI's strategy of searching the
 electromagnetic spectrum may never detect advanced civilizations**, not
 because they do not exist, but because their communication technology
 would likely move beyond EM channels entirely. They would use the
-GCM---an invisible, ultra-fast substrate that our current instruments
+GCM—an invisible, ultra-fast substrate that our current instruments
 cannot yet manipulate or detect.
 
 In this light, SETI's silence may be a clue rather than a contradiction:
@@ -1964,8 +2076,8 @@ listening to.
 
 ## Oumuamua as an Illustration of GCM Shielding (Speculative)
 
-'Oumuamua's unusual properties---its extreme elongation, lack of
-outgassing, and complex tumbling---have made it a persistent point of
+'Oumuamua's unusual properties—its extreme elongation, lack of
+outgassing, and complex tumbling—have made it a persistent point of
 interest in the literature. Natural origins remain entirely plausible.
 However, within the 2MM framework, the object provides a useful example
 for visualizing how **GCM shielding** behaves for elongated bodies.
@@ -1979,8 +2091,8 @@ directionally structured if the object has an extreme geometry.
 
 For an elongated body like 'Oumuamua, the degree of shielding is
 **greater along its long axis** than along its short one. This means the
-GCM flux deficit it produces---the *shadow* cast into downstream
-space---depends on orientation. As the object rotates, the direction and
+GCM flux deficit it produces—the *shadow* cast into downstream
+space—depends on orientation. As the object rotates, the direction and
 amplitude of the shadow vary in a periodic way.
 
 This creates a simple conceptual possibility:
@@ -1997,7 +2109,7 @@ flux.
 This does **not** suggest that 'Oumuamua *is* such a beacon. But its
 geometry makes it a convenient illustration of how, in a dual-medium
 ontology, even simple rotating shapes can produce **directionally
-varying GCM signatures** --- signatures that would be invisible
+varying GCM signatures** — signatures that would be invisible
 electromagnetically but potentially detectable in a theory where GCM
 shielding plays a meaningful role.
 
@@ -2024,8 +2136,8 @@ and so on.
 
 ## Why "quantum weirdness" shows up
 
-In 2MM, every form of detectable matter---including the apparatus doing
-the detecting---is a **composite standing-wave pattern** in the LCM.
+In 2MM, every form of detectable matter—including the apparatus doing
+the detecting—is a **composite standing-wave pattern** in the LCM.
 When you push measurement down toward the characteristic wavelength of
 that medium:
 
@@ -2036,7 +2148,7 @@ that medium:
   both the target and the probe are excitations of the same substrate.
 
 - The stability conditions of LCM waves enforce intrinsic
-  bandwidth/location tradeoffs---an analogue of uncertainty, not because
+  bandwidth/location tradeoffs—an analogue of uncertainty, not because
   of fundamental metaphysics, but because of **LCM-wave mechanics**.
 
 Thus Heisenberg uncertainty emerges as a **structural property of our
@@ -2085,9 +2197,9 @@ A clear example of this collaborative dynamic is the dual-oscillation
 model of the electron and positron. The idea of combining two
 oscillatory modes with a phase offset was surfaced in dialogue with an
 AI system. I would not have discovered that configuration unaided. But
-the structural constraints that shaped it --- the insistence on mirror
+the structural constraints that shaped it — the insistence on mirror
 symmetry, three-dimensional non-flippability, pair-production balance,
-and geometric stability --- came from my own criteria. The AI generated
+and geometric stability — came from my own criteria. The AI generated
 raw candidate ideas; I applied the conceptual standards that determined
 whether they were tenable. The final standing-wave geometry emerged
 through that interaction.
@@ -2117,7 +2229,7 @@ structure than I had previously assumed. The collection of papers in
 Pushing Gravity: New Perspectives on Le Sage's Theory of Gravitation,
 edited and contributed to by researcher Matthew R. Edwards, introduced
 me to Le Sage-type gravity models and the challenges they
-entail---particularly the overheating problem. Matthew himself first
+entail—particularly the overheating problem. Matthew himself first
 introduced me to Expansion Tectonics decades ago, when I was completing
 my computer science major at the University of Toronto.
 

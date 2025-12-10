@@ -43,5 +43,8 @@ formalization and testing.
 { printf "%s\n" "$MD_HEADER"; cat doc.md; } \
 	| sed 's/{#toc-[^}]*}//g' \
 	| sed -E 's/#([^{]+)\{#[^}]+\}/\1/g' \
+	| sed -E 's/[$]\^([0-9])[$]/<sup>\1<\/sup>/g' \
+	| sed -E 's/[-]{3}/—/g' \
+	| sed -E 's/[-]{2}/–/g' \
 	> ../README.md
 rm doc.md
