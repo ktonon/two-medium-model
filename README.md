@@ -1,6 +1,6 @@
 # Two Medium Model (2MM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17873467.svg)](https://doi.org/10.5281/zenodo.17873467)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17861252.svg)](https://doi.org/10.5281/zenodo.17861252)
 
 The Two-Medium Model (2MM) proposes that the universe is built from the
 interaction of two fundamental substrates: *(i)* the **Light-Carrying
@@ -43,8 +43,8 @@ formalization and testing.
     Collapse](#frequency-compression-and-the-threshold-for-collapse)
   - [Dual-Mode Helical Standing Waves: The Structure of
     Matter](#dual-mode-helical-standing-waves-the-structure-of-matter)
-  - [The Origin of LCM Compression
-    Fields](#the-origin-of-lcm-compression-fields)
+  - [The Origin and Motivation for LCM Compression
+    Fields](#the-origin-and-motivation-for-lcm-compression-fields)
   - [The Proton: Why the Lag-Mode Collapses in Dense
     LCM](#the-proton-why-the-lag-mode-collapses-in-dense-lcm)
   - [Why the Proton Remains Compressed in Low-Density
@@ -503,81 +503,74 @@ the feedback loop between the LCM and GCM. Their form is the direct
 outcome of the symmetry and dynamics of collapse at the threshold where
 a high-frequency wave becomes opaque to the GCM.
 
-## The Origin of LCM Compression Fields
+## The Origin and Motivation for LCM Compression Fields
 
-When a traveling LCM wave collapses into a helical standing-wave
-particle, its energy becomes highly concentrated. This concentration
-dramatically increases the particle's **opacity to the GCM flux**,
-producing a strong and persistent GCM shadow. The shadow is not a
-secondary effect—it is the mechanism that completes and stabilizes the
-particle's formation.
+In the Two-Medium Model, a localized standing wave in the LCM is
+surrounded by a region of increased LCM compression. This "compression
+field" gives the particle a finite spatial extent and governs how it
+interacts with both the LCM and the GCM. The GCM shadow produced by a
+concentrated oscillation provides a natural source of inward momentum
+flux, but the *shape* of the resulting compression field depends on how
+the standing wave itself couples to the medium.
 
-The GCM shadow has two key consequences:
+In the previous section, we described particles as helical standing
+waves composed of two oscillatory components: a radial compression mode
+and a torsional mode. A central idea—introduced here—is that the
+**relative phase** of these two modes determines how the boundary of the
+standing wave exchanges momentum with the LCM. The goal is to explain
+why the lead-mode (electron) and lag-mode (positron) do not produce
+identical compression environments, but instead exhibit **opposite
+radial tendencies**:
 
-1.  **It pushes inward on the region surrounding the standing wave.**
-    The reduced flux behind the particle creates a net inward momentum
-    transfer from the GCM, constantly squeezing the LCM toward the
-    center.
+- a **push-outward** bias for the lead mode,
 
-2.  **It forces the LCM into a state of heightened compression.** This
-    compression is not uniform but follows the geometry of the standing
-    wave itself, imprinting the particle's oscillatory structure onto
-    the surrounding medium.
+- and a **pull-inward** bias for the lag mode.
 
-The result is a stable **LCM compression field** surrounding the
-particle. This field is not an abstract "charge distribution," nor is it
-something imposed externally. It is simply the shape the LCM must take
-to remain in equilibrium with the inward GCM momentum flux and the
-internal structure of the standing wave.
+A simple linear coupling does **not** produce this behaviour. Therefore,
+the model makes the following explicit working assumption:
 
-Different helical modes produce different compression patterns:
+**Assumption:** *The two phase-locked helical modes interact with the
+LCM in a nonlinear way that results in opposite radial biases—one
+tending to displace LCM outward, and the other tending to draw it
+inward. These opposite tendencies shape the particle's surrounding
+compression field.*
 
-- The **lead-mode helix** (electron) creates an outward-oriented
-  compression gradient with one sign.
+This assumption is motivated by these considerations:
 
-- The **lag-mode helix** (positron) produces the opposite pattern.
+- **Concentrated oscillations already generate inward confinement
+  through the GCM shadow.** The collapse of a high-frequency LCM wave
+  into a standing structure increases its opacity to the GCM flux. The
+  resulting shadow produces a persistent inward momentum pressure. This
+  effect provides the baseline confinement needed for any stable
+  compression field.
 
-Thus, **electric charge** emerges directly from the geometry of the
-standing wave and the way it shapes LCM compression under GCM
-confinement.
+- **Opposite radial biases are a plausible outcome of nonlinear mode
+  coupling.** The compression oscillation itself naturally introduces
+  nonlinearity, because local LCM density—and therefore wave
+  speed—varies over the cycle. In many physical systems with this kind
+  of nonlinear coupling, two phase-locked modes can settle into distinct
+  stable states with opposite radial tendencies. This makes an
+  inward–outward asymmetry between the two helical modes a physically
+  reasonable possibility, even though the detailed microphysical
+  mechanism has not yet been derived.
 
-Likewise:
+- **With this push–pull asymmetry in place, the model gains explanatory
+  coherence across domains.** This inward–outward asymmetry is a
+  cornerstone of the broader framework. Once assumed, it leads to a set
+  of coherent predictions that align with observations across multiple
+  domains—planetary structure, stellar environments, large-scale
+  cosmology, and even the qualitative behaviour of the fundamental
+  forces. The fact that these diverse implications emerge from a single
+  underlying assumption is part of what motivates exploring the
+  Two-Medium Model, even while the microphysical mechanism behind the
+  asymmetry remains an open problem.
 
-- the **torsional component** of the standing wave produces circulating
-  shear in the LCM, giving rise to magnetic dipole moments,
-
-- while the combined compression-and-torsion field defines the
-  particle's short-range interactions and its effective size.
-
-Because the GCM continuously flows through everything, the GCM shadow
-remains active at all times. It constantly reinforces the LCM
-compression around the particle, preventing the structure from
-dissipating. A particle is therefore not a static thing but a
-**self-sustained dynamical object**:
-
-> a confined oscillation that remains stable only because the two
-> media—LCM and GCM—continuously maintain each other's structure.
-
-This explains why the compression field is always present:
-
-- it does not arise spontaneously,
-
-- it does not depend on external charge carriers,
-
-- and it does not require postulating new forces.
-
-It is simply the interplay of LCM elasticity and GCM momentum flux
-working toward a stable equilibrium around a localized standing-wave
-core.
-
-This mechanism completes a conceptual chain:
-
-> **Concentrated wave energy → increased GCM opacity → persistent GCM
-> shadow → inward flux → stable LCM compression field.**
-
-Matter's "fields" are therefore not separate entities but the natural
-medium distortions required to confine a standing wave in a dual-medium
-universe.
+In summary, the existence of an inward- and outward-biased pair of
+helical modes is an **assumed but physically motivated feature** of the
+model. The GCM shadow provides the overall inward confinement; the
+asymmetric coupling between torsion and compression shapes how each mode
+modifies the surrounding LCM. A full dynamical derivation of this
+push–pull behaviour remains an open problem for future work.
 
 ## The Proton: Why the Lag-Mode Collapses in Dense LCM
 
@@ -741,94 +734,45 @@ everyday world simply does not have the capacity to disturb it.
 
 ## The Neutron: A Paired Standing-Wave Structure
 
-With the proton and electron understood as two distinct helical
+With the proton and electron understood as distinct helical
 standing-wave modes stabilized by GCM confinement, the neutron can be
-viewed not as a fundamentally separate particle but as a **paired
-configuration** of these two modes. In 2MM, a neutron forms when a
-**lead-mode (electron-like)** standing wave and a **lag-mode
-(proton-precursor)** standing wave become **phase-locked into a single,
-shared compression well**.
+viewed not as a fundamentally separate particle but as a paired
+configuration of these two modes. In the Two-Medium Model, a neutron
+forms when a lead-mode (electron-like) oscillation and a lag-mode
+(proton-precursor) oscillation become phase-locked within a shared
+compression well.
 
-This combined structure has several defining features:
-
-#### Balanced Chirality
-
-The electron-like lead-mode and the proton-like lag-mode have opposite
-chiral signatures. When locked together, their opposing geometric
-tendencies partially cancel, creating a configuration that is **neither
-fully lead-mode nor fully lag-mode**.
-
-#### A Gentler LCM Compression Profile
-
-A solitary proton produces an extremely steep LCM compression gradient
-because of its compactness and high GCM opacity. The neutron's paired
-configuration distributes energy over a slightly wider region, resulting
-in a **softer, less sharply peaked compression field**. This is why a
-neutron:
-
-- interacts gravitationally like a proton,
-
-- but lacks the strong **electrostatic signature** of either charge.
-
-#### Dependence on the Nuclear Environment
+In this combined state, the opposite chiral tendencies of the two modes
+partially cancel, producing a geometry that is neither fully lead-mode
+nor fully lag-mode. The resulting LCM compression profile is gentler
+than that of a solitary proton: the concentrated lag-mode structure
+alone generates an extremely steep compression gradient, but the paired
+configuration spreads energy over a wider region. This yields a particle
+that interacts gravitationally like a proton yet lacks the sharp
+electrostatic signature of either charge.
 
 Unlike the proton, whose extreme density allows it to remain compact in
-any LCM environment, the neutron is **not inherently stable on its
-own**. Its stability requires a **supporting background of LCM
-compression and GCM flux**, such as the environment inside an atomic
-nucleus.
+any environment, the neutron's stability depends on its surroundings.
+Inside nuclei, overlapping GCM shadows and elevated LCM densities
+provide a supportive background that reinforces the shared compression
+well, allowing the paired modes to remain coherent. Outside the nucleus,
+ambient LCM density is too low to maintain the combined structure. The
+compression well weakens, the two modes separate, and the system relaxes
+into its components: a proton-like collapsed lag-mode, an electron-like
+lead-mode, and a brief outward fluctuation in the LCM—observed as a
+neutrino-like disturbance. No standalone decay particle is required; the
+"neutrino" is simply the outward redistribution of oscillatory energy
+released as the paired state breaks apart.
 
-Inside nuclei:
-
-- surrounding protons and neutrons create overlapping GCM shadows,
-
-- LCM densities are elevated,
-
-- and compression gradients reinforce one another.
-
-In this environment, the neutron's paired structure can maintain
-coherence.
-
-Outside a nucleus, conditions change:
-
-- ambient LCM density drops,
-
-- the compression well becomes too shallow to hold the paired modes
-  together,
-
-- and the structure eventually destabilizes.
-
-When it does, the paired standing wave **separates back into its
-component modes**:
-
-- a proton-like collapsed lag-mode structure,
-
-- an electron-like lead-mode structure,
-
-- and a brief outward release into the LCM—what is conventionally
-  detected as a neutrino-like disturbance.
-
-No "decay particle" is required to exist independently; the
-neutrino-like signature is simply the **redistribution of torsional and
-compression energy** when the paired mode disassembles.
-
-#### Why the Neutron Is Heavy but Less Compact Than a Proton
-
-The neutron contains energy from **both** helical modes—the lead-mode
-(electron-like) and the lag-mode (proton-precursor). Because both
-oscillatory structures must coexist within a shared compression well,
-the total confined energy is slightly greater than that of a proton
-alone. Yet the interference between their compression patterns partially
-offsets each mode's ability to tighten the surrounding LCM. As a result,
-the neutron ends up **heavier than a proton**, but counterintuitively
-**less compact and less tightly confined**. Its internal density is
-high, but not nearly as extreme as the proton's, and the combined mode
-depends more strongly on ambient LCM compression for stability. This
-reduced confinement has important implications for nuclear structure: it
-helps determine why neutrons stabilize nuclei, why they cluster in
-predictable ratios, and why certain isotopes exist while others do
-not—a topic explored in detail later when discussing nuclear binding
-and the strong force.
+The neutron is heavier than a proton because it confines energy from
+both helical modes, yet it is less compact. The interference between
+their compression patterns limits how tightly either mode can draw in
+the surrounding LCM. The result is a particle with high internal energy
+but a shallower confinement profile—one that relies on nuclear
+environments for long-term stability. This reduced confinement plays a
+central role in nuclear structure, influencing why neutrons stabilize
+nuclei, how they arrange in characteristic ratios, and why only certain
+isotopes are viable.
 
 # Interactions: How Forces Arise from the Two Media
 
@@ -1087,10 +1031,10 @@ addition of new matter in the deepest regions of massive bodies.
 
 A natural question arises here: **are planetary interiors really dense
 enough to push LCM compression toward the thresholds required for wave
-collapse and matter creation?** Section 2 only outlines the conceptual
-mechanism. The section [Earth and the Solar
-System](#earth-and-the-solar-system) examines the planetary context more
-closely.
+collapse and matter creation?** This section only outlines the
+conceptual mechanism. The next section, [Earth and the Solar
+System](#earth-and-the-solar-system), examines the planetary context
+more closely.
 
 To conclude, gravity in 2MM is not a separate fundamental force but the
 **macroscopic expression of GCM shadowing**, always shaped by the LCM
@@ -1099,40 +1043,33 @@ and planets have built-in channels for GCM momentum to become
 **organized structure**—stable standing waves and new matter—rather
 than accumulating as unbounded thermal energy.
 
-> **Earth Expansion as a Research Context**
->
-> The idea that Earth's radius may have changed over geological time has
-> appeared in many forms throughout the history of geophysics. Although
-> it sits outside the modern mainstream, it has been examined seriously
-> by researchers such as Samuel Warren Carey, who viewed expansion as a
-> possible unifying framework for continental drift, and Dr. James
-> Maxlow, who produced detailed reconstructions suggesting smaller
-> ancient Earth radii. A full discussion of the evidence and
-> counter-arguments is beyond the scope of this paper; readers
-> interested in the broader debate are encouraged to consult those
-> primary works.
->
-> What matters for 2MM is not the historical argument itself, but the
-> striking fact that the model approaches the possibility of planetary
-> growth from a completely different direction. Rather than beginning
-> with geological interpretation, 2MM arrives at the idea through the
-> internal physics of the LCM. Under sustained high compression, the
-> model predicts that LCM-wave collapse and proton formation act as a
-> continuous energy sink in planetary interiors, naturally introducing
-> slow mass increase over geological timescales.
->
-> One of the long-standing obstacles for expansion hypotheses has been
-> the absence of a physically grounded mechanism capable of driving
-> sustained planetary growth. 2MM does not claim to resolve the entire
-> geological debate, but it does offer a plausible mechanism where none
-> previously existed—providing a fresh context in which expansion
-> models can be reconsidered.
->
-> A more detailed discussion of how 2MM predicts Earth expansion can be
-> found at [Earth and the Solar
-> System](https://github.com/ktonon/two-medium-model/blob/main/earth-and-solar-system.md).
-
 # Earth and the Solar System
+
+The idea that Earth's radius may have changed over geological time has
+appeared in many forms throughout the history of geophysics. Although it
+sits outside the modern mainstream, it has been examined seriously by
+researchers such as Samuel Warren Carey, who viewed expansion as a
+possible unifying framework for continental drift, and Dr. James Maxlow,
+who produced detailed reconstructions suggesting smaller ancient Earth
+radii. A full discussion of the evidence and counter-arguments is beyond
+the scope of this paper; readers interested in the broader debate are
+encouraged to consult those primary works.
+
+What matters for 2MM is not the historical argument itself, but the
+striking fact that the model approaches the possibility of planetary
+growth from a completely different direction. Rather than beginning with
+geological interpretation, 2MM arrives at the idea through the internal
+physics of the LCM. Under sustained high compression, the model predicts
+that LCM-wave collapse and proton formation act as a continuous energy
+sink in planetary interiors, naturally introducing slow mass increase
+over geological timescales.
+
+One of the long-standing obstacles for expansion hypotheses has been the
+absence of a physically grounded mechanism capable of driving sustained
+planetary growth. 2MM does not claim to resolve the entire geological
+debate, but it does offer a plausible mechanism where none previously
+existed—providing a fresh context in which expansion models can be
+reconsidered.
 
 ## A Coherent Interior: How 2MM Reinterprets the Earth From the Inside Out
 
