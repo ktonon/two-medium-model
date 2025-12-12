@@ -1,22 +1,15 @@
 # Two Medium Model (2MM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17888333.svg)](https://doi.org/10.5281/zenodo.17888333)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17902892.svg)](https://doi.org/10.5281/zenodo.17902892)
 
-The Two-Medium Model (2MM) proposes that the universe is built from the
-interaction of two fundamental substrates: *(i)* the **Light-Carrying
-Medium (LCM)**, a compressible elastic medium that supports transverse
-waves (light), longitudinal modes, and the standing-wave structures we
-call matter; and *(ii)* the **Gravity-Carrying Medium (GCM)**, a
-pervasive flux of ultra-small, ultra-fast corpuscles whose flow is
-partially blocked by dense LCM regions, producing gravitational
-attraction through flux-shadowing.
+The Two-Medium Model (2MM) describes the observable universe in terms of the interaction between two pervasive substrates: *(i)* the **Light-Carrying Medium (LCM)**, an elastic continuum supporting compression, shear, and torsional distortions—including the standing-wave structures associated with matter; and *(ii)* the **Gravity-Carrying Medium (GCM)**, a flux of ultra-small, ultra-fast corpuscles whose flow is partially obstructed by dense regions of the LCM, giving rise to gravitational attraction through momentum-flux shadowing.
 
 Matter arises as standing waves in the LCM stabilized by GCM flux.
 Gravity results from momentum imbalance in the GCM. Electrostatic,
 electromagnetic, and nuclear binding forces all arise from the dynamic
 balance maintained between the two media. Cosmological
 redshift arises from the gradual, non-scattering loss of energy
-from LCM transverse waves into the GCM. The CMB is the accumulated
+from LCM travelling waves into the GCM. The CMB is the accumulated
 remnant of this process in an infinite universe. The conceptual origin of 2MM
 lies in the Meta Model, which proposed that two interacting substrates
 are necessary to capture the richness of physical phenomena. This
@@ -41,8 +34,10 @@ formalization and testing.
   LCM](#matter-as-standing-waves-in-the-lcm)
   - [Frequency, Compression, and the Threshold for
     Collapse](#frequency-compression-and-the-threshold-for-collapse)
-  - [Dual-Mode Helical Standing Waves: The Structure of
-    Matter](#dual-mode-helical-standing-waves-the-structure-of-matter)
+  - [Criteria of Pair
+    Production](#criteria-of-pair-production)
+  - [Dual-Mode Helical Pumps: The Structure of
+    Matter](#dual-mode-helical-pumps-the-structure-of-matter)
   - [The Origin and Motivation for LCM Compression
     Fields](#the-origin-and-motivation-for-lcm-compression-fields)
   - [The Proton: Why the Lag-Mode Collapses in Dense
@@ -51,6 +46,7 @@ formalization and testing.
     LCM](#why-the-proton-remains-compressed-in-low-density-lcm)
   - [The Neutron: A Paired Standing-Wave
     Structure](#the-neutron-a-paired-standing-wave-structure)
+  - [The Particle Zoo](#the-particle-zoo)
 - [Interactions: How Forces Arise from the Two
   Media](#interactions-how-forces-arise-from-the-two-media)
   - [Electrostatic Forces: Compression Geometry and GCM
@@ -71,7 +67,8 @@ formalization and testing.
     Framework](#earth-and-venus-divergent-paths-in-a-growing-planet-framework)
   - [Water as the Signature of Planetary Maturity in
     2MM](#water-as-the-signature-of-planetary-maturity-in-2mm)
-  - [Related Works](#related-works)
+  - [Earth Expansion: Related
+    Works](#earth-expansion-related-works)
 - [Cosmology in an Infinite
   Medium](#cosmology-in-an-infinite-medium)
   - [Momentum Flow](#momentum-flow)
@@ -85,8 +82,8 @@ formalization and testing.
     Curves](#galaxy-rotation-curves)
   - [Maintaining Matter Balance in an Infinite
     Universe](#maintaining-matter-balance-in-an-infinite-universe)
-  - [Matter Destruction in Ultra-Dense
-    Environments](#matter-destruction-in-ultra-dense-environments)
+  - [Neutron Formation and Release in AGN
+    Cores](#neutron-formation-and-release-in-agn-cores)
   - [High-Energy Outflows and the Origin of AGN
     Jets](#high-energy-outflows-and-the-origin-of-agn-jets)
   - [Jet Pinching and the Possibility of New Matter
@@ -199,20 +196,17 @@ could, in principle, be tested. These predictions arise directly from
 the model's internal mechanisms: wave collapse, LCM/GCM interactions,
 particle structure, and the matter-creation/destruction cycle.
 
-1.  **A 12-hour diurnal variation in high-energy particle events** (a
-    modern aether test based on LCM bow/wake asymmetry)
-
-2.  **[Hydrogen creation inside planets and
+1.  **[Hydrogen creation inside planets and
     moons](#earth-and-the-solar-system)** (and liquid water worlds
     should be abundant)
 
-3.  **[Cosmic voids as repulsive regions](#voids-as-repulsive-regions)**
+2.  **[Cosmic voids as repulsive regions](#voids-as-repulsive-regions)**
 
-4.  **[Neutron destruction occurring inside active galactic
-    nuclei](#matter-destruction-in-ultra-dense-environments)** (as part
-    of the matter-recycling cycle)
+3.  **[Neutron destruction occurring inside active galactic
+    nuclei](#neutron-formation-and-release-in-agn-cores)** (as part of
+    the matter-recycling cycle)
 
-5.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
+4.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
     civilizations exist
 
 Each of these will be discussed in greater detail in relevant sections
@@ -230,12 +224,10 @@ these two media continually feed back on each other.
 
 ## The LCM: A Medium for Waves and Matter
 
-The Light-Carrying Medium (LCM) is a compressible substance that can
-support both transverse and longitudinal disturbances. Transverse waves
-correspond to what we normally call light. Longitudinal
-disturbances—changes in density that ripple outward—play the role
-usually assigned to gravitational waves, since both travel at the same
-characteristic speed in the LCM.
+The Light-Carrying Medium (LCM) is a compressible elastic substance that
+supports compression, shear, and torsional distortions. Traveling waves
+with phase-locked shear and torsional oscillations correspond to what we
+ordinarily call light.
 
 What makes the LCM especially important is how it stores and manipulates
 energy. It can hold energy as density gradients, torsional motion, or
@@ -336,241 +328,183 @@ to coexist and yet play very different physical roles.
 
 # Matter as Standing Waves in the LCM
 
-Many earlier physical models have attempted to describe matter as some
-form of localized wave. Classical ether theories imagined particles as
-knots or disturbances in a single universal medium. More recent "elastic
-aether" approaches propose that mass, charge, and quantum behavior arise
-from deformations or resonances in an elastic or fluid vacuum.
-Soliton-based models likewise treat matter as stable wave packets in
-nonlinear fields. These ideas share a common intuition: matter may be an
-organized pattern of motion rather than a separate substance.
+The LCM can deform in three independent ways: **compression**, which
+changes local density; **shear**, which displaces the medium sideways;
+and **torsion**, which twists it around a local axis. A traveling light
+wave consists solely of phase-locked **shear and torsional** motions.
+Although it carries no sustained compression component, the shear
+oscillation produces brief, localized increases in density at the points
+of maximum displacement.
 
-What remains unresolved in all single-medium approaches, however, is the
-**problem of confinement**. In a uniform elastic medium, waves disperse;
-they do not naturally remain localized. A stable, particle-like standing
-wave requires some form of boundary condition or trapping mechanism, but
-a single-medium ether does not provide a clear physical origin for such
-boundaries. This limitation has historically constrained the explanatory
-reach of wave-as-matter theories.
+A key assumption of 2MM is that the **GCM interacts strongly only with
+compression**, and only very weakly with shear or torsion. Momentary
+density spikes generated by shear are normally too small and too widely
+spaced to cast a meaningful shadow in the GCM flux, so ordinary light
+propagates freely through space.
 
-2MM addresses the problem of standing-wave confinement by introducing a
-second substrate, the GCM, whose ultra-fast particulate flux interacts
-with the LCM. When transverse LCM waves concentrate into a small region,
-they locally reduce the incoming GCM flux, creating a gravitational
-shadow. This shadow increases the surrounding LCM compression, and the
-increased compression further confines the wave. The feedback continues
-until the system reaches a stable equilibrium. The wave becomes
-**trapped in a gravity-induced compression well of its own making**,
-forming a localized, self-sustaining standing wave. This cannot be
-overstated: **a separate substrate is required to stabilize standing
-waves in the LCM**.
+As a traveling light wave enters a region of higher ambient LCM density,
+its frequency increases while its wavelength decreases, because the wave
+cycles faster through a medium that resists displacement more strongly.
+This shortening of the shear–torsion wavelength brings the brief
+high-density crests closer together. Even though each crest is only
+momentarily denser than the background, decreasing their spacing
+increases their **cumulative** opacity to the GCM. Once this combined
+shadow becomes large enough, inward GCM pressure begins reinforcing the
+densest points of the wave.
 
-This dual-medium interaction supplies a natural mechanism for the
-existence of stable matter waves—something difficult to obtain in any
-single-medium framework. To my knowledge, no prior model combines a
-compressible light-carrying medium with a separate gravitational flux in
-such a way that **confinement, particle structure, and gravitational
-response emerge from the same underlying dynamics**.
-
-The ability of 2MM to explain how standing waves become self-confined is
-one of the model's strongest conceptual features. It allows matter to
-arise not as an arbitrary postulate, but as a natural consequence of how
-two complementary media shape and reinforce one another.
-
-> *A particularly influential example for this work is **Tom Van
-> Flandern's Meta Model**, which argued that the vacuum may consist of
-> multiple interacting substrates and that gravity and light need not
-> propagate through the same physical medium. While the Meta Model
-> differs substantially from 2MM in mechanism and structure, its core
-> idea, that distinct media may underlie different physical phenomena,
-> provided the inspiration for 2MM.*
+A positive feedback loop follows: tighter spacing → stronger shadow →
+stronger compression → even tighter spacing. The traveling wave
+collapses into a confined standing structure, acquiring a third
+oscillation mode—a **sustained compression component**—maintained
+jointly by inward GCM flux and the elastic response of the LCM.
 
 ## Frequency, Compression, and the Threshold for Collapse
 
 A key consequence of this picture is that the stability of light depends
-on its transparency to the GCM. At low frequencies, LCM waves are
-diffuse in absolute space and interact negligibly with the GCM flux.
-They travel freely, their structure restored by the elastic properties
-of the LCM.
+on its transparency to the GCM. At low frequencies, traveling
+shear–torsion waves are spatially diffuse and interact negligibly with
+the GCM flux; the elastic properties of the LCM restore their form as
+they move. But when such a wave enters a region of higher ambient LCM
+density—such as a gravitational well—it blueshifts: its frequency
+increases, its wavelength shortens, and the high-density crests of the
+shear motion pack more closely together. The wave occupies a smaller
+physical region and its energy density rises, making it a denser and
+more coherent target for the GCM.
 
-When a light wave moves into a region of higher LCM compression, for
-example entering the gravitational field of a planet or star, it
-blueshifts. That is, it's frequency increases and the wave's spatial
-extent shrinks. The crests bunch closer together, the oscillation
-occupies a smaller physical region, and energy density rises. From the
-GCM perspective, the wave becomes a denser and more coherent target.
-
-This leads to a simple but profound rule:
+This yields a simple rule:
 
 > **Blueshifting waves progressively increase their effective
 > cross-section to the GCM flux.**
 
-At some point, the wave ceases to be transparent. The GCM begins
-scattering off it strongly enough to cast a real shadow. The shadow
-compresses the nearby LCM, which in turn constricts the wave. A positive
-feedback loop takes over. Eventually the compression crosses a critical
-threshold and the traveling wave loses the ability to maintain its
-extended form. This is the onset of collapse.
+Beyond a certain threshold, the wave is no longer transparent. The GCM
+begins scattering strongly enough to cast a genuine shadow. The
+resulting inward flux compresses the surrounding LCM, which tightens the
+wave further. A positive feedback loop forms: shorter wavelength →
+stronger shadow → stronger compression → still shorter wavelength. Once
+the compression passes a critical limit, the traveling wave can no
+longer sustain its extended structure, and collapse begins.
 
-Regions with high LCM density (such as near massive bodies or inside
-planets) naturally compress incoming waves, increasing both their local
-frequency and their opacity to the GCM. This explains why
-electron/positron pair production is favored in such environments:
+Regions of high ambient LCM density—near massive bodies or within
+planetary interiors—naturally drive this process by raising local wave
+frequency and GCM opacity. This is why electron–positron pair
+production is favored in such environments.
 
-- **High local LCM density → higher local optical frequency**
-
-- **Higher optical frequency → increased GCM cross-section**
-
-- **Increased GCM opacity → stronger shadowing**
-
-- **Shadowing → collapse into standing waves**
-
-Thus pair production is a natural consequence of the dual-medium
-interaction. It occurs when a traveling wave becomes sufficiently
-compact—and therefore sufficiently opaque to the GCM—that the only
-stable configuration remaining is a pair of standing-wave particles with
+In this view, pair production is not a special process but the natural
+outcome of a traveling shear–torsion wave becoming sufficiently
+compact—and therefore sufficiently opaque to the GCM—that its only
+stable configuration is a pair of confined standing waves with
 complementary phase structures.
 
-## Dual-Mode Helical Standing Waves: The Structure of Matter
+## Criteria of Pair Production
 
-Once a high-frequency LCM wave becomes sufficiently opaque to the GCM,
-the resulting shadow forces the wave to collapse into a tightly
-localized configuration. But the collapse cannot produce an arbitrary
-structure. It must preserve symmetry, conserve energy, and yield a
-stable pattern that both media—the LCM and GCM—can support.
+Pair production already tells us that matter does not emerge in
+isolation: when a high-energy light wave collapses, it produces two
+particles with exactly the same energy but opposite character. Whatever
+structure underlies these particles must therefore come in complementary
+forms that cannot be rotated into each other. In other words, the
+particles must represent two distinct chiral configurations of the same
+underlying standing wave. This requirement is not optional—it is built
+into the observed symmetries of pair creation. A viable model must
+therefore identify a single physical template that naturally admits two
+non-superimposable opposites with identical energy content but reversed
+dynamical tendencies. The phase structure of the three-mode standing
+wave provides the simplest route to this kind of duality.
 
-The only configurations that satisfy these conditions are **standing
-waves composed of two coupled oscillation modes**:
+In pair production, the collapsing light wave brings only two kinds of
+motion with it—shear and torsion. These are intrinsic to light itself,
+and when the wave becomes trapped they are reasonably assumed to keep
+the same phase relationship they had while propagating. The third
+component, compression, does not come from the light wave at all; it
+emerges only during confinement, as the inward GCM flux encounters the
+LCM's resistance to being compressed. The key difference between the two
+particles produced in the collapse lies in how this newly generated
+compression mode locks in phase with the inherited shear–torsion
+pattern. A ±90° offset produces two opposite dynamical behaviors: one
+phase choice pushes the surrounding medium outward, while the opposite
+phase draws it inward. These two variants have identical energy content
+but reversed tendencies, providing exactly the kind of complementary
+pair demanded by pair production.
 
-1.  a **radial compression–expansion mode**, and
+## Dual-Mode Helical Pumps: The Structure of Matter
 
-2.  a **torsional shear mode**.
+The assumption of a push–pull asymmetry between the two standing-wave
+modes follows naturally from the way compression and shear interact in a
+nonlinear medium. In the LCM, regions of higher compression change the
+local wave speed, so the shear motion does not simply ride on top of the
+compression cycle—it is redirected and amplified differently depending
+on their relative phase. This kind of nonlinear coupling is well known
+in many physical systems: in acoustics, fluid membranes, elastic solids,
+and microscale swimmers ("squirmers"), a ±90° phase shift between
+expansion and shear produces opposite net flows even when the underlying
+motions are identical in energy. By analogy, a confined standing wave in
+the LCM can naturally adopt two stable phase-locked configurations: one
+where compression and shear reinforce outward motion of the surrounding
+medium, and another where they reinforce inward draw. These opposite
+dynamical tendencies are a familiar outcome of nonlinear wave–boundary
+interactions and provide a simple physical rationale for the
+electron–positron push/pull pair.
 
-These two oscillation modes—one compression-like and one
-torsional—correspond to the familiar electric and magnetic components
-of light. In freely propagating waves, these components travel together
-in a coordinated way, consistent with electromagnetic behavior. However,
-a traveling wave does not need, and does not naturally adopt, the
-special self-reinforcing phase pattern required to remain confined in
-one place. It simply moves forward without forming a bound structure.
-
-During GCM-induced collapse, the situation changes completely. As the
-wave becomes opaque to the GCM, the shadow it casts compresses the
-surrounding LCM and forces the energy into a shrinking region. Under
-this confinement, the two oscillation modes become strongly coupled.
-Their timing settles into a fixed, self-sustaining phase relationship,
-creating a stable helical standing wave. This locked configuration is
-what gives rise to a particle-like structure in the model.
-
-This helical form is not arbitrary. It arises directly from combining a
-radial pulse with a torsional twist in fixed phase relationship. And its
-orientation depends entirely on which oscillation leads:
-
-- If the torsional mode **leads** the radial mode, the result is the
-  **lead-mode helix**.
-
-- If the torsional mode **lags** slightly, the result is the **lag-mode
-  helix**.
-
-These two helices are **mirror images**, equal in energy but opposite in
-chirality. They naturally correspond to the two particles produced in
-pair creation:
-
-- the **lead-mode helix** → the electron
-
-- the **lag-mode helix** → the positron
-
-Their opposite chirality accounts for their opposite electric charge,
-while their identical energy follows from the symmetry of the collapse.
-The helical geometry also explains familiar particle properties:
-
-- **Electric charge** arises from the sign and orientation of the radial
-  compression field.
-
-- **Magnetic dipoles** emerge from the torsional component.
-
-- **Spin and helicity** follow from the structural chirality of the
-  standing wave.
-
-- **Stability** is maintained because the standing wave casts a strong
-  GCM shadow, which continually reinforces the LCM compression well that
-  confines it.
-
-In this way, the dual-mode helical standing wave becomes the fundamental
-unit of matter in 2MM. Electrons and positrons are not abstract point
-particles but structured, self-sustaining oscillations, stabilized by
-the feedback loop between the LCM and GCM. Their form is the direct
-outcome of the symmetry and dynamics of collapse at the threshold where
-a high-frequency wave becomes opaque to the GCM.
+The torsional component of the wave does not participate in the
+push–pull asymmetry, but it plays a crucial geometric role in shaping
+the particle. As the standing wave oscillates, its torsional motion
+continually twists the local LCM around the wave's axis, producing a
+stable helical distortion in the medium. This twist does not drive
+material outward or inward; instead, it organizes the shear and
+compression motions into a spiral pattern that repeats each cycle,
+allowing the structure to close on itself without drifting. In effect,
+torsion supplies the "handedness" and geometry of the particle's form,
+imprinting a screw-like wrap on the surrounding LCM that remains locked
+in place as long as the standing wave persists.
 
 ## The Origin and Motivation for LCM Compression Fields
 
-In the Two-Medium Model, a localized standing wave in the LCM is
-surrounded by a region of increased LCM compression. This "compression
-field" gives the particle a finite spatial extent and governs how it
-interacts with both the LCM and the GCM. The GCM shadow produced by a
-concentrated oscillation provides a natural source of inward momentum
-flux, but the *shape* of the resulting compression field depends on how
-the standing wave itself couples to the medium.
+In the Two-Medium Model, every localized standing wave is surrounded by
+a region of elevated LCM compression. This "compression field" sets the
+particle's effective size and determines how it interacts with both
+media. The inward GCM flux created by the particle's shadow provides the
+baseline confinement, but the detailed shape of the compression field
+depends on how the standing wave's internal motions couple to the LCM
+itself.
 
-In the previous section, we described particles as helical standing
-waves composed of two oscillatory components: a radial compression mode
-and a torsional mode. A central idea—introduced here—is that the
-**relative phase** of these two modes determines how the boundary of the
-standing wave exchanges momentum with the LCM. The goal is to explain
-why the lead-mode (electron) and lag-mode (positron) do not produce
-identical compression environments, but instead exhibit **opposite
-radial tendencies**:
+A confined particle carries three oscillatory components: shear and
+torsion inherited from the original light wave, and a compression mode
+induced during collapse by the GCM–LCM interaction. The shear and
+torsion remain phase-locked, preserving the helical geometry of the
+structure. What distinguishes the two particle types formed in pair
+production is how the compression mode locks in phase with the inherited
+shear motion. A ±90° phase offset between these motions produces two
+opposite dynamical states:
 
-- a **push-outward** bias for the lead mode,
+- the **lead-mode**, which tends to push the surrounding LCM outward
+  (electron-like), and
 
-- and a **pull-inward** bias for the lag mode.
+- the **lag-mode**, which tends to draw it inward (positron-like).
 
-A simple linear coupling does **not** produce this behaviour. Therefore,
-the model makes the following explicit working assumption:
+A simple linear coupling cannot produce this asymmetry. The model
+therefore treats it as an explicit but physically motivated assumption:
+**the compression–shear interaction in the LCM is nonlinear, and the
+two ±90° phase-locked states naturally settle into opposite radial
+behaviors.**
 
-**Assumption:** *The two phase-locked helical modes interact with the
-LCM in a nonlinear way that results in opposite radial biases—one
-tending to displace LCM outward, and the other tending to draw it
-inward. These opposite tendencies shape the particle's surrounding
-compression field.*
+This assumption rests on three points. First, concentrated oscillations
+naturally generate inward confinement through the GCM shadow, providing
+the baseline conditions for a stable compression field. Second,
+nonlinear coupling between expansion and shear is well known to produce
+paired modes with opposite radial tendencies, making the push–pull
+duality physically plausible. Third, once this asymmetry is admitted,
+the broader framework becomes strikingly coherent: the same mechanism
+underlies qualitative predictions across planetary structure, stellar
+environments, cosmology, and even the behaviour of the fundamental
+forces.
 
-This assumption is motivated by these considerations:
-
-- **Concentrated oscillations already generate inward confinement
-  through the GCM shadow.** The collapse of a high-frequency LCM wave
-  into a standing structure increases its opacity to the GCM flux. The
-  resulting shadow produces a persistent inward momentum pressure. This
-  effect provides the baseline confinement needed for any stable
-  compression field.
-
-- **Opposite radial biases are a plausible outcome of nonlinear mode
-  coupling.** The compression oscillation itself naturally introduces
-  nonlinearity, because local LCM density—and therefore wave
-  speed—varies over the cycle. In many physical systems with this kind
-  of nonlinear coupling, two phase-locked modes can settle into distinct
-  stable states with opposite radial tendencies. This makes an
-  inward–outward asymmetry between the two helical modes a physically
-  reasonable possibility, even though the detailed microphysical
-  mechanism has not yet been derived.
-
-- **With this push–pull asymmetry in place, the model gains explanatory
-  coherence across domains.** This inward–outward asymmetry is a
-  cornerstone of the broader framework. Once assumed, it leads to a set
-  of coherent predictions that align with observations across multiple
-  domains—planetary structure, stellar environments, large-scale
-  cosmology, and even the qualitative behaviour of the fundamental
-  forces. The fact that these diverse implications emerge from a single
-  underlying assumption is part of what motivates exploring the
-  Two-Medium Model, even while the microphysical mechanism behind the
-  asymmetry remains an open problem.
-
-In summary, the existence of an inward- and outward-biased pair of
-helical modes is an **assumed but physically motivated feature** of the
-model. The GCM shadow provides the overall inward confinement; the
-asymmetric coupling between torsion and compression shapes how each mode
-modifies the surrounding LCM. A full dynamical derivation of this
-push–pull behaviour remains an open problem for future work.
+In summary, the lead-mode and lag-mode represent two stable, opposite
+dynamical states of the same underlying three-component standing wave.
+The GCM shadow supplies the confining pressure, while the nonlinear
+compression–shear phase relation determines whether the surrounding LCM
+is drawn inward or pushed outward. A full dynamical derivation of this
+asymmetry is left as an open problem for future work, but the assumption
+is grounded in familiar physical behavior and provides the structural
+backbone of the model.
 
 ## The Proton: Why the Lag-Mode Collapses in Dense LCM
 
@@ -773,6 +707,39 @@ environments for long-term stability. This reduced confinement plays a
 central role in nuclear structure, influencing why neutrons stabilize
 nuclei, how they arrange in characteristic ratios, and why only certain
 isotopes are viable.
+
+## The Particle Zoo
+
+In the Two-Medium Model, all particles arise from standing waves in the
+LCM, but not every wave pattern can become a stable particle. Two
+principles determine which structures persist:
+
+- **The GCM couples strongly to compression but weakly to shear and
+  torsion.** Compression increases local LCM density and therefore
+  produces a significant GCM shadow, generating the inward pressure
+  needed for confinement. Shear and torsional oscillations, by
+  themselves, remain largely transparent to the GCM and cannot produce
+  meaningful inward flux.
+
+- **Without compression, a wave cannot be trapped.** A standing wave
+  composed only of shear and torsion interacts too weakly with the GCM
+  to generate a confining shadow. Such a structure will not form a
+  localized particle; it will propagate at or near the speed of light,
+  dispersing once external conditions no longer compress it.
+
+These principles imply that the variety of observed particles—the
+particle zoo—arises from different ways total energy can be
+distributed among the three oscillation modes. **Stable particles must
+contain enough compression energy to cast a persistent GCM shadow**,
+anchoring the shear and torsional components into a self-sustaining
+structure. Configurations with little or no compression form only
+transient states: short-lived resonances, mesons, or rapidly decaying
+excitations that disperse as soon as the confining environment weakens.
+
+In this view, the particle zoo reflects a spectrum of possible
+standing-wave patterns, with stability determined primarily by how
+strongly a mode engages the compression channel and therefore the GCM
+confinement that gives particles their enduring form.
 
 # Interactions: How Forces Arise from the Two Media
 
@@ -1469,7 +1436,7 @@ anomaly. It is a template. And worlds like ours—wet, layered,
 internally dynamic—may be far more common than our current models
 allow.
 
-## Related Works
+## Earth Expansion: Related Works
 
 Many of the ideas related to Earth expansion discussed here are not
 original to this work. What is significant in the context of 2MM is that
@@ -1500,59 +1467,44 @@ rather than geometric inflation alone.
 
 ## Momentum Flow
 
-In the Two-Medium Model, gravity is produced by the flow of ultra-fast
-particles in the GCM pushing on patterns in the slower LCM. For this
-mechanism to work, the two media must exchange momentum in a way that
-depends on the local state of the LCM. Early versions of the model
-assumed that the momentum transfer switched direction depending on
-whether the region was a cluster or a void. That assumption turned out
-to be incorrect: galaxies exist inside voids, which means matter remains
-stable there, and so the rule could not depend purely on location. The
-model was updated accordingly.
+We have already seen that the GCM couples strongly to regions of **high
+LCM compression**, transferring momentum into dense standing-wave
+structures and sustaining the confinement that defines matter. This
+one-way flow—from GCM into compressed LCM—is essential for particle
+stability. But on cosmic scales, a stable universe cannot operate as a
+pure sink: if the GCM continuously loses momentum to confined
+structures, it must also recover momentum somewhere else. The two media
+must exchange momentum in both directions to maintain long-term
+equilibrium.
 
-The required sign flip is now tied to the **form of the LCM wave**, not
-to where the wave is located. The LCM supports two kinds of deformation:
-a **compression component**, which squeezes the medium, and a **torsion
-component**, which twists it. Light and matter both use these same two
-components, but in different proportions.
+This raises an important question: where does the GCM regain momentum?
+Up to this point we have focused on compression, the mode that interacts
+strongly with the GCM. The other two deformation types—**shear and
+torsion**—were assumed to couple only weakly. But weak coupling does
+not mean negligible coupling, especially across the immense distances of
+intergalactic space. A tiny momentum exchange, applied repeatedly along
+long paths, can accumulate into a measurable effect.
 
-**Traveling waves** (light) need to move long distances without being
-scattered. They naturally evolve into a form dominated by **torsion**,
-which interacts only weakly with the GCM. When a GCM particle passes
-through this diffuse, torsion-heavy background, it receives tiny, random
-momentum kicks. Individually these kicks are small, but over long
-distances—such as the interior of a cosmic void—they add up to a
-slight **net gain of momentum for the GCM**. This is the recharge
-process that makes voids high-flux regions.
+This opens the possibility that **one or both of the low-compression
+modes—shear or torsion—may return momentum to the GCM rather than
+extracting it**. Unlike compression, which always slows the flux, shear
+and torsion do not significantly alter local LCM density. A GCM
+corpuscle passing through such a diffuse, low-impedance background may
+experience a slight net acceleration instead of a loss.
 
-**Standing waves** (matter), on the other hand, need to stay in one
-place and resist spreading out. To do this, they must create a strong
-local disturbance in the LCM. This requires the compression component to
-dominate. A standing wave with strong compression presents a large
-"impedance" to the GCM: when a GCM particle strikes it, the GCM loses
-momentum efficiently. This loss is what creates the directional
-depletion, or "shadow," that holds the standing wave together and makes
-matter stable.
+**Working assumption.** To make the dual-medium picture cosmologically
+viable, we assume that the GCM couples weakly but with opposite sign to
+one or both of the low-compression modes of the LCM (shear and/or
+torsion). Compression-rich regions always extract momentum from the GCM,
+while extended shear–torsion backgrounds return a small amount of
+momentum to the flux over large distances. The detailed microphysical
+origin of this sign reversal is left open, but it provides a minimal and
+physically plausible way for the two media to share a long-term momentum
+equilibrium.
 
-With this picture in mind, the sign flip becomes natural:
-
-- **Compression-dominated LCM (matter)** extracts momentum from the GCM.
-
-- **Torsion-dominated LCM (diffuse radiation)** gives a small net
-  momentum back to the GCM.
-
-This is a property of the **wave state** of the LCM, not the cosmic
-location. Void interiors happen to contain mostly diffuse,
-torsion-dominated LCM waves, so they are strong recharge zones for the
-GCM. Galaxies and other dense structures contain compression-dominated
-standing waves, so they always extract momentum from the GCM, even when
-placed inside a void.
-
-This updated rule also resolves earlier contradictions. Since matter
-always extracts momentum from the GCM, it remains stable everywhere,
-including voids. And since voids predominantly contain torsion-type
-waves, they naturally elevate the GCM flux, producing the repulsive
-behavior that shapes the large-scale structure of the universe in 2MM.
+**The implications of this assumption will be explored in the following
+sections, where it will be seen that the resulting large-scale behavior
+aligns cleanly with key cosmological observations.**
 
 ## Cosmological Redshift
 
@@ -1706,26 +1658,40 @@ contradicting the assumption of long-term equilibrium. Identifying where
 and how matter is ultimately broken down is therefore essential to
 completing the model.
 
-## Matter Destruction in Ultra-Dense Environments
+## Neutron Formation and Release in AGN Cores
 
-If the universe continually creates matter, a full equilibrium also
-requires a mechanism for matter destruction. In the Two-Medium Model,
-the most natural environments for this are the extreme-density regions
-associated with active galactic nuclei (AGN). In known astrophysics,
-neutron stars already demonstrate that protons and electrons can be
-forced into more compact states, forming neutrons to achieve tighter
-nuclear packing. If matter were to be broken down entirely, beginning
-with neutrons is the most plausible path, since their internal structure
-allows charge to be conserved when they are dismantled. This suggests
-that matter destruction would occur only in environments even denser
-than neutron stars—regions where all incoming matter is first
-compressed into neutron-rich form before any more fundamental breakdown
-can occur. For this reason, 2MM proposes AGN cores as the primary sites
-of matter destruction. While the process has not yet been modeled at the
-scale of the neutron, the working hypothesis is that neutrons entering
-these extreme environments are ultimately converted back into traveling
-LCM wave energy, completing the matter cycle required for equilibrium in
-an infinite universe.
+In 2MM, the stability of any particle depends on the cooperation of two
+factors: LCM compression, which creates a GCM shadow, and the
+availability of GCM flux, which reinforces that compression and keeps
+the standing wave confined. As matter is drawn toward the center of an
+active galactic nucleus, it encounters regions of steadily increasing
+LCM density. At the same time, the inward-moving GCM flux is gradually
+diminished by the surrounding material, so deeper layers receive
+progressively less of the confining pressure needed to sustain
+particle-scale structures.
+
+In the outer portions of the core, the rising LCM density favors the
+formation of neutrons. Here, protons and electrons are driven into the
+paired lead–lag configuration that shares a common compression well.
+This arrangement becomes the most stable standing-wave structure under
+high compression, much as in neutron star matter. The GCM flux is still
+strong enough at these depths to maintain the neutron's compression
+pattern, allowing a neutron-rich layer to form.
+
+Deeper in, however, the conditions change. Although the LCM becomes even
+more compressed, the GCM flux becomes too attenuated to support the
+neutron's shared compression well. Neutrons rely more heavily on ambient
+GCM reinforcement than protons do, and as the available flux drops below
+a critical threshold, their standing-wave structure can no longer remain
+confined. When this threshold is crossed, the neutron loses its internal
+compression support and ceases to exist as a localized particle. Its
+stored oscillatory energy is released back into the LCM as freely
+propagating traveling waves.
+
+This transition marks the effective inner boundary of matter stability
+in an AGN core: outside it, neutrons form naturally under high
+compression; inside it, insufficient GCM support causes them to unravel
+and return their energy to the medium.
 
 ## High-Energy Outflows and the Origin of AGN Jets
 
