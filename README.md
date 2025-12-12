@@ -1403,7 +1403,7 @@ in the deep LCM wells of giant planets. Their internal heat, driven by a
 combination of tidal forcing and GCM flux, maintains vast liquid oceans
 beneath their icy crusts. And their water inventory, rather than being
 relics of formation beyond the frost line, may reflect the slow
-accumulation of H$_2$O generated inside them through the same
+accumulation of H₂O generated inside them through the same
 hydrogen–oxygen chemistry that shapes Earth.
 
 Even the location of these moons, far outside the classical "goldilocks

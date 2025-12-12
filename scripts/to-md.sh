@@ -13,7 +13,7 @@ pandoc \
 
 MD_HEADER="# Two Medium Model (2MM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17861252.svg)](https://doi.org/10.5281/zenodo.17861252)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17902892.svg)](https://doi.org/10.5281/zenodo.17902892)
 
 The Two-Medium Model (2MM) describes the observable universe in terms of the interaction between two pervasive substrates: *(i)* the **Light-Carrying Medium (LCM)**, an elastic continuum supporting compression, shear, and torsional distortions—including the standing-wave structures associated with matter; and *(ii)* the **Gravity-Carrying Medium (GCM)**, a flux of ultra-small, ultra-fast corpuscles whose flow is partially obstructed by dense regions of the LCM, giving rise to gravitational attraction through momentum-flux shadowing.
 
@@ -39,5 +39,6 @@ formalization and testing.
 	| sed -E 's/[$]\^([0-9])[$]/<sup>\1<\/sup>/g' \
 	| sed -E 's/[-]{3}/—/g' \
 	| sed -E 's/[-]{2}/–/g' \
+	| sed -E 's/\$_2\$/₂/g' \
 	> ../README.md
 rm doc.md
