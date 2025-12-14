@@ -1,6 +1,6 @@
 # Two Medium Model (2MM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17902892.svg)](https://doi.org/10.5281/zenodo.17902892)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17931478.svg)](https://doi.org/10.5281/zenodo.17931478)
 
 The Two-Medium Model (2MM) describes the observable universe in terms of the interaction between two pervasive substrates: *(i)* the **Light-Carrying Medium (LCM)**, an elastic continuum supporting compression, shear, and torsional distortions—including the standing-wave structures associated with matter; and *(ii)* the **Gravity-Carrying Medium (GCM)**, a flux of ultra-small, ultra-fast corpuscles whose flow is partially obstructed by dense regions of the LCM, giving rise to gravitational attraction through momentum-flux shadowing.
 
@@ -80,6 +80,8 @@ formalization and testing.
     Regions](#voids-as-repulsive-regions)
   - [Galaxy Rotation
     Curves](#galaxy-rotation-curves)
+  - [Compensation of LCM
+    Deformation](#compensation-of-lcm-deformation)
   - [Maintaining Matter Balance in an Infinite
     Universe](#maintaining-matter-balance-in-an-infinite-universe)
   - [Neutron Formation and Release in AGN
@@ -875,7 +877,7 @@ of current. Ferromagnetism, then, is simply the **static alignment** of
 many intrinsic dipoles, whereas current magnetism is the **dynamic
 alignment** produced by motion.
 
-#### Helicity as a Natural Outcome of Wave Collapse
+### Helicity as a Natural Outcome of Wave Collapse
 
 It is worth stepping back to recall why the helical standing-wave
 structure appeared in the first place. It was not assumed—it emerged
@@ -1633,6 +1635,67 @@ MOND-like rotation speeds. All of this follows directly from the
 interaction rules of the two media, without introducing new fields or
 modifying gravity itself.
 
+## Compensation of LCM Deformation
+
+In developing the Two-Medium Model, we began with an assumption: the LCM
+is a continuous, nearly perfectly elastic medium. It supports
+compression, shear, and torsion, and it stores deformation as elastic
+strain rather than dissipating it through flow or permanent change. This
+assumption is motivated by the observed long-range, low-loss propagation
+of light, which strongly suggests an underlying medium with minimal
+internal friction.
+
+Once this assumption is made, an immediate geometric problem appears. If
+standing-wave particles locally compress or "condense" the LCM, that
+deformation cannot exist in isolation. In an elastic continuum, every
+compression must be balanced by a compensating deformation elsewhere.
+The question is not whether compensation exists, but **how it is
+distributed**: sharply or gradually, locally or over large distances.
+
+At the particle scale, early discussions of 2MM treated standing-wave
+particles as localized compression structures. This picture remains
+useful, but it implicitly neglected the compensating field. If
+compensation is gradual—as expected in a smooth elastic medium—then
+each particle must be surrounded by a broad, low-amplitude halo in which
+the LCM slowly relaxes back toward its ambient state. At large
+distances, this halo dominates; near the core, the nonlinear
+standing-wave structure dominates. In this sense, the original particle
+picture is a **near-field approximation** that remains valid when
+interactions are dominated by the core.
+
+Clues about the nature of compensation appear at larger scales. Around
+planets and stars, the collective effect of vast numbers of standing
+waves produces a measurable condensation of the LCM, inferred from the
+bending of light as it passes nearby. This tells us that local
+compressions can add coherently and produce macroscopic effects.
+Crucially, we do not observe sharp shells of "missing" medium around
+these bodies, suggesting that the compensating deformation is not local
+or abrupt, but spread smoothly over large volumes.
+
+When we zoom out further—to clusters, superclusters, and cosmic
+voids—the picture becomes clearer. Most of the universe's volume
+contains very little matter. In 2MM, these voids have already been
+understood as regions needed to recharge and symmetrize GCM flux. They
+also naturally serve a second role: they provide the vast spatial
+reservoir required to accommodate the long-range compensating
+decompression of the LCM. Matter-rich regions become zones of net
+compression bias, while voids act as regions where the medium is
+correspondingly relaxed.
+
+Taken together, this suggests a consistent, scale-spanning geometry.
+Standing-wave particles create localized compression cores with broad
+compensating halos. These halos overlap and sum at larger scales,
+producing measurable effects around stars and planets. At the largest
+scales, the compensation is exported into cosmic voids, whose immense
+size reflects the gradual, nonlocal nature of elastic balance in the
+LCM.
+
+Under this view, earlier treatments of particles and interactions in 2MM
+remain valid as approximations—especially in the near and far
+field—but they sit within a deeper picture in which **no deformation
+is truly local**, and the structure of the universe itself participates
+in maintaining elastic balance.
+
 ## Maintaining Matter Balance in an Infinite Universe
 
 In the Two-Medium Model, the universe is taken to be infinite and in
@@ -1919,8 +1982,8 @@ Say](https://www.metaresearch.org/cosmology/cosmology2/the-speed-of-gravity-what
 propagation. His conclusion was that gravity-like influences must
 propagate extraordinarily fast:
 
-> **Gravity must exceed 2 x 10$^10$ c**, at least twenty billion times
-> the speed of light.
+> **Gravity must exceed 2 x 10<sup>1</sup><sup>0</sup> c**, at least twenty billion
+> times the speed of light.
 
 In the context of 2MM, this is exactly the behavior expected of the GCM
 flux. It moves on an inaccessible absolute timebase and is free to
@@ -1958,7 +2021,7 @@ Centauri**, because the GCM would carry the signal almost instantly. The
 subjective experience would feel simultaneous, even though the
 underlying encoding and decoding steps remain light-speed bound.
 
-#### Implication for SETI
+### Implication for SETI
 
 This also leads to a natural expectation: if technological civilizations
 develop a way to use the GCM for signaling, then **electromagnetic
