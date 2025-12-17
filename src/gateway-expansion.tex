@@ -1,0 +1,88 @@
+\tracinggroups=1
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[11pt]{article}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\usepackage{hyperref}
+\setcounter{secnumdepth}{5}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+\usepackage{microtype}
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\makeatletter
+% Paragraph spacing (standard LaTeX)
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=blue,
+  citecolor=black
+}
+\usepackage{biblatex}
+\addbibresource{references.bib}
+
+\title{%
+Gravity, Energy, and Planetary Growth
+}
+
+\author{Kevin Tonon}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+% Abstract
+% Expansion tectonics is limited primarily by the absence of a plausible long-term energy source. The difficulty is not geometric, but energetic: how can a planet increase in volume over geological time without violating conservation laws? Gravity performs mechanical work, continuously transferring energy to matter. This suggests that gravitational energy has been systematically overlooked in planetary energy budgets and may be central to any viable expansion mechanism.
+
+Expansion tectonics is often considered as an alternative to plate tectonics based on familiar geometric and geological observations: improved continental fits on a smaller Earth, the youth of oceanic crust, and the global prevalence of extensional tectonic features. For readers already acquainted with this literature, the difficulty has never been surface kinematics.
+
+It is the \textbf{energy budget}.
+
+Any model of long-term planetary expansion must explain how a planet can increase in volume over geological time without violating conservation laws. Thermal expansion is insufficient. Degassing and phase change lack a sustained driver. External mass accretion introduces conflicts with orbital constraints. As a result, expansion tectonics is frequently set aside not because it fails observationally, but because no plausible energy source is identified.
+
+This framing overlooks something fundamental.
+
+\textbf{Gravity does mechanical work.}
+An object released from rest in Earth's gravitational field gains kinetic energy continuously as it accelerates. That energy is real and measurable. Standard descriptions—whether in terms of gravitational potential or spacetime curvature—provide powerful and accurate ways to describe gravitational dynamics. However, they track energy changes rather than addressing the question of \textbf{how energy is physically transferred} during gravitational acceleration.
+
+Nothing in this observation requires abandoning relativity. It requires only distinguishing between mathematical description and physical energy accounting. If acceleration requires energy, and if gravity causes acceleration, then gravity must be associated with a continuous energy transfer.
+
+This implication is rarely confronted directly. Gravity is typically treated as a constraint on motion rather than as an energetically active process, and one of the most persistent sources of work in nature is excluded from planetary energy budgets by assumption.
+
+The Two Medium Model (2MM) begins from a different premise: gravity is physically real and energetically active. In this framework, gravitational interaction reflects coupling to a pervasive background process that continuously supplies pressure, work, and heat wherever mass exists. This energy input is not episodic; it is ongoing.
+
+Once gravity is recognized as an active energy source, several long-standing problems change character. Continuous internal heating no longer requires improbable decay chains. Matter need not be static. Slow, conservative internal evolution becomes possible without catastrophic release. In particular, the gradual formation of new low-mass nuclei—predominantly hydrogen—becomes energetically plausible.
+
+From this perspective, planetary expansion does not require an ad hoc geophysical engine. It becomes a natural consequence of long-term internal evolution driven by sustained gravitational energy input. The Earth expands not because crust is recycled inefficiently, but because matter itself is a maintained energetic configuration capable of gradual change.
+
+This note does not attempt to defend expansion tectonics in detail. Its purpose is to identify a misframed question. The energy source required by expansion tectonics may not be missing at all; it may be embedded in the very phenomenon that governs planetary structure and motion.
+
+The accompanying paper develops this idea into a coherent conceptual framework—the Two Medium Model—and presents qualitative predictions spanning particle physics, planetary interiors, and large-scale structure, while addressing how local gravitational energy transfer remains consistent with global energy conservation. Readers interested in the proposed mechanism are directed there \cite{tonon2mm}.
+
+\printbibliography
+
+\end{document}

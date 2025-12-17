@@ -980,11 +980,12 @@ momentum. The GCM flux continuously supplies energy and momentum to
 these structures. A significant fraction of that input is spent simply
 on maintaining the compressed standing-wave configuration, while the
 rest can appear as internal excitations or as kinetic energy of the
-particle as a whole. In this sense, GCM interactions do contribute to
-kinetic particle energy (i.e., heating) to the extent one would expect
-from their momentum transfer. The standing-wave structure provides a
-robust channel for absorbing and redistributing energy rather than
-allowing it to accumulate uncontrollably in purely translational motion.
+particle as a whole. In this sense, GCM interactions do not contribute
+to kinetic particle energy (i.e., heating) to the extent one would
+expect from their momentum transfer. The standing-wave structure
+provides a robust channel for absorbing and redistributing energy rather
+than allowing it to accumulate uncontrollably in purely translational
+motion.
 
 At planetary scales, GCM interactions are therefore still expected to
 contribute *some* but not *all* of their energy to internal heating. In
@@ -1091,23 +1092,6 @@ stressed to its limits. It is in these transient events that the model's
 distinctive physics—LCM-wave collapse, pair creation, proton
 formation—can occur at meaningful rates.
 
-### A confined, liquid plasma capable of self-organizing structures
-
-At depth, the Earth's material is not a gaseous plasma but a dense,
-viscous, electrically conducting liquid. In such a medium, currents do
-not wander diffusely—they self-organize. Magnetic fields draw current
-channels inward, forming pinched filaments embedded within the
-surrounding liquid. These z-pinch–like structures behave as LCM
-compression hotspots: narrow, persistent sites where matter is denser,
-currents are stronger, and the LCM is driven into non-linear regimes.
-
-This picture resonates quietly with the geomagnetic field. A network of
-conductive filaments in a churning plasma shell naturally produces
-strong, long-lived magnetic fields. It accommodates the irregular and
-chaotic reversals seen in the paleomagnetic record. And it does so
-without requiring fine-tuning; the GCM ensures a continuous power
-source, and the liquid plasma ensures the necessary fluidity.
-
 ### Lag and lead modes: structure shaped by density
 
 The lag-mode (positron-like) and lead-mode (electron-like) behave
@@ -1131,6 +1115,23 @@ This sorting sharpens LCM density gradients and reinforces the
 interior's layered behavior. The Earth becomes a self-organized system
 where composition, conductivity, and compression structure naturally
 arise from basic mode dynamics.
+
+### A confined, liquid plasma capable of self-organizing structures
+
+At depth, the Earth's material is not a gaseous plasma but a dense,
+viscous, electrically conducting liquid. In such a medium, currents do
+not wander diffusely—they self-organize. Magnetic fields draw current
+channels inward, forming pinched filaments embedded within the
+surrounding liquid. These z-pinch–like structures behave as LCM
+compression hotspots: narrow, persistent sites where matter is denser,
+currents are stronger, and the LCM is driven into non-linear regimes.
+
+This picture resonates quietly with the geomagnetic field. A network of
+conductive filaments in a churning plasma shell naturally produces
+strong, long-lived magnetic fields. It accommodates the irregular and
+chaotic reversals seen in the paleomagnetic record. And it does so
+without requiring fine-tuning; the GCM ensures a continuous power
+source, and the liquid plasma ensures the necessary fluidity.
 
 ### Hydrogen: a bridge between deep physics and surface evolution
 
