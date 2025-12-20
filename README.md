@@ -19,21 +19,20 @@ formalization and testing.
 
 # Table of Contents
 
-- [Preface](#preface)
 - [Introduction](#introduction)
-- [Predictions](#predictions)
+  - [Predictions](#predictions)
 - [Core Ontology: Two Interacting
   Media](#core-ontology-two-interacting-media)
   - [The LCM: A Medium for Waves and
     Matter](#the-lcm-a-medium-for-waves-and-matter)
   - [The GCM: A Fast Flux That Generates
     Forces](#the-gcm-a-fast-flux-that-generates-forces)
-  - [Very Different Scales: Why Two Media Can
-    Coexist](#very-different-scales-why-two-media-can-coexist)
+  - [Motivation for a Two-Medium
+    Ontology](#motivation-for-a-two-medium-ontology)
 - [Matter as Standing Waves in the
   LCM](#matter-as-standing-waves-in-the-lcm)
-  - [Frequency, Compression, and the Threshold for
-    Collapse](#frequency-compression-and-the-threshold-for-collapse)
+  - [Conditions for Standing-Wave
+    Confinement](#conditions-for-standing-wave-confinement)
   - [Criteria of Pair
     Production](#criteria-of-pair-production)
   - [Dual-Mode Helical Pumps: The Structure of
@@ -108,108 +107,78 @@ formalization and testing.
 - [Methodology and
   Acknowledgements](#methodology-and-acknowledgements)
 
-# Preface
-
-This document is an attempt to answer a question that has interested me
-for many years: *Is it possible to build a coherent, medium-based
-picture of physics that connects phenomena across scales, from particles
-to cosmology, using simple and intuitive principles?*
-
-I approached this project not as a professional physicist but as an
-amateur who has spent decades reading about science, puzzles, and
-anomalies that invite deeper questioning. My interest has always leaned
-toward the edges of what we understand: places where standard
-explanations work mathematically but remain conceptually opaque, or
-where observations fit uneasily into the prevailing frameworks.
-
-The ideas presented here began with a few philosophical commitments:
-that interactions should be local, that waves require a medium, and that
-forces should have physical carriers rather than operating at a
-distance. These assumptions are not universally accepted, and they are
-not proposed as corrections to modern physics. They simply provided a
-different starting point, one that led me to explore whether a
-medium-based ontology might unify many disconnected pieces of physical
-behavior.
-
-This is a conceptual model: exploratory and intentionally not defined
-mathematically. My hope is that general readers find it accessible, and
-that professionals find it interesting enough to question, critique, or
-even refine. Science progresses not only through detailed calculation,
-but also through new ways of seeing familiar things.
-
 # Introduction
 
-The Two-Medium Model (2MM) is a conceptual framework developed to
-explore whether many pieces of modern physics might be understood more
-intuitively if reinterpreted through two interacting physical media.
-This includes particle behavior, forces, gravity, cosmology, and certain
-geophysical observations. The goal of this work is not to dispute the
-empirical success of established theories such as quantum field theory
-or general relativity, but to examine whether a medium-based ontology
-can offer a unified geometric picture that connects phenomena across
-scales.
+This document explores whether a coherent, medium-based picture of
+physics can be constructed that connects phenomena across scales, from
+subatomic behavior to cosmology, using simple and physically intuitive
+principles. Rather than proposing a formal theory, it presents a
+conceptual framework intended to clarify mechanisms that are often
+treated abstractly in modern physics.
 
-Modern physics is extraordinarily effective at describing what happens,
-yet often agnostic about *what things are*. Fields are treated as
-mathematical entities, forces arise from operators or curvature rather
-than physical mechanisms, and fundamental particles are defined by their
-properties rather than by internal structure. These approaches work, but
-they leave open the question of whether a more physically intuitive
-model might also exist. Even better, if such a model did exist that it
-might provide **new** insights.
+Contemporary physical theories are extraordinarily successful at
+prediction, yet they frequently remain noncommittal about ontology.
+Fields are defined mathematically, forces emerge from operators or
+curvature, and fundamental particles are characterized by properties
+rather than internal structure. While effective, this approach leaves
+open the question of whether a more explicitly physical, mechanism-based
+description might also exist—one that preserves empirical success
+while offering greater geometric and intuitive coherence.
 
-The Two-Medium Model starts from a small set of philosophical
-assumptions: that interactions are local, that waves require a medium,
-and that gravity must be physically mediated. These assumptions are
-neither new nor universally accepted, but they open a path to
-constructing an alternative conceptual picture that remains grounded in
-observed phenomena. Beginning from these premises, the model introduces
-two distinct media: a compressible medium that supports transverse waves
-(LCM) and a high-speed particulate flux that produces gravitational
-shadowing (GCM). Matter, forces, and other phenomena are interpreted as
-emerging from the interaction between these two components.
+The Two-Medium Model (2MM) begins from a small set of foundational
+assumptions: that interactions are local, that waves require a
+supporting medium, and that gravity must be physically mediated rather
+than action-at-a-distance. These assumptions are neither new nor
+universally accepted, but they provide a consistent starting point for
+constructing an alternative conceptual picture grounded in observed
+phenomena.
 
-This document summarizes the resulting framework. It is not a formal
-theory and does not attempt to replicate the mathematical precision of
-modern physics. Instead, it offers a structured conceptual model that
-appears internally coherent and that naturally produces explanations for
-a range of phenomena, from electric charge and magnetism to nuclear
-structure, planetary mass growth, redshift, and the function of active
-galactic nuclei. Some of these explanations parallel mainstream
-thinking; others are unconventional. All are presented with the
-intention of sparking curiosity and inviting further analysis.
+From these premises, the model introduces two interacting components: a
+compressible medium that supports wave motion (LCM), and a high-speed
+particulate flux that gives rise to gravitational effects through
+shadowing and pressure imbalance (GCM). Within this framework, matter,
+forces, and large-scale structures are interpreted as emergent outcomes
+of medium interactions, wave confinement, and energy exchange between
+these two components.
 
-Each section of this paper should be read in order, the model benefits
-from seeing how its pieces interlock: forces emerging from medium
-interactions, particles from wave collapse, cosmology from matter
-cycling, and planetary behavior from long-term LCM dynamics.
+This paper summarizes the resulting framework in a structured, narrative
+form. It does not attempt to reproduce the mathematical precision of
+quantum field theory or general relativity, but instead aims to provide
+an internally coherent conceptual model that naturally connects a wide
+range of phenomena, including electric charge, magnetism, nuclear
+structure, planetary mass evolution, redshift, and the behavior of
+active galactic nuclei. Some interpretations align with conventional
+thinking, while others depart from it.
 
-This work is offered as an exploration — an attempt to see what
-becomes possible when we start with different foundational assumptions
-and follow them consistently. If it prompts reflection, critique, or
-further development by readers more skilled or knowledgeable than
-myself, then it has achieved its purpose.
+The sections that follow are intended to be read sequentially, as the
+model builds cumulatively: particles emerge from wave confinement,
+forces from medium interactions, cosmological behavior from matter and
+energy cycling, and planetary-scale phenomena from long-term medium
+dynamics. The goal is not to assert correctness, but to explore what
+becomes possible when a different set of foundational assumptions is
+adopted and followed consistently.
 
-# Predictions
+## Predictions
 
 Although 2MM is not defined mathematically, it does make several
 qualitative predictions that differ from standard interpretations and
 could, in principle, be tested. These predictions arise directly from
-the model's internal mechanisms: wave collapse, LCM/GCM interactions,
-particle structure, and the matter-creation/destruction cycle.
+the model's internal mechanisms: wave confinement, medium interactions,
+particle structure, and equilibrium cycles.
 
-1.  **[Hydrogen creation inside planets and
-    moons](#earth-and-the-solar-system)** (and liquid water worlds
-    should be abundant)
+1.  **[Hydrogen creation in planets and
+    moons](#earth-and-the-solar-system)** *— and liquid water worlds
+    should be abundant*
 
 2.  **[Cosmic voids as repulsive regions](#voids-as-repulsive-regions)**
+    *— as part of energy cycling*
 
-3.  **[Neutron destruction occurring inside active galactic
-    nuclei](#neutron-formation-and-release-in-agn-cores)** (as part of
-    the matter-recycling cycle)
+3.  **[Neutron deconfinement in AGN
+    cores](#neutron-formation-and-release-in-agn-cores)** *— as part
+    of matter cycling*
 
-4.  **[SETI is unlikely to succeed](#absolute-time)**, even if advanced
-    civilizations exist
+4.  **[SETI is unlikely to succeed](#absolute-time)** *— even if
+    advanced civilizations exist*
 
 Each of these will be discussed in greater detail in relevant sections
 below.
@@ -226,191 +195,196 @@ these two media continually feed back on each other.
 
 ## The LCM: A Medium for Waves and Matter
 
-The Light-Carrying Medium (LCM) is a compressible elastic substance that
-supports compression, shear, and torsional distortions. Traveling waves
-with phase-locked shear and torsional oscillations correspond to what we
-ordinarily call light.
+The Light-Carrying Medium (LCM) is a pervasive elastic substance that
+supports compression, shear, and torsional distortions. Light
+corresponds to finite traveling wave packets with phase-locked shear and
+torsional oscillations, which propagate along well-defined trajectories
+in a uniformly dense LCM rather than radiating isotropically.
 
-What makes the LCM especially important is how it stores and manipulates
-energy. It can hold energy as density gradients, torsional motion, or
-shear patterns, and under extreme conditions it can reorganize traveling
-waves into localized standing structures. These standing waves become
-what we recognize as matter. Because the LCM deforms around these
-structures, it also shapes how the GCM flux interacts with them,
-indirectly setting the stage for every familiar force.
+What makes the LCM especially important is how it stores and
+redistributes energy. It can hold energy as density gradients, torsional
+motion, or shear patterns, and, under appropriate coupling conditions,
+traveling wave packets can reorganize into localized standing
+structures. These standing waves correspond to what we recognize as
+matter. Because the LCM deforms around these structures, it shapes how
+the GCM flux interacts with them, indirectly setting the stage for all
+familiar forces.
 
-The LCM does not independently "produce" electric or magnetic fields.
-Instead, the deformations it carries—compression patterns, twists, and
+The LCM does not independently generate force fields. Instead, the
+deformations it carries—compression patterns, twists, and
 gradients—provide half of the mechanism that later becomes
-electrostatic, magnetic, and nuclear behavior. In this model, electric
-and magnetic fields are simply the ways compressed or twisted regions of
-the LCM guide the flow of the GCM.
+electrostatic, magnetic, and nuclear behavior. In this model, fields are
+simply the ways compressed or twisted regions of the LCM guide the flow
+of the GCM.
+
+The LCM is conceptually related to earlier elastic or mechanical aether
+models, which likewise treated space as a deformable medium capable of
+supporting wave motion and structure formation
+[@MacCullagh1839; @KelvinVortex1867; @QuaternionQM2]. Such models
+typically posit a single underlying medium intended to account for their
+target phenomena. The Two-Medium Model departs from this tradition by
+asserting that a single medium is insufficient to account for the
+universal stability of matter and forces; instead, these arise only
+through interaction between two distinct components, with neither medium
+independently adequate.
 
 ## The GCM: A Fast Flux That Generates Forces
 
-The Gravity-Carrying Medium (GCM) is a very different kind of substrate.
-It consists of an ultra-fast, high-flux stream of tiny particles moving
-through space. When these particles pass through matter, a small
-fraction of them interact in slightly inelastic ways. These tiny
-encounters create "shadows" in the flux, which show up as the force we
-call gravity.
+The Gravity-Carrying Medium (GCM) is a fundamentally different substrate
+from the LCM. It consists of an ultra-fast, high-flux stream of
+sub-Planckian corpuscles moving through space. When these corpuscles
+pass through matter, a small fraction undergo weak, slightly inelastic
+interactions, producing localized reductions—or "shadows"—in the
+flux. These shadows manifest macroscopically as the force we call
+gravity.
 
-The strength of a shadow depends on the structure of the LCM around the
-particle. A tightly compressed standing wave blocks or redirects more of
-the GCM than a loose one, so momentum flows inward more strongly. In
-this way, the GCM does not just produce gravity—it participates in
-everything from the cohesion of atomic nuclei to the subtle repulsive
-and attractive forces that arise between charged particles.
+The strength of a shadow depends on the local state of the LCM. Regions
+of higher LCM compression interact more strongly with the GCM flux,
+resulting in greater momentum transfer to the medium. This interaction
+tends to reinforce existing compression, establishing a feedback that
+promotes further compression until an equilibrium configuration is
+reached. In this way, the GCM does not merely generate gravity but
+participates more broadly in shaping physical interactions.
 
-Crucially, the GCM and LCM are deeply interdependent. The GCM shapes the
-LCM by pushing on it, compressing it, or twisting it around standing
-waves. And the LCM, in return, determines how much of the GCM penetrates
-or is scattered by a region. Together, they create the entire landscape
-of forces we observe. Later sections discuss how this interaction also
-avoids the overheating problem that plagued earlier LeSage-type
-theories.
+Crucially, the GCM and LCM are interdependent. The GCM acts on the LCM
+primarily through compressive momentum transfer, while the LCM's elastic
+response determines how the GCM flux penetrates, scatters, or is
+redirected within a region. Within this ontology, the GCM provides the
+momentum-transfer component of interactions, while the LCM provides the
+geometric and structural response. What are conventionally described as
+forces emerge from their coupled behavior.
 
-In this ontology, the GCM provides the **momentum-transfer component**
-of all physical interactions, while the LCM provides the **geometric and
-structural component**. What we call "forces" emerge from the interplay
-between the two.
+Readers interested in related momentum-flux and shadowing approaches to
+gravitation may consult the essay collection *Pushing Gravity: New
+Perspectives on Le Sage's Theory of Gravitation* [@edwards2002pushing],
+which surveys historical and modern treatments of such models. These
+approaches are well known to face challenges, most notably the so-called
+overheating problem associated with continuous momentum transfer, which
+in naive formulations would lead to unphysical energy deposition. The
+present model predicts that momentum transfer from the GCM is
+continuously absorbed into multiple non-thermal channels intrinsic to
+the coupled LCM–GCM system, preventing runaway heating; the specific
+mechanisms governing this energy partitioning are developed in a later
+section.
 
-Although the individual ingredients of this framework—the idea of a
-wave-supporting medium, a momentum-carrying flux, and standing waves as
-particles—each have historical precedents, their combination into a
-single interacting system is what gives 2MM its explanatory power. By
-treating the LCM and GCM as mutually shaping components of one physical
-ontology, the model brings together ideas that were previously separate
-and shows how they can work together to produce the full range of
-observed phenomena.
+## Motivation for a Two-Medium Ontology
 
-## Very Different Scales: Why Two Media Can Coexist
+If mass is understood as a localized and persistent form of energy, then
+any medium-based description must account for how energy becomes
+spatially confined and remains stable over time. In an elastic medium
+such as the LCM, the natural candidates for such localization are
+standing or quasi-standing wave configurations, since freely propagating
+waves do not retain energy in a fixed region. Empirically, however, the
+most stable examples of localized mass—such as the proton—exhibit
+remarkable robustness across environments whose LCM properties differ by
+many orders of magnitude, from stellar interiors to the near-vacuum of
+interstellar space.
 
-A key feature of 2MM is that the two media do not operate at the same
-scale. The LCM behaves like a smooth, continuous medium at the scales
-relevant to light and matter. The GCM, by contrast, is made of extremely
-small, extremely fast particles. This large separation in scale is what
-allows both media to occupy the same space without simply behaving like
-one blended substance.
-
-In the spirit of Tom Van Flandern's meta-model, the GCM particles are
-taken to be **far smaller than any length scale we can currently
-probe**, effectively much smaller than the Planck length for practical
-purposes. Their role is not to form visible structure, but to provide a
-nearly uniform, ultra-fine background flux that transfers momentum.
-Because these particles are so small and so numerous, they can stream
-through the LCM with almost no disturbance, except in regions where the
-LCM is highly compressed or organized into standing waves.
-
-The GCM flux is also assumed to move **much faster than light**. This
-idea, again inspired by TVF's arguments for a superluminal gravity
-medium, allows gravitational effects (in the shadowing sense) to
-propagate effectively instantaneously at the scales we observe, without
-conflicting with the observed behavior of light. In 2MM, light is
-limited by the properties of the LCM, while the GCM operates on a
-deeper, faster layer.
-
-This separation of scale and speed has three important consequences:
-
-- The **LCM** can carry waves and form standing-wave particles without
-  being torn apart by the GCM.
-
-- The **GCM** can provide a persistent, high-speed momentum flux that
-  responds sensitively to LCM compression and standing-wave structure.
-
-- Together, they can generate complex behaviors: gravity, fields, and
-  forces; without requiring either medium alone to "do everything."
-
-2MM builds on these scale assumptions and extends them: the GCM is not
-only a gravity carrier, but also the mechanism that confines standing
-waves, maintains particle compression, and couples to LCM deformations
-to produce all familiar interactions. The extreme smallness and high
-speed of the GCM particles are what make it possible for the two media
-to coexist and yet play very different physical roles.
+If the stability of these configurations were governed solely by the
+local state of the LCM, substantial sensitivity to environmental
+conditions would be expected, including changes in lifetime, size, or
+internal structure. The absence of such sensitivity instead points to an
+external stabilizing ingredient whose properties vary little across
+these regimes. In the Two-Medium Model, this role is played by the GCM,
+whose persistent flux provides the feedback required to maintain stable
+energy localization largely independent of local LCM conditions.
 
 # Matter as Standing Waves in the LCM
 
+:::: wrapfigure
+r0.58
+
+::: framed
+**Assumption: GCM–LCM Coupling**
+
+In the Two-Medium Model, the interaction between the GCM and the LCM
+depends on the local mode of deformation and the degree of compression.
+The GCM couples strongly to regions of sustained LCM compression and
+only weakly to shear or torsional oscillations in low-density regions.
+The direction of momentum transfer is likewise mode-dependent: in
+compressed regions, momentum is transferred predominantly from the GCM
+to the LCM, whereas in uncompressed shear and torsional motions,
+momentum transfer occurs predominantly from the LCM to the GCM.
+
+The form of this coupling is not derived from a deeper physical theory
+but is adopted as a constitutive assumption. It is motivated by the fact
+that this single set of rules yields a coherent account of phenomena by
+enabling a stable energy balance between the two media, with
+consequences that extend naturally to large-scale cosmic structure and
+evolution and provide consistent explanations of observed behavior.
+:::
+::::
+
 The LCM can deform in three independent ways: **compression**, which
-changes local density; **shear**, which displaces the medium sideways;
-and **torsion**, which twists it around a local axis. A traveling light
-wave consists solely of phase-locked **shear and torsional** motions.
-Although it carries no sustained compression component, the shear
-oscillation produces brief, localized increases in density at the points
-of maximum displacement.
+changes local density; **shear**, which displaces the medium laterally;
+and **torsion**, which twists it about a local axis. Traveling light
+consists of finite wave packets whose motion is carried by phase-locked
+shear and torsional oscillations. Although such waves do not contain a
+sustained compression component, the shear oscillation produces brief,
+localized increases in density at points of maximum displacement.
 
-A key assumption of 2MM is that the **GCM interacts strongly only with
-compression**, and only very weakly with shear or torsion. Momentary
-density spikes generated by shear are normally too small and too widely
-spaced to cast a meaningful shadow in the GCM flux, so ordinary light
-propagates freely through space.
+Under ordinary conditions, these transient density spikes are both weak
+and widely spaced. As a result, they interact only negligibly with the
+GCM flux, and traveling shear–torsion waves remain effectively
+transparent to it. The elastic response of the LCM restores the wave as
+it propagates, allowing light to travel freely through a uniformly dense
+medium without confinement or collapse.
 
-As a traveling light wave enters a region of higher ambient LCM density,
-its frequency increases while its wavelength decreases, because the wave
-cycles faster through a medium that resists displacement more strongly.
-This shortening of the shear–torsion wavelength brings the brief
-high-density crests closer together. Even though each crest is only
-momentarily denser than the background, decreasing their spacing
-increases their **cumulative** opacity to the GCM. Once this combined
-shadow becomes large enough, inward GCM pressure begins reinforcing the
-densest points of the wave.
+The behavior of light therefore depends not only on its internal
+structure, but on how that structure interacts with the surrounding
+state of the LCM. Changes in ambient LCM density alter the spatial and
+temporal arrangement of shear-induced density fluctuations within a
+traveling wave, setting the stage for qualitatively different behavior
+under appropriate conditions.
 
-A positive feedback loop follows: tighter spacing → stronger shadow →
-stronger compression → even tighter spacing. The traveling wave
-collapses into a confined standing structure, acquiring a third
-oscillation mode—a **sustained compression component**—maintained
-jointly by inward GCM flux and the elastic response of the LCM.
+## Conditions for Standing-Wave Confinement
 
-## Frequency, Compression, and the Threshold for Collapse
+When a traveling shear–torsion wave enters a region of higher ambient
+LCM density, its frequency increases and its wavelength decreases,
+reflecting faster cycling through a medium that resists displacement
+more strongly. This blueshift shortens the spacing between successive
+shear-induced density spikes. Independently of this change in spacing,
+the amplitude of the shear oscillation determines the strength of each
+transient compression peak. For a given frequency shift,
+higher-amplitude waves therefore concentrate more compression into a
+smaller spatial region than lower-amplitude waves.
 
-A key consequence of this picture is that the stability of light depends
-on its transparency to the GCM. At low frequencies, traveling
-shear–torsion waves are spatially diffuse and interact negligibly with
-the GCM flux; the elastic properties of the LCM restore their form as
-they move. But when such a wave enters a region of higher ambient LCM
-density—such as a gravitational well—it blueshifts: its frequency
-increases, its wavelength shortens, and the high-density crests of the
-shear motion pack more closely together. The wave occupies a smaller
-physical region and its energy density rises, making it a denser and
-more coherent target for the GCM.
+As crest spacing decreases and existing compression peaks are brought
+into closer proximity, the cumulative opacity of the wave packet to the
+GCM increases. Once this combined shadow becomes sufficiently strong,
+inward momentum transfer from the GCM begins to reinforce the densest
+regions of the packet. A positive feedback loop follows: increased
+spatial concentration enhances GCM coupling, which promotes further
+compression without increasing the underlying shear amplitude.
 
-This yields a simple rule:
+This leads to a practical criterion for confinement:
 
 > **Blueshifting waves progressively increase their effective
 > cross-section to the GCM flux.**
 
-Beyond a certain threshold, the wave is no longer transparent. The GCM
-begins scattering strongly enough to cast a genuine shadow. The
-resulting inward flux compresses the surrounding LCM, which tightens the
-wave further. A positive feedback loop forms: shorter wavelength →
-stronger shadow → stronger compression → still shorter wavelength. Once
-the compression passes a critical limit, the traveling wave can no
-longer sustain its extended structure, and collapse begins.
-
-Regions of high ambient LCM density—near massive bodies or within
-planetary interiors—naturally drive this process by raising local wave
-frequency and GCM opacity. This is why electron–positron pair
-production is favored in such environments.
-
-In this view, pair production is not a special process but the natural
-outcome of a traveling shear–torsion wave becoming sufficiently
-compact—and therefore sufficiently opaque to the GCM—that its only
-stable configuration is a pair of confined standing waves with
-complementary phase structures.
+Beyond a critical threshold, the wave is no longer transparent to the
+GCM. Scattering becomes strong enough to produce sustained inward
+pressure, compressing the surrounding LCM and increasing spatial
+localization. Once compression passes a limiting value, the traveling
+wave can no longer maintain an extended configuration and transitions
+into confined standing structures, each acquiring a sustained
+compression component that is absent during free propagation.
 
 ## Criteria of Pair Production
 
 Pair production already tells us that matter does not emerge in
-isolation: when a high-energy light wave collapses, it produces two
-particles with exactly the same energy but opposite character. Whatever
-structure underlies these particles must therefore come in complementary
-forms that cannot be rotated into each other. In other words, the
-particles must represent two distinct chiral configurations of the same
-underlying standing wave. This requirement is not optional—it is built
-into the observed symmetries of pair creation. A viable model must
-therefore identify a single physical template that naturally admits two
-non-superimposable opposites with identical energy content but reversed
-dynamical tendencies. The phase structure of the three-mode standing
-wave provides the simplest route to this kind of duality.
+isolation: when a high-energy light wave becomes confined, it produces
+two particles with exactly the same energy but opposite character.
+Whatever structure underlies these particles must therefore come in
+complementary forms that cannot be rotated into each other. In other
+words, the particles must represent two distinct chiral configurations
+of the same underlying standing wave. This requirement is not
+optional—it is built into the observed symmetries of pair creation. A
+viable model must therefore identify a single physical template that
+naturally admits two non-superimposable opposites with identical energy
+content but reversed dynamical tendencies. The phase structure of the
+three-mode standing wave provides the simplest route to this kind of
+duality.
 
 In pair production, the collapsing light wave brings only two kinds of
 motion with it—shear and torsion. These are intrinsic to light itself,
@@ -435,16 +409,16 @@ nonlinear medium. In the LCM, regions of higher compression change the
 local wave speed, so the shear motion does not simply ride on top of the
 compression cycle—it is redirected and amplified differently depending
 on their relative phase. This kind of nonlinear coupling is well known
-in many physical systems: in acoustics, fluid membranes, elastic solids,
-and microscale swimmers ("squirmers"), a ±90° phase shift between
-expansion and shear produces opposite net flows even when the underlying
-motions are identical in energy. By analogy, a confined standing wave in
-the LCM can naturally adopt two stable phase-locked configurations: one
-where compression and shear reinforce outward motion of the surrounding
-medium, and another where they reinforce inward draw. These opposite
-dynamical tendencies are a familiar outcome of nonlinear wave–boundary
-interactions and provide a simple physical rationale for the
-electron–positron push/pull pair.
+in many physical systems: in acoustics, fluid membranes, and elastic
+solids [@10.1098/rstl.1884.0002; @Riley2001; @LandauElasticity], a ±90°
+phase shift between expansion and shear produces opposite net flows even
+when the underlying motions are identical in energy. By analogy, a
+confined standing wave in the LCM can naturally adopt two stable
+phase-locked configurations: one where compression and shear reinforce
+outward motion of the surrounding medium, and another where they
+reinforce inward draw. These opposite dynamical tendencies are a
+familiar outcome of nonlinear wave–boundary interactions and provide a
+simple physical rationale for the electron–positron push/pull pair.
 
 The torsional component of the wave does not participate in the
 push–pull asymmetry, but it plays a crucial geometric role in shaping
@@ -877,7 +851,7 @@ of current. Ferromagnetism, then, is simply the **static alignment** of
 many intrinsic dipoles, whereas current magnetism is the **dynamic
 alignment** produced by motion.
 
-### Helicity as a Natural Outcome of Wave Collapse
+### Helicity as a Natural Outcome of Wave Confinement
 
 It is worth stepping back to recall why the helical standing-wave
 structure appeared in the first place. It was not assumed—it emerged
@@ -1001,7 +975,7 @@ addition of new matter in the deepest regions of massive bodies.
 
 A natural question arises here: **are planetary interiors really dense
 enough to push LCM compression toward the thresholds required for wave
-collapse and matter creation?** This section only outlines the
+confinement and matter creation?** This section only outlines the
 conceptual mechanism. The next section, [Earth and the Solar
 System](#earth-and-the-solar-system), examines the planetary context
 more closely.
@@ -1030,9 +1004,9 @@ striking fact that the model approaches the possibility of planetary
 growth from a completely different direction. Rather than beginning with
 geological interpretation, 2MM arrives at the idea through the internal
 physics of the LCM. Under sustained high compression, the model predicts
-that LCM-wave collapse and proton formation act as a continuous energy
-sink in planetary interiors, naturally introducing slow mass increase
-over geological timescales.
+that LCM-wave confinement and proton formation act as a continuous
+energy sink in planetary interiors, naturally introducing slow mass
+increase over geological timescales.
 
 One of the long-standing obstacles for expansion hypotheses has been the
 absence of a physically grounded mechanism capable of driving sustained
@@ -1089,7 +1063,7 @@ between nuclei. Though brief, these moments produce intense local LCM
 compression far beyond the ambient level. What looks like a soft
 interior when averaged hides countless microregions where the LCM is
 stressed to its limits. It is in these transient events that the model's
-distinctive physics—LCM-wave collapse, pair creation, proton
+distinctive physics—LCM-wave confinement, pair creation, proton
 formation—can occur at meaningful rates.
 
 ### Lag and lead modes: structure shaped by density
@@ -1204,7 +1178,7 @@ compositions are frozen relics from four and a half billion years ago.
 
 The 2MM picture is more dynamic and in many ways more organic. Matter is
 not fixed at the moment of planetary birth; it is continuously produced
-in the interiors of heavy bodies through LCM-wave collapse and proton
+in the interiors of heavy bodies through LCM-wave confinement and proton
 formation. And critically, the matter most easily synthesized—because
 it is the simplest condensed lag-mode structure—is **hydrogen**. In
 2MM, hydrogen is not merely a leftover from the solar nebula; it is the
@@ -1255,7 +1229,7 @@ place in this narrative. Its extreme activity is usually ascribed purely
 to tidal flexing. But under 2MM, Io occupies the deepest region of
 Jupiter's compressed LCM environment. Its interior is perpetually
 stirred by both tidal motions and a highly modulated GCM flux. Every
-compression cycle strengthens the probability of LCM-wave collapse
+compression cycle strengthens the probability of LCM-wave confinement
 events; every temperature rise increases the frequency of nuclear
 close-approaches. The result is a world in which volcanism is not merely
 an effect of tides but a structural outcome of living within Jupiter's
@@ -1976,12 +1950,11 @@ on its own timescale. It is not constrained by the wave-propagation
 speed of the LCM (the speed of light), nor by the relativistic limits
 that emerge from LCM-based processes.
 
-This idea aligns with Tom Van Flandern's careful analysis in **"[The
-Speed of Gravity: What the Experiments
-Say](https://www.metaresearch.org/cosmology/cosmology2/the-speed-of-gravity-what-the-experiments-say)"
-(1998)**, where he reviewed timing delays, planetary motions, and signal
-propagation. His conclusion was that gravity-like influences must
-propagate extraordinarily fast:
+This idea aligns with Tom Van Flandern's careful analysis in **The Speed
+of Gravity: What the Experiments Say**, where he reviewed timing delays,
+planetary motions, and signal propagation
+[@MetaResearchSpeedOfGravity1998]. His conclusion was that gravity-like
+influences must propagate extraordinarily fast:
 
 > **Gravity must exceed 2 x 10<sup>1</sup><sup>0</sup> c**, at least twenty billion
 > times the speed of light.
@@ -2190,15 +2163,16 @@ Halton Arp's empirical studies of redshift anomalies suggested that
 large-scale cosmology might still contain unaddressed puzzles. Tom Van
 Flandern's "Meta-Model" introduced the idea of multiple interacting
 media, a conceptual seed that eventually grew into the Two-Medium
-framework presented here. Dr. Chantal Roth's modeling of an elastic
-aether encouraged me to consider that empty space could contain more
-structure than I had previously assumed. The collection of papers in
-Pushing Gravity: New Perspectives on Le Sage's Theory of Gravitation,
-edited and contributed to by researcher Matthew R. Edwards, introduced
-me to Le Sage-type gravity models and the challenges they
-entail—particularly the overheating problem. Matthew himself first
-introduced me to Expansion Tectonics decades ago, when I was completing
-my computer science major at the University of Toronto.
+framework presented here [@MetaResearchStructureOfMatter2003]. Dr.
+Chantal Roth's modeling of an elastic aether encouraged me to consider
+that empty space could contain more structure than I had previously
+assumed. The collection of papers in Pushing Gravity: New Perspectives
+on Le Sage's Theory of Gravitation, edited and contributed to by
+researcher Matthew R. Edwards, introduced me to Le Sage-type gravity
+models and the challenges they entail—particularly the overheating
+problem. Matthew himself first introduced me to Expansion Tectonics
+decades ago, when I was completing my computer science major at the
+University of Toronto.
 
 While these works are not mainstream, they demonstrated that alternative
 ontologies can still be logically organized and empirically motivated.
