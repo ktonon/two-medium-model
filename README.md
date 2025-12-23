@@ -54,8 +54,8 @@ formalization and testing.
     Alignment](#magnetic-forces-torsion-motion-and-collective-alignment)
   - [Nuclear Structure: Why Only Proton–Neutron Pairs
     Bind](#nuclear-structure-why-only-protonneutron-pairs-bind)
-  - [Gravity: Long-Range GCM Shadowing and the Resolution of the Heat
-    Crisis](#gravity-long-range-gcm-shadowing-and-the-resolution-of-the-heat-crisis)
+  - [Gravity: Long-Range GCM Shadowing and the Energy Balance
+    Problem](#gravity-long-range-gcm-shadowing-and-the-energy-balance-problem)
 - [Earth and the Solar
   System](#earth-and-the-solar-system)
   - [A Coherent Interior: How 2MM Reinterprets the Earth From the Inside
@@ -258,14 +258,14 @@ Readers interested in related momentum-flux and shadowing approaches to
 gravitation may consult the essay collection *Pushing Gravity: New
 Perspectives on Le Sage's Theory of Gravitation* [@edwards2002pushing],
 which surveys historical and modern treatments of such models. These
-approaches are well known to face challenges, most notably the so-called
+approaches are well known to face challenges, most notably the
 overheating problem associated with continuous momentum transfer, which
-in naive formulations would lead to unphysical energy deposition. The
-present model predicts that momentum transfer from the GCM is
-continuously absorbed into multiple non-thermal channels intrinsic to
-the coupled LCM–GCM system, preventing runaway heating; the specific
-mechanisms governing this energy partitioning are developed in a later
-section.
+in naive formulations would lead to unphysical energy deposition. While
+the present framework clarifies that not all momentum transfer must
+result in immediate heating, the broader overheating issue is not
+thereby resolved. The model identifies rest-mass formation as an
+additional irreversible channel, but a complete accounting of energy
+balance remains an open challenge to be addressed in future work.
 
 ## Motivation for a Two-Medium Ontology
 
@@ -932,60 +932,45 @@ balance. All nuclear structure—from deuterium to the heavy
 elements—emerges from combinations of these paired interactions and
 their geometric constraints.
 
-## Gravity: Long-Range GCM Shadowing and the Resolution of the Heat Crisis
+## Gravity: Long-Range GCM Shadowing and the Energy Balance Problem
 
-In 2MM, gravity arises from **GCM shadowing**. Every standing
-wave—proton, neutron, or electron—interacts inelastically with the
-background GCM flux, reducing its intensity in the region directly
-behind it. When two masses face one another, each sits inside the
-other's reduced-flux region and therefore receives slightly more inward
-momentum from the opposite side. The imbalance produces a **net inward
-push** that we interpret as gravitational attraction. On macroscopic
-scales, what we call "gravity" is simply the accumulated effect of
-countless such shadow interactions, structured by the LCM fields of the
-matter involved.
+In this framework, gravity arises from long-range shadowing of the
+Gravity-Carrying Medium (GCM). Localized concentrations of matter
+partially obstruct the background GCM flux, producing regions of reduced
+momentum intensity. When two masses are near one another, each resides
+within the other's reduced-flux region and therefore experiences a
+slight imbalance in momentum transfer. The resulting net inward push is
+interpreted as gravitational attraction. On macroscopic scales, gravity
+reflects the cumulative effect of such shadowing interactions,
+structured by the configuration of the surrounding Light-Carrying Medium
+(LCM).
 
-The classical LeSage picture runs into trouble because it treats matter
-as a rigid target being bombarded by a high-speed background, which
-would quickly drive everything to unphysical temperatures. In 2MM,
-particles are not solid absorbers; they are **standing waves** in the
-LCM, confined by a balance between outward LCM elasticity and inward GCM
-momentum. The GCM flux continuously supplies energy and momentum to
-these structures. A significant fraction of that input is spent simply
-on maintaining the compressed standing-wave configuration, while the
-rest can appear as internal excitations or as kinetic energy of the
-particle as a whole. In this sense, GCM interactions do not contribute
-to kinetic particle energy (i.e., heating) to the extent one would
-expect from their momentum transfer. The standing-wave structure
-provides a robust channel for absorbing and redistributing energy rather
-than allowing it to accumulate uncontrollably in purely translational
-motion.
+A longstanding difficulty for momentum-flux models of gravitation is the
+so-called overheating problem. If matter continuously intercepts a
+high-speed background flux, then the associated momentum transfer would
+be expected to deposit large amounts of energy, rapidly driving physical
+systems to unobserved temperatures. In naive formulations of Le
+Sage–type theories, this objection is severe, as no clear mechanism
+exists to prevent gravitational interactions from manifesting primarily
+as heating rather than as a stable long-range force.
 
-At planetary scales, GCM interactions are therefore still expected to
-contribute *some* but not *all* of their energy to internal heating. In
-dense interiors, where LCM compression is high, wave collapse and
-lag-mode collapse can occur, forming new protons and electrons. The
-creation of new standing waves **consumes energy**, converting part of
-the gravitational power input into rest mass instead of heat. Over
-geological timescales, this matter-creation channel acts as an
-additional energy sink. 2MM does not claim that GCM-induced heating
-disappears; rather, it proposes that some of that energy is continually
-diverted into building and maintaining structure, including the gradual
-addition of new matter in the deepest regions of massive bodies.
+Any theory based on gravitational shadowing must therefore confront this
+issue directly. The present framework does not claim an immediate or
+complete resolution of the overheating problem. However, it reframes the
+question by identifying additional irreversible channels beyond kinetic
+energy and thermalization. In particular, it allows for the conversion
+of gravitationally supplied energy into new rest mass under appropriate
+conditions, providing a potential sink that is absent from classical
+formulations. Whether this channel is sufficient, and how its
+contribution scales with object size, composition, and environment,
+remains an open question that requires further quantitative development.
 
-A natural question arises here: **are planetary interiors really dense
+A natural question arises here: are planetary interiors really dense
 enough to push LCM compression toward the thresholds required for wave
-confinement and matter creation?** This section only outlines the
+confinement and matter creation? This section only outlines the
 conceptual mechanism. The next section, [Earth and the Solar
 System](#earth-and-the-solar-system), examines the planetary context
 more closely.
-
-To conclude, gravity in 2MM is not a separate fundamental force but the
-**macroscopic expression of GCM shadowing**, always shaped by the LCM
-structures of matter. The heat crisis is avoided because both particles
-and planets have built-in channels for GCM momentum to become
-**organized structure**—stable standing waves and new matter—rather
-than accumulating as unbounded thermal energy.
 
 # Earth and the Solar System
 
@@ -999,14 +984,17 @@ radii. A full discussion of the evidence and counter-arguments is beyond
 the scope of this paper; readers interested in the broader debate are
 encouraged to consult those primary works.
 
-What matters for 2MM is not the historical argument itself, but the
-striking fact that the model approaches the possibility of planetary
-growth from a completely different direction. Rather than beginning with
-geological interpretation, 2MM arrives at the idea through the internal
-physics of the LCM. Under sustained high compression, the model predicts
-that LCM-wave confinement and proton formation act as a continuous
-energy sink in planetary interiors, naturally introducing slow mass
-increase over geological timescales.
+What matters for the present framework is not the historical argument
+itself, but the striking fact that it approaches the possibility of
+planetary growth from a completely different direction. Rather than
+beginning with geological interpretation, the model arrives at the
+question through the internal physics of the LCM–GCM interaction. Under
+conditions of sustained high compression in planetary interiors, the
+framework allows for ongoing proton formation as an irreversible channel
+through which energy can be converted into rest mass. This process, if
+present, would introduce slow mass increase over geological timescales,
+constrained by the available energy flux and local conditions rather
+than by surface geology alone.
 
 One of the long-standing obstacles for expansion hypotheses has been the
 absence of a physically grounded mechanism capable of driving sustained
