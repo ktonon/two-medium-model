@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "check": "scripts/check.sh",
+    "compile": "scripts/compile.sh",
+    "build": "scripts/build.sh",
+    "test": "npm run check"
+  }
+}

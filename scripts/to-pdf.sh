@@ -2,9 +2,15 @@
 
 set -e
 
-cd src
-pdflatex pdf
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+# Compile .erd sources to body.tex
+bash "$SCRIPT_DIR/compile.sh"
+
+# Build PDF from template
+cd "$SCRIPT_DIR/../src"
+pdflatex templates/pdf
 biber pdf
-pdflatex pdf
-pdflatex pdf
+pdflatex templates/pdf
+pdflatex templates/pdf
 mv pdf.pdf two-medium-model.pdf

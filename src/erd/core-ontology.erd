@@ -1,0 +1,29 @@
+# Core Ontology: Two Interacting Media
+
+The Two-Medium Model begins with a simple idea: the physical world arises from the interaction of two different substrates. One medium carries waves and can form standing-wave particles. The other supplies a fast-moving background flux that shapes how those waves behave and how particles influence one another. Most of the complexity of physics, in this picture, comes not from many different forces, but from the way these two media continually feed back on each other.
+
+## The LCM: A Medium for Waves and Matter
+
+The Light-Carrying Medium (LCM) is a pervasive elastic substance that supports compression, shear, and torsional distortions. Light corresponds to finite traveling wave packets with phase-locked shear and torsional oscillations, which propagate along well-defined trajectories in a uniformly dense LCM rather than radiating isotropically.
+
+What makes the LCM especially important is how it stores and redistributes energy. It can hold energy as density gradients, torsional motion, or shear patterns, and, under appropriate coupling conditions, traveling wave packets can reorganize into localized standing structures. These standing waves correspond to what we recognize as matter. Because the LCM deforms around these structures, it shapes how the GCM flux interacts with them, indirectly setting the stage for all familiar forces.
+
+The LCM does not independently generate force fields. Instead, the deformations it carries---compression patterns, twists, and gradients---provide half of the mechanism that later becomes electrostatic, magnetic, and nuclear behavior. In this model, fields are simply the ways compressed or twisted regions of the LCM guide the flow of the GCM.
+
+The LCM is conceptually related to earlier elastic or mechanical aether models, which likewise treated space as a deformable medium capable of supporting wave motion and structure formation \cite{MacCullagh1839,KelvinVortex1867,QuaternionQM2}. Such models typically posit a single underlying medium intended to account for their target phenomena. The Two-Medium Model departs from this tradition by asserting that a single medium is insufficient to account for the universal stability of matter and forces; instead, these arise only through interaction between two distinct components, with neither medium independently adequate.
+
+## The GCM: A Fast Flux That Generates Forces
+
+The Gravity-Carrying Medium (GCM) is a fundamentally different substrate from the LCM. It consists of an ultra-fast, high-flux stream of sub-Planckian corpuscles moving through space. When these corpuscles pass through matter, a small fraction undergo weak, slightly inelastic interactions, producing localized reductions—or "shadows"—in the flux. These shadows manifest macroscopically as the force we call gravity.
+
+The strength of a shadow depends on the local state of the LCM. Regions of higher LCM compression interact more strongly with the GCM flux, resulting in greater momentum transfer to the medium. This interaction tends to reinforce existing compression, establishing a feedback that promotes further compression until an equilibrium configuration is reached. In this way, the GCM does not merely generate gravity but participates more broadly in shaping physical interactions.
+
+Crucially, the GCM and LCM are interdependent. The GCM acts on the LCM primarily through compressive momentum transfer, while the LCM's elastic response determines how the GCM flux penetrates, scatters, or is redirected within a region. Within this ontology, the GCM provides the momentum-transfer component of interactions, while the LCM provides the geometric and structural response. What are conventionally described as forces emerge from their coupled behavior.
+
+Readers interested in related momentum-flux and shadowing approaches to gravitation may consult the essay collection \textit{Pushing Gravity: New Perspectives on Le Sage's Theory of Gravitation} \cite{edwards2002pushing}, which surveys historical and modern treatments of such models. These approaches are well known to face challenges, most notably the overheating problem associated with continuous momentum transfer, which in naive formulations would lead to unphysical energy deposition. While the present framework clarifies that not all momentum transfer must result in immediate heating, the broader overheating issue is not thereby resolved. The model identifies rest-mass formation as an additional irreversible channel, but a complete accounting of energy balance remains an open challenge to be addressed in future work.
+
+## Motivation for a Two-Medium Ontology
+
+If mass is understood as a localized and persistent form of energy, then any medium-based description must account for how energy becomes spatially confined and remains stable over time. In an elastic medium such as the LCM, the natural candidates for such localization are standing or quasi-standing wave configurations, since freely propagating waves do not retain energy in a fixed region. Empirically, however, the most stable examples of localized mass—such as the proton—exhibit remarkable robustness across environments whose LCM properties differ by many orders of magnitude, from stellar interiors to the near-vacuum of interstellar space.
+
+If the stability of these configurations were governed solely by the local state of the LCM, substantial sensitivity to environmental conditions would be expected, including changes in lifetime, size, or internal structure. The absence of such sensitivity instead points to an external stabilizing ingredient whose properties vary little across these regimes. In the Two-Medium Model, this role is played by the GCM, whose persistent flux provides the feedback required to maintain stable energy localization largely independent of local LCM conditions.
