@@ -55,7 +55,7 @@ The lag-mode (positron-like) and lead-mode (electron-like) behave
 differently in strong LCM gradients due to their internal phase
 relationships. Lag-mode structures, whose compressive oscillation lags
 behind the torsion, are stabilized in dense LCM environments---they
-``lock in'' to the high-compression background. Lead-mode structures are
+"lock in" to the high-compression background. Lead-mode structures are
 the opposite: their compressive phase leads the torsional motion, and
 this configuration naturally tends to move away from strongly compressed
 regions.
@@ -269,7 +269,7 @@ Earth, by contrast, eventually broke through its Venus-like stage. Its
 most ancient crust---thick, buoyant, and granitic---forms the
 continents. But surrounding that is a very different crust: thin, mafic,
 and universally young. This two-layered architecture tells a story.
-Before \textasciitilde200 million years ago, Earth may have resembled
+Before ~200 million years ago, Earth may have resembled
 Venus structurally, with a unified supercontinent draped across a
 smaller globe and no global rift network. Matter created within the
 planet, whether from thermal sources or the deeper processes described
@@ -354,8 +354,8 @@ relics of formation beyond the frost line, may reflect the slow
 accumulation of H$_2$O generated inside them through the same
 hydrogen--oxygen chemistry that shapes Earth.
 
-Even the location of these moons, far outside the classical ``goldilocks
-zone,'' ceases to be a constraint. Surface sunlight is irrelevant. What
+Even the location of these moons, far outside the classical "goldilocks
+zone," ceases to be a constraint. Surface sunlight is irrelevant. What
 matters is internal compression, LCM gradients, and the ongoing energy
 input from the gravitational medium. If a moon can maintain a dense,
 conductive interior---either by size, composition, or proximity to a

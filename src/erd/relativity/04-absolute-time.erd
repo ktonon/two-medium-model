@@ -14,7 +14,7 @@ This idea aligns with Tom Van Flandern's careful analysis in
 timing delays, planetary motions, and signal propagation cite`MetaResearchSpeedOfGravity1998`. His conclusion
 was that gravity-like influences must propagate extraordinarily fast:
 
-> **Gravity must exceed 2 x 10\(^1\)\(^0\) c**, at least twenty billion times the speed of light.
+> **Gravity must exceed 2 x 10 tex`^{10}` c**, at least twenty billion times the speed of light.
 
 In the context of 2MM, this is exactly the behavior expected of the GCM
 flux. It moves on an inaccessible absolute timebase and is free to

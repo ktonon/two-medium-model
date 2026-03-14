@@ -27,7 +27,7 @@ enhances this by forming a deeper, more coherent shadow around the pair,
 increasing the inward momentum transfer and gently pulling them
 together.
 
-In 2MM, electrostatic forces are therefore not ``generated'' by the LCM
+In 2MM, electrostatic forces are therefore not "generated" by the LCM
 or the GCM in isolation. They arise from the **balance between LCM deformation and GCM pressure**, with compression-field geometry providing
 the dominant mechanism and the GCM flux supplying the continual momentum
 exchange that maintains the equilibrium.

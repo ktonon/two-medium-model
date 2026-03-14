@@ -1,6 +1,6 @@
 ## The Origin and Motivation for LCM Compression Fields
 
-In the Two-Medium Model, every localized standing wave is surrounded by a region of elevated LCM compression. This ``compression field'' sets the particle's effective size and determines how it interacts with both media. The inward GCM flux created by the particle's shadow provides the baseline confinement, but the detailed shape of the compression field depends on how the standing wave's internal motions couple to the LCM itself.
+In the Two-Medium Model, every localized standing wave is surrounded by a region of elevated LCM compression. This "compression field" sets the particle's effective size and determines how it interacts with both media. The inward GCM flux created by the particle's shadow provides the baseline confinement, but the detailed shape of the compression field depends on how the standing wave's internal motions couple to the LCM itself.
 
 A confined particle carries three oscillatory components: shear and torsion inherited from the original light wave, and a compression mode induced during collapse by the GCM–LCM interaction. The shear and torsion remain phase-locked, preserving the helical geometry of the structure. What distinguishes the two particle types formed in pair production is how the compression mode locks in phase with the inherited shear motion. A ±90° phase offset between these motions produces two opposite dynamical states:
 
