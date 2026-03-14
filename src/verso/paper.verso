@@ -14,15 +14,15 @@
 
 :toc
 
-:include introduction.erd
-:include predictions.erd
-:include core-ontology.erd
-:include matter/index.erd
-:include forces/index.erd
-:include solar-system/index.erd
-:include cosmology/index.erd
-:include relativity/index.erd
-:include qm/index.erd
-:include acknowledgements.erd
+:include introduction.verso
+:include predictions.verso
+:include core-ontology.verso
+:include matter/index.verso
+:include forces/index.verso
+:include solar-system/index.verso
+:include cosmology/index.verso
+:include relativity/index.verso
+:include qm/index.verso
+:include acknowledgements.verso
 
 :bibliography references.bib

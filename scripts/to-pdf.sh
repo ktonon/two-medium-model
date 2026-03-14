@@ -4,7 +4,7 @@ set -e
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
-# Compile .erd sources to paper.tex
+# Compile .verso sources to paper.tex
 bash "$SCRIPT_DIR/compile.sh"
 
 # Build PDF
