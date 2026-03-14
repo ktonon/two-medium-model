@@ -3,69 +3,53 @@
 The electron and positron arise when a high-frequency LCM wave becomes
 opaque to the GCM and collapses into two helical standing-wave modes.
 But under certain extreme conditions---particularly in regions where the
-\textbf{ambient LCM density is already high}---the lag-mode structure
+**ambient LCM density is already high**---the lag-mode structure
 behaves in a qualitatively different way. It does not merely stabilize
-as a positron. Instead, it undergoes a \textbf{secondary collapse} into
+as a positron. Instead, it undergoes a **secondary collapse** into
 a much more compact standing wave: the proton.
 
 The key lies in how the two chiral modes respond to rising LCM
 compression.
 
-The \textbf{lead-mode} (electron-like) standing wave resists
+The **lead-mode** (electron-like) standing wave resists
 compression. Its phase alignment tends to push outward, thickening the
 surrounding LCM compression field in a way that counteracts further
 inward collapse. Even in dense environments, the lead-mode maintains its
 characteristic size and structure.
 
-The \textbf{lag-mode}, however, responds in the opposite way. Its phase
+The **lag-mode**, however, responds in the opposite way. Its phase
 alignment draws LCM inward, amplifying the local compression rather than
 resisting it. Under ordinary surface-of-Earth conditions, this inward
 pull is far too weak to overcome the ambient LCM pressure; the
 surrounding medium simply ``pushes back,'' stabilizing the lag-mode as
 the familiar positron.
 
-But in environments where the LCM is \textbf{already highly compressed}---deep inside planets, in dense plasma regions, or wherever
+But in environments where the LCM is **already highly compressed**---deep inside planets, in dense plasma regions, or wherever
 steep LCM gradients exist---the lag-mode's inward pull becomes
-effective. The ambient medium no longer resists; it \emph{assists} the
+effective. The ambient medium no longer resists; it *assists* the
 contraction. The standing wave therefore begins to tighten, its helical
 radius shrinks, and its GCM opacity rises dramatically.
 
 A runaway process begins:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  \textbf{Contraction increases the GCM shadow.}
-\item
-  \textbf{A stronger shadow increases inward GCM pressure.}
-\item
-  \textbf{Inward pressure tightens the standing wave even further.}
-\end{enumerate}
+1. **Contraction increases the GCM shadow.**
+2. **A stronger shadow increases inward GCM pressure.**
+3. **Inward pressure tightens the standing wave even further.**
 
 The structure collapses into a new equilibrium---one that is far more
 compact, with vastly greater energy density, and a much deeper GCM
-shadow. This new configuration is the \textbf{proton}.
+shadow. This new configuration is the **proton**.
 
 The proton therefore is not just a ``heavier version'' of the positron.
-It is the \textbf{collapsed-state form} of the lag-mode standing wave
+It is the **collapsed-state form** of the lag-mode standing wave
 under conditions where external LCM compression allows the inward phase
 dynamics to succeed. Its key properties follow naturally:
 
-\begin{itemize}
-\tightlist
-\item
-  a much smaller radius
-\item
-  a deeper and more intense LCM compression field
-\item
-  vastly higher GCM opacity
-\item
-  far greater stability
-\item
-  the same positive charge as the positron (same chirality, different
-  scale)
-\end{itemize}
+- a much smaller radius
+- a deeper and more intense LCM compression field
+- vastly higher GCM opacity
+- far greater stability
+- the same positive charge as the positron (same chirality, different scale)
 
 This explains why protons are ubiquitous in environments where pair
 production is possible but LCM density is high, such as inside planetary

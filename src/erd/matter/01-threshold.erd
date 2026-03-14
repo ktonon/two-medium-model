@@ -5,8 +5,6 @@ When a traveling shear–torsion wave enters a region of higher ambient LCM dens
 As crest spacing decreases and existing compression peaks are brought into closer proximity, the cumulative opacity of the wave packet to the GCM increases. Once this combined shadow becomes sufficiently strong, inward momentum transfer from the GCM begins to reinforce the densest regions of the packet. A positive feedback loop follows: increased spatial concentration enhances GCM coupling, which promotes further compression without increasing the underlying shear amplitude.
 
 This leads to a practical criterion for confinement:
-\begin{quote}
-\textbf{Blueshifting waves progressively increase their effective cross-section to the GCM flux.}
-\end{quote}
+> **Blueshifting waves progressively increase their effective cross-section to the GCM flux.**
 
 Beyond a critical threshold, the wave is no longer transparent to the GCM. Scattering becomes strong enough to produce sustained inward pressure, compressing the surrounding LCM and increasing spatial localization. Once compression passes a limiting value, the traveling wave can no longer maintain an extended configuration and transitions into confined standing structures, each acquiring a sustained compression component that is absent during free propagation.

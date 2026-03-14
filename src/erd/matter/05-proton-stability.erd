@@ -10,55 +10,32 @@ between the two media.
 
 During collapse, the proton develops:
 
-\begin{itemize}
-\tightlist
-\item
-  \textbf{extremely high internal energy density},
-\item
-  a \textbf{very strong GCM shadow}, and
-\item
-  a \textbf{steep LCM compression field} tightly wrapped around the
-  standing wave.
-\end{itemize}
+- **extremely high internal energy density**,
+- a **very strong GCM shadow**, and
+- a **steep LCM compression field** tightly wrapped around the standing wave.
 
 These features do not depend on the external LCM environment. They arise
-from the proton's \textbf{own geometry and GCM opacity}, which together
+from the proton's **own geometry and GCM opacity**, which together
 create a self-reinforcing pocket of compressed LCM. Even if the proton
 moves from a dense LCM environment (where it formed) into a low-density
-region (such as surface matter or vacuum), it does \textbf{not}
+region (such as surface matter or vacuum), it does **not**
 decompress.
 
 The reason is that the GCM flux is pervasive and uninterrupted
 everywhere:
 
-\begin{itemize}
-\tightlist
-\item
-  The proton's concentrated energy produces a large GCM shadow.
-\item
-  That shadow produces continuous inward momentum flux.
-\item
-  The inward flux maintains the LCM compression well around the proton.
-\item
-  The compression well locks the standing wave into its compact
-  geometry.
-\end{itemize}
+- The proton's concentrated energy produces a large GCM shadow.
+- That shadow produces continuous inward momentum flux.
+- The inward flux maintains the LCM compression well around the proton.
+- The compression well locks the standing wave into its compact geometry.
 
 Nothing about this mechanism relies on high ambient LCM density. Once
 established, the proton's internal feedback loop keeps it stable:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\tightlist
-\item
-  \textbf{High energy density → high GCM opacity}
-\item
-  \textbf{High opacity → strong inward GCM momentum flux}
-\item
-  \textbf{Inward flux → tightly compressed LCM}
-\item
-  \textbf{Tight compression → stability of the standing-wave geometry}
-\end{enumerate}
+1. **High energy density → high GCM opacity**
+2. **High opacity → strong inward GCM momentum flux**
+3. **Inward flux → tightly compressed LCM**
+4. **Tight compression → stability of the standing-wave geometry**
 
 To appreciate how dramatic this stability is, compare the proton's
 internal density to ordinary matter. A typical rock has a density of
@@ -67,14 +44,14 @@ proton is roughly 10\(^1\)\(^7\) kg/m\(^3\) --- fourteen orders of magnitude
 higher. Even white dwarf material (\textasciitilde10\(^9\) kg/m\(^3\)) and neutron
 star crusts (\textasciitilde10\(^1\)\(^4\) kg/m\(^3\)) fall far below this level. From
 the proton's perspective, every macroscopic environment --- rock, air,
-vacuum --- is effectively \emph{dilute}.
+vacuum --- is effectively *dilute*.
 
-This also clarifies why gravity \emph{seems} negligible at atomic
+This also clarifies why gravity *seems* negligible at atomic
 scales. On macroscopic scales, a proton's total mass is tiny, so its
 gravitational pull appears insignificant. But what matters in 2MM is not
-total mass---it is \textbf{energy density}. The proton concentrates a
+total mass---it is **energy density**. The proton concentrates a
 staggering amount of energy into an extremely small region, creating an
-\textbf{intensely focused GCM shadow} right around itself. This produces
+**intensely focused GCM shadow** right around itself. This produces
 a strong local inward momentum flux, even though the long-range
 gravitational effect is small. The proton's own geometry makes this
 inward flux sharply confined and exceptionally strong. This locally

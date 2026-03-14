@@ -2,13 +2,13 @@
 
 Electrostatic behavior emerges naturally once particles are understood
 as localized distortions in the LCM. Each charged particle produces a
-characteristic \textbf{LCM compression field}, shaped by the geometry of
+characteristic **LCM compression field**, shaped by the geometry of
 its standing-wave mode and maintained by its GCM shadow. When two such
 fields approach one another, they must fit together in a way that
 preserves equilibrium in both media. The ease or difficulty of this fit
 determines whether the interaction is repulsive or attractive.
 
-\textbf{Like charges repel} because their compression fields have
+**Like charges repel** because their compression fields have
 similar shapes and orientations. Bringing them together requires forcing
 two incompatible LCM geometries to overlap, which creates steep
 gradients and increases local compression. The LCM responds by pushing
@@ -19,7 +19,7 @@ bringing like charges together does not create a deeper combined shadow.
 The GCM contributes insufficient inward pull, leaving the LCM's geometric
 incompatibility to dominate and drive the particles apart.
 
-\textbf{Opposite charges attract} for the complementary reason. Their
+**Opposite charges attract** for the complementary reason. Their
 compression fields have opposite orientations, allowing them to
 interlock smoothly. The combined field has lower overall distortion than
 either field alone, creating a more stable configuration. The GCM flux
@@ -28,11 +28,11 @@ increasing the inward momentum transfer and gently pulling them
 together.
 
 In 2MM, electrostatic forces are therefore not ``generated'' by the LCM
-or the GCM in isolation. They arise from the \textbf{balance between LCM deformation and GCM pressure}, with compression-field geometry providing
+or the GCM in isolation. They arise from the **balance between LCM deformation and GCM pressure**, with compression-field geometry providing
 the dominant mechanism and the GCM flux supplying the continual momentum
 exchange that maintains the equilibrium.
 
-It is also worth noting that, at these scales, the \textbf{local gravitational attraction} between two extremely dense standing
+It is also worth noting that, at these scales, the **local gravitational attraction** between two extremely dense standing
 waves---though small on macroscopic scales---may be more significant
 than traditionally assumed. The relative contribution of this
 short-range GCM-driven attraction remains an open question and will

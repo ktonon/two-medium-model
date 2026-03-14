@@ -2,7 +2,7 @@
 \vspace{-\baselineskip}
 \begin{framed}
 \small
-\noindent\textbf{Assumption: GCM--LCM Coupling}
+\noindent**Assumption: GCM--LCM Coupling**
 
 In the Two-Medium Model, the interaction between the GCM and the LCM depends on the local mode of deformation and the degree of compression. The GCM couples strongly to regions of sustained LCM compression and only weakly to shear or torsional oscillations in low-density regions. The direction of momentum transfer is likewise mode-dependent: in compressed regions, momentum is transferred predominantly from the GCM to the LCM, whereas in uncompressed shear and torsional motions, momentum transfer occurs predominantly from the LCM to the GCM.
 
@@ -13,7 +13,7 @@ The form of this coupling is not derived from a deeper physical theory but is ad
 \vspace{-\baselineskip}
 \end{wrapfigure}
 
-The LCM can deform in three independent ways: \textbf{compression}, which changes local density; \textbf{shear}, which displaces the medium laterally; and \textbf{torsion}, which twists it about a local axis. Traveling light consists of finite wave packets whose motion is carried by phase-locked shear and torsional oscillations. Although such waves do not contain a sustained compression component, the shear oscillation produces brief, localized increases in density at points of maximum displacement.
+The LCM can deform in three independent ways: **compression**, which changes local density; **shear**, which displaces the medium laterally; and **torsion**, which twists it about a local axis. Traveling light consists of finite wave packets whose motion is carried by phase-locked shear and torsional oscillations. Although such waves do not contain a sustained compression component, the shear oscillation produces brief, localized increases in density at points of maximum displacement.
 
 Under ordinary conditions, these transient density spikes are both weak and widely spaced. As a result, they interact only negligibly with the GCM flux, and traveling shear–torsion waves remain effectively transparent to it. The elastic response of the LCM restores the wave as it propagates, allowing light to travel freely through a uniformly dense medium without confinement or collapse.
 

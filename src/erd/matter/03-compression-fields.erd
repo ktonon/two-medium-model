@@ -4,16 +4,11 @@ In the Two-Medium Model, every localized standing wave is surrounded by a region
 
 A confined particle carries three oscillatory components: shear and torsion inherited from the original light wave, and a compression mode induced during collapse by the GCM–LCM interaction. The shear and torsion remain phase-locked, preserving the helical geometry of the structure. What distinguishes the two particle types formed in pair production is how the compression mode locks in phase with the inherited shear motion. A ±90° phase offset between these motions produces two opposite dynamical states:
 
-\begin{itemize}
-\tightlist
-\item
-the \textbf{lead-mode}, which tends to push the surrounding LCM outward (electron-like), and
-\item
-the \textbf{lag-mode}, which tends to draw it inward (positron-like).
-\end{itemize}
+- the **lead-mode**, which tends to push the surrounding LCM outward (electron-like), and
+- the **lag-mode**, which tends to draw it inward (positron-like).
 
 A simple linear coupling cannot produce this asymmetry. The model therefore treats it as an explicit but physically motivated assumption:
-\textbf{the compression–shear interaction in the LCM is nonlinear, and the two ±90° phase-locked states naturally settle into opposite radial behaviors.}
+**the compression–shear interaction in the LCM is nonlinear, and the two ±90° phase-locked states naturally settle into opposite radial behaviors.**
 
 This assumption rests on three points. First, concentrated oscillations naturally generate inward confinement through the GCM shadow, providing the baseline conditions for a stable compression field. Second, nonlinear coupling between expansion and shear is well known to produce paired modes with opposite radial tendencies, making the push–pull duality physically plausible. Third, once this asymmetry is admitted, the broader framework becomes strikingly coherent: the same mechanism underlies qualitative predictions across planetary structure, stellar environments, cosmology, and even the behaviour of the fundamental forces.
 
