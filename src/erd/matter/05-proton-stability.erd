@@ -39,7 +39,7 @@ established, the proton's internal feedback loop keeps it stable:
 
 To appreciate how dramatic this stability is, compare the proton's
 internal density to ordinary matter. A typical rock has a density of
-about math`3000 [kg/m^3]`, whereas the implied energy density inside a
+about math`3_000 [kg/m^3]`, whereas the implied energy density inside a
 proton is roughly math`10^17 [kg/m^3]` --- fourteen orders of magnitude
 higher. Even white dwarf material (~math`10^9 [kg/m^3]`) and neutron
 star crusts (~math`10^14 [kg/m^3]`) fall far below this level. From

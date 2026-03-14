@@ -1,1 +1,12 @@
 # Cosmology in an Infinite Medium
+
+:include 01-momentum-transfer.erd
+:include 02-redshift.erd
+:include 03-cmb.erd
+:include 04-void.erd
+:include 05a-rotation-curves.erd
+:include 05b-compensation.erd
+:include 06-motivation-destruction.erd
+:include 07-agn.erd
+:include 08-jets.erd
+:include 09-pinching.erd
