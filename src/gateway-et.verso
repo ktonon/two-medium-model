@@ -1,31 +1,20 @@
-\input{preamble}
-\usepackage[style=numeric, sorting=none]{biblatex}
-\addbibresource{references.bib}
+:title Gravity, Energy, and Planetary Growth
+:author Kevin Tonon
+:date
+:bibliography references.bib
 
-\title{%
-Gravity, Energy, and Planetary Growth
-}
-
-\author{Kevin Tonon}
-\date{\today}
-
-\begin{document}
-\maketitle
-
-\begin{abstract}
-Expansion tectonics is limited primarily by the absence of a plausible long-term energy source. The difficulty is not geometric, but energetic: how can a planet increase in volume over geological time without violating conservation laws? Gravity performs mechanical work, continuously transferring energy to matter. This suggests that gravitational energy has been systematically overlooked in planetary energy budgets and may be central to any viable expansion mechanism.
-\end{abstract}
+:abstract
+	Expansion tectonics is limited primarily by the absence of a plausible long-term energy source. The difficulty is not geometric, but energetic: how can a planet increase in volume over geological time without violating conservation laws? Gravity performs mechanical work, continuously transferring energy to matter. This suggests that gravitational energy has been systematically overlooked in planetary energy budgets and may be central to any viable expansion mechanism.
 
 Expansion tectonics is often considered as an alternative to plate tectonics based on familiar geometric and geological observations: improved continental fits on a smaller Earth, the youth of oceanic crust, and the global prevalence of extensional tectonic features. For readers already acquainted with this literature, the difficulty has never been surface kinematics.
 
-It is the \textbf{energy budget}.
+It is the **energy budget**.
 
 Any model of long-term planetary expansion must explain how a planet can increase in volume over geological time without violating conservation laws. Thermal expansion is insufficient. Degassing and phase change lack a sustained driver. External mass accretion introduces conflicts with orbital constraints. As a result, expansion tectonics is frequently set aside not because it fails observationally, but because no plausible energy source is identified.
 
 This framing overlooks something fundamental.
 
-\textbf{Gravity does mechanical work.}
-An object released from rest in Earth's gravitational field gains kinetic energy continuously as it accelerates. That energy is real and measurable. Standard descriptions—whether in terms of gravitational potential or spacetime curvature—provide powerful and accurate ways to describe gravitational dynamics. However, they track energy changes rather than addressing the question of \textbf{how energy is physically transferred} during gravitational acceleration.
+**Gravity does mechanical work.** An object released from rest in Earth's gravitational field gains kinetic energy continuously as it accelerates. That energy is real and measurable. Standard descriptions—whether in terms of gravitational potential or spacetime curvature—provide powerful and accurate ways to describe gravitational dynamics. However, they track energy changes rather than addressing the question of **how energy is physically transferred** during gravitational acceleration.
 
 Nothing in this observation requires abandoning relativity. It requires only distinguishing between mathematical description and physical energy accounting. If acceleration requires energy, and if gravity causes acceleration, then gravity must be associated with a continuous energy transfer.
 
@@ -39,8 +28,4 @@ From this perspective, planetary expansion does not require an ad hoc geophysica
 
 This note does not attempt to defend expansion tectonics in detail. Its purpose is to identify a misframed question. The energy source required by expansion tectonics may not be missing at all; it may be embedded in the very phenomenon that governs planetary structure and motion.
 
-The accompanying paper develops this idea into a coherent conceptual framework—the Two Medium Model—and presents qualitative predictions spanning particle physics, planetary interiors, and large-scale structure, while addressing how local gravitational energy transfer remains consistent with global energy conservation. Readers interested in the proposed mechanism are directed there \cite{tonon2mm}.
-
-\printbibliography
-
-\end{document}
+The accompanying paper develops this idea into a coherent conceptual framework—the Two Medium Model—and presents qualitative predictions spanning particle physics, planetary interiors, and large-scale structure, while addressing how local gravitational energy transfer remains consistent with global energy conservation. Readers interested in the proposed mechanism are directed there cite`tonon2mm`.

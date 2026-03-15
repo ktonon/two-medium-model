@@ -1,0 +1,25 @@
+:title
+	Mass as Confined Light:
+	A Two-Medium Mechanism for Standing-Wave Confinement
+:author Kevin Tonon
+:date
+:bibliography references.bib
+
+:abstract
+	This paper presents a conceptual mechanism in which mass is interpreted as confined light, maintained through interaction with a pervasive particle flux. The purpose is not to replace existing formalisms, but to motivate a physical interpretation developed in a longer work.
+
+Einstein's equation $E = mc^2$ tells us something profound that is often glossed over: **mass is energy in a trapped form**. Since light is the most basic carrier of energy, this strongly suggests that mass is, at its core, **captured light**—a standing wave rather than a freely propagating one.
+
+But a standing wave cannot exist without **confinement**. Modern physics describes standing-wave stability mathematically, but offers no physical mechanism for how energy becomes self-confined in free space.
+
+The Two Medium Model (2MM) proposes a simple physical mechanism. Space is not empty, but composed of two interacting continuous media. The first supports wave motion—compression, shear, and torsion. Light is a traveling excitation in this medium. Mass forms when such waves become spatially confined.
+
+The second medium provides the missing confinement mechanism. It is a pervasive flux of particles that transfer momentum through slightly inelastic collisions, in the spirit of Le Sage–type gravity cite`edwards2002pushing`. When a wave in the first medium concentrates sufficient energy, it begins to impede this flux. The resulting shadowing produces a net inward pressure that confines the oscillation.
+
+In classical Le Sage models, where matter is treated as particulate, this mechanism leads to a fatal overheating problem: the inelastic transfer of momentum can only increase kinetic energy, implying that the energy required to sustain gravitational shadowing would rapidly vaporize matter. The Two Medium Model resolves this by treating matter not as particles, but as standing waves.
+
+A standing wave provides a new energy sink. Without active confinement, it would disperse back into traveling radiation. Energy transferred from the global flux is not converted primarily into heat, but into maintaining spatial confinement. In this way, the same flux that produces gravitational shadowing also supplies the energy required to sustain mass, without runaway heating.
+
+This is the core of the Two Medium Model: **mass is confined light, and confinement is actively maintained by interaction with a pervasive particle flux.**
+
+The full work develops the mechanisms and implications in detail cite`tonon2mm`.
