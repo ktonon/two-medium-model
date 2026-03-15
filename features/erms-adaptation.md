@@ -2,7 +2,7 @@
 
 ## Goal
 
-Analyze how the Two-Medium Model (2MM/tmm) maps onto Emergent Rung Model Space (ERMS), identify where it already satisfies framework commitments, where it falls short, and produce a concrete plan for adapting the paper to serve as a provisional ERMS implementation in the sense defined by ERMS Section 9.
+Analyze how the Two-Medium Model (2MM/tmm) maps onto [Emergent Rung Model Space (ERMS)](https://doi.org/10.5281/zenodo.18330730), identify where it already satisfies framework commitments, where it falls short, and produce a concrete plan for adapting the paper to serve as a provisional ERMS implementation in the sense defined by ERMS Section 9.
 
 ## Analysis
 

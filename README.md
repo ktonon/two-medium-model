@@ -13,6 +13,10 @@ verso build    # builds all papers to build/
 verso check    # verifies claims
 ```
 
+## Features
+
+See [features/](features/) for planned and completed work.
+
 ## License
 
 [CC BY 4.0](LICENSE)
