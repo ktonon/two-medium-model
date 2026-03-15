@@ -9,60 +9,49 @@ Rewrite the Two-Medium Model paper using the [verso](../../../verso) paper write
 ## Plan
 
 - Convert all LaTeX content sections to `.verso` format
-- Build pipeline: concatenate .verso files -> verso compile -> extract body -> wrap in LaTeX template -> pdflatex + biber
-- Gateway papers and README generation deferred to later phase
+- Build pipeline: `verso build` reads `.verso.jsonc` config, compiles all papers to PDF via temp build directory
+- Convert gateway papers to `.verso` format
+- Use `verso init` / `verso build` / `verso check` as the sole build toolchain
 
 ## Implementation Notes
 
 ### What worked well
-- **Prose passthrough**: verso treats unrecognized text as plain prose, so all LaTeX commands (\cite, \textbf, \emph, \hyperref, \begin{itemize}, etc.) pass through to the compiled output unchanged. This is the key insight that makes the conversion practical.
+- **Prose passthrough**: verso treats unrecognized text as plain prose, so all LaTeX commands (\cite, \textbf, \emph, \hyperref, \begin{itemize}, etc.) pass through to the compiled output unchanged.
 - **Section headings**: Clean `#`/`##`/`###` syntax replaces verbose `\section{}`/`\subsection{}`/`\subsubsection{}` commands.
-- **Paragraph separation**: verso uses blank lines as paragraph separators, same as LaTeX, so content structure is preserved naturally.
-- **Build pipeline**: Concatenate -> compile -> strip wrapper -> template injection works cleanly.
+- **Config-driven builds**: `.verso.jsonc` declares all papers and output directory; `verso build` with no args builds everything.
+- **Dependency-aware watch**: `verso build --watch` and `verso check --watch` only rebuild papers whose `:include` dependencies changed.
 
-### verso gaps discovered (feedback for verso development)
-
-1. **No body-only compilation mode**: verso always wraps output in `\documentclass{article}...\begin{document}...\end{document}`. We have to strip this wrapper with sed. A `--body-only` or `--no-preamble` flag would be valuable.
-
-2. **Single-file compilation only**: `erd_compile` takes one file. Multi-file papers require external concatenation. An include/import mechanism (like `\input{}` or a manifest) would help.
-
-3. **`tex` tag wraps in math mode**: The `tex` backtick tag wraps content in `$...$`, so it's only useful for inline math LaTeX. There's no way to inject arbitrary non-math LaTeX through verso's tag system. A `raw` or `latex` tag that passes through without `$...$` wrapping would be useful.
-
-4. **No native formatting support**: Bold, italic, emphasis, citations, cross-references, URLs, lists, block quotes, and footnotes are all absent from the .verso format. These all work via LaTeX passthrough, but native support would make the format more self-contained and enable non-LaTeX output targets.
-
-5. **No bibliography support**: No native citation mechanism or bibliography configuration. Citations work via `\cite{}` passthrough, but verso has no awareness of them.
-
-6. **No document metadata**: No way to specify title, author, date, abstract, or other document metadata in the .verso format. These must be handled in an external LaTeX template.
-
-7. **No labels or cross-references**: Section labels (for TOC, hyperlinks) must be embedded as raw LaTeX in section titles, e.g., `# Title \label{foo}`. Native label support would be cleaner.
-
-8. **No table of contents**: TOC generation depends on the LaTeX template, not the .verso source.
+### Major changes delivered
+1. **erd → verso rebrand**: Full rename across both repos (crate names, binary, VS Code extension, file extensions)
+2. **Unified command suite**: Replaced 4 separate binaries with `verso {check,build,clean,init,repl,lsp}`
+3. **Config file**: `.verso.jsonc` with JSON Schema validation, auto-stamped `verso` version
+4. **Gateway papers**: Converted 4 LaTeX gateway papers to `.verso` format
+5. **File layout**: All `.verso` files moved to `src/` alongside `references.bib`
+6. **Watch flag**: `-w` flag on `check` and `build` replaces dedicated `watch` subcommand
+7. **Build pipeline**: Temp build directory (`/tmp/verso-build/`) with bib file copying
+8. **VS Code extension**: Updated for Light theme compatibility, local schema file
 
 ### Architecture
 
 ```
 src/
-  verso/                    # .verso source files (44 files in section subdirectories)
-  templates/pdf.tex       # LaTeX wrapper (preamble, title, abstract, TOC, bibliography)
-  manifest.txt            # Ordered list of .verso files
-  preamble.tex            # Shared LaTeX preamble
+  paper.verso             # Main paper
+  gateway-*.verso         # Gateway papers (4)
   references.bib          # Bibliography database
-scripts/
-  check.sh                # verso check on all .verso files
-  compile.sh              # concatenate + verso compile + extract body
-  to-pdf.sh               # compile + pdflatex + biber
-  build.sh                # orchestrate full build
-  clean.sh                # remove build artifacts
+  forces/                 # Section subdirectories with .verso files
+  matter/
+  cosmology/
+  relativity-qm/
+  templates/pdf.tex       # LaTeX wrapper
+.verso.jsonc              # Project config (papers, outputDirectory)
+verso.schema.json         # JSON Schema (auto-installed by verso)
 ```
 
 ## Verification
 
 ```bash
-npm test       # verso check passes on all .verso files
-npm run build  # produces src/two-medium-model.pdf (36 pages)
+verso check    # verify all papers from config
+verso build    # produces build/*.pdf
 ```
 
-## Remaining work
-- Convert gateway papers (ce, et, ps, sw) to .verso format
-- Restore README.md generation pipeline
-- Add verso claims/proofs if/when mathematical content is formalized
+All tests and lint pass in both repos.
