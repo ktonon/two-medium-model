@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-
-set -e
-
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-SRC_DIR="$SCRIPT_DIR/../src"
-
-verso check "$SRC_DIR/paper.verso"

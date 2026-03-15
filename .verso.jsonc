@@ -1,0 +1,25 @@
+{
+  "outputDirectory": "build",
+  "papers": [
+    {
+      "input": "src/paper.verso",
+      "output": "tmm"
+    },
+    {
+      "input": "src/gateway-ce.verso",
+      "output": "cosmological-equilibrium"
+    },
+    {
+      "input": "src/gateway-et.verso",
+      "output": "planetary-growth"
+    },
+    {
+      "input": "src/gateway-ps.verso",
+      "output": "planetary-interiors"
+    },
+    {
+      "input": "src/gateway-sw.verso",
+      "output": "standing-wave"
+    }
+  ]
+}

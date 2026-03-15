@@ -1,12 +1,1 @@
-*.aux
-*.bbl
-*.bcf
-*.blg
-*.run.xml
-*.log
-*.out
-*.pdf
-*.toc
-src/body.tex
-src/paper.tex
-wip/
+build/
