@@ -3,11 +3,8 @@
 set -e
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-PROJECT_DIR="$SCRIPT_DIR/.."
-SRC_DIR="$PROJECT_DIR/src"
-VERSO_DIR="${VERSO_DIR:-$PROJECT_DIR/../erd}"
+SRC_DIR="$SCRIPT_DIR/../src"
 
-cargo run --release --manifest-path "$VERSO_DIR/Cargo.toml" \
-  -p verso_doc --bin verso -- compile "$SRC_DIR/verso/paper.verso" -o "$SRC_DIR/paper.tex"
+verso compile "$SRC_DIR/verso/paper.verso" -o "$SRC_DIR/paper.tex"
 
 echo "wrote $SRC_DIR/paper.tex"
