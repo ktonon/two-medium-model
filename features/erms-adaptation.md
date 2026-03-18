@@ -118,7 +118,7 @@ The adaptation is not about making tmm into a complete ERMS realization. Per ERM
 
 ## Implementation Notes
 
-This feature analyzes the relationship between tmm and ERMS. Actual paper changes will be tracked as separate work items once the analysis is reviewed.
+This feature has been moved to another repository. The tmm repo no longer handles ERMS adaptation work.
 
 ## Verification
 
